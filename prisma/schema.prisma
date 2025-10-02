@@ -1,0 +1,71 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  userId     String  @id @default(cuid()) @map("user_id")
+  username   String
+  email      String  @unique
+  password   String
+  role       Role
+  dailyLimit Int?    @map("daily_limit")
+  bonusTime  Int?    @map("bonus_time")
+  points     Int     @default(0)
+  isVerified Boolean @default(false)
+
+  families         FamilyMember[]
+  VerificationCode VerificationCode[]
+
+  @@map("user")
+}
+
+model Family {
+  familyId String @id @default(cuid()) @map("family_id")
+  name     String
+
+  members FamilyMember[]
+
+  @@map("family")
+}
+
+model FamilyMember {
+  family   Family @relation(fields: [familyId], references: [familyId])
+  familyId String @map("family_id")
+
+  user   User   @relation(fields: [userId], references: [userId])
+  userId String @map("user_id")
+
+  @@id([familyId, userId])
+  @@map("family_member")
+}
+
+model VerificationCode {
+  codeId String @id @default(cuid()) @map("code_id")
+  user   User   @relation(fields: [userId], references: [userId])
+  userId String @map("user_id")
+
+  code      String   @db.VarChar(10)
+  type      CodeType
+  createdAt DateTime @default(now()) @map("created_at")
+  expiresAt DateTime @map("expires_at")
+  isUsed    Boolean  @default(false) @map("is_used")
+
+  @@map("verification_code")
+}
+
+enum CodeType {
+  email
+  phone
+  password_reset
+  invite
+}
+
+enum Role {
+  parent
+  child
+}
