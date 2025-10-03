@@ -46,7 +46,7 @@ model FamilyMember {
 
 model VerificationCode {
   codeId String @id @default(cuid()) @map("code_id")
-  user   User   @relation(fields: [userId], references: [userId])
+  user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
   userId String @map("user_id")
 
   code      String   @db.VarChar(10)

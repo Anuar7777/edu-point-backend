@@ -26,3 +26,4 @@ export class VerifyCodeDto {
 	@Length(4, 10, { message: 'Code must be between 4 and 10 characters long' })
 	code: string
 }
+

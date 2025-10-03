@@ -1,22 +1,27 @@
-// import { Injectable } from '@nestjs/common'
-// import nodemailer from 'nodemailer'
+import { Injectable } from '@nestjs/common'
+import { ConfigService } from '@nestjs/config'
+import { createTransport, type Transporter } from 'nodemailer'
 
-// @Injectable()
-// export class MailService {
-// 	private transporter = nodemailer.createTransport({
-// 		service: 'gmail',
-// 		auth: {
-// 			user: process.env.MAIL_USER,
-// 			pass: process.env.MAIL_PASS,
-// 		},
-// 	})
+@Injectable()
+export class MailService {
+	private transporter: Transporter
 
-// 	async sendVerificationCode(email: string, code: string) {
-// 		await this.transporter.sendMail({
-// 			from: `"MyApp" <${process.env.MAIL_USER}>`,
-// 			to: email,
-// 			subject: 'Verify your email',
-// 			text: `Your verification code: ${code}`,
-// 		})
-// 	}
-// }
+	constructor(private configService: ConfigService) {
+		this.transporter = createTransport({
+			service: 'gmail',
+			auth: {
+				user: this.configService.get<string>('MAIL_USERNAME'),
+				pass: this.configService.get<string>('MAIL_PASSWORD'),
+			},
+		})
+	}
+
+	async sendVerification(email: string, code: string) {
+		await this.transporter.sendMail({
+			from: `EduPoint Tech`,
+			to: email,
+			subject: 'Verify your email',
+			text: `Your verification code: ${code}`,
+		})
+	}
+}
