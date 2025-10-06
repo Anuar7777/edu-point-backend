@@ -16,12 +16,22 @@ export class MailService {
 		})
 	}
 
-	async sendVerification(email: string, code: string) {
+	async send(email: string, code: string, subject: string, message?: string) {
+		const htmlContent = message
+			? `<p>${message}</p><p>Code: <b>${code}</b></p>`
+			: `<p>Your code is: <b>${code}</b></p>`
+
 		await this.transporter.sendMail({
-			from: `EduPoint Tech`,
+			from: `EduPoint Family`,
 			to: email,
-			subject: 'Verify your email',
-			text: `Your verification code: ${code}`,
+			subject,
+			html: htmlContent,
 		})
+	}
+
+	async sendInvite(email: string, code: string) {
+		const subject = 'Join your family on EduPoint!'
+
+		await this.send(email, code, subject)
 	}
 }

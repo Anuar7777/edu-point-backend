@@ -18,8 +18,8 @@ model User {
   points     Int     @default(0)
   isVerified Boolean @default(false)
 
-  families         FamilyMember[]
-  VerificationCode VerificationCode[]
+  families FamilyMember[]
+  codes    Code[]
 
   @@map("user")
 }
@@ -34,17 +34,17 @@ model Family {
 }
 
 model FamilyMember {
-  family   Family @relation(fields: [familyId], references: [familyId])
+  family   Family @relation(fields: [familyId], references: [familyId], onDelete: Cascade)
   familyId String @map("family_id")
 
-  user   User   @relation(fields: [userId], references: [userId])
+  user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
   userId String @map("user_id")
 
   @@id([familyId, userId])
   @@map("family_member")
 }
 
-model VerificationCode {
+model Code {
   codeId String @id @default(cuid()) @map("code_id")
   user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
   userId String @map("user_id")
@@ -55,7 +55,7 @@ model VerificationCode {
   expiresAt DateTime @map("expires_at")
   isUsed    Boolean  @default(false) @map("is_used")
 
-  @@map("verification_code")
+  @@map("code")
 }
 
 enum CodeType {

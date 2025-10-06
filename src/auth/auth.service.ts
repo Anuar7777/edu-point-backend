@@ -6,12 +6,13 @@ import {
 	UnauthorizedException,
 } from '@nestjs/common'
 import { JwtService } from '@nestjs/jwt'
-import { User } from '@prisma/client'
+import { CodeType, User } from '@prisma/client'
 import { verify } from 'argon2'
 import { Response } from 'express'
-import { MailService } from 'src/mail/mail.service'
-import { UserService } from 'src/user/user.service'
 import { JwtPayload } from 'types'
+import { CodeService } from '../code/code.service'
+import { MailService } from '../mail/mail.service'
+import { UserService } from '../user/user.service'
 import { AuthDto, RegisterDto } from './dto/auth.dto'
 import { UserTokenDto } from './dto/user-token.dto'
 
@@ -22,8 +23,9 @@ export class AuthService {
 
 	constructor(
 		private jwt: JwtService,
-		private userService: UserService,
-		private mailService: MailService,
+		private readonly userService: UserService,
+		private readonly mailService: MailService,
+		private readonly codeService: CodeService,
 	) {}
 
 	async register(dto: RegisterDto) {
@@ -47,23 +49,12 @@ export class AuthService {
 	}
 
 	async verify(email: string, code: string) {
-		const verificationCodeWithUser = await this.userService.getVerificationCode(
-			email,
-			code,
-		)
+		const verificationCode = await this.codeService.findValid(code)
 
-		if (
-			!verificationCodeWithUser ||
-			verificationCodeWithUser.isUsed ||
-			new Date() > verificationCodeWithUser.expiresAt
-		) {
-			throw new BadRequestException('Invalid code or expired')
-		}
+		await this.userService.markVerified(verificationCode.userId)
+		await this.codeService.use(verificationCode.codeId)
 
-		await this.userService.markUserVerified(verificationCodeWithUser.userId)
-		await this.userService.markCodeUsed(verificationCodeWithUser.codeId)
-
-		const userDto = new UserTokenDto(verificationCodeWithUser.user)
+		const userDto = new UserTokenDto(verificationCode.user)
 
 		const tokens = this.issueTokens(userDto)
 
@@ -169,8 +160,14 @@ export class AuthService {
 	}
 
 	private async sendVerificationCode(user: User) {
-		const code = Math.floor(100000 + Math.random() * 900000).toString()
-		await this.userService.saveVerificationCode(user.userId, code)
-		await this.mailService.sendVerification(user.email, code)
+		const verificationCode = await this.codeService.generate(
+			user.userId,
+			CodeType.email,
+		)
+		await this.mailService.send(
+			user.email,
+			verificationCode.code,
+			'Verify your email',
+		)
 	}
 }
