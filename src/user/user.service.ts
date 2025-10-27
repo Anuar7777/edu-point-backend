@@ -29,6 +29,7 @@ export class UserService {
 				username: dto.username,
 				password: await hash(dto.password),
 				role: dto.role,
+				dailyLimit: 3600,
 			},
 		})
 		return user
