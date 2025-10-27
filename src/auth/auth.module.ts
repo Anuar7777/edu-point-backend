@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common'
 import { ConfigModule, ConfigService } from '@nestjs/config'
 import { JwtModule } from '@nestjs/jwt'
+import { FamilyModule } from 'src/family/family.module'
 import { CodeModule } from '../code/code.module'
 import { getJwtConfig } from '../config/jwt.config'
 import { MailService } from '../mail/mail.service'
@@ -14,6 +15,7 @@ import { JwtStrategy } from './jwt.strategy'
 		UserModule,
 		ConfigModule,
 		CodeModule,
+		FamilyModule,
 		JwtModule.registerAsync({
 			imports: [ConfigModule],
 			inject: [ConfigService],

@@ -6,9 +6,10 @@ import {
 	UnauthorizedException,
 } from '@nestjs/common'
 import { JwtService } from '@nestjs/jwt'
-import { CodeType, User } from '@prisma/client'
+import { CodeType, Role, User } from '@prisma/client'
 import { verify } from 'argon2'
 import { Response } from 'express'
+import { FamilyService } from 'src/family/family.service'
 import { JwtPayload } from 'types'
 import { CodeService } from '../code/code.service'
 import { MailService } from '../mail/mail.service'
@@ -26,6 +27,7 @@ export class AuthService {
 		private readonly userService: UserService,
 		private readonly mailService: MailService,
 		private readonly codeService: CodeService,
+		private readonly familyService: FamilyService,
 	) {}
 
 	async register(dto: RegisterDto) {
@@ -55,6 +57,13 @@ export class AuthService {
 		await this.codeService.use(verificationCode.codeId)
 
 		const userDto = new UserTokenDto(verificationCode.user)
+
+		const user = verificationCode.user
+
+		if (user.role === Role.parent) {
+			const defaultFamilyDto = { name: `${user.username}'s Family` }
+			await this.familyService.create(defaultFamilyDto, user.userId, user.role)
+		}
 
 		const tokens = this.issueTokens(userDto)
 

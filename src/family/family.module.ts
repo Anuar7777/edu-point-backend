@@ -10,5 +10,6 @@ import { FamilyService } from './family.service'
 	imports: [ConfigModule],
 	controllers: [FamilyController],
 	providers: [FamilyService, PrismaService, CodeService, MailService],
+	exports: [FamilyService],
 })
 export class FamilyModule {}

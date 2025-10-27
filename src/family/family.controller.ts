@@ -10,7 +10,6 @@ import {
 	UsePipes,
 	ValidationPipe,
 } from '@nestjs/common'
-import { Role } from '@prisma/client'
 import { Auth } from '../auth/decorators/auth.decorator'
 import { CurrentUser } from '../auth/decorators/user.decorator'
 import { UserTokenDto } from '../auth/dto/user-token.dto'
@@ -26,18 +25,6 @@ export class FamilyController {
 	@Get()
 	async get(@CurrentUser('id') userId: string) {
 		return this.familyService.get(userId)
-	}
-
-	@UsePipes(new ValidationPipe())
-	@HttpCode(200)
-	@Auth()
-	@Post()
-	async create(
-		@Body() dto: FamilyDto,
-		@CurrentUser('id') userId: string,
-		@CurrentUser('role') role: Role,
-	) {
-		return this.familyService.create(dto, userId, role)
 	}
 
 	@UsePipes(new ValidationPipe())
