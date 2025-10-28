@@ -49,7 +49,7 @@ export class FamilyService {
 	}
 
 	async create(dto: FamilyDto, userId: string, role: Role) {
-		if (role !== Role.parent) {
+		if (role !== Role.PARENT) {
 			throw new ForbiddenException('Only parents can create a family')
 		}
 
@@ -115,11 +115,11 @@ export class FamilyService {
 	}
 
 	async inviteChild(parent: UserTokenDto, childEmail: string) {
-		if (parent.role !== Role.parent) {
+		if (parent.role !== Role.PARENT) {
 			throw new ForbiddenException('Only parents can invite children')
 		}
 
-		const invite = await this.codeService.generate(parent.id, CodeType.invite)
+		const invite = await this.codeService.generate(parent.id, CodeType.INVITE)
 
 		await this.mailService.sendInvite(childEmail, invite.code)
 
@@ -166,7 +166,7 @@ export class FamilyService {
 			include: { user: true },
 		})
 
-		if (!parent || parent.user.role !== 'parent') {
+		if (!parent || parent.user.role !== Role.PARENT) {
 			throw new NotFoundException('Access denied')
 		}
 

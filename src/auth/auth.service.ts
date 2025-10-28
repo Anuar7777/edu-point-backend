@@ -60,7 +60,7 @@ export class AuthService {
 
 		const user = verificationCode.user
 
-		if (user.role === Role.parent) {
+		if (user.role === Role.PARENT) {
 			const defaultFamilyDto = { name: `${user.username}'s Family` }
 			await this.familyService.create(defaultFamilyDto, user.userId, user.role)
 		}
@@ -171,7 +171,7 @@ export class AuthService {
 	private async sendVerificationCode(user: User) {
 		const verificationCode = await this.codeService.generate(
 			user.userId,
-			CodeType.email,
+			CodeType.EMAIL,
 		)
 		await this.mailService.send(
 			user.email,

@@ -8,64 +8,138 @@ datasource db {
 }
 
 model User {
-  userId     String  @id @default(cuid()) @map("user_id")
+  userId     String         @id @default(uuid()) @map("user_id")
   username   String
-  email      String  @unique
+  email      String         @unique
   password   String
   role       Role
-  dailyLimit Int?    @map("daily_limit")
-  bonusTime  Int?    @map("bonus_time")
-  points     Int     @default(0)
-  isVerified Boolean @default(false)
-
-  families FamilyMember[]
-  codes    Code[]
+  dailyLimit Int?           @default(3600) @map("daily_limit")
+  bonusTime  Int?           @map("bonus_time")
+  points     Int            @default(0)
+  isVerified Boolean        @default(false)
+  codes      Code[]
+  families   FamilyMember[]
+  UserCourse UserCourse[]
 
   @@map("user")
 }
 
 model Family {
-  familyId String @id @default(cuid()) @map("family_id")
+  familyId String         @id @default(uuid()) @map("family_id")
   name     String
-
-  members FamilyMember[]
+  members  FamilyMember[]
 
   @@map("family")
 }
 
 model FamilyMember {
-  family   Family @relation(fields: [familyId], references: [familyId], onDelete: Cascade)
   familyId String @map("family_id")
-
-  user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
-  userId String @map("user_id")
+  userId   String @map("user_id")
+  family   Family @relation(fields: [familyId], references: [familyId], onDelete: Cascade)
+  user     User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
 
   @@id([familyId, userId])
   @@map("family_member")
 }
 
 model Code {
-  codeId String @id @default(cuid()) @map("code_id")
-  user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
-  userId String @map("user_id")
-
+  codeId    String   @id @default(uuid()) @map("code_id")
+  userId    String   @map("user_id")
   code      String   @db.VarChar(10)
   type      CodeType
   createdAt DateTime @default(now()) @map("created_at")
   expiresAt DateTime @map("expires_at")
   isUsed    Boolean  @default(false) @map("is_used")
+  user      User     @relation(fields: [userId], references: [userId], onDelete: Cascade)
 
   @@map("code")
 }
 
+model Course {
+  courseId      String       @id @default(uuid()) @map("course_id")
+  title         String
+  description   String?
+  imageUrl      String?      @map("image_url")
+  totalSections Int?         @map("total_sections")
+  tags          CourseTag[]
+  sections      Section[]
+  userCourses   UserCourse[]
+
+  @@map("course")
+}
+
+model Tag {
+  tagId   String      @id @default(uuid()) @map("tag_id")
+  name    String      @unique
+  courses CourseTag[]
+
+  @@map("tag")
+}
+
+model CourseTag {
+  courseId String @map("course_id")
+  tagId    String @map("tag_id")
+  course   Course @relation(fields: [courseId], references: [courseId], onDelete: Cascade)
+  tag      Tag    @relation(fields: [tagId], references: [tagId], onDelete: Cascade)
+
+  @@id([courseId, tagId])
+  @@map("course_tag")
+}
+
+model Section {
+  sectionId         String             @id @default(uuid()) @map("section_id")
+  courseId          String             @map("course_id")
+  title             String
+  description       String?
+  imageUrl          String?            @map("image_url")
+  questionTemplates QuestionTemplate[]
+  course            Course             @relation(fields: [courseId], references: [courseId], onDelete: Cascade)
+
+  @@map("section")
+}
+
+model QuestionTemplate {
+  templateId  String             @id @default(uuid()) @map("template_id")
+  sectionId   String             @map("section_id")
+  text        String
+  explanation String?
+  instances   QuestionInstance[]
+  section     Section            @relation(fields: [sectionId], references: [sectionId], onDelete: Cascade)
+
+  @@map("question_template")
+}
+
+model QuestionInstance {
+  instanceId    String           @id @default(uuid()) @map("instance_id")
+  templateId    String           @map("template_id")
+  answerOptions Json             @map("answer_options")
+  correctAnswer String           @map("correct_answer")
+  variables     Json?
+  template      QuestionTemplate @relation(fields: [templateId], references: [templateId], onDelete: Cascade)
+
+  @@map("question_instance")
+}
+
+model UserCourse {
+  userId            String    @map("user_id")
+  courseId          String    @map("course_id")
+  completedSections Int?      @default(0) @map("completed_sections")
+  lastAccessed      DateTime? @map("last_accessed")
+  course            Course    @relation(fields: [courseId], references: [courseId], onDelete: Cascade)
+  user              User      @relation(fields: [userId], references: [userId], onDelete: Cascade)
+
+  @@id([userId, courseId])
+  @@map("user_course")
+}
+
 enum CodeType {
-  email
-  phone
-  password_reset
-  invite
+  EMAIL
+  PHONE
+  PASSWORD_RESET
+  INVITE
 }
 
 enum Role {
-  parent
-  child
+  PARENT
+  CHILD
 }
