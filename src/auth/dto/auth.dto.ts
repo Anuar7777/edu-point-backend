@@ -14,7 +14,7 @@ export class RegisterDto extends AuthDto {
 	@IsString()
 	username: string
 
-	@IsEnum(Role, { message: 'Role must be either parent or child' })
+	@IsEnum(Role, { message: 'Role must be either PARENT or CHILD' })
 	role: Role
 }
 
@@ -26,4 +26,3 @@ export class VerifyCodeDto {
 	@Length(4, 10, { message: 'Code must be between 4 and 10 characters long' })
 	code: string
 }
-

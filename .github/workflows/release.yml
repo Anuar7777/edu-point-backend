@@ -44,4 +44,5 @@ jobs:
             npm install
             npm run build
             npx prisma migrate deploy
+            npm run seed
             pm2 restart edupoint_backend

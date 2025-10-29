@@ -68,4 +68,26 @@ export class FamilyController {
 	) {
 		return this.familyService.removeChild(parentId, childId)
 	}
+
+	@Auth()
+	@HttpCode(200)
+	@Post('child/:childId/course/:courseId')
+	async addCourseToChild(
+		@CurrentUser('id') parentId: string,
+		@Param('childId') childId: string,
+		@Param('courseId') courseId: string,
+	) {
+		return this.familyService.addCourseToChild(parentId, childId, courseId)
+	}
+
+	@Auth()
+	@HttpCode(200)
+	@Delete('child/:childId/course/:courseId')
+	async removeCourseFromChild(
+		@CurrentUser('id') parentId: string,
+		@Param('childId') childId: string,
+		@Param('courseId') courseId: string,
+	) {
+		return this.familyService.removeCourseFromChild(parentId, childId, courseId)
+	}
 }
