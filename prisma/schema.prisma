@@ -20,6 +20,7 @@ model User {
   codes      Code[]
   families   FamilyMember[]
   UserCourse UserCourse[]
+  Settings   Settings[]
 
   @@map("user")
 }
@@ -142,4 +143,22 @@ enum CodeType {
 enum Role {
   PARENT
   CHILD
+}
+
+enum Language {
+  KZ
+  RU
+  EN
+}
+
+model Settings {
+  userId      String   @id
+  language    Language @default(EN) @map("language")
+  theme       String   @default("light") @map("theme")
+  isAppAdmin  Boolean  @default(false) @map("is_app_admin")
+  dailyLimit  Int      @default(3) @map("daily_limit")
+  sessionTime Int      @default(60) @map("session_time")
+  user        User     @relation(fields: [userId], references: [userId])
+
+  @@map("settings")
 }

@@ -10,15 +10,20 @@ import {
 	UsePipes,
 	ValidationPipe,
 } from '@nestjs/common'
+import { UpdateAdvancedSettingsDto } from 'src/settings/settings.dto'
 import { Auth } from '../auth/decorators/auth.decorator'
 import { CurrentUser } from '../auth/decorators/user.decorator'
 import { UserTokenDto } from '../auth/dto/user-token.dto'
+import { SettingsService } from '../settings/settings.service'
 import { FamilyDto } from './dto/family.dto'
 import { FamilyService } from './family.service'
 
 @Controller('family')
 export class FamilyController {
-	constructor(private readonly familyService: FamilyService) {}
+	constructor(
+		private readonly familyService: FamilyService,
+		private readonly settingsService: SettingsService,
+	) {}
 
 	@Auth()
 	@HttpCode(200)
@@ -89,5 +94,27 @@ export class FamilyController {
 		@Param('courseId') courseId: string,
 	) {
 		return this.familyService.removeCourseFromChild(parentId, childId, courseId)
+	}
+
+	@Auth()
+	@HttpCode(200)
+	@Get('child/:childId/settings')
+	async getChildSettings(
+		@CurrentUser('id') parentId: string,
+		@Param('childId') childId: string,
+	) {
+		return this.settingsService.getById(parentId, childId)
+	}
+
+	@Auth()
+	@HttpCode(200)
+	@Put('child/:childId/settings')
+	@UsePipes(new ValidationPipe())
+	async updateChildSettings(
+		@CurrentUser('id') parentId: string,
+		@Param('childId') childId: string,
+		@Body() dto: UpdateAdvancedSettingsDto,
+	) {
+		return this.settingsService.updateById(parentId, childId, dto)
 	}
 }
