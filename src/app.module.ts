@@ -2,10 +2,10 @@ import { Module } from '@nestjs/common'
 import { ConfigModule } from '@nestjs/config'
 import { AuthModule } from './auth/auth.module'
 import { CodeModule } from './code/code.module'
+import { CourseModule } from './course/course.module'
 import { FamilyModule } from './family/family.module'
+import { SettingsModule } from './settings/settings.module'
 import { UserModule } from './user/user.module'
-import { CourseModule } from './course/course.module';
-import { SettingsModule } from './settings/settings.module';
 
 @Module({
 	imports: [

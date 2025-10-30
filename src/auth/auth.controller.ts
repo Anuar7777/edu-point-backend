@@ -9,10 +9,12 @@ import {
 	UsePipes,
 	ValidationPipe,
 } from '@nestjs/common'
+import { ApiBody, ApiOperation, ApiResponse, ApiTags } from '@nestjs/swagger'
 import { Request, Response } from 'express'
 import { AuthService } from './auth.service'
 import { AuthDto, RegisterDto, VerifyCodeDto } from './dto/auth.dto'
 
+@ApiTags('Auth')
 @Controller('auth')
 export class AuthController {
 	constructor(private readonly authService: AuthService) {}
@@ -20,6 +22,22 @@ export class AuthController {
 	@UsePipes(new ValidationPipe())
 	@HttpCode(200)
 	@Post('login')
+	@ApiOperation({ summary: 'Login with email and password' })
+	@ApiResponse({ status: 200, description: 'Successful login' })
+	@ApiResponse({ status: 401, description: 'Invalid credentials' })
+	@ApiBody({
+		type: AuthDto,
+		examples: {
+			parent: {
+				summary: 'Parent credentials',
+				value: { email: 'parent@smartbala.com', password: 'password123' },
+			},
+			child: {
+				summary: 'Child credentials',
+				value: { email: 'child@smartbala.com', password: 'password123' },
+			},
+		},
+	})
 	async login(@Body() dto: AuthDto, @Res({ passthrough: true }) res: Response) {
 		const { refreshToken, ...response } = await this.authService.login(dto)
 
@@ -31,6 +49,34 @@ export class AuthController {
 	@UsePipes(new ValidationPipe())
 	@HttpCode(200)
 	@Post('register')
+	@ApiOperation({ summary: 'Register new user' })
+	@ApiResponse({
+		status: 200,
+		description: 'Account created or verification resent',
+	})
+	@ApiBody({
+		type: RegisterDto,
+		examples: {
+			parent: {
+				summary: 'Register parent account',
+				value: {
+					email: 'aidar@smartbala.com',
+					password: 'password123',
+					username: 'Aidar',
+					role: 'PARENT',
+				},
+			},
+			child: {
+				summary: 'Register child account',
+				value: {
+					email: 'alina@smartbala.com',
+					password: 'password123',
+					username: 'Alina',
+					role: 'CHILD',
+				},
+			},
+		},
+	})
 	async register(@Body() dto: RegisterDto) {
 		return await this.authService.register(dto)
 	}
@@ -38,6 +84,8 @@ export class AuthController {
 	@UsePipes(new ValidationPipe())
 	@HttpCode(200)
 	@Post('verify')
+	@ApiOperation({ summary: 'Verify email with code' })
+	@ApiResponse({ status: 200, description: 'User verified and tokens issued' })
 	async verifyCode(
 		@Body() dto: VerifyCodeDto,
 		@Res({ passthrough: true }) res: Response,
@@ -54,6 +102,9 @@ export class AuthController {
 
 	@HttpCode(200)
 	@Post('refresh')
+	@ApiOperation({ summary: 'Get new tokens using refresh token' })
+	@ApiResponse({ status: 200, description: 'New tokens generated' })
+	@ApiResponse({ status: 401, description: 'Refresh token missing or invalid' })
 	async getNewTokens(
 		@Req()
 		req: Request,
@@ -79,6 +130,7 @@ export class AuthController {
 
 	@HttpCode(200)
 	@Post('logout')
+	@ApiOperation({ summary: 'Logout and clear refresh token' })
 	async logout(@Res({ passthrough: true }) res: Response) {
 		return this.authService.removeRefreshTokenFromResponse(res)
 	}

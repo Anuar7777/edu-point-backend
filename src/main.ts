@@ -1,7 +1,9 @@
 import { Logger } from '@nestjs/common'
 import { ConfigService } from '@nestjs/config'
 import { NestFactory } from '@nestjs/core'
+import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger'
 import * as cookieParser from 'cookie-parser'
+import * as basicAuth from 'express-basic-auth'
 import { AppModule } from './app.module'
 
 const logger = new Logger('Bootstrap')
@@ -14,6 +16,26 @@ async function bootstrap() {
 
 		app.setGlobalPrefix('api')
 		app.use(cookieParser())
+
+		app.use(
+			['/api/docs', '/api/docs-json'],
+			basicAuth({
+				challenge: true,
+				users: {
+					admin: 'smartbala2025',
+				},
+			}),
+		)
+
+		const swaggerConfig = new DocumentBuilder()
+			.setTitle('EduPoint API')
+			.setDescription('API documentation for EduPoint')
+			.setVersion('1.0')
+			.addBearerAuth()
+			.build()
+
+		const document = SwaggerModule.createDocument(app, swaggerConfig)
+		SwaggerModule.setup('api/docs', app, document)
 
 		await app.listen(configService.get('PORT', 5000))
 	} catch (error) {

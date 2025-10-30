@@ -10,6 +10,13 @@ import {
 	UsePipes,
 	ValidationPipe,
 } from '@nestjs/common'
+import {
+	ApiBearerAuth,
+	ApiOperation,
+	ApiParam,
+	ApiResponse,
+	ApiTags,
+} from '@nestjs/swagger'
 import { UpdateAdvancedSettingsDto } from 'src/settings/settings.dto'
 import { Auth } from '../auth/decorators/auth.decorator'
 import { CurrentUser } from '../auth/decorators/user.decorator'
@@ -18,6 +25,8 @@ import { SettingsService } from '../settings/settings.service'
 import { FamilyDto } from './dto/family.dto'
 import { FamilyService } from './family.service'
 
+@ApiTags('Family')
+@ApiBearerAuth()
 @Controller('family')
 export class FamilyController {
 	constructor(
@@ -28,6 +37,12 @@ export class FamilyController {
 	@Auth()
 	@HttpCode(200)
 	@Get()
+	@ApiOperation({ summary: 'Get current user family info' })
+	@ApiResponse({
+		status: 200,
+		description: 'Successfully retrieved family data',
+	})
+	@ApiResponse({ status: 404, description: 'Family not found for this user' })
 	async get(@CurrentUser('id') userId: string) {
 		return this.familyService.get(userId)
 	}
@@ -36,6 +51,17 @@ export class FamilyController {
 	@HttpCode(200)
 	@Auth()
 	@Put(':id')
+	@ApiOperation({ summary: 'Update family info' })
+	@ApiResponse({ status: 200, description: 'Family successfully updated' })
+	@ApiResponse({
+		status: 404,
+		description: 'Family not found or access denied',
+	})
+	@ApiParam({
+		name: 'id',
+		example: 'b613066f-8269-4f3b-ba7d-9313ecd55f18',
+		description: 'The unique ID of the family to update',
+	})
 	async update(
 		@Body() dto: FamilyDto,
 		@Param('id') familyId: string,
@@ -47,6 +73,9 @@ export class FamilyController {
 	@Auth()
 	@HttpCode(200)
 	@Post('invite')
+	@ApiOperation({ summary: 'Invite child by email' })
+	@ApiResponse({ status: 200, description: 'Invitation sent successfully' })
+	@ApiResponse({ status: 403, description: 'Only parents can invite children' })
 	async inviteChild(
 		@CurrentUser() parent: UserTokenDto,
 		@Body('email') childEmail: string,
@@ -57,6 +86,12 @@ export class FamilyController {
 	@Auth()
 	@HttpCode(200)
 	@Post('join')
+	@ApiOperation({ summary: 'Join family by invitation code' })
+	@ApiResponse({
+		status: 200,
+		description: 'Child successfully joined the family',
+	})
+	@ApiResponse({ status: 404, description: 'Parent family not found' })
 	async join(
 		@CurrentUser() child: UserTokenDto,
 		@Body('code') codeValue: string,
@@ -66,10 +101,18 @@ export class FamilyController {
 
 	@Auth()
 	@HttpCode(200)
-	@Delete('remove/:id')
+	@Delete('remove/:childId')
+	@ApiOperation({ summary: 'Remove child from family' })
+	@ApiResponse({ status: 200, description: 'Child successfully removed' })
+	@ApiResponse({ status: 404, description: 'Access denied or child not found' })
+	@ApiParam({
+		name: 'childId',
+		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
+		description: 'The ID of the child to remove from the family',
+	})
 	async removeChild(
 		@CurrentUser('id') parentId: string,
-		@Param('id') childId: string,
+		@Param('childId') childId: string,
 	) {
 		return this.familyService.removeChild(parentId, childId)
 	}
@@ -77,6 +120,22 @@ export class FamilyController {
 	@Auth()
 	@HttpCode(200)
 	@Post('child/:childId/course/:courseId')
+	@ApiOperation({ summary: 'Assign course to child' })
+	@ApiResponse({
+		status: 200,
+		description: 'Course successfully assigned to child',
+	})
+	@ApiResponse({ status: 404, description: 'Course or child not found' })
+	@ApiParam({
+		name: 'childId',
+		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
+		description: 'The ID of the child',
+	})
+	@ApiParam({
+		name: 'courseId',
+		example: '8a7b1c2d-3e4f-5678-9012-abcdef123456',
+		description: 'The ID of the course to assign',
+	})
 	async addCourseToChild(
 		@CurrentUser('id') parentId: string,
 		@Param('childId') childId: string,
@@ -88,6 +147,22 @@ export class FamilyController {
 	@Auth()
 	@HttpCode(200)
 	@Delete('child/:childId/course/:courseId')
+	@ApiOperation({ summary: 'Remove course from child' })
+	@ApiResponse({
+		status: 200,
+		description: 'Course successfully removed from child',
+	})
+	@ApiResponse({ status: 404, description: 'Course not found for this child' })
+	@ApiParam({
+		name: 'childId',
+		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
+		description: 'The ID of the child',
+	})
+	@ApiParam({
+		name: 'courseId',
+		example: '8a7b1c2d-3e4f-5678-9012-abcdef123456',
+		description: 'The ID of the course to remove',
+	})
 	async removeCourseFromChild(
 		@CurrentUser('id') parentId: string,
 		@Param('childId') childId: string,
@@ -98,7 +173,18 @@ export class FamilyController {
 
 	@Auth()
 	@HttpCode(200)
-	@Get('child/:childId/settings')
+	@ApiOperation({ summary: 'Get child settings (by parent)' })
+	@ApiResponse({
+		status: 200,
+		description: 'Successfully retrieved child settings',
+	})
+	@ApiResponse({ status: 404, description: 'Child not found' })
+	@ApiOperation({ summary: 'Get child settings (by parent)' })
+	@ApiParam({
+		name: 'childId',
+		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
+		description: 'The ID of the child whose settings are being retrieved',
+	})
 	async getChildSettings(
 		@CurrentUser('id') parentId: string,
 		@Param('childId') childId: string,
@@ -106,10 +192,21 @@ export class FamilyController {
 		return this.settingsService.getById(parentId, childId)
 	}
 
+	@UsePipes(new ValidationPipe())
 	@Auth()
 	@HttpCode(200)
 	@Put('child/:childId/settings')
-	@UsePipes(new ValidationPipe())
+	@ApiOperation({ summary: 'Update child settings (by parent)' })
+	@ApiResponse({
+		status: 200,
+		description: 'Child settings successfully updated',
+	})
+	@ApiResponse({ status: 404, description: 'Child not found or access denied' })
+	@ApiParam({
+		name: 'childId',
+		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
+		description: 'The ID of the child whose settings are being updated',
+	})
 	async updateChildSettings(
 		@CurrentUser('id') parentId: string,
 		@Param('childId') childId: string,
