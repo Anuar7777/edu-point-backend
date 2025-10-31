@@ -21,6 +21,7 @@ model User {
   families   FamilyMember[]
   UserCourse UserCourse[]
   Settings   Settings[]
+  Location   Location[]
 
   @@map("user")
 }
@@ -161,4 +162,16 @@ model Settings {
   user        User     @relation(fields: [userId], references: [userId])
 
   @@map("settings")
+}
+
+model Location {
+  locationId String   @id @default(uuid()) @map("location_id")
+  userId     String   @map("user_id")
+  latitude   Float
+  longitude  Float
+  updatedAt  DateTime @default(now()) @map("updated_at")
+
+  user User @relation(fields: [userId], references: [userId], onDelete: Cascade)
+
+  @@map("location")
 }

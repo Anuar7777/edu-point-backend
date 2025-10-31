@@ -4,6 +4,7 @@ import { AuthModule } from './auth/auth.module'
 import { CodeModule } from './code/code.module'
 import { CourseModule } from './course/course.module'
 import { FamilyModule } from './family/family.module'
+import { LocationModule } from './location/location.module'
 import { SettingsModule } from './settings/settings.module'
 import { UserModule } from './user/user.module'
 
@@ -19,6 +20,7 @@ import { UserModule } from './user/user.module'
 		CodeModule,
 		CourseModule,
 		SettingsModule,
+		LocationModule,
 	],
 })
 export class AppModule {}
