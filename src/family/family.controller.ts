@@ -117,62 +117,10 @@ export class FamilyController {
 		return this.familyService.removeChild(parentId, childId)
 	}
 
+	@ApiTags('Family - Settings')
 	@Auth()
 	@HttpCode(200)
-	@Post('child/:childId/course/:courseId')
-	@ApiOperation({ summary: 'Assign course to child' })
-	@ApiResponse({
-		status: 200,
-		description: 'Course successfully assigned to child',
-	})
-	@ApiResponse({ status: 404, description: 'Course or child not found' })
-	@ApiParam({
-		name: 'childId',
-		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
-		description: 'The ID of the child',
-	})
-	@ApiParam({
-		name: 'courseId',
-		example: '8a7b1c2d-3e4f-5678-9012-abcdef123456',
-		description: 'The ID of the course to assign',
-	})
-	async addCourseToChild(
-		@CurrentUser('id') parentId: string,
-		@Param('childId') childId: string,
-		@Param('courseId') courseId: string,
-	) {
-		return this.familyService.addCourseToChild(parentId, childId, courseId)
-	}
-
-	@Auth()
-	@HttpCode(200)
-	@Delete('child/:childId/course/:courseId')
-	@ApiOperation({ summary: 'Remove course from child' })
-	@ApiResponse({
-		status: 200,
-		description: 'Course successfully removed from child',
-	})
-	@ApiResponse({ status: 404, description: 'Course not found for this child' })
-	@ApiParam({
-		name: 'childId',
-		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
-		description: 'The ID of the child',
-	})
-	@ApiParam({
-		name: 'courseId',
-		example: '8a7b1c2d-3e4f-5678-9012-abcdef123456',
-		description: 'The ID of the course to remove',
-	})
-	async removeCourseFromChild(
-		@CurrentUser('id') parentId: string,
-		@Param('childId') childId: string,
-		@Param('courseId') courseId: string,
-	) {
-		return this.familyService.removeCourseFromChild(parentId, childId, courseId)
-	}
-
-	@Auth()
-	@HttpCode(200)
+	@Get('child/:childId/settings')
 	@ApiOperation({ summary: 'Get child settings (by parent)' })
 	@ApiResponse({
 		status: 200,
@@ -192,6 +140,7 @@ export class FamilyController {
 		return this.settingsService.getById(parentId, childId)
 	}
 
+	@ApiTags('Family - Settings')
 	@UsePipes(new ValidationPipe())
 	@Auth()
 	@HttpCode(200)

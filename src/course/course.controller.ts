@@ -1,4 +1,4 @@
-import { Controller, Get, HttpCode, Param } from '@nestjs/common'
+import { Controller, Get, HttpCode, Param, Query } from '@nestjs/common'
 import {
 	ApiBearerAuth,
 	ApiOperation,
@@ -32,6 +32,11 @@ export class CourseController {
 	})
 	async getAll(@CurrentUser() user: UserTokenDto) {
 		return this.courseService.getAll(user.id, user.role as Role)
+	}
+
+	@Get('random')
+	getRandomQuestions(@Query('limit') limit = 10) {
+		return this.courseService.getRandomQuestions(Number(limit))
 	}
 
 	@Auth()
