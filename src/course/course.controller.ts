@@ -14,11 +14,11 @@ import { CourseService } from './course.service'
 
 @ApiTags('Courses')
 @ApiBearerAuth()
+@Auth()
 @Controller('courses')
 export class CourseController {
 	constructor(private readonly courseService: CourseService) {}
 
-	@Auth()
 	@HttpCode(200)
 	@Get()
 	@ApiOperation({ summary: 'Get all available courses for the current user' })
@@ -39,7 +39,6 @@ export class CourseController {
 		return this.courseService.getRandomQuestions(Number(limit))
 	}
 
-	@Auth()
 	@HttpCode(200)
 	@Get(':courseId')
 	@ApiOperation({ summary: 'Get detailed info about a specific course' })

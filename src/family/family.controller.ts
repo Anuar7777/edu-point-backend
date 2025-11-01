@@ -7,34 +7,29 @@ import {
 	Param,
 	Post,
 	Put,
-	UsePipes,
-	ValidationPipe,
 } from '@nestjs/common'
 import {
 	ApiBearerAuth,
+	ApiBody,
 	ApiOperation,
 	ApiParam,
 	ApiResponse,
 	ApiTags,
 } from '@nestjs/swagger'
-import { UpdateAdvancedSettingsDto } from 'src/settings/settings.dto'
+import { IsParent } from 'src/auth/decorators/roles.decorator'
 import { Auth } from '../auth/decorators/auth.decorator'
 import { CurrentUser } from '../auth/decorators/user.decorator'
 import { UserTokenDto } from '../auth/dto/user-token.dto'
-import { SettingsService } from '../settings/settings.service'
 import { FamilyDto } from './dto/family.dto'
 import { FamilyService } from './family.service'
 
 @ApiTags('Family')
 @ApiBearerAuth()
+@Auth()
 @Controller('family')
 export class FamilyController {
-	constructor(
-		private readonly familyService: FamilyService,
-		private readonly settingsService: SettingsService,
-	) {}
+	constructor(private readonly familyService: FamilyService) {}
 
-	@Auth()
 	@HttpCode(200)
 	@Get()
 	@ApiOperation({ summary: 'Get current user family info' })
@@ -47,9 +42,7 @@ export class FamilyController {
 		return this.familyService.get(userId)
 	}
 
-	@UsePipes(new ValidationPipe())
 	@HttpCode(200)
-	@Auth()
 	@Put(':id')
 	@ApiOperation({ summary: 'Update family info' })
 	@ApiResponse({ status: 200, description: 'Family successfully updated' })
@@ -70,36 +63,60 @@ export class FamilyController {
 		return this.familyService.update(dto, familyId, userId)
 	}
 
-	@Auth()
 	@HttpCode(200)
 	@Post('invite')
 	@ApiOperation({ summary: 'Invite child by email' })
 	@ApiResponse({ status: 200, description: 'Invitation sent successfully' })
 	@ApiResponse({ status: 403, description: 'Only parents can invite children' })
+	@ApiBody({
+		schema: {
+			example: {
+				email: 'child@smartbala.com',
+			},
+		},
+	})
 	async inviteChild(
 		@CurrentUser() parent: UserTokenDto,
-		@Body('email') childEmail: string,
+		@Body('email') email: string,
 	) {
-		return this.familyService.inviteChild(parent, childEmail)
+		return this.familyService.inviteChild(parent, email)
 	}
 
-	@Auth()
+	@IsParent()
 	@HttpCode(200)
-	@Post('join')
-	@ApiOperation({ summary: 'Join family by invitation code' })
+	@Post('add')
+	@ApiOperation({
+		summary: 'Add a child to the family using the invitation code.',
+		description:
+			'Allows a parent to add a child by providing the child’s email and a valid invitation code.',
+	})
 	@ApiResponse({
 		status: 200,
 		description: 'Child successfully joined the family',
 	})
-	@ApiResponse({ status: 404, description: 'Parent family not found' })
-	async join(
-		@CurrentUser() child: UserTokenDto,
-		@Body('code') codeValue: string,
+	@ApiResponse({
+		status: 400,
+		description: 'Invalid or expired code, or child already has a family',
+	})
+	@ApiResponse({
+		status: 404,
+		description: 'Parent family not found or child not found',
+	})
+	@ApiBody({
+		schema: {
+			example: {
+				email: 'child@smartbala.com',
+				code: '123456',
+			},
+		},
+	})
+	async add(
+		@CurrentUser() parent: UserTokenDto,
+		@Body() dto: { email: string; code: string },
 	) {
-		return this.familyService.join(child, codeValue)
+		return this.familyService.add(parent, dto.email, dto.code)
 	}
 
-	@Auth()
 	@HttpCode(200)
 	@Delete('remove/:childId')
 	@ApiOperation({ summary: 'Remove child from family' })
@@ -115,52 +132,5 @@ export class FamilyController {
 		@Param('childId') childId: string,
 	) {
 		return this.familyService.removeChild(parentId, childId)
-	}
-
-	@ApiTags('Family - Settings')
-	@Auth()
-	@HttpCode(200)
-	@Get('child/:childId/settings')
-	@ApiOperation({ summary: 'Get child settings (by parent)' })
-	@ApiResponse({
-		status: 200,
-		description: 'Successfully retrieved child settings',
-	})
-	@ApiResponse({ status: 404, description: 'Child not found' })
-	@ApiOperation({ summary: 'Get child settings (by parent)' })
-	@ApiParam({
-		name: 'childId',
-		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
-		description: 'The ID of the child whose settings are being retrieved',
-	})
-	async getChildSettings(
-		@CurrentUser('id') parentId: string,
-		@Param('childId') childId: string,
-	) {
-		return this.settingsService.getById(parentId, childId)
-	}
-
-	@ApiTags('Family - Settings')
-	@UsePipes(new ValidationPipe())
-	@Auth()
-	@HttpCode(200)
-	@Put('child/:childId/settings')
-	@ApiOperation({ summary: 'Update child settings (by parent)' })
-	@ApiResponse({
-		status: 200,
-		description: 'Child settings successfully updated',
-	})
-	@ApiResponse({ status: 404, description: 'Child not found or access denied' })
-	@ApiParam({
-		name: 'childId',
-		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
-		description: 'The ID of the child whose settings are being updated',
-	})
-	async updateChildSettings(
-		@CurrentUser('id') parentId: string,
-		@Param('childId') childId: string,
-		@Body() dto: UpdateAdvancedSettingsDto,
-	) {
-		return this.settingsService.updateById(parentId, childId, dto)
 	}
 }

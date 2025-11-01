@@ -1,9 +1,11 @@
 import {
+	BadRequestException,
 	ForbiddenException,
 	Injectable,
 	NotFoundException,
 } from '@nestjs/common'
 import { CodeType, Role } from '@prisma/client'
+import { UserService } from 'src/user/user.service'
 import { UserTokenDto } from '../auth/dto/user-token.dto'
 import { CodeService } from '../code/code.service'
 import { MailService } from '../mail/mail.service'
@@ -16,6 +18,7 @@ export class FamilyService {
 		private readonly prisma: PrismaService,
 		private readonly codeService: CodeService,
 		private readonly mailService: MailService,
+		private readonly userService: UserService,
 	) {}
 
 	async get(userId: string) {
@@ -125,39 +128,47 @@ export class FamilyService {
 
 		return {
 			message: `Invitation sent to ${childEmail}`,
-			code: invite.code,
 		}
 	}
 
-	async join(child: UserTokenDto, codeValue: string) {
+	async add(parent: UserTokenDto, childEmail: string, codeValue: string) {
 		const code = await this.codeService.findValid(codeValue)
 
-		const [parentMember, existingChild] = await Promise.all([
-			this.prisma.familyMember.findFirst({
-				where: { userId: code.userId },
-			}),
-			this.prisma.familyMember.findFirst({
-				where: { userId: child.id },
-			}),
-		])
+		if (parent.id !== code.userId) {
+			throw new BadRequestException('Invalid invitation code: wrong owner')
+		}
 
+		const child = await this.userService.getByEmail(childEmail)
+		if (!child) {
+			throw new NotFoundException('Child not found')
+		}
+
+		const existingMember = await this.prisma.familyMember.findFirst({
+			where: { userId: child.userId },
+		})
+		if (existingMember) {
+			throw new BadRequestException('Child already belongs to a family')
+		}
+
+		const parentMember = await this.prisma.familyMember.findFirst({
+			where: { userId: parent.id },
+		})
 		if (!parentMember) {
 			throw new NotFoundException('Parent family not found')
-		}
-		if (existingChild) {
-			throw new ForbiddenException('Child already belongs to a family')
 		}
 
 		await this.prisma.familyMember.create({
 			data: {
 				familyId: parentMember.familyId,
-				userId: child.id,
+				userId: child.userId,
 			},
 		})
 
 		await this.codeService.use(code.codeId)
 
-		return { message: 'Successfully joined family' }
+		return {
+			message: `Child ${child.username} successfully added to family`,
+		}
 	}
 
 	async removeChild(parentId: string, childId: string) {
@@ -168,6 +179,19 @@ export class FamilyService {
 
 		if (!parent || parent.user.role !== Role.PARENT) {
 			throw new NotFoundException('Access denied')
+		}
+
+		const child = await this.prisma.familyMember.findFirst({
+			where: { userId: childId },
+			include: { user: true },
+		})
+
+		if (!child) {
+			throw new NotFoundException('Child not found')
+		}
+
+		if (child.familyId !== parent.familyId) {
+			throw new BadRequestException('Child does not belong to this family')
 		}
 
 		await this.prisma.familyMember.delete({

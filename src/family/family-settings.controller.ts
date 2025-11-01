@@ -1,13 +1,4 @@
-import {
-	Body,
-	Controller,
-	Get,
-	HttpCode,
-	Param,
-	Put,
-	UsePipes,
-	ValidationPipe,
-} from '@nestjs/common'
+import { Body, Controller, Get, HttpCode, Param, Put } from '@nestjs/common'
 import {
 	ApiBearerAuth,
 	ApiOperation,
@@ -23,6 +14,7 @@ import { FamilyService } from './family.service'
 
 @ApiTags('Family - Settings')
 @ApiBearerAuth()
+@Auth()
 @Controller('family/child')
 export class FamilySettingsController {
 	constructor(
@@ -30,7 +22,6 @@ export class FamilySettingsController {
 		private readonly settingsService: SettingsService,
 	) {}
 	// TODO: The settings are used in the family. Transfer them
-	@Auth()
 	@HttpCode(200)
 	@Get(':childId/settings')
 	@ApiOperation({ summary: 'Get child settings (by parent)' })
@@ -52,8 +43,6 @@ export class FamilySettingsController {
 		return this.settingsService.getById(parentId, childId)
 	}
 
-	@UsePipes(new ValidationPipe())
-	@Auth()
 	@HttpCode(200)
 	@Put(':childId/settings')
 	@ApiOperation({ summary: 'Update child settings (by parent)' })

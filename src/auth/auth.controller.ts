@@ -6,8 +6,6 @@ import {
 	Req,
 	Res,
 	UnauthorizedException,
-	UsePipes,
-	ValidationPipe,
 } from '@nestjs/common'
 import { ApiBody, ApiOperation, ApiResponse, ApiTags } from '@nestjs/swagger'
 import { Request, Response } from 'express'
@@ -19,7 +17,6 @@ import { AuthDto, RegisterDto, VerifyCodeDto } from './dto/auth.dto'
 export class AuthController {
 	constructor(private readonly authService: AuthService) {}
 
-	@UsePipes(new ValidationPipe())
 	@HttpCode(200)
 	@Post('login')
 	@ApiOperation({ summary: 'Login with email and password' })
@@ -30,11 +27,23 @@ export class AuthController {
 		examples: {
 			parent: {
 				summary: 'Parent credentials',
-				value: { email: 'parent@smartbala.com', password: 'password123' },
+				value: { email: 'aigul@smartbala.com', password: 'password123' },
 			},
-			child: {
-				summary: 'Child credentials',
-				value: { email: 'child@smartbala.com', password: 'password123' },
+			child1: {
+				summary: 'Child (Ернар)',
+				value: { email: 'ernar@smartbala.com', password: 'password123' },
+			},
+			child2: {
+				summary: 'Child (Дана)',
+				value: { email: 'dana@smartbala.com', password: 'password123' },
+			},
+			child3: {
+				summary: 'Child (Арсен)',
+				value: { email: 'arsen@smartbala.com', password: 'password123' },
+			},
+			child4: {
+				summary: 'Child (Мадина)',
+				value: { email: 'madina@smartbala.com', password: 'password123' },
 			},
 		},
 	})
@@ -46,7 +55,6 @@ export class AuthController {
 		return response
 	}
 
-	@UsePipes(new ValidationPipe())
 	@HttpCode(200)
 	@Post('register')
 	@ApiOperation({ summary: 'Register new user' })
@@ -81,7 +89,6 @@ export class AuthController {
 		return await this.authService.register(dto)
 	}
 
-	@UsePipes(new ValidationPipe())
 	@HttpCode(200)
 	@Post('verify')
 	@ApiOperation({ summary: 'Verify email with code' })

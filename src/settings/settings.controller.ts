@@ -1,12 +1,4 @@
-import {
-	Body,
-	Controller,
-	Get,
-	HttpCode,
-	Put,
-	UsePipes,
-	ValidationPipe,
-} from '@nestjs/common'
+import { Body, Controller, Get, HttpCode, Put } from '@nestjs/common'
 import {
 	ApiBearerAuth,
 	ApiOperation,
@@ -20,11 +12,11 @@ import { SettingsService } from './settings.service'
 
 @ApiTags('Settings')
 @ApiBearerAuth()
+@Auth()
 @Controller('settings')
 export class SettingsController {
 	constructor(private readonly settingsService: SettingsService) {}
 
-	@Auth()
 	@HttpCode(200)
 	@Get()
 	@ApiOperation({ summary: 'Get current user settings' })
@@ -40,7 +32,6 @@ export class SettingsController {
 		return this.settingsService.get(userId)
 	}
 
-	@Auth()
 	@HttpCode(200)
 	@Put()
 	@ApiOperation({ summary: 'Update current user settings' })
@@ -52,7 +43,6 @@ export class SettingsController {
 		status: 401,
 		description: 'Unauthorized - JWT token missing or invalid',
 	})
-	@UsePipes(new ValidationPipe())
 	async update(
 		@CurrentUser('id') userId: string,
 		@Body() dto: UpdateBasicSettingsDto,

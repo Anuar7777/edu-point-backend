@@ -159,7 +159,7 @@ model Settings {
   isAppAdmin  Boolean  @default(false) @map("is_app_admin")
   dailyLimit  Int      @default(3) @map("daily_limit")
   sessionTime Int      @default(60) @map("session_time")
-  user        User     @relation(fields: [userId], references: [userId])
+  user        User     @relation(fields: [userId], references: [userId], onDelete: Cascade)
 
   @@map("settings")
 }

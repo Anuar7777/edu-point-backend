@@ -1,4 +1,4 @@
-import { Logger } from '@nestjs/common'
+import { Logger, ValidationPipe } from '@nestjs/common'
 import { ConfigService } from '@nestjs/config'
 import { NestFactory } from '@nestjs/core'
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger'
@@ -15,6 +15,7 @@ async function bootstrap() {
 		const configService = app.get(ConfigService)
 
 		app.setGlobalPrefix('api')
+		app.useGlobalPipes(new ValidationPipe({ whitelist: true, transform: true }))
 		app.use(cookieParser())
 
 		app.use(

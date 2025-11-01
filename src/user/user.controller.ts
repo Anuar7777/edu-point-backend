@@ -12,7 +12,6 @@ export class UserController {
 	// 	return this.userService.getProfile(id)
 	// }
 
-	// @UsePipes(new ValidationPipe())
 	// @HttpCode(200)
 	// @Auth()
 	// @Put()

@@ -12,11 +12,11 @@ import { FamilyService } from './family.service'
 
 @ApiTags('Family - Courses')
 @ApiBearerAuth()
+@Auth()
 @Controller('family/child')
 export class FamilyCourseController {
 	constructor(private readonly familyService: FamilyService) {}
 
-	@Auth()
 	@HttpCode(200)
 	@Post(':childId/course/:courseId')
 	@ApiOperation({ summary: 'Assign course to child' })
@@ -43,7 +43,6 @@ export class FamilyCourseController {
 		return this.familyService.addCourseToChild(parentId, childId, courseId)
 	}
 
-	@Auth()
 	@HttpCode(200)
 	@Delete(':childId/course/:courseId')
 	@ApiOperation({ summary: 'Remove course from child' })
