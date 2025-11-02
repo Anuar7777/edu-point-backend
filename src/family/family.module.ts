@@ -9,6 +9,7 @@ import { FamilyCourseController } from './family-course.controller'
 import { FamilySettingsController } from './family-settings.controller'
 import { FamilyController } from './family.controller'
 import { FamilyService } from './family.service'
+import { FamilyCourseService } from './family-course.service'
 
 @Module({
 	imports: [ConfigModule],
@@ -19,6 +20,7 @@ import { FamilyService } from './family.service'
 	],
 	providers: [
 		FamilyService,
+		FamilyCourseService,
 		PrismaService,
 		CodeService,
 		MailService,

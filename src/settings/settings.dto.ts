@@ -26,6 +26,14 @@ export class UpdateBasicSettingsDto {
 	@IsOptional()
 	@IsString()
 	theme?: string
+
+	@ApiPropertyOptional({
+		example: 'true',
+		description: 'Interface Animation',
+	})
+	@IsOptional()
+	@IsBoolean()
+	hasAnimated?: boolean
 }
 
 export class UpdateAdvancedSettingsDto {

@@ -1,4 +1,4 @@
-import { Controller, Delete, HttpCode, Param, Post } from '@nestjs/common'
+import { Controller, Delete, Get, HttpCode, Param, Post } from '@nestjs/common'
 import {
 	ApiBearerAuth,
 	ApiOperation,
@@ -8,14 +8,39 @@ import {
 } from '@nestjs/swagger'
 import { Auth } from '../auth/decorators/auth.decorator'
 import { CurrentUser } from '../auth/decorators/user.decorator'
-import { FamilyService } from './family.service'
+import { IsParent } from 'src/auth/decorators/roles.decorator'
+import { FamilyCourseService } from './family-course.service'
 
 @ApiTags('Family - Courses')
 @ApiBearerAuth()
+@IsParent()
 @Auth()
 @Controller('family/child')
 export class FamilyCourseController {
-	constructor(private readonly familyService: FamilyService) {}
+	constructor(private readonly familyCourseService: FamilyCourseService) {}
+
+	@HttpCode(200)
+	@Get(':childId')
+	@ApiOperation({ summary: 'Get all courses assigned to a child' })
+	@ApiResponse({
+		status: 200,
+		description: 'List of courses successfully retrieved',
+	})
+	@ApiResponse({
+		status: 404,
+		description: 'Child not found or does not belong to this parent',
+	})
+	@ApiParam({
+		name: 'childId',
+		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
+		description: 'The ID of the child whose courses are being requested',
+	})
+	async get(
+		@CurrentUser('id') parentId: string,
+		@Param('childId') childId: string,
+	) {
+		return this.familyCourseService.get(parentId, childId)
+	}
 
 	@HttpCode(200)
 	@Post(':childId/course/:courseId')
@@ -35,12 +60,12 @@ export class FamilyCourseController {
 		example: '8a7b1c2d-3e4f-5678-9012-abcdef123456',
 		description: 'The ID of the course to assign',
 	})
-	async addCourseToChild(
+	async create(
 		@CurrentUser('id') parentId: string,
 		@Param('childId') childId: string,
 		@Param('courseId') courseId: string,
 	) {
-		return this.familyService.addCourseToChild(parentId, childId, courseId)
+		return this.familyCourseService.create(parentId, childId, courseId)
 	}
 
 	@HttpCode(200)
@@ -61,11 +86,40 @@ export class FamilyCourseController {
 		example: '8a7b1c2d-3e4f-5678-9012-abcdef123456',
 		description: 'The ID of the course to remove',
 	})
-	async removeCourseFromChild(
+	async delete(
 		@CurrentUser('id') parentId: string,
 		@Param('childId') childId: string,
 		@Param('courseId') courseId: string,
 	) {
-		return this.familyService.removeCourseFromChild(parentId, childId, courseId)
+		return this.familyCourseService.delete(parentId, childId, courseId)
+	}
+
+	@HttpCode(200)
+	@Get('course/:courseId/available')
+	@ApiOperation({
+		summary:
+			'Get all children in the family who are not enrolled in a specific course',
+	})
+	@ApiResponse({
+		status: 200,
+		description: 'List of children not enrolled in the specified course',
+	})
+	@ApiResponse({
+		status: 404,
+		description: 'Family not found for this parent or invalid course ID',
+	})
+	@ApiParam({
+		name: 'courseId',
+		example: '8a7b1c2d-3e4f-5678-9012-abcdef123456',
+		description: 'The ID of the course',
+	})
+	async getAvailableChildrenForCourse(
+		@CurrentUser('family_id') familyId: string,
+		@Param('courseId') courseId: string,
+	) {
+		return this.familyCourseService.getAvailableChildrenForCourse(
+			familyId,
+			courseId,
+		)
 	}
 }

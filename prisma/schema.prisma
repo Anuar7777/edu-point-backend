@@ -177,13 +177,15 @@ enum Language {
 }
 
 model Settings {
-  userId      String   @id
+  userId String @id
+  user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
+
   language    Language @default(EN) @map("language")
   theme       String   @default("light") @map("theme")
   isAppAdmin  Boolean  @default(false) @map("is_app_admin")
   dailyLimit  Int      @default(3) @map("daily_limit")
   sessionTime Int      @default(60) @map("session_time")
-  user        User     @relation(fields: [userId], references: [userId], onDelete: Cascade)
+  hasAnimated Boolean  @default(false) @map("has_animated")
 
   @@map("settings")
 }

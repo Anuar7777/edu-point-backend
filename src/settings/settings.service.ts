@@ -31,6 +31,7 @@ export class SettingsService {
 			select: {
 				theme: true,
 				language: true,
+				hasAnimated: true,
 			},
 		})
 	}
