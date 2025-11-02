@@ -12,10 +12,6 @@ export class SettingsService {
 	async get(userId: string) {
 		return this.prisma.settings.findUnique({
 			where: { userId },
-			select: {
-				language: true,
-				theme: true,
-			},
 		})
 	}
 
