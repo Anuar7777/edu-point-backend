@@ -1,5 +1,5 @@
 import { ApiProperty } from '@nestjs/swagger'
-import { Role } from '@prisma/client'
+import { Language, Role } from '@prisma/client'
 import { IsEmail, IsEnum, IsString, Length, MinLength } from 'class-validator'
 
 export class AuthDto {
@@ -52,4 +52,12 @@ export class VerifyCodeDto {
 	@IsString()
 	@Length(4, 10, { message: 'Code must be between 4 and 10 characters long' })
 	code: string
+
+	@ApiProperty({
+		example: 'RU',
+		enum: Language,
+		description: 'Language of the user (RU)',
+	})
+	@IsEnum(Language, { message: 'Language must be EN, RU or KZ' })
+	language: Language
 }

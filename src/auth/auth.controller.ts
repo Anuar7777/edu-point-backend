@@ -100,6 +100,7 @@ export class AuthController {
 		const { refreshToken, ...response } = await this.authService.verify(
 			dto.email,
 			dto.code,
+			dto.language,
 		)
 
 		this.authService.addRefreshTokenToResponse(res, refreshToken)

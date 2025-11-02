@@ -6,7 +6,7 @@ import {
 	UnauthorizedException,
 } from '@nestjs/common'
 import { JwtService } from '@nestjs/jwt'
-import { CodeType, Role, User } from '@prisma/client'
+import { CodeType, Language, Role, User } from '@prisma/client'
 import { verify } from 'argon2'
 import { Response } from 'express'
 import { FamilyService } from 'src/family/family.service'
@@ -15,6 +15,7 @@ import { MailService } from '../mail/mail.service'
 import { UserService } from '../user/user.service'
 import { AuthDto, RegisterDto } from './dto/auth.dto'
 import { UserTokenDto } from './dto/user-token.dto'
+import { SettingsService } from 'src/settings/settings.service'
 
 @Injectable()
 export class AuthService {
@@ -27,6 +28,7 @@ export class AuthService {
 		private readonly mailService: MailService,
 		private readonly codeService: CodeService,
 		private readonly familyService: FamilyService,
+		private readonly settingsService: SettingsService,
 	) {}
 
 	async register(dto: RegisterDto) {
@@ -49,7 +51,7 @@ export class AuthService {
 		return { message: 'Account created. Please verify your email.' }
 	}
 
-	async verify(email: string, code: string) {
+	async verify(email: string, code: string, language: Language) {
 		const verificationCode = await this.codeService.findValid(code)
 
 		await this.userService.markVerified(verificationCode.userId)
@@ -68,6 +70,8 @@ export class AuthService {
 		}
 
 		const userDto = new UserTokenDto(verificationCode.user, familyId)
+
+		await this.settingsService.create(user.userId, { language: language })
 
 		const tokens = this.issueTokens({ ...userDto })
 

@@ -15,6 +15,15 @@ export class SettingsService {
 		})
 	}
 
+	async create(userId: string, dto: UpdateBasicSettingsDto) {
+		return this.prisma.settings.create({
+			data: {
+				userId,
+				...dto,
+			},
+		})
+	}
+
 	async update(userId: string, dto: UpdateBasicSettingsDto) {
 		return this.prisma.settings.update({
 			where: { userId },
