@@ -38,29 +38,23 @@ export class FamilyController {
 		description: 'Successfully retrieved family data',
 	})
 	@ApiResponse({ status: 404, description: 'Family not found for this user' })
-	async get(@CurrentUser('id') userId: string) {
-		return this.familyService.get(userId)
+	async get(@CurrentUser('family_id') familyId: string) {
+		return this.familyService.getFamilyById(familyId)
 	}
 
 	@HttpCode(200)
-	@Put(':id')
+	@Put()
 	@ApiOperation({ summary: 'Update family info' })
 	@ApiResponse({ status: 200, description: 'Family successfully updated' })
 	@ApiResponse({
 		status: 404,
 		description: 'Family not found or access denied',
 	})
-	@ApiParam({
-		name: 'id',
-		example: 'b613066f-8269-4f3b-ba7d-9313ecd55f18',
-		description: 'The unique ID of the family to update',
-	})
 	async update(
 		@Body() dto: FamilyDto,
-		@Param('id') familyId: string,
-		@CurrentUser('id') userId: string,
+		@CurrentUser('family_id') familyId: string,
 	) {
-		return this.familyService.update(dto, familyId, userId)
+		return this.familyService.update(dto, familyId)
 	}
 
 	@HttpCode(200)
@@ -71,7 +65,7 @@ export class FamilyController {
 	@ApiBody({
 		schema: {
 			example: {
-				email: 'child@smartbala.com',
+				email: 'ernar@smartbala.com',
 			},
 		},
 	})
@@ -105,7 +99,7 @@ export class FamilyController {
 	@ApiBody({
 		schema: {
 			example: {
-				email: 'child@smartbala.com',
+				email: 'ernar@smartbala.com',
 				code: '123456',
 			},
 		},

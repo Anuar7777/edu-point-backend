@@ -16,11 +16,13 @@ export async function seedUsers() {
 				username: user.username,
 				password: hashedPassword,
 				role: user.role,
+				imageUrl: user.imageUrl,
 			},
 			create: {
 				userId: user.userId,
 				username: user.username,
 				email: user.email,
+				imageUrl: user.imageUrl,
 				password: hashedPassword,
 				role: user.role,
 				points: 0,

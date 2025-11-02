@@ -17,16 +17,20 @@ export class LocationService {
 			orderBy: { updatedAt: 'desc' },
 		})
 
-		if (!lastLocation) return this.createLocation(userId, lat, lon)
+		if (!lastLocation) {
+			await this.createLocation(userId, lat, lon)
+			return this.getFamilyLocationsByUser(userId)
+		}
 
-		return this.prisma.location.update({
+		await this.prisma.location.update({
 			where: { locationId: lastLocation.locationId },
 			data: { latitude: lat, longitude: lon, updatedAt: new Date() },
 		})
+
+		return this.getFamilyLocationsByUser(userId)
 	}
 
 	async getFamilyLocationsByUser(userId: string) {
-		// TODO: Then transfer to FamilyService
 		const familyMember = await this.prisma.familyMember.findFirst({
 			where: { userId },
 		})
@@ -48,6 +52,7 @@ export class LocationService {
 						userId: true,
 						username: true,
 						role: true,
+						imageUrl: true,
 					},
 				},
 			},

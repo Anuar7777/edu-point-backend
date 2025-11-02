@@ -1,4 +1,4 @@
-import { Body, Controller, Get, Put } from '@nestjs/common'
+import { Body, Controller, Put } from '@nestjs/common'
 import {
 	ApiBearerAuth,
 	ApiOperation,
@@ -27,18 +27,5 @@ export class LocationController {
 			dto.latitude,
 			dto.longitude,
 		)
-	}
-
-	@Auth()
-	@Get('family')
-	@ApiOperation({
-		summary: "Get locations of all members in the user's family",
-	})
-	@ApiResponse({
-		status: 200,
-		description: 'Successfully retrieved family locations',
-	})
-	async getFamilyLocations(@CurrentUser() user: UserTokenDto) {
-		return this.locationService.getFamilyLocationsByUser(user.id)
 	}
 }

@@ -1,11 +1,24 @@
-import { Role } from '@prisma/client'
+import { Prisma } from '@prisma/client'
+import { UserTokenDto } from 'src/auth/dto/user-token.dto'
 
-export type JwtPayload = {
-	id: string
-	email: string
-	role: Role
-}
+export type FamilyWithMembers = Prisma.FamilyGetPayload<{
+	include: {
+		members: {
+			include: {
+				user: {
+					select: {
+						userId: true
+						username: true
+						email: true
+						role: true
+						imageUrl: true
+					}
+				}
+			}
+		}
+	}
+}>
 
 export type RequestWithUser = Request & {
-	user: JwtPayload
+	user: UserTokenDto
 }

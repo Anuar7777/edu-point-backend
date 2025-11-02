@@ -10,7 +10,6 @@ import { CodeType, Role, User } from '@prisma/client'
 import { verify } from 'argon2'
 import { Response } from 'express'
 import { FamilyService } from 'src/family/family.service'
-import { JwtPayload } from 'types'
 import { CodeService } from '../code/code.service'
 import { MailService } from '../mail/mail.service'
 import { UserService } from '../user/user.service'
@@ -56,26 +55,36 @@ export class AuthService {
 		await this.userService.markVerified(verificationCode.userId)
 		await this.codeService.use(verificationCode.codeId)
 
-		const userDto = new UserTokenDto(verificationCode.user)
-
 		const user = verificationCode.user
+		let familyId: string | null = null
 
 		if (user.role === Role.PARENT) {
 			const defaultFamilyDto = { name: `${user.username}'s Family` }
-			await this.familyService.create(defaultFamilyDto, user.userId, user.role)
+			const family = await this.familyService.create(
+				defaultFamilyDto,
+				user.userId,
+			)
+			familyId = family.familyId
 		}
 
-		const tokens = this.issueTokens(userDto)
+		const userDto = new UserTokenDto(verificationCode.user, familyId)
+
+		const tokens = this.issueTokens({ ...userDto })
 
 		return {
-			user: userDto,
+			user: { ...userDto, familyId },
 			...tokens,
 		}
 	}
 
 	async login(dto: AuthDto) {
 		const user = await this.validateUser(dto)
-		const userDto = new UserTokenDto(user)
+
+		let familyId: string | null = null
+		const family = await this.familyService.getFamilyByUserId(user.userId)
+		if (family) familyId = family.familyId
+
+		const userDto = new UserTokenDto(user, familyId)
 
 		const tokens = this.issueTokens(userDto)
 
@@ -86,7 +95,7 @@ export class AuthService {
 	}
 
 	async getNewTokens(refreshToken: string) {
-		const result = await this.jwt.verifyAsync<JwtPayload>(refreshToken)
+		const result = await this.jwt.verifyAsync<UserTokenDto>(refreshToken)
 
 		if (!result) {
 			throw new UnauthorizedException('Invalid refresh token')
@@ -98,7 +107,11 @@ export class AuthService {
 			throw new NotFoundException('User not found')
 		}
 
-		const userDto = new UserTokenDto(userEntity)
+		let familyId: string | null = null
+		const family = await this.familyService.getFamilyByUserId(userEntity.userId)
+		if (family) familyId = family.familyId
+
+		const userDto = new UserTokenDto(userEntity, familyId)
 
 		const tokens = this.issueTokens(userDto)
 
@@ -109,7 +122,12 @@ export class AuthService {
 	}
 
 	private issueTokens(user: UserTokenDto) {
-		const data = { id: user.id, role: user.role, email: user.email }
+		const data = {
+			id: user.id,
+			role: user.role,
+			email: user.email,
+			family_id: user.family_id,
+		}
 
 		const accessToken = this.jwt.sign(data, {
 			expiresIn: '1h',

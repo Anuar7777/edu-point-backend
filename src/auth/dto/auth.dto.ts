@@ -4,7 +4,7 @@ import { IsEmail, IsEnum, IsString, Length, MinLength } from 'class-validator'
 
 export class AuthDto {
 	@ApiProperty({
-		example: 'parent@smartbala.com',
+		example: 'aigul@smartbala.com',
 		description: 'User email address',
 	})
 	@IsEmail()

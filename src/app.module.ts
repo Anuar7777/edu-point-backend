@@ -7,12 +7,19 @@ import { FamilyModule } from './family/family.module'
 import { LocationModule } from './location/location.module'
 import { SettingsModule } from './settings/settings.module'
 import { UserModule } from './user/user.module'
+import { ServeStaticModule } from '@nestjs/serve-static'
+import { join } from 'path'
 
 @Module({
 	imports: [
 		ConfigModule.forRoot({
 			isGlobal: true,
 			envFilePath: process.env.NODE_ENV === 'test' ? '.env.test.local' : '.env',
+		}),
+		ServeStaticModule.forRoot({
+			rootPath: join(process.cwd(), 'public'),
+			serveRoot: '/public',
+			exclude: ['/api'],
 		}),
 		AuthModule,
 		UserModule,

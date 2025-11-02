@@ -7,6 +7,7 @@ export const usersData = [
 		email: 'aigul@smartbala.com',
 		password: 'password123',
 		role: Role.PARENT,
+		imageUrl: '/public/images/users/0e23c5ed-9d55-4509-9ac2-27e5a18026fb.png',
 	},
 	{
 		userId: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
@@ -14,6 +15,7 @@ export const usersData = [
 		email: 'ernar@smartbala.com',
 		password: 'password123',
 		role: Role.CHILD,
+		imageUrl: '/public/images/users/d12bec0e-423e-400b-8ba4-9e81c1b382b4.png',
 	},
 	{
 		userId: 'bbca1f7b-825a-44cd-9e0a-2f96975e7ae5',
@@ -21,6 +23,7 @@ export const usersData = [
 		email: 'dana@smartbala.com',
 		password: 'password123',
 		role: Role.CHILD,
+		imageUrl: '/public/images/users/bbca1f7b-825a-44cd-9e0a-2f96975e7ae5.png',
 	},
 	{
 		userId: '26362ffd-4d6c-4ec2-a48b-3703a130d668',
@@ -28,6 +31,7 @@ export const usersData = [
 		email: 'arsen@smartbala.com',
 		password: 'password123',
 		role: Role.CHILD,
+		imageUrl: '/public/images/users/26362ffd-4d6c-4ec2-a48b-3703a130d668.png',
 	},
 	{
 		userId: '38753859-146e-4630-b1b8-b8c093590deb',
@@ -35,5 +39,6 @@ export const usersData = [
 		email: 'madina@smartbala.com',
 		password: 'password123',
 		role: Role.CHILD,
+		imageUrl: '/public/images/users/38753859-146e-4630-b1b8-b8c093590deb.png',
 	},
 ]

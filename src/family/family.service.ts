@@ -11,6 +11,7 @@ import { CodeService } from '../code/code.service'
 import { MailService } from '../mail/mail.service'
 import { PrismaService } from '../prisma.service'
 import { FamilyDto } from './dto/family.dto'
+import { FamilyWithMembers } from 'types'
 
 @Injectable()
 export class FamilyService {
@@ -21,59 +22,67 @@ export class FamilyService {
 		private readonly userService: UserService,
 	) {}
 
-	async get(userId: string) {
-		const familyMember = await this.prisma.familyMember.findFirst({
-			where: { userId },
-			include: {
-				family: {
-					include: {
-						members: {
-							include: {
-								user: {
-									select: {
-										userId: true,
-										username: true,
-										email: true,
-										role: true,
-									},
-								},
-							},
+	private get familyInclude() {
+		return {
+			members: {
+				include: {
+					user: {
+						select: {
+							userId: true,
+							username: true,
+							email: true,
+							role: true,
+							imageUrl: true,
 						},
 					},
 				},
 			},
-		})
-
-		if (!familyMember) {
-			throw new NotFoundException('Family not found for this user')
 		}
-
-		return familyMember.family
 	}
 
-	async create(dto: FamilyDto, userId: string, role: Role) {
-		if (role !== Role.PARENT) {
-			throw new ForbiddenException('Only parents can create a family')
+	private formatFamily(family: FamilyWithMembers) {
+		return {
+			familyId: family.familyId,
+			name: family.name,
+			members: family.members.map(m => ({
+				userId: m.user.userId,
+				username: m.user.username,
+				email: m.user.email,
+				role: m.user.role,
+				imageUrl: m.user.imageUrl,
+			})),
 		}
+	}
 
+	async getFamilyById(familyId: string) {
+		const family = await this.prisma.family.findUnique({
+			where: { familyId },
+			include: this.familyInclude,
+		})
+
+		if (!family) throw new NotFoundException('Family not found')
+
+		return this.formatFamily(family)
+	}
+
+	async getFamilyByUserId(userId: string) {
+		const familyMember = await this.prisma.familyMember.findFirst({
+			where: { userId },
+			include: { family: { include: this.familyInclude } },
+		})
+
+		if (!familyMember?.family)
+			throw new NotFoundException('Family not found for this user')
+
+		return this.formatFamily(familyMember.family)
+	}
+
+	async create(dto: FamilyDto, userId: string) {
 		const existingMember = await this.prisma.familyMember.findFirst({
 			where: { userId },
 			include: {
 				family: {
-					include: {
-						members: {
-							include: {
-								user: {
-									select: {
-										userId: true,
-										username: true,
-										email: true,
-										role: true,
-									},
-								},
-							},
-						},
-					},
+					include: this.familyInclude,
 				},
 			},
 		})
@@ -100,17 +109,7 @@ export class FamilyService {
 		})
 	}
 
-	async update(dto: FamilyDto, familyId: string, userId: string) {
-		const member = await this.prisma.familyMember.findUnique({
-			where: {
-				familyId_userId: { familyId, userId },
-			},
-		})
-
-		if (!member) {
-			throw new NotFoundException('Family not found or access denied')
-		}
-
+	async update(dto: FamilyDto, familyId: string) {
 		return this.prisma.family.update({
 			where: { familyId },
 			data: { ...dto },

@@ -17,11 +17,13 @@ model User {
   bonusTime  Int?           @map("bonus_time")
   points     Int            @default(0)
   isVerified Boolean        @default(false)
+  imageUrl   String?        @map("image_url")
   codes      Code[]
   families   FamilyMember[]
   UserCourse UserCourse[]
   Settings   Settings[]
   Location   Location[]
+  History    History[]
 
   @@map("user")
 }
@@ -96,8 +98,30 @@ model Section {
   imageUrl          String?            @map("image_url")
   questionTemplates QuestionTemplate[]
   course            Course             @relation(fields: [courseId], references: [courseId], onDelete: Cascade)
+  History           History[]
 
   @@map("section")
+}
+
+model History {
+  historyId String        @id @default(uuid()) @map("history_id")
+  questions Json
+  results   Json?
+  status    HistoryStatus
+
+  sectionId String  @map("section_id")
+  section   Section @relation(fields: [sectionId], references: [sectionId], onDelete: Cascade)
+
+  userId String
+  user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
+
+  @@map("history")
+}
+
+enum HistoryStatus {
+  PASSED
+  FAILED
+  PENDING
 }
 
 model QuestionTemplate {

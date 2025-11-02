@@ -5,8 +5,8 @@ export interface Instance {
 	correctAnswer: string
 	variables: Record<string, number>
 }
-// TODO: Replace the absolute path from env with a dynamic __dirname resolution once the issue is fixed.
-const templatesDir = `${process.env.PROJECT_PATH}/prisma/seed/courses/math/instances`
+
+const templatesDir = `${process.cwd()}/prisma/seed/courses/math/instances`
 
 export function loadInstance(fileName: string): Instance[] {
 	const filePath = `${templatesDir}/${fileName}`
