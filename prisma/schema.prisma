@@ -23,7 +23,7 @@ model User {
   UserCourse UserCourse[]
   Settings   Settings[]
   Location   Location[]
-  History    History[]
+  Test       Test[]
 
   @@map("user")
 }
@@ -98,16 +98,18 @@ model Section {
   imageUrl          String?            @map("image_url")
   questionTemplates QuestionTemplate[]
   course            Course             @relation(fields: [courseId], references: [courseId], onDelete: Cascade)
-  History           History[]
+  Test              Test[]
 
   @@map("section")
 }
 
-model History {
-  historyId String        @id @default(uuid()) @map("history_id")
+model Test {
+  testId    String     @id @default(uuid()) @map("test_id")
   questions Json
   results   Json?
-  status    HistoryStatus
+  status    TestStatus
+  score     Int?       @default(0)
+  updatedAt DateTime   @updatedAt @map("updated_at")
 
   sectionId String  @map("section_id")
   section   Section @relation(fields: [sectionId], references: [sectionId], onDelete: Cascade)
@@ -115,10 +117,10 @@ model History {
   userId String
   user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
 
-  @@map("history")
+  @@map("test")
 }
 
-enum HistoryStatus {
+enum TestStatus {
   PASSED
   FAILED
   PENDING

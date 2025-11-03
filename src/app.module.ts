@@ -9,6 +9,8 @@ import { SettingsModule } from './settings/settings.module'
 import { UserModule } from './user/user.module'
 import { ServeStaticModule } from '@nestjs/serve-static'
 import { join } from 'path'
+import { TestModule } from './test/test.module'
+import { SectionModule } from './section/section.module';
 
 @Module({
 	imports: [
@@ -28,6 +30,8 @@ import { join } from 'path'
 		CourseModule,
 		SettingsModule,
 		LocationModule,
+		TestModule,
+		SectionModule,
 	],
 })
 export class AppModule {}

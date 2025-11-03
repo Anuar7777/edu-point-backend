@@ -15,7 +15,12 @@ async function bootstrap() {
 		const configService = app.get(ConfigService)
 
 		app.setGlobalPrefix('api')
-		app.useGlobalPipes(new ValidationPipe({ whitelist: true, transform: true }))
+		app.useGlobalPipes(
+			new ValidationPipe({
+				whitelist: true,
+				transform: true,
+			}),
+		)
 		app.use(cookieParser())
 
 		app.use(
