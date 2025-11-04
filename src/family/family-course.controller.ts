@@ -20,7 +20,7 @@ export class FamilyCourseController {
 	constructor(private readonly familyCourseService: FamilyCourseService) {}
 
 	@HttpCode(200)
-	@Get(':childId')
+	@Get(':childId/course')
 	@ApiOperation({ summary: 'Get all courses assigned to a child' })
 	@ApiResponse({
 		status: 200,

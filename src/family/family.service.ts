@@ -21,7 +21,7 @@ export class FamilyService {
 		private readonly mailService: MailService,
 		private readonly userService: UserService,
 	) {}
-
+	// TODO: Then rewrite this bad code
 	private get familyInclude() {
 		return {
 			members: {
@@ -203,5 +203,30 @@ export class FamilyService {
 		})
 
 		return { message: 'Child removed from family' }
+	}
+
+	async getChildProfile(familyId: string, childId: string) {
+		const isChildInFamily = await this.isUserInFamily(familyId, childId)
+
+		if (!isChildInFamily) {
+			throw new NotFoundException('Child not found')
+		}
+		
+		return this.userService.getProfile(childId)
+	}
+
+	async isUserInFamily(familyId: string, userId: string) {
+		const family = await this.prisma.family.findUnique({
+			where: { familyId },
+			include: {
+				members: true,
+			},
+		})
+
+		if (!family) {
+			throw new NotFoundException('Family not found')
+		}
+
+		return family.members.some(member => member.userId === userId)
 	}
 }

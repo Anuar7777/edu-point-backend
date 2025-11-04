@@ -127,4 +127,27 @@ export class FamilyController {
 	) {
 		return this.familyService.removeChild(parentId, childId)
 	}
+
+	@HttpCode(200)
+	@Get('child/:childId')
+	@ApiOperation({ summary: 'Get child profile (by parent)' })
+	@ApiResponse({
+		status: 200,
+		description: 'Successfully retrieved child profile',
+	})
+	@ApiResponse({
+		status: 404,
+		description: 'Child not found or does not belong to this parent',
+	})
+	@ApiParam({
+		name: 'childId',
+		example: 'd12bec0e-423e-400b-8ba4-9e81c1b382b4',
+		description: 'The ID of the child whose profile is being retrieved',
+	})
+	async getChildProfile(
+		@CurrentUser('family_id') familyId: string,
+		@Param('childId') childId: string,
+	) {
+		return this.familyService.getChildProfile(familyId, childId)
+	}
 }

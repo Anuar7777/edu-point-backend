@@ -11,10 +11,14 @@ import {
 	TestAnswer,
 	TestQuestion,
 } from '../section/section.types'
+import { UserCourseService } from 'src/user/user-course.service'
 
 @Injectable()
 export class TestService {
-	constructor(private readonly prisma: PrismaService) {}
+	constructor(
+		private readonly prisma: PrismaService,
+		private readonly userCourseService: UserCourseService,
+	) {}
 
 	async get(testId: string) {
 		const test = await this.prisma.test.findUnique({
@@ -68,6 +72,7 @@ export class TestService {
 				userId,
 				questions,
 				status: TestStatus.PENDING,
+				courseId: section.courseId,
 			},
 		})
 
@@ -104,6 +109,10 @@ export class TestService {
 		const questions = test.questions as unknown as TestQuestion[]
 
 		const { results, score, status } = this.calculateResults(questions, answers)
+
+		if (status === TestStatus.PASSED) {
+			await this.userCourseService.updateProgress(userId, test.courseId)
+		}
 
 		return this.prisma.test.update({
 			where: { testId, userId },

@@ -13,8 +13,6 @@ model User {
   email      String         @unique
   password   String
   role       Role
-  dailyLimit Int?           @default(3600) @map("daily_limit")
-  bonusTime  Int?           @map("bonus_time")
   points     Int            @default(0)
   isVerified Boolean        @default(false)
   imageUrl   String?        @map("image_url")
@@ -68,6 +66,7 @@ model Course {
   tags          CourseTag[]
   sections      Section[]
   userCourses   UserCourse[]
+  Test          Test[]
 
   @@map("course")
 }
@@ -113,6 +112,9 @@ model Test {
 
   sectionId String  @map("section_id")
   section   Section @relation(fields: [sectionId], references: [sectionId], onDelete: Cascade)
+
+  courseId String @map("course_id")
+  course   Course @relation(fields: [courseId], references: [courseId], onDelete: Cascade)
 
   userId String
   user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
