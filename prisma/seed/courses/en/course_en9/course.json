@@ -1,0 +1,1546 @@
+{
+  "courseId": "284c3b4b-acd5-4779-8dd7-317c4f6efbdc",
+  "title": "Everyday English Course 9",
+  "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
+  "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
+  "totalSections": 3,
+  "sections": [
+    {
+      "title": "Section 1: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "Woman: What are you reading, Bill?\nMan: It's this week New Scientist. Why?\nWoman: I was just wondering. It looks interesting. But I've never actually read myself. It's for real scientists, or can ordinary people like me understand it?\nMan: Always for anyone, really. It usually has articles or stories about current affairs about science, as well as papers about new development in research. I'm reading about new telephone that allows you to see the person you are speaking to as well as see him.\nWoman: Oh, I heard about it. Is it on the market yet? Can I buy one?\nMan: No. Not this one. But the company has made other models to try on business. This one is special because its color and image is moving.\nWoman: Oh, that's interesting.\nMan: You see the first video phones. That's what they are called. They made in Japan. But they can only show still black and white image. So this video phone is much better than that. Mind you, I'm not sure I want one, would you?\nWoman: Well, no, I don't think a word. I bet it costs a lot of money. Did it say how much it costs?\nMan: Yes. The yearly black and white one costs several hundreds pounds. But one in the story is about to cost several thousands pounds.\nWoman: Hmm, what does anybody want one, do you think?\nMan: Business organizations that need frequent contact overseas want it. It's like a face-to-face conversation, so maybe a lot of overseas travels can be avoided.\nWoman: Yes, I suppose so.\n{a}",
+          "text_ru": "Woman: What are you reading, Bill?\nMan: It's this week New Scientist. Why?\nWoman: I was just wondering. It looks interesting. But I've never actually read myself. It's for real scientists, or can ordinary people like me understand it?\nMan: Always for anyone, really. It usually has articles or stories about current affairs about science, as well as papers about new development in research. I'm reading about new telephone that allows you to see the person you are speaking to as well as see him.\nWoman: Oh, I heard about it. Is it on the market yet? Can I buy one?\nMan: No. Not this one. But the company has made other models to try on business. This one is special because its color and image is moving.\nWoman: Oh, that's interesting.\nMan: You see the first video phones. That's what they are called. They made in Japan. But they can only show still black and white image. So this video phone is much better than that. Mind you, I'm not sure I want one, would you?\nWoman: Well, no, I don't think a word. I bet it costs a lot of money. Did it say how much it costs?\nMan: Yes. The yearly black and white one costs several hundreds pounds. But one in the story is about to cost several thousands pounds.\nWoman: Hmm, what does anybody want one, do you think?\nMan: Business organizations that need frequent contact overseas want it. It's like a face-to-face conversation, so maybe a lot of overseas travels can be avoided.\nWoman: Yes, I suppose so.\n{a}",
+          "text_kz": "Woman: What are you reading, Bill?\nMan: It's this week New Scientist. Why?\nWoman: I was just wondering. It looks interesting. But I've never actually read myself. It's for real scientists, or can ordinary people like me understand it?\nMan: Always for anyone, really. It usually has articles or stories about current affairs about science, as well as papers about new development in research. I'm reading about new telephone that allows you to see the person you are speaking to as well as see him.\nWoman: Oh, I heard about it. Is it on the market yet? Can I buy one?\nMan: No. Not this one. But the company has made other models to try on business. This one is special because its color and image is moving.\nWoman: Oh, that's interesting.\nMan: You see the first video phones. That's what they are called. They made in Japan. But they can only show still black and white image. So this video phone is much better than that. Mind you, I'm not sure I want one, would you?\nWoman: Well, no, I don't think a word. I bet it costs a lot of money. Did it say how much it costs?\nMan: Yes. The yearly black and white one costs several hundreds pounds. But one in the story is about to cost several thousands pounds.\nWoman: Hmm, what does anybody want one, do you think?\nMan: Business organizations that need frequent contact overseas want it. It's like a face-to-face conversation, so maybe a lot of overseas travels can be avoided.\nWoman: Yes, I suppose so.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "it has color",
+                "it has a moving image",
+                "it costs less money"
+              ],
+              "correctAnswer": "it costs less money",
+              "variables": {
+                "a": "The following details are true about the new device EXCEPT"
+              }
+            },
+            {
+              "answerOptions": [
+                "He wanted to buy one from Japan.",
+                "He wasn't sure about its quality.",
+                "He thought it was expensive."
+              ],
+              "correctAnswer": "He thought it was expensive.",
+              "variables": {
+                "a": "Why didn't Bill want one of them?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She had never read the magazine herself.",
+                "She knew who usually read the magazine.",
+                "She was quite interested in the new device."
+              ],
+              "correctAnswer": "She knew who usually read the magazine.",
+              "variables": {
+                "a": "Which of the following statements is INCORRECT about the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "a new type of telephone",
+                "the cost of telephones",
+                "some features of the magazine"
+              ],
+              "correctAnswer": "a new type of telephone",
+              "variables": {
+                "a": "The conversation is mainly about ________."
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "Heather: Ron, what are you doing?\nRon: Ah, nothing. I'm just looking up some information on the Internet.\nHeather: Like what? Let me see.\nRon: No, no, it's okay. I mean, you know ...\nHeather: Baldness? What are you looking that up for? [Well, you know ... ] I ... I mean, you're not that bad off.\nRon: Ah, there you go. Bringing it up again!\nHeather: No. I mean it. You look great! Honestly, it's not that bad.\nRon: Hey, I get enough of it from friends, and the people at work, and now from you!\nHeather: Well, maybe you could wear a toupee? I think you'd look great.\nRon: Oh no. And have it slip off my head on to my date's dinner plate as I lean over to kiss her? Uh-uh.\nHeather: Well, have you ever thought about seeking medical advice? There are new advances in medicines that not only retard hair loss, but help regenerate new growth.\nRon: Ah, I still don't give much credibility to medical treatment to prevent permanent hair loss.\nHeather: Well, what about accepting the fact that you're just losing your hair?\nRon: I just can't give up hope. I know appearances shouldn't matter, but I don't know. I just feel that women just avoid me.\nHeather: Come on. You can't be serious.\nRon: No really. I've seen it many times. It just, I don't know ...\n{a}",
+          "text_ru": "Heather: Ron, what are you doing?\nRon: Ah, nothing. I'm just looking up some information on the Internet.\nHeather: Like what? Let me see.\nRon: No, no, it's okay. I mean, you know ...\nHeather: Baldness? What are you looking that up for? [Well, you know ... ] I ... I mean, you're not that bad off.\nRon: Ah, there you go. Bringing it up again!\nHeather: No. I mean it. You look great! Honestly, it's not that bad.\nRon: Hey, I get enough of it from friends, and the people at work, and now from you!\nHeather: Well, maybe you could wear a toupee? I think you'd look great.\nRon: Oh no. And have it slip off my head on to my date's dinner plate as I lean over to kiss her? Uh-uh.\nHeather: Well, have you ever thought about seeking medical advice? There are new advances in medicines that not only retard hair loss, but help regenerate new growth.\nRon: Ah, I still don't give much credibility to medical treatment to prevent permanent hair loss.\nHeather: Well, what about accepting the fact that you're just losing your hair?\nRon: I just can't give up hope. I know appearances shouldn't matter, but I don't know. I just feel that women just avoid me.\nHeather: Come on. You can't be serious.\nRon: No really. I've seen it many times. It just, I don't know ...\n{a}",
+          "text_kz": "Heather: Ron, what are you doing?\nRon: Ah, nothing. I'm just looking up some information on the Internet.\nHeather: Like what? Let me see.\nRon: No, no, it's okay. I mean, you know ...\nHeather: Baldness? What are you looking that up for? [Well, you know ... ] I ... I mean, you're not that bad off.\nRon: Ah, there you go. Bringing it up again!\nHeather: No. I mean it. You look great! Honestly, it's not that bad.\nRon: Hey, I get enough of it from friends, and the people at work, and now from you!\nHeather: Well, maybe you could wear a toupee? I think you'd look great.\nRon: Oh no. And have it slip off my head on to my date's dinner plate as I lean over to kiss her? Uh-uh.\nHeather: Well, have you ever thought about seeking medical advice? There are new advances in medicines that not only retard hair loss, but help regenerate new growth.\nRon: Ah, I still don't give much credibility to medical treatment to prevent permanent hair loss.\nHeather: Well, what about accepting the fact that you're just losing your hair?\nRon: I just can't give up hope. I know appearances shouldn't matter, but I don't know. I just feel that women just avoid me.\nHeather: Come on. You can't be serious.\nRon: No really. I've seen it many times. It just, I don't know ...\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "extreme stress",
+                "hair loss",
+                "declining health"
+              ],
+              "correctAnswer": "hair loss",
+              "variables": {
+                "a": "What is the main problem discussed in the conversation?"
+              }
+            },
+            {
+              "answerOptions": [
+                "old friends",
+                "brother and sister",
+                "colleagues from work"
+              ],
+              "correctAnswer": "brother and sister",
+              "variables": {
+                "a": "Based on the conversation, what is the most probable relationship between the speakers?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He feels medical treatment is still unproven for his condition.",
+                "He is worried about the side effects of the medication.",
+                "He thinks the treatment is too expensive."
+              ],
+              "correctAnswer": "He feels medical treatment is still unproven for his condition.",
+              "variables": {
+                "a": "Why is the man hesitant about seeking medical treatment for his condition?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He continues to look for other solutions to his problem.",
+                "He decides to visit a doctor at his sister's urging.",
+                "He finally accepts that state of his condition."
+              ],
+              "correctAnswer": "He continues to look for other solutions to his problem.",
+              "variables": {
+                "a": "What does the man probably do at the end of the conversation?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Are you free this evening? Would you like to come with me to the International Center?\nM: I remember receiving their calendar of activities in my campus mailbox a week ago. I didn't really look at it, though. Isn't that where they organize parties and trips for foreign students?\nW: Not only for foreign students. The International Center's activities are intended for all students. They set up conversation tutorials for a variety of languages, and through the Center's Host Family Program, you can visit the home of a local family.\nM: Now that you mention it, it would be nice to meet more people from this area. I find the customs of this country really confusing sometimes. But also there are times when I need to talk to people who come from other countries as I do. I'll bet a lot of them feel the way I do.\nW: Of course. You are not the only person who is new around here. Take me. My family lives 500 miles away from here. That isn't another country, but it is a long distance. The center is a good place for meeting people who can tell you how to get to know this city. And if you ever feel lonely, you can go over there and find someone to chat with. On weekday nights, they don't close until 11:30.\nM: I guess it's worth visiting. Did you say you are going there tonight?\nW: Uh-huh, to a coffee hour at eight.\nM: All right. I'll come, too. I might as well see what the International Center is like. How about meeting me in front of the library and we'll walk there together?\nW: Sure. See you then.\n{a}",
+          "text_ru": "W: Are you free this evening? Would you like to come with me to the International Center?\nM: I remember receiving their calendar of activities in my campus mailbox a week ago. I didn't really look at it, though. Isn't that where they organize parties and trips for foreign students?\nW: Not only for foreign students. The International Center's activities are intended for all students. They set up conversation tutorials for a variety of languages, and through the Center's Host Family Program, you can visit the home of a local family.\nM: Now that you mention it, it would be nice to meet more people from this area. I find the customs of this country really confusing sometimes. But also there are times when I need to talk to people who come from other countries as I do. I'll bet a lot of them feel the way I do.\nW: Of course. You are not the only person who is new around here. Take me. My family lives 500 miles away from here. That isn't another country, but it is a long distance. The center is a good place for meeting people who can tell you how to get to know this city. And if you ever feel lonely, you can go over there and find someone to chat with. On weekday nights, they don't close until 11:30.\nM: I guess it's worth visiting. Did you say you are going there tonight?\nW: Uh-huh, to a coffee hour at eight.\nM: All right. I'll come, too. I might as well see what the International Center is like. How about meeting me in front of the library and we'll walk there together?\nW: Sure. See you then.\n{a}",
+          "text_kz": "W: Are you free this evening? Would you like to come with me to the International Center?\nM: I remember receiving their calendar of activities in my campus mailbox a week ago. I didn't really look at it, though. Isn't that where they organize parties and trips for foreign students?\nW: Not only for foreign students. The International Center's activities are intended for all students. They set up conversation tutorials for a variety of languages, and through the Center's Host Family Program, you can visit the home of a local family.\nM: Now that you mention it, it would be nice to meet more people from this area. I find the customs of this country really confusing sometimes. But also there are times when I need to talk to people who come from other countries as I do. I'll bet a lot of them feel the way I do.\nW: Of course. You are not the only person who is new around here. Take me. My family lives 500 miles away from here. That isn't another country, but it is a long distance. The center is a good place for meeting people who can tell you how to get to know this city. And if you ever feel lonely, you can go over there and find someone to chat with. On weekday nights, they don't close until 11:30.\nM: I guess it's worth visiting. Did you say you are going there tonight?\nW: Uh-huh, to a coffee hour at eight.\nM: All right. I'll come, too. I might as well see what the International Center is like. How about meeting me in front of the library and we'll walk there together?\nW: Sure. See you then.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A diagram of their facilities.",
+                "A timetable of events.",
+                "Maps of the city."
+              ],
+              "correctAnswer": "A timetable of events.",
+              "variables": {
+                "a": "What does the International Center send out to students?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Confused.",
+                "Angry.",
+                "Disinterested."
+              ],
+              "correctAnswer": "Confused.",
+              "variables": {
+                "a": "How does the man feel about the local customs?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They live far away.",
+                "They frequently invite students to their home.",
+                "They come from another country."
+              ],
+              "correctAnswer": "They live far away.",
+              "variables": {
+                "a": "What does the woman say about her family?"
+              }
+            },
+            {
+              "answerOptions": [
+                "11:30",
+                "10:30",
+                "8:00"
+              ],
+              "correctAnswer": "11:30",
+              "variables": {
+                "a": "When does the International Center close on weekday night?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: What are you reading, Paul?\nM: Oh, it's a book about naval engineering.\nW: Why are you reading on Friday evening?\nM: Because I've got to write an essay this weekend.\nW: What are you going to do when you've qualified?\nM: I don't know. I'd like to get a job abroad, I think. What are you going to do when your year at Weston is over?\nW: I'm going to spend a few weeks touring Britain, then I'm going back to Canada, I suppose.\nM: What is John going to do?\nW: I think he's going to open a branch of\" pretty feet\"in London.\nM: What is he doing in Italy?\nW: He's seeing some designers here. He's coming back tomorrow. By the way, what are you and Sue doing on Saturday evening?\nM: I don't know yet. Why?\nW: Well, I thought we could cook another of our suppers and invite John and Sue.\nM: Oh, no! Not Potato Salad again! Sorry, Barbara, but I really have to read this book.\n{a}",
+          "text_ru": "W: What are you reading, Paul?\nM: Oh, it's a book about naval engineering.\nW: Why are you reading on Friday evening?\nM: Because I've got to write an essay this weekend.\nW: What are you going to do when you've qualified?\nM: I don't know. I'd like to get a job abroad, I think. What are you going to do when your year at Weston is over?\nW: I'm going to spend a few weeks touring Britain, then I'm going back to Canada, I suppose.\nM: What is John going to do?\nW: I think he's going to open a branch of\" pretty feet\"in London.\nM: What is he doing in Italy?\nW: He's seeing some designers here. He's coming back tomorrow. By the way, what are you and Sue doing on Saturday evening?\nM: I don't know yet. Why?\nW: Well, I thought we could cook another of our suppers and invite John and Sue.\nM: Oh, no! Not Potato Salad again! Sorry, Barbara, but I really have to read this book.\n{a}",
+          "text_kz": "W: What are you reading, Paul?\nM: Oh, it's a book about naval engineering.\nW: Why are you reading on Friday evening?\nM: Because I've got to write an essay this weekend.\nW: What are you going to do when you've qualified?\nM: I don't know. I'd like to get a job abroad, I think. What are you going to do when your year at Weston is over?\nW: I'm going to spend a few weeks touring Britain, then I'm going back to Canada, I suppose.\nM: What is John going to do?\nW: I think he's going to open a branch of\" pretty feet\"in London.\nM: What is he doing in Italy?\nW: He's seeing some designers here. He's coming back tomorrow. By the way, what are you and Sue doing on Saturday evening?\nM: I don't know yet. Why?\nW: Well, I thought we could cook another of our suppers and invite John and Sue.\nM: Oh, no! Not Potato Salad again! Sorry, Barbara, but I really have to read this book.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Wednesday.",
+                "Thursday.",
+                "Friday."
+              ],
+              "correctAnswer": "Friday.",
+              "variables": {
+                "a": "When does the conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "America.",
+                "Canada.",
+                "Italy."
+              ],
+              "correctAnswer": "Canada.",
+              "variables": {
+                "a": "Where does Barbara come from?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To open a shoe shop.",
+                "To tour Britain.",
+                "To get a job abroad."
+              ],
+              "correctAnswer": "To open a shoe shop.",
+              "variables": {
+                "a": "What is John's plan for the future?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Paul doesn't want to go with Barbara.",
+                "Paul doesn't like potato salad.",
+                "Paul doesn't like parties."
+              ],
+              "correctAnswer": "Paul doesn't like potato salad.",
+              "variables": {
+                "a": "What do you know from the dialogue?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: I find it really hard to express myself in class. I have lots of ideas, but they never seem to come out of my mouth.\nM: Let me give you a little advice. You know what the topics are, so prepare what you would like to say ahead of time.\nW: I often do like that, but I'm worried about the responses from other people.\nM: You have to be realistic. Not everyone is going to agree with you, but people will respect your opinion and they will respect the fact that you have contributed something to the discussion.\nW: I'm worried that what I say will not make sense.\nM: We could chat about the topic before class. I could check that what you want to say is logical and it would also give you a chance to practice speaking.\nW: That's a good idea. What should I do if I have two minds about a topic?\nM: That's easy. Express possibilities. People will think that you are pretty smart to look at the topic from more than one angle.\nW: I didn't realize that speaking in class could be so easy.\nM: The most difficult thing is to predict what other people will say. They will reply to your statements. but you can't be sure how.\n{a}",
+          "text_ru": "W: I find it really hard to express myself in class. I have lots of ideas, but they never seem to come out of my mouth.\nM: Let me give you a little advice. You know what the topics are, so prepare what you would like to say ahead of time.\nW: I often do like that, but I'm worried about the responses from other people.\nM: You have to be realistic. Not everyone is going to agree with you, but people will respect your opinion and they will respect the fact that you have contributed something to the discussion.\nW: I'm worried that what I say will not make sense.\nM: We could chat about the topic before class. I could check that what you want to say is logical and it would also give you a chance to practice speaking.\nW: That's a good idea. What should I do if I have two minds about a topic?\nM: That's easy. Express possibilities. People will think that you are pretty smart to look at the topic from more than one angle.\nW: I didn't realize that speaking in class could be so easy.\nM: The most difficult thing is to predict what other people will say. They will reply to your statements. but you can't be sure how.\n{a}",
+          "text_kz": "W: I find it really hard to express myself in class. I have lots of ideas, but they never seem to come out of my mouth.\nM: Let me give you a little advice. You know what the topics are, so prepare what you would like to say ahead of time.\nW: I often do like that, but I'm worried about the responses from other people.\nM: You have to be realistic. Not everyone is going to agree with you, but people will respect your opinion and they will respect the fact that you have contributed something to the discussion.\nW: I'm worried that what I say will not make sense.\nM: We could chat about the topic before class. I could check that what you want to say is logical and it would also give you a chance to practice speaking.\nW: That's a good idea. What should I do if I have two minds about a topic?\nM: That's easy. Express possibilities. People will think that you are pretty smart to look at the topic from more than one angle.\nW: I didn't realize that speaking in class could be so easy.\nM: The most difficult thing is to predict what other people will say. They will reply to your statements. but you can't be sure how.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She can express herself fluently.",
+                "She doesn't speak a word in class.",
+                "Many ideas never seem to come out of her mouth."
+              ],
+              "correctAnswer": "Many ideas never seem to come out of her mouth.",
+              "variables": {
+                "a": "What's the woman's problem when she speaks in class?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Prepare what she would like to say in advance.",
+                "Be realistic before preparation for top.",
+                "Find a chance to practice speaking frequently."
+              ],
+              "correctAnswer": "Prepare what she would like to say in advance.",
+              "variables": {
+                "a": "What does the man advise the woman to do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Exhausting.",
+                "Not a bit difficult.",
+                "Gossipy."
+              ],
+              "correctAnswer": "Not a bit difficult.",
+              "variables": {
+                "a": "How did the woman feel about speaking in class after the man's explanations?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To respect others' statements.",
+                "To predict what others will say.",
+                "To express ideas in different ways."
+              ],
+              "correctAnswer": "To predict what others will say.",
+              "variables": {
+                "a": "What difficulty must the woman face?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hello, darling. I've just heard I have to go to Italy for a couple of days. I am flying this evening.\nW: Oh, David. Do you really have to go? You know the Johnsons are coming around to see us tonight.\nM: Yes, I know. But I can't help it. They'll have to come some other time.\nW: Then we won't be able to go to the theatre tomorrow.\nM: No, I am afraid we have to change all our plans.\nW: All right. David, when exactly are you leaving then?\nM: I am taking the 7 o'clock plane to Rome.\nW: Are you coming home before you go to the airport?\nM: I am afraid I can't. I am still having a talk with my boss here.\nW: What about your suitcase?\nM: I am afraid you'll have to pack it for me.\nW: And who is fetching it for you?\nM: You'll bring it, darling.\nW: Why me?\nM: Because you are coming with me. It's your birthday on Saturday and this trip is my birthday present for you. I'll meet you at the airport, three quarters before the flight. Don't forget anything and don't be late. See you later, darling.\n{a}",
+          "text_ru": "M: Hello, darling. I've just heard I have to go to Italy for a couple of days. I am flying this evening.\nW: Oh, David. Do you really have to go? You know the Johnsons are coming around to see us tonight.\nM: Yes, I know. But I can't help it. They'll have to come some other time.\nW: Then we won't be able to go to the theatre tomorrow.\nM: No, I am afraid we have to change all our plans.\nW: All right. David, when exactly are you leaving then?\nM: I am taking the 7 o'clock plane to Rome.\nW: Are you coming home before you go to the airport?\nM: I am afraid I can't. I am still having a talk with my boss here.\nW: What about your suitcase?\nM: I am afraid you'll have to pack it for me.\nW: And who is fetching it for you?\nM: You'll bring it, darling.\nW: Why me?\nM: Because you are coming with me. It's your birthday on Saturday and this trip is my birthday present for you. I'll meet you at the airport, three quarters before the flight. Don't forget anything and don't be late. See you later, darling.\n{a}",
+          "text_kz": "M: Hello, darling. I've just heard I have to go to Italy for a couple of days. I am flying this evening.\nW: Oh, David. Do you really have to go? You know the Johnsons are coming around to see us tonight.\nM: Yes, I know. But I can't help it. They'll have to come some other time.\nW: Then we won't be able to go to the theatre tomorrow.\nM: No, I am afraid we have to change all our plans.\nW: All right. David, when exactly are you leaving then?\nM: I am taking the 7 o'clock plane to Rome.\nW: Are you coming home before you go to the airport?\nM: I am afraid I can't. I am still having a talk with my boss here.\nW: What about your suitcase?\nM: I am afraid you'll have to pack it for me.\nW: And who is fetching it for you?\nM: You'll bring it, darling.\nW: Why me?\nM: Because you are coming with me. It's your birthday on Saturday and this trip is my birthday present for you. I'll meet you at the airport, three quarters before the flight. Don't forget anything and don't be late. See you later, darling.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "At home.",
+                "At the office.",
+                "At a travel agency."
+              ],
+              "correctAnswer": "At the office.",
+              "variables": {
+                "a": "Where is the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To travel abroad.",
+                "To go to the theatre.",
+                "To meet their friends."
+              ],
+              "correctAnswer": "To travel abroad.",
+              "variables": {
+                "a": "What are the speakers going to do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "At 3:15 pm.",
+                "At 7:00 pm.",
+                "At 6:15 pm."
+              ],
+              "correctAnswer": "At 6:15 pm.",
+              "variables": {
+                "a": "When will the speakers meet?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He is sensitive.",
+                "He is humorous.",
+                "He is dishonest."
+              ],
+              "correctAnswer": "He is humorous.",
+              "variables": {
+                "a": "What do we know about the man?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: My mom thinks that we should name the baby after her. What do you think?\nM: I think your mom is a little too selfish! Plus, I don't really think \"Betty Bettson\" sounds like a name I'd want to have.\nW: OK. I just had to ask. I didn't like the idea much, either. I really love the name Laura, though.\nM: That's nice. But I think we should give her a really strong name so she's tough. How about Helga or Josephine?\nW: Those names make me think of unattractive women! Helga sounds like a lady who could carry me under her arm!\nM: That's the idea! I don't want anyone thinking they can mess with my daughter. I want her to be able to stand up to people, especially any boys who might try to look at her.\nW: I don't think a name has that much power, dear.\nM: OK. I see your point. I'll just have to take care of the boys myself. I know this baby is going to be beautiful!\nW: That's right. Let's not give her an ugly name! How about something more elegant, like Victoria?\nM: I like that!\n{a}",
+          "text_ru": "W: My mom thinks that we should name the baby after her. What do you think?\nM: I think your mom is a little too selfish! Plus, I don't really think \"Betty Bettson\" sounds like a name I'd want to have.\nW: OK. I just had to ask. I didn't like the idea much, either. I really love the name Laura, though.\nM: That's nice. But I think we should give her a really strong name so she's tough. How about Helga or Josephine?\nW: Those names make me think of unattractive women! Helga sounds like a lady who could carry me under her arm!\nM: That's the idea! I don't want anyone thinking they can mess with my daughter. I want her to be able to stand up to people, especially any boys who might try to look at her.\nW: I don't think a name has that much power, dear.\nM: OK. I see your point. I'll just have to take care of the boys myself. I know this baby is going to be beautiful!\nW: That's right. Let's not give her an ugly name! How about something more elegant, like Victoria?\nM: I like that!\n{a}",
+          "text_kz": "W: My mom thinks that we should name the baby after her. What do you think?\nM: I think your mom is a little too selfish! Plus, I don't really think \"Betty Bettson\" sounds like a name I'd want to have.\nW: OK. I just had to ask. I didn't like the idea much, either. I really love the name Laura, though.\nM: That's nice. But I think we should give her a really strong name so she's tough. How about Helga or Josephine?\nW: Those names make me think of unattractive women! Helga sounds like a lady who could carry me under her arm!\nM: That's the idea! I don't want anyone thinking they can mess with my daughter. I want her to be able to stand up to people, especially any boys who might try to look at her.\nW: I don't think a name has that much power, dear.\nM: OK. I see your point. I'll just have to take care of the boys myself. I know this baby is going to be beautiful!\nW: That's right. Let's not give her an ugly name! How about something more elegant, like Victoria?\nM: I like that!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Betty.",
+                "Laura.",
+                "Josephine."
+              ],
+              "correctAnswer": "Betty.",
+              "variables": {
+                "a": "What is the name of the woman's mother?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Innocent.",
+                "Beautiful.",
+                "Tough."
+              ],
+              "correctAnswer": "Tough.",
+              "variables": {
+                "a": "What does the man want his daughter to be like?"
+              }
+            },
+            {
+              "answerOptions": [
+                "All girls' names are attractive.",
+                "Babies should be named after relatives.",
+                "Names don't influence personality."
+              ],
+              "correctAnswer": "Names don't influence personality.",
+              "variables": {
+                "a": "What is the woman's attitude toward names?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Name the baby Victoria.",
+                "Let grandma name the baby.",
+                "Continue to search for the right name."
+              ],
+              "correctAnswer": "Name the baby Victoria.",
+              "variables": {
+                "a": "What will the speakers probably do?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Have you any plan for the weekend, Tom?\nM: Yeah, Laura. I'm going for a ride around the Qinghai Lake on Saturday, but it depends on the weather.\nW: According to the forecast, it'll be cloudy the day after tomorrow, good for a ride.\nM: Great! Do you go riding often?\nW: Absolutely. I go as much as I can, because we can really get in touch with nature. It would be nice to get out of the city. Do you want any company?\nM: Sure, but it will be a 30-mile ride. Have you been riding so long before?\nW: Yeah, I go a lot too. I even saw a bear and some monkeys on my last ride. My friend Mike and I rode more than 30 miles to a very wild part of the national forest.\nM: Wow! You must have been pretty far away from the city. Shall we invite him to go along?\nW: Of course. I'll ask him.\nM: Thanks. We will have a good time this weekend.\n{a}",
+          "text_ru": "W: Have you any plan for the weekend, Tom?\nM: Yeah, Laura. I'm going for a ride around the Qinghai Lake on Saturday, but it depends on the weather.\nW: According to the forecast, it'll be cloudy the day after tomorrow, good for a ride.\nM: Great! Do you go riding often?\nW: Absolutely. I go as much as I can, because we can really get in touch with nature. It would be nice to get out of the city. Do you want any company?\nM: Sure, but it will be a 30-mile ride. Have you been riding so long before?\nW: Yeah, I go a lot too. I even saw a bear and some monkeys on my last ride. My friend Mike and I rode more than 30 miles to a very wild part of the national forest.\nM: Wow! You must have been pretty far away from the city. Shall we invite him to go along?\nW: Of course. I'll ask him.\nM: Thanks. We will have a good time this weekend.\n{a}",
+          "text_kz": "W: Have you any plan for the weekend, Tom?\nM: Yeah, Laura. I'm going for a ride around the Qinghai Lake on Saturday, but it depends on the weather.\nW: According to the forecast, it'll be cloudy the day after tomorrow, good for a ride.\nM: Great! Do you go riding often?\nW: Absolutely. I go as much as I can, because we can really get in touch with nature. It would be nice to get out of the city. Do you want any company?\nM: Sure, but it will be a 30-mile ride. Have you been riding so long before?\nW: Yeah, I go a lot too. I even saw a bear and some monkeys on my last ride. My friend Mike and I rode more than 30 miles to a very wild part of the national forest.\nM: Wow! You must have been pretty far away from the city. Shall we invite him to go along?\nW: Of course. I'll ask him.\nM: Thanks. We will have a good time this weekend.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "On Thursday.",
+                "On Friday.",
+                "On Saturday."
+              ],
+              "correctAnswer": "On Thursday.",
+              "variables": {
+                "a": "When does the dialogue take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Riding a lot.",
+                "Riding with Tom every weekend.",
+                "Riding around the Qinghai Lake."
+              ],
+              "correctAnswer": "Riding a lot.",
+              "variables": {
+                "a": "What does the woman like doing?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Near the lake.",
+                "In the city.",
+                "In the national forest."
+              ],
+              "correctAnswer": "In the national forest.",
+              "variables": {
+                "a": "Where did the woman see the animals?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Tom's.",
+                "Laura's.",
+                "Mike's."
+              ],
+              "correctAnswer": "Laura's.",
+              "variables": {
+                "a": "Whose friend will be invited to go along?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: So, what seems to be the problem, Bobby?\nM: Dr. Cardano, I woke up in the middle of the night with a terrible pain in my right foot.\nW: Did you cut yourself or knock it against something?\nM: No. It just started hurting all of a sudden.\nW: Can you describe the pain for me? Is it a sharp pain that comes and goes? Or is it a constant, dull pain that doesn't really ever go away?\nM: I suppose it's more like the first one. But it's definitely difficult to walk, so it's not really going away, either.\nW: Let me see those feet, Bobby.\nM: Do you want me to take off both socks?\nW: Yes, I'd like to compare your right and left foot. Ah, the right foot is pretty red, and it looks bigger than the left one. It also feels warmer.\nM: What does it mean, doctor?\nW: Well, I don't know for sure. It could be one of a couple of things. I'm going to send you up to the lab to get some blood tests. Check in to the lab on the third floor. I'm sending them some instructions. Come back down here as soon as it's finished.\nM: OK. I need to use the restroom first. Can you tell me where that is?\nW: Go downstairs to the first floor. It's right next to the elevators.\nM: Thanks.\n{a}",
+          "text_ru": "W: So, what seems to be the problem, Bobby?\nM: Dr. Cardano, I woke up in the middle of the night with a terrible pain in my right foot.\nW: Did you cut yourself or knock it against something?\nM: No. It just started hurting all of a sudden.\nW: Can you describe the pain for me? Is it a sharp pain that comes and goes? Or is it a constant, dull pain that doesn't really ever go away?\nM: I suppose it's more like the first one. But it's definitely difficult to walk, so it's not really going away, either.\nW: Let me see those feet, Bobby.\nM: Do you want me to take off both socks?\nW: Yes, I'd like to compare your right and left foot. Ah, the right foot is pretty red, and it looks bigger than the left one. It also feels warmer.\nM: What does it mean, doctor?\nW: Well, I don't know for sure. It could be one of a couple of things. I'm going to send you up to the lab to get some blood tests. Check in to the lab on the third floor. I'm sending them some instructions. Come back down here as soon as it's finished.\nM: OK. I need to use the restroom first. Can you tell me where that is?\nW: Go downstairs to the first floor. It's right next to the elevators.\nM: Thanks.\n{a}",
+          "text_kz": "W: So, what seems to be the problem, Bobby?\nM: Dr. Cardano, I woke up in the middle of the night with a terrible pain in my right foot.\nW: Did you cut yourself or knock it against something?\nM: No. It just started hurting all of a sudden.\nW: Can you describe the pain for me? Is it a sharp pain that comes and goes? Or is it a constant, dull pain that doesn't really ever go away?\nM: I suppose it's more like the first one. But it's definitely difficult to walk, so it's not really going away, either.\nW: Let me see those feet, Bobby.\nM: Do you want me to take off both socks?\nW: Yes, I'd like to compare your right and left foot. Ah, the right foot is pretty red, and it looks bigger than the left one. It also feels warmer.\nM: What does it mean, doctor?\nW: Well, I don't know for sure. It could be one of a couple of things. I'm going to send you up to the lab to get some blood tests. Check in to the lab on the third floor. I'm sending them some instructions. Come back down here as soon as it's finished.\nM: OK. I need to use the restroom first. Can you tell me where that is?\nW: Go downstairs to the first floor. It's right next to the elevators.\nM: Thanks.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "After he woke up at night.",
+                "When he cut it by accident.",
+                "Once he knocked it against something."
+              ],
+              "correctAnswer": "After he woke up at night.",
+              "variables": {
+                "a": "When did Bobby notice his foot was hurting?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Dull.",
+                "Sharp.",
+                "Constant."
+              ],
+              "correctAnswer": "Sharp.",
+              "variables": {
+                "a": "How does Bobby describe the pain?"
+              }
+            },
+            {
+              "answerOptions": [
+                "On the first floor.",
+                "On the second floor.",
+                "On the third floor."
+              ],
+              "correctAnswer": "On the second floor.",
+              "variables": {
+                "a": "Where are the speakers talking?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Go to the restroom.",
+                "Have some blood tests.",
+                "Write down some instructions."
+              ],
+              "correctAnswer": "Go to the restroom.",
+              "variables": {
+                "a": "What is Bobby going to do first?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: You look upset these days. Anything wrong?\nM: Not really, I'm just worried about my daughter.\nW: Oh, you mean Susan. Why? She's such a nice girl.\nM: Yeah I know. But somehow she's become different recently.\nW: In what ways? What has she done?\nM: Oh, no, you don't really want to hear it.\nW: Come on. I am a mother of two girls.\nM: Ok. I'm worried because she often hides in her room and sends messages to her friends.\nW: Come on. It's not a big deal. She needs friends at this age. You can talk with her if you are really concerned.\nM: I guess so. Anyway, she is growing up.\n{a}",
+          "text_ru": "W: You look upset these days. Anything wrong?\nM: Not really, I'm just worried about my daughter.\nW: Oh, you mean Susan. Why? She's such a nice girl.\nM: Yeah I know. But somehow she's become different recently.\nW: In what ways? What has she done?\nM: Oh, no, you don't really want to hear it.\nW: Come on. I am a mother of two girls.\nM: Ok. I'm worried because she often hides in her room and sends messages to her friends.\nW: Come on. It's not a big deal. She needs friends at this age. You can talk with her if you are really concerned.\nM: I guess so. Anyway, she is growing up.\n{a}",
+          "text_kz": "W: You look upset these days. Anything wrong?\nM: Not really, I'm just worried about my daughter.\nW: Oh, you mean Susan. Why? She's such a nice girl.\nM: Yeah I know. But somehow she's become different recently.\nW: In what ways? What has she done?\nM: Oh, no, you don't really want to hear it.\nW: Come on. I am a mother of two girls.\nM: Ok. I'm worried because she often hides in her room and sends messages to her friends.\nW: Come on. It's not a big deal. She needs friends at this age. You can talk with her if you are really concerned.\nM: I guess so. Anyway, she is growing up.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "The man's mother.",
+                "The man's wife.",
+                "The man's daughter."
+              ],
+              "correctAnswer": "The man's daughter.",
+              "variables": {
+                "a": "Whom are the two persons talking about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She communicates with her friends a lot.",
+                "She refuses to talk to her father.",
+                "She refuses to go to school."
+              ],
+              "correctAnswer": "She communicates with her friends a lot.",
+              "variables": {
+                "a": "How does the girl change?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He'll worry about her.",
+                "He'll talk with her daughter.",
+                "He'll talk to a doctor."
+              ],
+              "correctAnswer": "He'll talk with her daughter.",
+              "variables": {
+                "a": "What will the man do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Parents should watch their children closely.",
+                "Children need friends when growing up.",
+                "Children tend to stay away from their parents."
+              ],
+              "correctAnswer": "Children need friends when growing up.",
+              "variables": {
+                "a": "What do we learn from this conversation?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section 2: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "M: Hey, Karen, you are not really reading it, are you?\nW: Pardon?\nM: The book! You haven't turned the page in the last ten minutes.\nW: No, Jim, I suppose I haven't. I need to get through it, though, but I keep drifting away.\nM: So it doesn't really hold your interest?\nW: No, not really. I wouldn't bother with it, to be honest, but I have to read it for a seminar. I'm at a university.\nM: It's a labor of labor then rather than a labor of love.\nW: I should say, I don't like Dickens at all really, the author, indeed, I am starting to like the whole course less and less.\nM: It's not just the book, it's the curse as well?\nW: Yeah, in a way, although the curse itself isn't really that bad, a lot of it is pretty good, in fact, and the lecturer is fine, as to me, I suppose, you see, I want to do philosophy rather than English, but my parents took me out of it.\nM: So the courses are OK as such, it's just that had if been left to you, you would choose a different one.\nW: Oh, they had my best interest and heart of course, my parents, they always do, don't they? They believe that my job prospect would be pretty limited with the degree of philosophy. Plus, they give me a really generous allowance, but I am beginning to feel that I'm wasting my time and their money. They would be so disappointed though if I told them I was quitting.\n{a}",
+          "text_ru": "M: Hey, Karen, you are not really reading it, are you?\nW: Pardon?\nM: The book! You haven't turned the page in the last ten minutes.\nW: No, Jim, I suppose I haven't. I need to get through it, though, but I keep drifting away.\nM: So it doesn't really hold your interest?\nW: No, not really. I wouldn't bother with it, to be honest, but I have to read it for a seminar. I'm at a university.\nM: It's a labor of labor then rather than a labor of love.\nW: I should say, I don't like Dickens at all really, the author, indeed, I am starting to like the whole course less and less.\nM: It's not just the book, it's the curse as well?\nW: Yeah, in a way, although the curse itself isn't really that bad, a lot of it is pretty good, in fact, and the lecturer is fine, as to me, I suppose, you see, I want to do philosophy rather than English, but my parents took me out of it.\nM: So the courses are OK as such, it's just that had if been left to you, you would choose a different one.\nW: Oh, they had my best interest and heart of course, my parents, they always do, don't they? They believe that my job prospect would be pretty limited with the degree of philosophy. Plus, they give me a really generous allowance, but I am beginning to feel that I'm wasting my time and their money. They would be so disappointed though if I told them I was quitting.\n{a}",
+          "text_kz": "M: Hey, Karen, you are not really reading it, are you?\nW: Pardon?\nM: The book! You haven't turned the page in the last ten minutes.\nW: No, Jim, I suppose I haven't. I need to get through it, though, but I keep drifting away.\nM: So it doesn't really hold your interest?\nW: No, not really. I wouldn't bother with it, to be honest, but I have to read it for a seminar. I'm at a university.\nM: It's a labor of labor then rather than a labor of love.\nW: I should say, I don't like Dickens at all really, the author, indeed, I am starting to like the whole course less and less.\nM: It's not just the book, it's the curse as well?\nW: Yeah, in a way, although the curse itself isn't really that bad, a lot of it is pretty good, in fact, and the lecturer is fine, as to me, I suppose, you see, I want to do philosophy rather than English, but my parents took me out of it.\nM: So the courses are OK as such, it's just that had if been left to you, you would choose a different one.\nW: Oh, they had my best interest and heart of course, my parents, they always do, don't they? They believe that my job prospect would be pretty limited with the degree of philosophy. Plus, they give me a really generous allowance, but I am beginning to feel that I'm wasting my time and their money. They would be so disappointed though if I told them I was quitting.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She lacks interest in it.",
+                "The man keeps interrupting her.",
+                "She finds it too hard."
+              ],
+              "correctAnswer": "She lacks interest in it.",
+              "variables": {
+                "a": "Why can't Karen concentrate on the book?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The lecturers are boring.",
+                "The course is poorly designed.",
+                "She prefers Philosophy to English."
+              ],
+              "correctAnswer": "She prefers Philosophy to English.",
+              "variables": {
+                "a": "Why is Karen starting to like the course less and less?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Karen's friend.",
+                "Karen's parents.",
+                "Karen's lecturers."
+              ],
+              "correctAnswer": "Karen's parents.",
+              "variables": {
+                "a": "Who thinks Philosophy graduates have limited job opportunities?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Leaving the university.",
+                "Spending less of her parents' money.",
+                "Getting transferred to the English Department."
+              ],
+              "correctAnswer": "Leaving the university.",
+              "variables": {
+                "a": "What is Karen thinking of doing?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hello. Can I help you?\nM: Yes, er... I am going to see the West End.\nW: How much time do you have?\nM: Just one day.\nW: Well, what do you particularly want to do?\nM: I want to visit museums, art galleries, Buckingham Palace, do some shopping, go to the theater...\nW: But you only have one day!\nM: That's right.\nW: Well, you can go shopping in the morning.\nM: Where?\nW: In Oxford Street.\nM: How do I get there?\nW: You can walk through Hyde Park. It's quite near.\nM: Good. What time do the shops open?\nW: At nine.\nM: Are there any restaurants in Oxford Street?\nW: Yes, there are lots. You can have lunch there.\nM: Are there any museums near Oxford Street?\nW: Yes, the British Museum. You can go there in the afternoon.\nM: Good, What time does it close?\nW: At five.\nM: I want to go to the theater in the evening.\nW: Well, there are many theaters near there.\nM: Where?\nW: In Shaftsbury Avenue. You can take a bus from the British Museum.\nM: Perfect. Thanks for your help.\nW: You're welcome. Have a good time!\n{a}",
+          "text_ru": "W: Hello. Can I help you?\nM: Yes, er... I am going to see the West End.\nW: How much time do you have?\nM: Just one day.\nW: Well, what do you particularly want to do?\nM: I want to visit museums, art galleries, Buckingham Palace, do some shopping, go to the theater...\nW: But you only have one day!\nM: That's right.\nW: Well, you can go shopping in the morning.\nM: Where?\nW: In Oxford Street.\nM: How do I get there?\nW: You can walk through Hyde Park. It's quite near.\nM: Good. What time do the shops open?\nW: At nine.\nM: Are there any restaurants in Oxford Street?\nW: Yes, there are lots. You can have lunch there.\nM: Are there any museums near Oxford Street?\nW: Yes, the British Museum. You can go there in the afternoon.\nM: Good, What time does it close?\nW: At five.\nM: I want to go to the theater in the evening.\nW: Well, there are many theaters near there.\nM: Where?\nW: In Shaftsbury Avenue. You can take a bus from the British Museum.\nM: Perfect. Thanks for your help.\nW: You're welcome. Have a good time!\n{a}",
+          "text_kz": "W: Hello. Can I help you?\nM: Yes, er... I am going to see the West End.\nW: How much time do you have?\nM: Just one day.\nW: Well, what do you particularly want to do?\nM: I want to visit museums, art galleries, Buckingham Palace, do some shopping, go to the theater...\nW: But you only have one day!\nM: That's right.\nW: Well, you can go shopping in the morning.\nM: Where?\nW: In Oxford Street.\nM: How do I get there?\nW: You can walk through Hyde Park. It's quite near.\nM: Good. What time do the shops open?\nW: At nine.\nM: Are there any restaurants in Oxford Street?\nW: Yes, there are lots. You can have lunch there.\nM: Are there any museums near Oxford Street?\nW: Yes, the British Museum. You can go there in the afternoon.\nM: Good, What time does it close?\nW: At five.\nM: I want to go to the theater in the evening.\nW: Well, there are many theaters near there.\nM: Where?\nW: In Shaftsbury Avenue. You can take a bus from the British Museum.\nM: Perfect. Thanks for your help.\nW: You're welcome. Have a good time!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Oxford.",
+                "London.",
+                "Shaftsbury."
+              ],
+              "correctAnswer": "London.",
+              "variables": {
+                "a": "What city is being talked about in the dialogue?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Buckingham Palace.",
+                "Shops and restaurants.",
+                "Tower of London."
+              ],
+              "correctAnswer": "Tower of London.",
+              "variables": {
+                "a": "Which tourist attraction is NOT mentioned in the dialogue?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Shopping.",
+                "Watching a show.",
+                "Trying the local food."
+              ],
+              "correctAnswer": "Trying the local food.",
+              "variables": {
+                "a": "What is NOT listed in the man's schedule of his tour of the city?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The visitor will see very little of the city.",
+                "The visitor's schedule is extremly full for the day.",
+                "The visitor will be able to see most of the city."
+              ],
+              "correctAnswer": "The visitor's schedule is extremly full for the day.",
+              "variables": {
+                "a": "What can you infer from the dialogue?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Next! Good morning, can I help you?\nM: This place is a madhouse! Everybody is pushing and shoving!\nW: Yes, I know. We are short-handed and we are very crowded today Now what can I do for you?\nM: I want a ticket to New York.\nW: Okay. One way or round trip?\nM: One way, of course. I don't want to hang around here any longer. I was here in Los Angeles last year and I hated it. I come here on business every year and I hate it. It's too spread out, too smoggy!\nW: That'll be $ 375. How would you like to pay?\nM: Cash, of course. I don't believe in plastic money or credit cards, or any of that. Listen, can you hurry it up? You're taking forever!\nW: I'm doing my best, sir. Aisle or window seat?\nM: Window seat.\nW: Smoking or nonsmoking?\nM: Nonsmoking, of course! Oh, by the way, I'm supposed to get a special meal. Doctor's order - I can't eat meat. Last time I had a special salad plate. I'd like one of those this time, too.\nW: I'm sorry. I'm not able to do that. We need twenty-four hours notice for special meal.\nM: What! You can't give me my special salad?\nW: I'm sony. I would like to, but I simply cannot.\nM: Well, I don't give up so easily. Where's your supervisor?\n{a}",
+          "text_ru": "W: Next! Good morning, can I help you?\nM: This place is a madhouse! Everybody is pushing and shoving!\nW: Yes, I know. We are short-handed and we are very crowded today Now what can I do for you?\nM: I want a ticket to New York.\nW: Okay. One way or round trip?\nM: One way, of course. I don't want to hang around here any longer. I was here in Los Angeles last year and I hated it. I come here on business every year and I hate it. It's too spread out, too smoggy!\nW: That'll be $ 375. How would you like to pay?\nM: Cash, of course. I don't believe in plastic money or credit cards, or any of that. Listen, can you hurry it up? You're taking forever!\nW: I'm doing my best, sir. Aisle or window seat?\nM: Window seat.\nW: Smoking or nonsmoking?\nM: Nonsmoking, of course! Oh, by the way, I'm supposed to get a special meal. Doctor's order - I can't eat meat. Last time I had a special salad plate. I'd like one of those this time, too.\nW: I'm sorry. I'm not able to do that. We need twenty-four hours notice for special meal.\nM: What! You can't give me my special salad?\nW: I'm sony. I would like to, but I simply cannot.\nM: Well, I don't give up so easily. Where's your supervisor?\n{a}",
+          "text_kz": "W: Next! Good morning, can I help you?\nM: This place is a madhouse! Everybody is pushing and shoving!\nW: Yes, I know. We are short-handed and we are very crowded today Now what can I do for you?\nM: I want a ticket to New York.\nW: Okay. One way or round trip?\nM: One way, of course. I don't want to hang around here any longer. I was here in Los Angeles last year and I hated it. I come here on business every year and I hate it. It's too spread out, too smoggy!\nW: That'll be $ 375. How would you like to pay?\nM: Cash, of course. I don't believe in plastic money or credit cards, or any of that. Listen, can you hurry it up? You're taking forever!\nW: I'm doing my best, sir. Aisle or window seat?\nM: Window seat.\nW: Smoking or nonsmoking?\nM: Nonsmoking, of course! Oh, by the way, I'm supposed to get a special meal. Doctor's order - I can't eat meat. Last time I had a special salad plate. I'd like one of those this time, too.\nW: I'm sorry. I'm not able to do that. We need twenty-four hours notice for special meal.\nM: What! You can't give me my special salad?\nW: I'm sony. I would like to, but I simply cannot.\nM: Well, I don't give up so easily. Where's your supervisor?\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A hotel.",
+                "A market.",
+                "A madhouse."
+              ],
+              "correctAnswer": "A madhouse.",
+              "variables": {
+                "a": "What's the airport like?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He will live in New York forever.",
+                "He hates Los Angeles and does not want to be here again.",
+                "He can't pay the round trip ticket."
+              ],
+              "correctAnswer": "He hates Los Angeles and does not want to be here again.",
+              "variables": {
+                "a": "Why does the man want a one-way ticket to New York?"
+              }
+            },
+            {
+              "answerOptions": [
+                "By cash.",
+                "By credit card.",
+                "By plastic money."
+              ],
+              "correctAnswer": "By cash.",
+              "variables": {
+                "a": "How will the man pay the ticket?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Some cigarettes.",
+                "A special salad.",
+                "A toast."
+              ],
+              "correctAnswer": "A special salad.",
+              "variables": {
+                "a": "What did he order the last time he flew?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: How's school going, Tom?\nM: Just fine. I was finally admitted to graduate school.\nW: Great! Are you going to do a doctor's degree?\nM: Yes. I'm going to do a doctorate in chemistry.\nW: That sounds like a difficult field.\nM: It is interesting to me.\nW: You've got a degree in nuclear physics, haven't you?\nM: Just a master's degree, actually. I think chemistry is a lot better field for me. I've always preferred chemistry to physics.\nW: What do you plan to do after you finish?\nM: I haven't decided yet. I am thinking of going into medical research.\nW: Well, you've got some years of hard study ahead of you.\nM: That's right. What about you, Linda? I heard you will soon finish your Bachelor's degree in literature.\nW: That's right. I've always dreamed of being an excellent writer.\n{a}",
+          "text_ru": "W: How's school going, Tom?\nM: Just fine. I was finally admitted to graduate school.\nW: Great! Are you going to do a doctor's degree?\nM: Yes. I'm going to do a doctorate in chemistry.\nW: That sounds like a difficult field.\nM: It is interesting to me.\nW: You've got a degree in nuclear physics, haven't you?\nM: Just a master's degree, actually. I think chemistry is a lot better field for me. I've always preferred chemistry to physics.\nW: What do you plan to do after you finish?\nM: I haven't decided yet. I am thinking of going into medical research.\nW: Well, you've got some years of hard study ahead of you.\nM: That's right. What about you, Linda? I heard you will soon finish your Bachelor's degree in literature.\nW: That's right. I've always dreamed of being an excellent writer.\n{a}",
+          "text_kz": "W: How's school going, Tom?\nM: Just fine. I was finally admitted to graduate school.\nW: Great! Are you going to do a doctor's degree?\nM: Yes. I'm going to do a doctorate in chemistry.\nW: That sounds like a difficult field.\nM: It is interesting to me.\nW: You've got a degree in nuclear physics, haven't you?\nM: Just a master's degree, actually. I think chemistry is a lot better field for me. I've always preferred chemistry to physics.\nW: What do you plan to do after you finish?\nM: I haven't decided yet. I am thinking of going into medical research.\nW: Well, you've got some years of hard study ahead of you.\nM: That's right. What about you, Linda? I heard you will soon finish your Bachelor's degree in literature.\nW: That's right. I've always dreamed of being an excellent writer.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Chemistry.",
+                "Nuclear physics.",
+                "Literature."
+              ],
+              "correctAnswer": "Nuclear physics.",
+              "variables": {
+                "a": "In which field does the man have a master's degree?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Difficult.",
+                "Interesting.",
+                "Popular."
+              ],
+              "correctAnswer": "Difficult.",
+              "variables": {
+                "a": "What does the woman think of chemistry?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He prefers physics to chemistry.",
+                "He just graduated from high school.",
+                "He has years of hard study ahead of him."
+              ],
+              "correctAnswer": "He has years of hard study ahead of him.",
+              "variables": {
+                "a": "What can we learn about the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A doctor.",
+                "A writer.",
+                "A teacher."
+              ],
+              "correctAnswer": "A writer.",
+              "variables": {
+                "a": "What does the woman want to be?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Peter, where is the ear? I haven't seen you drive to work for a long time! Is it broken or stolen?\nM: Hi, Susan] Oh, no! Of course not! I give up driving to work. Instead, I ride to my working place.\nW: Why is that?\nM: You see. There is only a stone's throw from my home to my working place. I think riding a bike to work is more convenient.\nW: I don't think so. It will take you at least 25 minutes to get to our company from here.\nM: Yes, sometimes, 30 minutes. But I love riding to work now. It is a totally different picture on my way to work.\nW: Why do you think so?\nM: You see, every morning, after I set off for work, I can breathe the new fresh air along the way. By the time I reach my office, I feel rather revived. I even don't rely on coffee to spend my morning hours.\nW: Is it so magical?\nM: At least, that's how I feel about riding to work. I can't believe I have wasted so much fresh morning air in the past 3 years!\nW: Will you continue riding to work in the future?\nM: I think so.\n{a}",
+          "text_ru": "W: Peter, where is the ear? I haven't seen you drive to work for a long time! Is it broken or stolen?\nM: Hi, Susan] Oh, no! Of course not! I give up driving to work. Instead, I ride to my working place.\nW: Why is that?\nM: You see. There is only a stone's throw from my home to my working place. I think riding a bike to work is more convenient.\nW: I don't think so. It will take you at least 25 minutes to get to our company from here.\nM: Yes, sometimes, 30 minutes. But I love riding to work now. It is a totally different picture on my way to work.\nW: Why do you think so?\nM: You see, every morning, after I set off for work, I can breathe the new fresh air along the way. By the time I reach my office, I feel rather revived. I even don't rely on coffee to spend my morning hours.\nW: Is it so magical?\nM: At least, that's how I feel about riding to work. I can't believe I have wasted so much fresh morning air in the past 3 years!\nW: Will you continue riding to work in the future?\nM: I think so.\n{a}",
+          "text_kz": "W: Peter, where is the ear? I haven't seen you drive to work for a long time! Is it broken or stolen?\nM: Hi, Susan] Oh, no! Of course not! I give up driving to work. Instead, I ride to my working place.\nW: Why is that?\nM: You see. There is only a stone's throw from my home to my working place. I think riding a bike to work is more convenient.\nW: I don't think so. It will take you at least 25 minutes to get to our company from here.\nM: Yes, sometimes, 30 minutes. But I love riding to work now. It is a totally different picture on my way to work.\nW: Why do you think so?\nM: You see, every morning, after I set off for work, I can breathe the new fresh air along the way. By the time I reach my office, I feel rather revived. I even don't rely on coffee to spend my morning hours.\nW: Is it so magical?\nM: At least, that's how I feel about riding to work. I can't believe I have wasted so much fresh morning air in the past 3 years!\nW: Will you continue riding to work in the future?\nM: I think so.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "His car is broken.",
+                "His car is stolen.",
+                "His working place is not far from his home."
+              ],
+              "correctAnswer": "His working place is not far from his home.",
+              "variables": {
+                "a": "Why doesn't Peter drive a car to work?"
+              }
+            },
+            {
+              "answerOptions": [
+                "2 year.",
+                "3 years.",
+                "4 years."
+              ],
+              "correctAnswer": "3 years.",
+              "variables": {
+                "a": "How many years have Peter been driving to work?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The woman goes to work on foot.",
+                "The woman goes to work by car.",
+                "The woman goes to work by bike."
+              ],
+              "correctAnswer": "The woman goes to work by car.",
+              "variables": {
+                "a": "Which of the following can we infer from the passage?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Classmates.",
+                "Husband and wife.",
+                "Colleagues."
+              ],
+              "correctAnswer": "Colleagues.",
+              "variables": {
+                "a": "What's the possible relationship between the two?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Tell me, Peter, what makes Harrods so famous?\nM: Well, it's the biggest department store in the UK. And its food hall and the Egyptian hall are very famous. People come to Harrods just to see them.\nW: What is special about the food hall?\nM: It sells many different kinds of food. For example, it has 250 kinds of cheese from all over the world and more than 180 kinds of bread. Customers also love all the different kinds of chocolate. They buy a hundred tons every year.\nW: That's amazing! And why is the Egyptian hall so famous?\nM: Well, when people see it, they feel they are in another world. It looks like in Egyptian building from 4,000 years ago. And it sells beautiful objects. They are not 4,000 years old, of course.\nW: Is it true that Harrods produces its own electricity?\nM: Yes, it does 70%, enough for a small town. To light the outside of the building, we use 11,500 light bulbs.\nW: Really? Tell me, how many customers do you have on an average day? And how much do they spend?\nM: About 30,000 people come on an average day. But during the sales, the number increases to 300,000 customers a day. How much do they spent? Well, on average, customers spend about 1.5 million pounds a day. The record for one day is nine million pounds.\nW: Nine million pounds in one day?\nM: Yes, on the first day of the January sales.\nW: Harrods says it sells everything to everybody, everywhere. Is that really true?\nM: Oh, yes. of course! Absolutely everything!\n{a}",
+          "text_ru": "W: Tell me, Peter, what makes Harrods so famous?\nM: Well, it's the biggest department store in the UK. And its food hall and the Egyptian hall are very famous. People come to Harrods just to see them.\nW: What is special about the food hall?\nM: It sells many different kinds of food. For example, it has 250 kinds of cheese from all over the world and more than 180 kinds of bread. Customers also love all the different kinds of chocolate. They buy a hundred tons every year.\nW: That's amazing! And why is the Egyptian hall so famous?\nM: Well, when people see it, they feel they are in another world. It looks like in Egyptian building from 4,000 years ago. And it sells beautiful objects. They are not 4,000 years old, of course.\nW: Is it true that Harrods produces its own electricity?\nM: Yes, it does 70%, enough for a small town. To light the outside of the building, we use 11,500 light bulbs.\nW: Really? Tell me, how many customers do you have on an average day? And how much do they spend?\nM: About 30,000 people come on an average day. But during the sales, the number increases to 300,000 customers a day. How much do they spent? Well, on average, customers spend about 1.5 million pounds a day. The record for one day is nine million pounds.\nW: Nine million pounds in one day?\nM: Yes, on the first day of the January sales.\nW: Harrods says it sells everything to everybody, everywhere. Is that really true?\nM: Oh, yes. of course! Absolutely everything!\n{a}",
+          "text_kz": "W: Tell me, Peter, what makes Harrods so famous?\nM: Well, it's the biggest department store in the UK. And its food hall and the Egyptian hall are very famous. People come to Harrods just to see them.\nW: What is special about the food hall?\nM: It sells many different kinds of food. For example, it has 250 kinds of cheese from all over the world and more than 180 kinds of bread. Customers also love all the different kinds of chocolate. They buy a hundred tons every year.\nW: That's amazing! And why is the Egyptian hall so famous?\nM: Well, when people see it, they feel they are in another world. It looks like in Egyptian building from 4,000 years ago. And it sells beautiful objects. They are not 4,000 years old, of course.\nW: Is it true that Harrods produces its own electricity?\nM: Yes, it does 70%, enough for a small town. To light the outside of the building, we use 11,500 light bulbs.\nW: Really? Tell me, how many customers do you have on an average day? And how much do they spend?\nM: About 30,000 people come on an average day. But during the sales, the number increases to 300,000 customers a day. How much do they spent? Well, on average, customers spend about 1.5 million pounds a day. The record for one day is nine million pounds.\nW: Nine million pounds in one day?\nM: Yes, on the first day of the January sales.\nW: Harrods says it sells everything to everybody, everywhere. Is that really true?\nM: Oh, yes. of course! Absolutely everything!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Enormous size of its stores.",
+                "Numerous varieties of food.",
+                "Its appealing surroundings."
+              ],
+              "correctAnswer": "Numerous varieties of food.",
+              "variables": {
+                "a": "What is the food hall of Harrods noted for?"
+              }
+            },
+            {
+              "answerOptions": [
+                "An ancient building.",
+                "A world of antiques.",
+                "An Egyptian museum."
+              ],
+              "correctAnswer": "A world of antiques.",
+              "variables": {
+                "a": "What does the Egyptian hall seem like to the customers?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It generates 70% of the electricity it uses.",
+                "It sells thousands of light bulbs a day.",
+                "It supplies power to a nearby town."
+              ],
+              "correctAnswer": "It generates 70% of the electricity it uses.",
+              "variables": {
+                "a": "What may customers find surprising about Harrods?"
+              }
+            },
+            {
+              "answerOptions": [
+                "11,500",
+                "30,000",
+                "250,000"
+              ],
+              "correctAnswer": "30,000",
+              "variables": {
+                "a": "About how many customers come to Harrods on an average day?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: David, we shouldn't sit here doing nothing.\nM: Why not? It's Saturday afternoon, isn't it?\nW: Yes, but there's so much to do around the house.\nM: It can wait.\nW: We ought to finish washing down the kitchen walls and cupboards.\nM: We can do that tomorrow. We don't have to do it today.\nW: All right. But we must do it tomorrow, because the painters are coming on Monday.\nM: Yes. And that reminds me. I must do something about that leak under the kitchen sink.\nW: That's a good idea.\nM: Talking about washing down the kitchen-where's Bob?\nW: He's having lunch with Georgia.\nM: What! Again?\nW: He should be in soon.\nM: He shouldn't spend so much time with that girl.\nW: You must be patient, David. Nineteen's a very difficult age, you know.\nM: Yes, I know. But he ought to be studying more.\n{a}",
+          "text_ru": "W: David, we shouldn't sit here doing nothing.\nM: Why not? It's Saturday afternoon, isn't it?\nW: Yes, but there's so much to do around the house.\nM: It can wait.\nW: We ought to finish washing down the kitchen walls and cupboards.\nM: We can do that tomorrow. We don't have to do it today.\nW: All right. But we must do it tomorrow, because the painters are coming on Monday.\nM: Yes. And that reminds me. I must do something about that leak under the kitchen sink.\nW: That's a good idea.\nM: Talking about washing down the kitchen-where's Bob?\nW: He's having lunch with Georgia.\nM: What! Again?\nW: He should be in soon.\nM: He shouldn't spend so much time with that girl.\nW: You must be patient, David. Nineteen's a very difficult age, you know.\nM: Yes, I know. But he ought to be studying more.\n{a}",
+          "text_kz": "W: David, we shouldn't sit here doing nothing.\nM: Why not? It's Saturday afternoon, isn't it?\nW: Yes, but there's so much to do around the house.\nM: It can wait.\nW: We ought to finish washing down the kitchen walls and cupboards.\nM: We can do that tomorrow. We don't have to do it today.\nW: All right. But we must do it tomorrow, because the painters are coming on Monday.\nM: Yes. And that reminds me. I must do something about that leak under the kitchen sink.\nW: That's a good idea.\nM: Talking about washing down the kitchen-where's Bob?\nW: He's having lunch with Georgia.\nM: What! Again?\nW: He should be in soon.\nM: He shouldn't spend so much time with that girl.\nW: You must be patient, David. Nineteen's a very difficult age, you know.\nM: Yes, I know. But he ought to be studying more.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In the morning.",
+                "In the afternoon.",
+                "In the evening."
+              ],
+              "correctAnswer": "In the afternoon.",
+              "variables": {
+                "a": "When does the conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Wash down the kitchen.",
+                "Move the cupboards.",
+                "Paint the walls."
+              ],
+              "correctAnswer": "Wash down the kitchen.",
+              "variables": {
+                "a": "What do the two speakers plan to do tomorrow?"
+              }
+            },
+            {
+              "answerOptions": [
+                "On Saturday.",
+                "On Sunday.",
+                "On Monday."
+              ],
+              "correctAnswer": "On Monday.",
+              "variables": {
+                "a": "When will the painters come?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In his bedroom.",
+                "In a restaurant.",
+                "In the kitchen."
+              ],
+              "correctAnswer": "In a restaurant.",
+              "variables": {
+                "a": "Where is Bob now?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hey, I'm a little bit upset about that television you people sold me. I got it home and the thing doesn't work! The lines.., the... there're lines all over the picture! I'm just not satisfied. I'd like to have my money back, or give me a new television.\nM: Well, it's not my fault! What did you do with it when you got it home?\nW: I just plugged it in and turned it on.\nM: Well, it was working fine when you took it... when you left here.\nW: Well, I think the least you people can do is to come over and adjust it for me, and make sure the thing's working all right.\nM: Well, I wouldn't mind doing that. Or you could bring it here and I'll have a look at it. But you bought a second-hand TV and there's only a... two-day warranty on it.\nW: Second-hand? Second-hand?! That thing was supposed to be new! Your salesman told me it was brand new.\nM: Well, I can't be responsible for that.\n{a}",
+          "text_ru": "W: Hey, I'm a little bit upset about that television you people sold me. I got it home and the thing doesn't work! The lines.., the... there're lines all over the picture! I'm just not satisfied. I'd like to have my money back, or give me a new television.\nM: Well, it's not my fault! What did you do with it when you got it home?\nW: I just plugged it in and turned it on.\nM: Well, it was working fine when you took it... when you left here.\nW: Well, I think the least you people can do is to come over and adjust it for me, and make sure the thing's working all right.\nM: Well, I wouldn't mind doing that. Or you could bring it here and I'll have a look at it. But you bought a second-hand TV and there's only a... two-day warranty on it.\nW: Second-hand? Second-hand?! That thing was supposed to be new! Your salesman told me it was brand new.\nM: Well, I can't be responsible for that.\n{a}",
+          "text_kz": "W: Hey, I'm a little bit upset about that television you people sold me. I got it home and the thing doesn't work! The lines.., the... there're lines all over the picture! I'm just not satisfied. I'd like to have my money back, or give me a new television.\nM: Well, it's not my fault! What did you do with it when you got it home?\nW: I just plugged it in and turned it on.\nM: Well, it was working fine when you took it... when you left here.\nW: Well, I think the least you people can do is to come over and adjust it for me, and make sure the thing's working all right.\nM: Well, I wouldn't mind doing that. Or you could bring it here and I'll have a look at it. But you bought a second-hand TV and there's only a... two-day warranty on it.\nW: Second-hand? Second-hand?! That thing was supposed to be new! Your salesman told me it was brand new.\nM: Well, I can't be responsible for that.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "The picture is not clear.",
+                "There is no sound.",
+                "It can't be turned on."
+              ],
+              "correctAnswer": "The picture is not clear.",
+              "variables": {
+                "a": "What is wrong with the television?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Two years.",
+                "Two months.",
+                "Two days."
+              ],
+              "correctAnswer": "Two days.",
+              "variables": {
+                "a": "How long is the warranty for the television?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Give the money back to the woman.",
+                "Give the woman a new TV set.",
+                "Check the television and make it work properly."
+              ],
+              "correctAnswer": "Check the television and make it work properly.",
+              "variables": {
+                "a": "What does the man agree to do in the end?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They can't adjust it.",
+                "It is not a new TV.",
+                "The TV is out of warranty."
+              ],
+              "correctAnswer": "It is not a new TV.",
+              "variables": {
+                "a": "Why is the woman surprised?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Is that a new computer?\nW: Yeah. My grandpa gave it to me as a graduation gift. Isn't it nice?\nM: It is. I can't believe it's so thin! What kind of computer is it?\nW: It's an Apple MacBook Air. It's very lightweight and has a bunch of built-in apps. I couldn't be happier with it.\nM: Do they have any other colors besides that one?\nW: I don't know. I like this color. I've ordered a pink cover for it, but it won't arrive for a couple of weeks.\nM: Does the computer have a disk drive?\nW: No, it doesn't, but I don't need one. All of my documents are online.\nM: Well, you're very lucky. It will be great to have this when you start looking for jobs.\nW: I already have. Today, I spent the day at the café working on my résumé. This computer has great battery life.\nM: Well, that's good. But the café near here is always so crowded.\nW: I know. But I like to work in busy cafés. The noise reminds me that everyone else is working hard, so I work hard, too.\n{a}",
+          "text_ru": "M: Is that a new computer?\nW: Yeah. My grandpa gave it to me as a graduation gift. Isn't it nice?\nM: It is. I can't believe it's so thin! What kind of computer is it?\nW: It's an Apple MacBook Air. It's very lightweight and has a bunch of built-in apps. I couldn't be happier with it.\nM: Do they have any other colors besides that one?\nW: I don't know. I like this color. I've ordered a pink cover for it, but it won't arrive for a couple of weeks.\nM: Does the computer have a disk drive?\nW: No, it doesn't, but I don't need one. All of my documents are online.\nM: Well, you're very lucky. It will be great to have this when you start looking for jobs.\nW: I already have. Today, I spent the day at the café working on my résumé. This computer has great battery life.\nM: Well, that's good. But the café near here is always so crowded.\nW: I know. But I like to work in busy cafés. The noise reminds me that everyone else is working hard, so I work hard, too.\n{a}",
+          "text_kz": "M: Is that a new computer?\nW: Yeah. My grandpa gave it to me as a graduation gift. Isn't it nice?\nM: It is. I can't believe it's so thin! What kind of computer is it?\nW: It's an Apple MacBook Air. It's very lightweight and has a bunch of built-in apps. I couldn't be happier with it.\nM: Do they have any other colors besides that one?\nW: I don't know. I like this color. I've ordered a pink cover for it, but it won't arrive for a couple of weeks.\nM: Does the computer have a disk drive?\nW: No, it doesn't, but I don't need one. All of my documents are online.\nM: Well, you're very lucky. It will be great to have this when you start looking for jobs.\nW: I already have. Today, I spent the day at the café working on my résumé. This computer has great battery life.\nM: Well, that's good. But the café near here is always so crowded.\nW: I know. But I like to work in busy cafés. The noise reminds me that everyone else is working hard, so I work hard, too.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She bought it.",
+                "She borrowed it.",
+                "It was a gift."
+              ],
+              "correctAnswer": "It was a gift.",
+              "variables": {
+                "a": "How did the woman get the computer?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The size.",
+                "The price.",
+                "The color."
+              ],
+              "correctAnswer": "The size.",
+              "variables": {
+                "a": "What surprises the man about the computer?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She talked with a friend.",
+                "She worked on her résumé.",
+                "She looked for a job there."
+              ],
+              "correctAnswer": "She worked on her résumé.",
+              "variables": {
+                "a": "What did the woman do in the café today?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Annoyed.",
+                "Disturbed.",
+                "Inspired."
+              ],
+              "correctAnswer": "Inspired.",
+              "variables": {
+                "a": "How does the woman feel about noises in cafés?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Today I'm interviewing nine-year old Catherine about her feelings on how people can help save the environment. So, Catherine, how call we save the environment?\nW: By saving water.\nM: Well, how can we do that?\nW: By not using too much water when we wash dishes, take a bath, and when we do other things like watering the plants outside.\nM: Oh, what else?\nW: When drinking or eating something outside, you should keep the garbage until you rind a garbage can to put it in. Because throwing rubbish carelessly makes our planet dirty, Do you like seeing rubbish all over the ground?\nM: No, I don't. Do you have any other suggestions?\nW: Yes, we shouldn't waste paper, because trees are being cut down to make paper. By saving paper, we save the forests where animals live.\nM: So how can children save paper? I mean everyday.\nW: Well, for example, when I was in kindergarten, I used to save newspapers so that I could fold things out of them like paper trees instead of just throwing them away. Now the children in our neighborhood collect newspapers once a month to take them to a factory as raw material.\nM: That's great. Well, thanks Catherine for your ideas.\n{a}",
+          "text_ru": "M: Today I'm interviewing nine-year old Catherine about her feelings on how people can help save the environment. So, Catherine, how call we save the environment?\nW: By saving water.\nM: Well, how can we do that?\nW: By not using too much water when we wash dishes, take a bath, and when we do other things like watering the plants outside.\nM: Oh, what else?\nW: When drinking or eating something outside, you should keep the garbage until you rind a garbage can to put it in. Because throwing rubbish carelessly makes our planet dirty, Do you like seeing rubbish all over the ground?\nM: No, I don't. Do you have any other suggestions?\nW: Yes, we shouldn't waste paper, because trees are being cut down to make paper. By saving paper, we save the forests where animals live.\nM: So how can children save paper? I mean everyday.\nW: Well, for example, when I was in kindergarten, I used to save newspapers so that I could fold things out of them like paper trees instead of just throwing them away. Now the children in our neighborhood collect newspapers once a month to take them to a factory as raw material.\nM: That's great. Well, thanks Catherine for your ideas.\n{a}",
+          "text_kz": "M: Today I'm interviewing nine-year old Catherine about her feelings on how people can help save the environment. So, Catherine, how call we save the environment?\nW: By saving water.\nM: Well, how can we do that?\nW: By not using too much water when we wash dishes, take a bath, and when we do other things like watering the plants outside.\nM: Oh, what else?\nW: When drinking or eating something outside, you should keep the garbage until you rind a garbage can to put it in. Because throwing rubbish carelessly makes our planet dirty, Do you like seeing rubbish all over the ground?\nM: No, I don't. Do you have any other suggestions?\nW: Yes, we shouldn't waste paper, because trees are being cut down to make paper. By saving paper, we save the forests where animals live.\nM: So how can children save paper? I mean everyday.\nW: Well, for example, when I was in kindergarten, I used to save newspapers so that I could fold things out of them like paper trees instead of just throwing them away. Now the children in our neighborhood collect newspapers once a month to take them to a factory as raw material.\nM: That's great. Well, thanks Catherine for your ideas.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "When she is taking a bath",
+                "When she is cleaning a car",
+                "When she is washing clothes"
+              ],
+              "correctAnswer": "When she is taking a bath",
+              "variables": {
+                "a": "In which of the following situations does the girl try to save water?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Separate garbage",
+                "Get rid of rubbish properly",
+                "Have a family clean-up party"
+              ],
+              "correctAnswer": "Get rid of rubbish properly",
+              "variables": {
+                "a": "What else does the girl think we should do to protect the environment?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Visit a factory",
+                "Collect old newspapers",
+                "Clean a kindergarten"
+              ],
+              "correctAnswer": "Collect old newspapers",
+              "variables": {
+                "a": "What does the girl do once a month?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Child Psychology",
+                "Preschool Education",
+                "Our Planet"
+              ],
+              "correctAnswer": "Our Planet",
+              "variables": {
+                "a": "In which TV program will this interview most probably appear?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section 3: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "W: Mr. Block, I need to take a few days off because my parents are coming over to visit.\nM: But it's not really a good idea to take time off right now, you know.\nW: Well, I know. But they've never been to the UK before and they don't speak English.\nM: Hmm, you know there are thousands of tourists in London who can't speak English and they manage to get around.\nW: Yes, I know but they really expect me to be there. It's culture. Chinese parents expect their children to do things like this.\nM: I know, but truly if they care about your education, they'll understand.\nW: Well, do you think I could take maybe just two days off?\nM: Ok, two days but you must catch up with all of the work and get all of the materials.\n{a}",
+          "text_ru": "W: Mr. Block, I need to take a few days off because my parents are coming over to visit.\nM: But it's not really a good idea to take time off right now, you know.\nW: Well, I know. But they've never been to the UK before and they don't speak English.\nM: Hmm, you know there are thousands of tourists in London who can't speak English and they manage to get around.\nW: Yes, I know but they really expect me to be there. It's culture. Chinese parents expect their children to do things like this.\nM: I know, but truly if they care about your education, they'll understand.\nW: Well, do you think I could take maybe just two days off?\nM: Ok, two days but you must catch up with all of the work and get all of the materials.\n{a}",
+          "text_kz": "W: Mr. Block, I need to take a few days off because my parents are coming over to visit.\nM: But it's not really a good idea to take time off right now, you know.\nW: Well, I know. But they've never been to the UK before and they don't speak English.\nM: Hmm, you know there are thousands of tourists in London who can't speak English and they manage to get around.\nW: Yes, I know but they really expect me to be there. It's culture. Chinese parents expect their children to do things like this.\nM: I know, but truly if they care about your education, they'll understand.\nW: Well, do you think I could take maybe just two days off?\nM: Ok, two days but you must catch up with all of the work and get all of the materials.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She plans to go to the UK with her parents.",
+                "She has to take care of her parents at home.",
+                "She wants to spend some time with her parents."
+              ],
+              "correctAnswer": "She wants to spend some time with her parents.",
+              "variables": {
+                "a": "Why is the woman asking for leave?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He knows a lot about Chinese culture.",
+                "He doesn't want the woman to take any time off at first.",
+                "He considers language a big problem for foreign visitors."
+              ],
+              "correctAnswer": "He doesn't want the woman to take any time off at first.",
+              "variables": {
+                "a": "What can be inferred about the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She is a student.",
+                "She is a teacher.",
+                "She is a tourist."
+              ],
+              "correctAnswer": "She is a student.",
+              "variables": {
+                "a": "What can be inferred about the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The woman can take two days off.",
+                "The woman needs to do some extra work.",
+                "The woman should buy some travelling materials."
+              ],
+              "correctAnswer": "The woman can take two days off.",
+              "variables": {
+                "a": "What agreement do the two speakers reach at the end of the conversation?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Somebody once said that good communication can solve any problem. Do you agree with this?\nM: I think that good communication can solve a lot of problems, and improve many a situation. I worked in some seemingly impossible situations, and saw people change dramatically all because they started communicating in better ways. But can good communication solve all problems? No. It can't stop some, people from seeing the world in twisted ways. It can't stop some people from hurting themselves.\nW: What kind of people do you have difficulty working with?\nM: I'm naturally a person who likes to be decisive, and to act, so I get impatient sometimes when I'm working with a large group. Because it takes time for everyone's voice to be heard, and for everyone's opinion to be aired. Yet I know that process is vital if they're going to reach the ultimate decision.\nW: Is success of business based more on the results of what you do, or on how you communicate what you've done?\nM: Oh, it's a combination of both. To be successful, you have to be able to achieve results. But you also have to be able to communicate what you achieve. The most successful people don't place glory on themselves, but rather on people who help them achieve success.\n{a}",
+          "text_ru": "W: Somebody once said that good communication can solve any problem. Do you agree with this?\nM: I think that good communication can solve a lot of problems, and improve many a situation. I worked in some seemingly impossible situations, and saw people change dramatically all because they started communicating in better ways. But can good communication solve all problems? No. It can't stop some, people from seeing the world in twisted ways. It can't stop some people from hurting themselves.\nW: What kind of people do you have difficulty working with?\nM: I'm naturally a person who likes to be decisive, and to act, so I get impatient sometimes when I'm working with a large group. Because it takes time for everyone's voice to be heard, and for everyone's opinion to be aired. Yet I know that process is vital if they're going to reach the ultimate decision.\nW: Is success of business based more on the results of what you do, or on how you communicate what you've done?\nM: Oh, it's a combination of both. To be successful, you have to be able to achieve results. But you also have to be able to communicate what you achieve. The most successful people don't place glory on themselves, but rather on people who help them achieve success.\n{a}",
+          "text_kz": "W: Somebody once said that good communication can solve any problem. Do you agree with this?\nM: I think that good communication can solve a lot of problems, and improve many a situation. I worked in some seemingly impossible situations, and saw people change dramatically all because they started communicating in better ways. But can good communication solve all problems? No. It can't stop some, people from seeing the world in twisted ways. It can't stop some people from hurting themselves.\nW: What kind of people do you have difficulty working with?\nM: I'm naturally a person who likes to be decisive, and to act, so I get impatient sometimes when I'm working with a large group. Because it takes time for everyone's voice to be heard, and for everyone's opinion to be aired. Yet I know that process is vital if they're going to reach the ultimate decision.\nW: Is success of business based more on the results of what you do, or on how you communicate what you've done?\nM: Oh, it's a combination of both. To be successful, you have to be able to achieve results. But you also have to be able to communicate what you achieve. The most successful people don't place glory on themselves, but rather on people who help them achieve success.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "It stops people from hurting each other.",
+                "It brings glory to one's career.",
+                "It improves many situations."
+              ],
+              "correctAnswer": "It improves many situations.",
+              "variables": {
+                "a": "What does the man think of good communication?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Ill-tempered.",
+                "Agreeable.",
+                "Decisive."
+              ],
+              "correctAnswer": "Decisive.",
+              "variables": {
+                "a": "How does the man describe himself?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Consulting with other groups.",
+                "Letting everyone have his say.",
+                "Going through a voting process."
+              ],
+              "correctAnswer": "Letting everyone have his say.",
+              "variables": {
+                "a": "What is necessary for a large group to make a final decision?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Get help from other group members.",
+                "Share their achieved results with others.",
+                "Stop seeing the world in twisted ways."
+              ],
+              "correctAnswer": "Share their achieved results with others.",
+              "variables": {
+                "a": "What does one have to do to be successful in business?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: So Martin, what sports do you play?\nM: I play football, volleyball, tennis, and table tennis but volleyball is my favorite game as it's team game and you can play it with your friends, and enjoy it as a team.\nW: Is it quite a fast game as well?\nM: Yeah. It is a fast game and that's another reason why I enjoy it.\nW: How exciting...\nM: Yes.\nW: Where do you play, then?\nM: I play at local sports centres more during the winter and sort of play in tournaments around England. I also, in the summer, play beach volleyball.\nW: Is beach volleyball different from the volleyball you play in the centres?\nM: Yes, it's a very different game. Instead of six players on a team, it's only two players.\nW: You mentioned you played in tournaments--now do you do quite well in the tournaments?\nM: Yes, I've played for South West England and we've got through to the semi-finals of different England tournaments, and for Wessex, my other volleyball team, we've actually won a few tournaments. So yes, I have done quite well.\nW: Oh well done!\n{a}",
+          "text_ru": "W: So Martin, what sports do you play?\nM: I play football, volleyball, tennis, and table tennis but volleyball is my favorite game as it's team game and you can play it with your friends, and enjoy it as a team.\nW: Is it quite a fast game as well?\nM: Yeah. It is a fast game and that's another reason why I enjoy it.\nW: How exciting...\nM: Yes.\nW: Where do you play, then?\nM: I play at local sports centres more during the winter and sort of play in tournaments around England. I also, in the summer, play beach volleyball.\nW: Is beach volleyball different from the volleyball you play in the centres?\nM: Yes, it's a very different game. Instead of six players on a team, it's only two players.\nW: You mentioned you played in tournaments--now do you do quite well in the tournaments?\nM: Yes, I've played for South West England and we've got through to the semi-finals of different England tournaments, and for Wessex, my other volleyball team, we've actually won a few tournaments. So yes, I have done quite well.\nW: Oh well done!\n{a}",
+          "text_kz": "W: So Martin, what sports do you play?\nM: I play football, volleyball, tennis, and table tennis but volleyball is my favorite game as it's team game and you can play it with your friends, and enjoy it as a team.\nW: Is it quite a fast game as well?\nM: Yeah. It is a fast game and that's another reason why I enjoy it.\nW: How exciting...\nM: Yes.\nW: Where do you play, then?\nM: I play at local sports centres more during the winter and sort of play in tournaments around England. I also, in the summer, play beach volleyball.\nW: Is beach volleyball different from the volleyball you play in the centres?\nM: Yes, it's a very different game. Instead of six players on a team, it's only two players.\nW: You mentioned you played in tournaments--now do you do quite well in the tournaments?\nM: Yes, I've played for South West England and we've got through to the semi-finals of different England tournaments, and for Wessex, my other volleyball team, we've actually won a few tournaments. So yes, I have done quite well.\nW: Oh well done!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Football.",
+                "Volleyball.",
+                "Tennis."
+              ],
+              "correctAnswer": "Volleyball.",
+              "variables": {
+                "a": "Which is Martin's favourite sport?"
+              }
+            },
+            {
+              "answerOptions": [
+                "At local sports centres.",
+                "In tournaments.",
+                "On the beach."
+              ],
+              "correctAnswer": "On the beach.",
+              "variables": {
+                "a": "Where does Martin play his favourite sport in the summer?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Two.",
+                "Four.",
+                "Three."
+              ],
+              "correctAnswer": "Two.",
+              "variables": {
+                "a": "How many people form a team for beach volleyball?"
+              }
+            },
+            {
+              "answerOptions": [
+                "One.",
+                "Two.",
+                "Three."
+              ],
+              "correctAnswer": "Two.",
+              "variables": {
+                "a": "How many teams has Martin played for?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Queenie, how are you enjoying yourself at university?\nW: Hi, Jack, it's a lot of work. But I am having a good time. Are you planning to attend college next year?\nM: Yeah. Can you tell me what facilities they have for disabled students? My wheelchair doesn't always allow me to get into buildings.\nW: You should inquire at Student Services. They can discuss your medical history with you confidentially and make allowances. My friends Shannon and Rosie use computers to do their exams, so in your case, I'm sure it would not be a problem.\nM: What about the wheelchair access?\nW: The newer buildings have elevators and wide doors, but the older buildings have not been upgraded to accommodate handicapped people as far as I know. What faculty are you planning to go into?\nM: I am thinking of doing engineering.\nW: Hmm. Engineering is in the old Adams building. I don't know if there is an elevator.\nM: Do the buses that go out to campus have facilities to bring wheelchairs on board?\nW: Yes, that I know for sure. All the buses are equipped with electronic lifts, and there are seats that fold back.\nM: What about the sidewalks?\nW: I think most of the sidewalks have been leveled at the corners, so you could probably use your wheelchair, but I am not sure. In fact, if you would like, why don't you come with me? I'll be taking the bus and I could show you around once we got there.\nM: That's really nice of you, Raphel. I'd really like that.\nW: Okay, I will come to your house about 8:30 in the morning and we can take the commuter train into town, then catch the bus up to the university.\nM: Great, I look forward to it.\n{a}",
+          "text_ru": "M: Hi, Queenie, how are you enjoying yourself at university?\nW: Hi, Jack, it's a lot of work. But I am having a good time. Are you planning to attend college next year?\nM: Yeah. Can you tell me what facilities they have for disabled students? My wheelchair doesn't always allow me to get into buildings.\nW: You should inquire at Student Services. They can discuss your medical history with you confidentially and make allowances. My friends Shannon and Rosie use computers to do their exams, so in your case, I'm sure it would not be a problem.\nM: What about the wheelchair access?\nW: The newer buildings have elevators and wide doors, but the older buildings have not been upgraded to accommodate handicapped people as far as I know. What faculty are you planning to go into?\nM: I am thinking of doing engineering.\nW: Hmm. Engineering is in the old Adams building. I don't know if there is an elevator.\nM: Do the buses that go out to campus have facilities to bring wheelchairs on board?\nW: Yes, that I know for sure. All the buses are equipped with electronic lifts, and there are seats that fold back.\nM: What about the sidewalks?\nW: I think most of the sidewalks have been leveled at the corners, so you could probably use your wheelchair, but I am not sure. In fact, if you would like, why don't you come with me? I'll be taking the bus and I could show you around once we got there.\nM: That's really nice of you, Raphel. I'd really like that.\nW: Okay, I will come to your house about 8:30 in the morning and we can take the commuter train into town, then catch the bus up to the university.\nM: Great, I look forward to it.\n{a}",
+          "text_kz": "M: Hi, Queenie, how are you enjoying yourself at university?\nW: Hi, Jack, it's a lot of work. But I am having a good time. Are you planning to attend college next year?\nM: Yeah. Can you tell me what facilities they have for disabled students? My wheelchair doesn't always allow me to get into buildings.\nW: You should inquire at Student Services. They can discuss your medical history with you confidentially and make allowances. My friends Shannon and Rosie use computers to do their exams, so in your case, I'm sure it would not be a problem.\nM: What about the wheelchair access?\nW: The newer buildings have elevators and wide doors, but the older buildings have not been upgraded to accommodate handicapped people as far as I know. What faculty are you planning to go into?\nM: I am thinking of doing engineering.\nW: Hmm. Engineering is in the old Adams building. I don't know if there is an elevator.\nM: Do the buses that go out to campus have facilities to bring wheelchairs on board?\nW: Yes, that I know for sure. All the buses are equipped with electronic lifts, and there are seats that fold back.\nM: What about the sidewalks?\nW: I think most of the sidewalks have been leveled at the corners, so you could probably use your wheelchair, but I am not sure. In fact, if you would like, why don't you come with me? I'll be taking the bus and I could show you around once we got there.\nM: That's really nice of you, Raphel. I'd really like that.\nW: Okay, I will come to your house about 8:30 in the morning and we can take the commuter train into town, then catch the bus up to the university.\nM: Great, I look forward to it.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Privately talk with him about his illness and help.",
+                "Talk with him about his plan for his bachelor's degree.",
+                "Thoroughly examine his family background."
+              ],
+              "correctAnswer": "Privately talk with him about his illness and help.",
+              "variables": {
+                "a": "What would the Student Services do with the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "All the seats in the new buildings are fold back.",
+                "All the new buildings are higher than the old ones.",
+                "The new buildings are equipped with elevators while old ones aren't."
+              ],
+              "correctAnswer": "The new buildings are equipped with elevators while old ones aren't.",
+              "variables": {
+                "a": "What are the differences between the new teaching buildings and the old ones, according to the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "There are no facilities for the disabled.",
+                "Electronic lifts are installed on them.",
+                "The drivers are irresponsible for the driving."
+              ],
+              "correctAnswer": "Electronic lifts are installed on them.",
+              "variables": {
+                "a": "What is the feature of buses that go to the campus?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To have someone fix his computer.",
+                "To be his guide around the campus.",
+                "To help him with his house-cleaning."
+              ],
+              "correctAnswer": "To be his guide around the campus.",
+              "variables": {
+                "a": "What's the purpose of Queenie's appointment with Jack?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Good morning, Mr. Tim. It's a long time since I had the pleasure of a visit from you.\nM: Yes, it must be three or four years. I haven't visited you since I called about my will. You helped me with that, you remember?\nW: Yes, I remember. Do you want to make any changes in your will?\nM: I don't think that will be necessary, but you'll tell me if it is. I left everything, you remember, to my wife, and, after her death, to my son Jerry. I've about $ 15 000 in shares of industrial companies. These bring in, after paying tax, about $ 1 125 a year. Well, I'm earning a good salary now, and I shall get a good pension from my employers, so my wife and I can live fairly comfortably with this extra income. I want to buy some land and build a house for my son. It's time he get married, and he needs a house. I'm thinking of building one and giving it to him.\nW: Your son's fortunate. So you want my help buying the land and building the house.\nM: Yes, that's right. As soon as you've done what's necessary for buying the land, Jerry and I will see an architect.\nW: Have you found a plot yet?\nM: Jerry was in Edinburgh last Saturday and saw a plot he likes. My wife and I went there two days ago, and we liked it, too. I'd like you to make the necessary inquiries for me.\nW: I'd be pleased to do that. I shall have to write to the Local Authority and inquire whether it is allowed to build a house on your piece of land. You're not allowed to build a house without permission from the Planning Authority. And sometimes the Authority decides that a house must be built of stone, and not of brick, so that it doesn't spoil the surrounding village.\n{a}",
+          "text_ru": "W: Good morning, Mr. Tim. It's a long time since I had the pleasure of a visit from you.\nM: Yes, it must be three or four years. I haven't visited you since I called about my will. You helped me with that, you remember?\nW: Yes, I remember. Do you want to make any changes in your will?\nM: I don't think that will be necessary, but you'll tell me if it is. I left everything, you remember, to my wife, and, after her death, to my son Jerry. I've about $ 15 000 in shares of industrial companies. These bring in, after paying tax, about $ 1 125 a year. Well, I'm earning a good salary now, and I shall get a good pension from my employers, so my wife and I can live fairly comfortably with this extra income. I want to buy some land and build a house for my son. It's time he get married, and he needs a house. I'm thinking of building one and giving it to him.\nW: Your son's fortunate. So you want my help buying the land and building the house.\nM: Yes, that's right. As soon as you've done what's necessary for buying the land, Jerry and I will see an architect.\nW: Have you found a plot yet?\nM: Jerry was in Edinburgh last Saturday and saw a plot he likes. My wife and I went there two days ago, and we liked it, too. I'd like you to make the necessary inquiries for me.\nW: I'd be pleased to do that. I shall have to write to the Local Authority and inquire whether it is allowed to build a house on your piece of land. You're not allowed to build a house without permission from the Planning Authority. And sometimes the Authority decides that a house must be built of stone, and not of brick, so that it doesn't spoil the surrounding village.\n{a}",
+          "text_kz": "W: Good morning, Mr. Tim. It's a long time since I had the pleasure of a visit from you.\nM: Yes, it must be three or four years. I haven't visited you since I called about my will. You helped me with that, you remember?\nW: Yes, I remember. Do you want to make any changes in your will?\nM: I don't think that will be necessary, but you'll tell me if it is. I left everything, you remember, to my wife, and, after her death, to my son Jerry. I've about $ 15 000 in shares of industrial companies. These bring in, after paying tax, about $ 1 125 a year. Well, I'm earning a good salary now, and I shall get a good pension from my employers, so my wife and I can live fairly comfortably with this extra income. I want to buy some land and build a house for my son. It's time he get married, and he needs a house. I'm thinking of building one and giving it to him.\nW: Your son's fortunate. So you want my help buying the land and building the house.\nM: Yes, that's right. As soon as you've done what's necessary for buying the land, Jerry and I will see an architect.\nW: Have you found a plot yet?\nM: Jerry was in Edinburgh last Saturday and saw a plot he likes. My wife and I went there two days ago, and we liked it, too. I'd like you to make the necessary inquiries for me.\nW: I'd be pleased to do that. I shall have to write to the Local Authority and inquire whether it is allowed to build a house on your piece of land. You're not allowed to build a house without permission from the Planning Authority. And sometimes the Authority decides that a house must be built of stone, and not of brick, so that it doesn't spoil the surrounding village.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Half a year.",
+                "Two years.",
+                "Three or four years."
+              ],
+              "correctAnswer": "Three or four years.",
+              "variables": {
+                "a": "How long have they not met each other?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He wants to make some changes in his will.",
+                "He wants the woman's help in buying the land and building the house.",
+                "He wants the solicitor to see the architect for him."
+              ],
+              "correctAnswer": "He wants the woman's help in buying the land and building the house.",
+              "variables": {
+                "a": "What's the purpose of Mr. Tim's visiting this time?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Last Friday.",
+                "Last Saturday.",
+                "Two days ago."
+              ],
+              "correctAnswer": "Two days ago.",
+              "variables": {
+                "a": "When did Mr. Tim go to see the plot chosen by his son?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Stone.",
+                "Brick.",
+                "Cement."
+              ],
+              "correctAnswer": "Stone.",
+              "variables": {
+                "a": "According to the Authority, which of the following must the house be built of sometimes?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Mrs. Whinfield, thank you very much for allowing me to visit your wonderful garden. It really helps me a lot to write an article on Dorset gardens for our paper. Now I wonder if I could ask you a few questions.\nW: Yes, sure.\nM: Could you tell me when you became interested in gardening?\nW: Well, I was always interested in wild flowers and then in 1980 I read Margery Fish's book Cottage Garden Flowers, which is full of practical advice and personal opinions. But I was reading about plants that I didn't know, so I started to read as much as I could and get different writers' advice. I also used to visit Kew Gardens a lot. That was when we lived in Harrow, West London. I learned a lot from my visit. By the way, Dorset is one of England's three most beautiful towns, the other two being Wiltshire and Somerset. You must know what. I'm often invited to give talks to biology students in college.\nM: Yes, certainly. That's why I came here. Now what was your first garden like?\nW: It was a very tiny piece of land, which came with my house in Harrow, West London.\nM: Do you grow many plants yourself?\nW: I don't grow many plants from seeds. But I have several friends and we often give each other plants. My garden is a place which often reminds me of so many people through the plants they've given me.\n{a}",
+          "text_ru": "M: Mrs. Whinfield, thank you very much for allowing me to visit your wonderful garden. It really helps me a lot to write an article on Dorset gardens for our paper. Now I wonder if I could ask you a few questions.\nW: Yes, sure.\nM: Could you tell me when you became interested in gardening?\nW: Well, I was always interested in wild flowers and then in 1980 I read Margery Fish's book Cottage Garden Flowers, which is full of practical advice and personal opinions. But I was reading about plants that I didn't know, so I started to read as much as I could and get different writers' advice. I also used to visit Kew Gardens a lot. That was when we lived in Harrow, West London. I learned a lot from my visit. By the way, Dorset is one of England's three most beautiful towns, the other two being Wiltshire and Somerset. You must know what. I'm often invited to give talks to biology students in college.\nM: Yes, certainly. That's why I came here. Now what was your first garden like?\nW: It was a very tiny piece of land, which came with my house in Harrow, West London.\nM: Do you grow many plants yourself?\nW: I don't grow many plants from seeds. But I have several friends and we often give each other plants. My garden is a place which often reminds me of so many people through the plants they've given me.\n{a}",
+          "text_kz": "M: Mrs. Whinfield, thank you very much for allowing me to visit your wonderful garden. It really helps me a lot to write an article on Dorset gardens for our paper. Now I wonder if I could ask you a few questions.\nW: Yes, sure.\nM: Could you tell me when you became interested in gardening?\nW: Well, I was always interested in wild flowers and then in 1980 I read Margery Fish's book Cottage Garden Flowers, which is full of practical advice and personal opinions. But I was reading about plants that I didn't know, so I started to read as much as I could and get different writers' advice. I also used to visit Kew Gardens a lot. That was when we lived in Harrow, West London. I learned a lot from my visit. By the way, Dorset is one of England's three most beautiful towns, the other two being Wiltshire and Somerset. You must know what. I'm often invited to give talks to biology students in college.\nM: Yes, certainly. That's why I came here. Now what was your first garden like?\nW: It was a very tiny piece of land, which came with my house in Harrow, West London.\nM: Do you grow many plants yourself?\nW: I don't grow many plants from seeds. But I have several friends and we often give each other plants. My garden is a place which often reminds me of so many people through the plants they've given me.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "To learn more about plants.",
+                "To write an article on gardens.",
+                "To meet the writers whose books she read."
+              ],
+              "correctAnswer": "To learn more about plants.",
+              "variables": {
+                "a": "What was the purpose of Mrs. Whinfield's visits to Kew Gardens?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Dorset.",
+                "Somerset.",
+                "West London."
+              ],
+              "correctAnswer": "West London.",
+              "variables": {
+                "a": "Where did Mrs. Whinfield live before she moved to her present home?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She grows them from seeds.",
+                "She gets them from her friends.",
+                "She buys them from a market."
+              ],
+              "correctAnswer": "She gets them from her friends.",
+              "variables": {
+                "a": "Where does Mrs. Whinfield get most of her plants?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Tourist and gardener.",
+                "College professor and biology student.",
+                "Newspaper reporter and garden owner."
+              ],
+              "correctAnswer": "Newspaper reporter and garden owner.",
+              "variables": {
+                "a": "What is the probable relationship between the two speakers?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: You know I've often wondered why people laugh at the picture of a big belly businessman slipping on a banana skin and falling on his bottom. We are to feel sorry for them.\nM: Actually, Laura, I think we laugh because we are glad it didn't happen to us. But of course there is also a kind of humorous satisfaction in seeing somebody self-important making a fool of themselves.\nW: Yes, and there are a lot of jokes about people who are too fat or physically handicapped, you know, deaf, or short-sighted things like that. After all, it's not really funny to be like that.\nM: Oh, I think that's because we're embarrassed. We don't know how to cope with the situation. Perhaps we are even a bit frightened we may get like that, so we laugh.\nM: What about the custard pie routine?\nW: What do you mean 'custard pie routine'?\nM: You know, all those old films where someone gets so outraged with his boss, He picks up a custard pie and plasters it all over the other person's face.\nW: That never makes me laugh much, because you can guess what's going to happen. But a lot of people still find it laughable. It must because of the sort of the thing we'd all love to do once in a while and never quiet have the courage to.\nM: I had an old aunt who used to throw cups of tea at people when she was particularly irritated. She said it relieved her feelings.\nW: It must have come a bit expensive.\nM: Not really. She took care never to throw her best china.\n{a}",
+          "text_ru": "W: You know I've often wondered why people laugh at the picture of a big belly businessman slipping on a banana skin and falling on his bottom. We are to feel sorry for them.\nM: Actually, Laura, I think we laugh because we are glad it didn't happen to us. But of course there is also a kind of humorous satisfaction in seeing somebody self-important making a fool of themselves.\nW: Yes, and there are a lot of jokes about people who are too fat or physically handicapped, you know, deaf, or short-sighted things like that. After all, it's not really funny to be like that.\nM: Oh, I think that's because we're embarrassed. We don't know how to cope with the situation. Perhaps we are even a bit frightened we may get like that, so we laugh.\nM: What about the custard pie routine?\nW: What do you mean 'custard pie routine'?\nM: You know, all those old films where someone gets so outraged with his boss, He picks up a custard pie and plasters it all over the other person's face.\nW: That never makes me laugh much, because you can guess what's going to happen. But a lot of people still find it laughable. It must because of the sort of the thing we'd all love to do once in a while and never quiet have the courage to.\nM: I had an old aunt who used to throw cups of tea at people when she was particularly irritated. She said it relieved her feelings.\nW: It must have come a bit expensive.\nM: Not really. She took care never to throw her best china.\n{a}",
+          "text_kz": "W: You know I've often wondered why people laugh at the picture of a big belly businessman slipping on a banana skin and falling on his bottom. We are to feel sorry for them.\nM: Actually, Laura, I think we laugh because we are glad it didn't happen to us. But of course there is also a kind of humorous satisfaction in seeing somebody self-important making a fool of themselves.\nW: Yes, and there are a lot of jokes about people who are too fat or physically handicapped, you know, deaf, or short-sighted things like that. After all, it's not really funny to be like that.\nM: Oh, I think that's because we're embarrassed. We don't know how to cope with the situation. Perhaps we are even a bit frightened we may get like that, so we laugh.\nM: What about the custard pie routine?\nW: What do you mean 'custard pie routine'?\nM: You know, all those old films where someone gets so outraged with his boss, He picks up a custard pie and plasters it all over the other person's face.\nW: That never makes me laugh much, because you can guess what's going to happen. But a lot of people still find it laughable. It must because of the sort of the thing we'd all love to do once in a while and never quiet have the courage to.\nM: I had an old aunt who used to throw cups of tea at people when she was particularly irritated. She said it relieved her feelings.\nW: It must have come a bit expensive.\nM: Not really. She took care never to throw her best china.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "We simply cannot help reacting instinctively that way.",
+                "We wish to hide our indifference to their misfortune.",
+                "We derive some humorous satisfaction from their misfortune."
+              ],
+              "correctAnswer": "We derive some humorous satisfaction from their misfortune.",
+              "variables": {
+                "a": "Why does the man say we laughed when we see some self-important people making fool of themselves?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They want to show their genuine sympathy.",
+                "They have had similar personal experiences.",
+                "They don't know how to cope with the situation."
+              ],
+              "correctAnswer": "They don't know how to cope with the situation.",
+              "variables": {
+                "a": "Why do some people joke about those who are fat or handicapped according to the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They themselves would like to do it but don't dare to.",
+                "It's an opportunity for relieving their tension.",
+                "It's a rare chance for them to see the boss lose face."
+              ],
+              "correctAnswer": "They themselves would like to do it but don't dare to.",
+              "variables": {
+                "a": "Why do many people find it funny to see someone throwing a custard pie on their boss's face?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To irritate them.",
+                "To teach them a lesson.",
+                "To relieve her feelings."
+              ],
+              "correctAnswer": "To relieve her feelings.",
+              "variables": {
+                "a": "Why does the man say she would drop cups of tea at people occasionally?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: I have a three-week vacation coming up in a few months and I want to take a trip. But I don't really know where I want to go.\nW: Do you want to stay in this country, or would you prefer to go abroad?\nM: I think I'd like to visit a foreign country. I'm not interested in Africa, but any place else would be fine.\nW: Well, that leaves the Orient, the Middle East, South America, and Europe. Oh, and I almost forgot Australia. Are you interested in seeing anything in particular? Historical monuments? Museums? Or people?\nM: Monuments might be interesting, but museums are too stuffy. I think I'd like to see a little night life, too. If I'm going to spend lots of money on a trip, I don't want to be bored.\nW: It sounds as if you would do well to go to Europe - possibly to France, Spain or Italy. There are excellent hotels, so many interesting sights to see, plenty of night clubs.\nM: Say, how about \"Gay Paree\" in Paris? I could spend my whole vacation there and really have a good time, couldn't I? They say the night spots are really terrific!\nW: Well, you'd certainly have plenty of time to find out. And during the day you could do a little sightseeing.\n{a}",
+          "text_ru": "M: I have a three-week vacation coming up in a few months and I want to take a trip. But I don't really know where I want to go.\nW: Do you want to stay in this country, or would you prefer to go abroad?\nM: I think I'd like to visit a foreign country. I'm not interested in Africa, but any place else would be fine.\nW: Well, that leaves the Orient, the Middle East, South America, and Europe. Oh, and I almost forgot Australia. Are you interested in seeing anything in particular? Historical monuments? Museums? Or people?\nM: Monuments might be interesting, but museums are too stuffy. I think I'd like to see a little night life, too. If I'm going to spend lots of money on a trip, I don't want to be bored.\nW: It sounds as if you would do well to go to Europe - possibly to France, Spain or Italy. There are excellent hotels, so many interesting sights to see, plenty of night clubs.\nM: Say, how about \"Gay Paree\" in Paris? I could spend my whole vacation there and really have a good time, couldn't I? They say the night spots are really terrific!\nW: Well, you'd certainly have plenty of time to find out. And during the day you could do a little sightseeing.\n{a}",
+          "text_kz": "M: I have a three-week vacation coming up in a few months and I want to take a trip. But I don't really know where I want to go.\nW: Do you want to stay in this country, or would you prefer to go abroad?\nM: I think I'd like to visit a foreign country. I'm not interested in Africa, but any place else would be fine.\nW: Well, that leaves the Orient, the Middle East, South America, and Europe. Oh, and I almost forgot Australia. Are you interested in seeing anything in particular? Historical monuments? Museums? Or people?\nM: Monuments might be interesting, but museums are too stuffy. I think I'd like to see a little night life, too. If I'm going to spend lots of money on a trip, I don't want to be bored.\nW: It sounds as if you would do well to go to Europe - possibly to France, Spain or Italy. There are excellent hotels, so many interesting sights to see, plenty of night clubs.\nM: Say, how about \"Gay Paree\" in Paris? I could spend my whole vacation there and really have a good time, couldn't I? They say the night spots are really terrific!\nW: Well, you'd certainly have plenty of time to find out. And during the day you could do a little sightseeing.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "To get help deciding where to take his vacation.",
+                "To visit his friends in Paris.",
+                "To get information about Parisian night clubs."
+              ],
+              "correctAnswer": "To get help deciding where to take his vacation.",
+              "variables": {
+                "a": "Why does the man go to the travel agency?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Museums.",
+                "Italy.",
+                "Night clubs."
+              ],
+              "correctAnswer": "Museums.",
+              "variables": {
+                "a": "Which of the following does the man want to visit least?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Africa.",
+                "The Orient.",
+                "Australia."
+              ],
+              "correctAnswer": "Africa.",
+              "variables": {
+                "a": "Which part of the world does not the man want to visit?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In Italy.",
+                "In several European countries.",
+                "In France."
+              ],
+              "correctAnswer": "In France.",
+              "variables": {
+                "a": "Where does the man finally decide to spend his vacation?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: We've all heard the saying \"Laughter is the best medicine.\" How important is it to our health, Dr. Berk?\nM: This saying has been scientifically proven! A year-long study of heart attack victims done at the Oakhurst Health Research Institute in California found that of those patients who spent half an hour a day watching comedy videos, 10 percent had a second heart attack, whereas 30 percent of those who did not watch had a second attack.\nW: Wow! Laughter is really a good medicine to patients. Can you give us another example?\nM: Sure! Norman Cousins, editor of the Saturday Review, learned this during a battle with an illness. He discovered that his condition improved when he enjoyed himself and watched funny movies.\nW: You said Norman learned this? Do we have to learn to laugh?\nM: Not necessarily. Since laughing is something people can do sitting down, costs no money, and requires no special exercise equipment or skill, it's the perfect workout for anyone who doesn't have the time or desire to participate in a regular fitness program.\nW: Oh. Do you have such a program to offer to the general public?\nM: Yes, we do. It's called the Smile Time-Out. You take a deep breath, smile, exhale, and say \"Aaah\" while visualizing all your muscles and cells smiling. Then add to that a memory of a time you felt really good and laughed and laughed.\nW: What about the situation in which you aren't in a mood to laugh?\nM: Even when you fake a smile or laugh, you get the same physiological benefits as when it's the real thing, because your mind is smart, but your body is stupid and can't tell the difference!\n{a}",
+          "text_ru": "W: We've all heard the saying \"Laughter is the best medicine.\" How important is it to our health, Dr. Berk?\nM: This saying has been scientifically proven! A year-long study of heart attack victims done at the Oakhurst Health Research Institute in California found that of those patients who spent half an hour a day watching comedy videos, 10 percent had a second heart attack, whereas 30 percent of those who did not watch had a second attack.\nW: Wow! Laughter is really a good medicine to patients. Can you give us another example?\nM: Sure! Norman Cousins, editor of the Saturday Review, learned this during a battle with an illness. He discovered that his condition improved when he enjoyed himself and watched funny movies.\nW: You said Norman learned this? Do we have to learn to laugh?\nM: Not necessarily. Since laughing is something people can do sitting down, costs no money, and requires no special exercise equipment or skill, it's the perfect workout for anyone who doesn't have the time or desire to participate in a regular fitness program.\nW: Oh. Do you have such a program to offer to the general public?\nM: Yes, we do. It's called the Smile Time-Out. You take a deep breath, smile, exhale, and say \"Aaah\" while visualizing all your muscles and cells smiling. Then add to that a memory of a time you felt really good and laughed and laughed.\nW: What about the situation in which you aren't in a mood to laugh?\nM: Even when you fake a smile or laugh, you get the same physiological benefits as when it's the real thing, because your mind is smart, but your body is stupid and can't tell the difference!\n{a}",
+          "text_kz": "W: We've all heard the saying \"Laughter is the best medicine.\" How important is it to our health, Dr. Berk?\nM: This saying has been scientifically proven! A year-long study of heart attack victims done at the Oakhurst Health Research Institute in California found that of those patients who spent half an hour a day watching comedy videos, 10 percent had a second heart attack, whereas 30 percent of those who did not watch had a second attack.\nW: Wow! Laughter is really a good medicine to patients. Can you give us another example?\nM: Sure! Norman Cousins, editor of the Saturday Review, learned this during a battle with an illness. He discovered that his condition improved when he enjoyed himself and watched funny movies.\nW: You said Norman learned this? Do we have to learn to laugh?\nM: Not necessarily. Since laughing is something people can do sitting down, costs no money, and requires no special exercise equipment or skill, it's the perfect workout for anyone who doesn't have the time or desire to participate in a regular fitness program.\nW: Oh. Do you have such a program to offer to the general public?\nM: Yes, we do. It's called the Smile Time-Out. You take a deep breath, smile, exhale, and say \"Aaah\" while visualizing all your muscles and cells smiling. Then add to that a memory of a time you felt really good and laughed and laughed.\nW: What about the situation in which you aren't in a mood to laugh?\nM: Even when you fake a smile or laugh, you get the same physiological benefits as when it's the real thing, because your mind is smart, but your body is stupid and can't tell the difference!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Health conditions improve with time spent watching healthy programs.",
+                "Comedy videos can cure most people of chronic heart attacks.",
+                "Chances of having heart attacks reduce with those amused daily."
+              ],
+              "correctAnswer": "Chances of having heart attacks reduce with those amused daily.",
+              "variables": {
+                "a": "What did the year-long study of heart attack victims find?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Laughing is a learned behavior.",
+                "Laughing is a good medicine to patients.",
+                "Laughing is easier than battling with an illness."
+              ],
+              "correctAnswer": "Laughing is a good medicine to patients.",
+              "variables": {
+                "a": "What is Norman's example meant to prove?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A fitness program offered to the general public.",
+                "A physical exercise to build up muscles.",
+                "A program that makes people keep laughing."
+              ],
+              "correctAnswer": "A fitness program offered to the general public.",
+              "variables": {
+                "a": "What is the so-called Smile Time-Out?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Even a fake one can benefit people physiologically just as well as a real one.",
+                "You can't fool your body by pretending to be happy.",
+                "A smart mind can't tell the difference between a fake one and a real one."
+              ],
+              "correctAnswer": "Even a fake one can benefit people physiologically just as well as a real one.",
+              "variables": {
+                "a": "What can we learn about smile or laugh according to Dr. Berk?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hi, John! I'd like to invite you to dinner this evening.\nM: To dinner? What for?\nW: I have passed my driving test!\nM: Congratulations! I'm really glad to hear that.\nW: Thank you! I have been preparing for it for half a year, you know. And I've made it at last.\nM: So, where shall we have our dinner?\nW: How about the Friendship Hotel? I like the food and service there.\nM: I agree. I'll take you there in my car.\nW: Fine. Let's go at half past six.\n{a}",
+          "text_ru": "W: Hi, John! I'd like to invite you to dinner this evening.\nM: To dinner? What for?\nW: I have passed my driving test!\nM: Congratulations! I'm really glad to hear that.\nW: Thank you! I have been preparing for it for half a year, you know. And I've made it at last.\nM: So, where shall we have our dinner?\nW: How about the Friendship Hotel? I like the food and service there.\nM: I agree. I'll take you there in my car.\nW: Fine. Let's go at half past six.\n{a}",
+          "text_kz": "W: Hi, John! I'd like to invite you to dinner this evening.\nM: To dinner? What for?\nW: I have passed my driving test!\nM: Congratulations! I'm really glad to hear that.\nW: Thank you! I have been preparing for it for half a year, you know. And I've made it at last.\nM: So, where shall we have our dinner?\nW: How about the Friendship Hotel? I like the food and service there.\nM: I agree. I'll take you there in my car.\nW: Fine. Let's go at half past six.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "It is her birthday.",
+                "She has passed her driving test.",
+                "It's the man's birthday."
+              ],
+              "correctAnswer": "She has passed her driving test.",
+              "variables": {
+                "a": "Why does the woman invite the man to dinner?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She likes the food and service there.",
+                "The food and service there is the best in the city.",
+                "The prices are reasonable there."
+              ],
+              "correctAnswer": "She likes the food and service there.",
+              "variables": {
+                "a": "Why does the woman want to go to the Friendship Hotel?"
+              }
+            },
+            {
+              "answerOptions": [
+                "By Car.",
+                "By taxi.",
+                "By bike."
+              ],
+              "correctAnswer": "By Car.",
+              "variables": {
+                "a": "How will the two speakers go to the Friendship Hotel?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

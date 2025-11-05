@@ -1,0 +1,1557 @@
+{
+  "courseId": "67a16454-40b0-4f00-8929-a8b28af50de2",
+  "title": "Everyday English Course 8",
+  "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
+  "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
+  "totalSections": 3,
+  "sections": [
+    {
+      "title": "Section 1: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "W: Dad, can I go to a movie this week with Shannon?\nM: Let me look at the calendar here. Hmm. When are you thinking about going to a movie?\nW: Uh, we're thinking about seeing a movie on Wednesday after school.\nM: Well, that's not going to work. You haven't practiced your piano at all for an entire week, so you have to catch up on that.\nW: What about Friday?\nM: Uh uh. Forget that idea.\nW: And Saturday?\nM: Well, you have to take an English class in the morning. And then, we have to clean out the garage. You said you'd help. Well, that should only take a couple of hours. And then, after that, you can go to the movie.\nW: Yeah. Can I go and see the nine o'clock showing?\nM: The five o'clock showing!\nW: How about the seven o'clock showing?\nM: And why are you so concerned about the show time?\nW: Well, I don't know if I'll get all of my homework done before then.\nM: Sorry, but I want you to get to bed early that night, and so, I can drop you off at the movie theatre about 4:30, so you'll have time to get tickets.\nW: Okay. Thanks, Dad.\n{a}",
+          "text_ru": "W: Dad, can I go to a movie this week with Shannon?\nM: Let me look at the calendar here. Hmm. When are you thinking about going to a movie?\nW: Uh, we're thinking about seeing a movie on Wednesday after school.\nM: Well, that's not going to work. You haven't practiced your piano at all for an entire week, so you have to catch up on that.\nW: What about Friday?\nM: Uh uh. Forget that idea.\nW: And Saturday?\nM: Well, you have to take an English class in the morning. And then, we have to clean out the garage. You said you'd help. Well, that should only take a couple of hours. And then, after that, you can go to the movie.\nW: Yeah. Can I go and see the nine o'clock showing?\nM: The five o'clock showing!\nW: How about the seven o'clock showing?\nM: And why are you so concerned about the show time?\nW: Well, I don't know if I'll get all of my homework done before then.\nM: Sorry, but I want you to get to bed early that night, and so, I can drop you off at the movie theatre about 4:30, so you'll have time to get tickets.\nW: Okay. Thanks, Dad.\n{a}",
+          "text_kz": "W: Dad, can I go to a movie this week with Shannon?\nM: Let me look at the calendar here. Hmm. When are you thinking about going to a movie?\nW: Uh, we're thinking about seeing a movie on Wednesday after school.\nM: Well, that's not going to work. You haven't practiced your piano at all for an entire week, so you have to catch up on that.\nW: What about Friday?\nM: Uh uh. Forget that idea.\nW: And Saturday?\nM: Well, you have to take an English class in the morning. And then, we have to clean out the garage. You said you'd help. Well, that should only take a couple of hours. And then, after that, you can go to the movie.\nW: Yeah. Can I go and see the nine o'clock showing?\nM: The five o'clock showing!\nW: How about the seven o'clock showing?\nM: And why are you so concerned about the show time?\nW: Well, I don't know if I'll get all of my homework done before then.\nM: Sorry, but I want you to get to bed early that night, and so, I can drop you off at the movie theatre about 4:30, so you'll have time to get tickets.\nW: Okay. Thanks, Dad.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She has to work after school.",
+                "She has to catch up on her lessons.",
+                "She has to practice her piano."
+              ],
+              "correctAnswer": "She has to practice her piano.",
+              "variables": {
+                "a": "Why can't the girl go to a movie on Wednesday?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Cleaning the garage.",
+                "Picking up her room.",
+                "Finishing her English homework."
+              ],
+              "correctAnswer": "Cleaning the garage.",
+              "variables": {
+                "a": "What does the girl have to do on Saturday?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because she will do her homework after the film.",
+                "Because she will do her homework first.",
+                "Because she will take an English class first."
+              ],
+              "correctAnswer": "Because she will do her homework first.",
+              "variables": {
+                "a": "Why does the girl care about the show time very much?"
+              }
+            },
+            {
+              "answerOptions": [
+                "5:00 p.m..",
+                "7:00 p.m..",
+                "9:00 p.m.."
+              ],
+              "correctAnswer": "5:00 p.m..",
+              "variables": {
+                "a": "Which movie showing is the girl going to see?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: I've just had my lunch at the cafeteria of our university.\nM: What do you think of the food today?\nW: You have to ask. About as terrible as usual, I'd say.\nM: You know, I think it's about time a group of us speak to some University officials about the quality of the food.\nW: Do you have a good idea?\nM: In my view, we had better get rid of the manager.\nW: Do you think you are the first to think of that? The problem is that the University doesn't want to change another manager.\nM: You mean you've been through this before?\nW: Yes, when I was a freshman, I once did that. I once wrote a letter to the Student Services Official and presented a petition signed by 200 students.\nM: What was his reaction?\nW: He asked me why all the other students didn't sign it as well. I told him we only had time for a sample, but I was sure almost all the students would have.\nM: Why was he so cool towards you? Isn't it a serious question?\nW: That manager has good friends in the University. You know family connections.\n{a}",
+          "text_ru": "W: I've just had my lunch at the cafeteria of our university.\nM: What do you think of the food today?\nW: You have to ask. About as terrible as usual, I'd say.\nM: You know, I think it's about time a group of us speak to some University officials about the quality of the food.\nW: Do you have a good idea?\nM: In my view, we had better get rid of the manager.\nW: Do you think you are the first to think of that? The problem is that the University doesn't want to change another manager.\nM: You mean you've been through this before?\nW: Yes, when I was a freshman, I once did that. I once wrote a letter to the Student Services Official and presented a petition signed by 200 students.\nM: What was his reaction?\nW: He asked me why all the other students didn't sign it as well. I told him we only had time for a sample, but I was sure almost all the students would have.\nM: Why was he so cool towards you? Isn't it a serious question?\nW: That manager has good friends in the University. You know family connections.\n{a}",
+          "text_kz": "W: I've just had my lunch at the cafeteria of our university.\nM: What do you think of the food today?\nW: You have to ask. About as terrible as usual, I'd say.\nM: You know, I think it's about time a group of us speak to some University officials about the quality of the food.\nW: Do you have a good idea?\nM: In my view, we had better get rid of the manager.\nW: Do you think you are the first to think of that? The problem is that the University doesn't want to change another manager.\nM: You mean you've been through this before?\nW: Yes, when I was a freshman, I once did that. I once wrote a letter to the Student Services Official and presented a petition signed by 200 students.\nM: What was his reaction?\nW: He asked me why all the other students didn't sign it as well. I told him we only had time for a sample, but I was sure almost all the students would have.\nM: Why was he so cool towards you? Isn't it a serious question?\nW: That manager has good friends in the University. You know family connections.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "The woman hates it, but the man doesn't mind it.",
+                "They both hate it",
+                "The woman hates it more than the man."
+              ],
+              "correctAnswer": "They both hate it",
+              "variables": {
+                "a": "What are the two speakers' reactions to the food?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The idea is not new.",
+                "She supports the idea.",
+                "She doesn't care about it."
+              ],
+              "correctAnswer": "The idea is not new.",
+              "variables": {
+                "a": "What does the woman think of the man's idea?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They became angry.",
+                "They were not very responsive.",
+                "They promised to do something, but never did."
+              ],
+              "correctAnswer": "They were not very responsive.",
+              "variables": {
+                "a": "How did the university officials respond?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because the officials like the food.",
+                "Because the officials don't respect the students.",
+                "Because a very important person manage the food."
+              ],
+              "correctAnswer": "Because a very important person manage the food.",
+              "variables": {
+                "a": "Why is the situation difficult to change?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Oh, wow. I can't believe today is our last day of school. No more teaching for three months straight! So where are you going for summer vacation?\nW: A couple of months ago, one of my students gave me a magazine. I was greatly interested in it. Now I get it in my mailbox every month.\nM: Why don't you just read it online?\nW: Well, I just love the photos, and sometimes I cut them out and put them up on my wall.\nM: Huh?\nW: I have been planning my vacation ever since I got that first magazine. I pick the most interesting photos, cut them out, and put them up on my wall. I look at them and decide where I want to go most.\nM: Most people just do that on Facebook, you know...\nW: Well, I just prefer to do it this way.\nM: So how many photos do you have on your wall?\nW: About a dozen.\nM: So have you decided where you will go?\nW: Oh, yes. I even have my plane ticket.\nM: I can't wait to hear where it is. Two months of planning and studying photos...okay, so...where are you going?\nW: To Morocco! I'll be there for a month!\nM: That sounds great!\n{a}",
+          "text_ru": "M: Oh, wow. I can't believe today is our last day of school. No more teaching for three months straight! So where are you going for summer vacation?\nW: A couple of months ago, one of my students gave me a magazine. I was greatly interested in it. Now I get it in my mailbox every month.\nM: Why don't you just read it online?\nW: Well, I just love the photos, and sometimes I cut them out and put them up on my wall.\nM: Huh?\nW: I have been planning my vacation ever since I got that first magazine. I pick the most interesting photos, cut them out, and put them up on my wall. I look at them and decide where I want to go most.\nM: Most people just do that on Facebook, you know...\nW: Well, I just prefer to do it this way.\nM: So how many photos do you have on your wall?\nW: About a dozen.\nM: So have you decided where you will go?\nW: Oh, yes. I even have my plane ticket.\nM: I can't wait to hear where it is. Two months of planning and studying photos...okay, so...where are you going?\nW: To Morocco! I'll be there for a month!\nM: That sounds great!\n{a}",
+          "text_kz": "M: Oh, wow. I can't believe today is our last day of school. No more teaching for three months straight! So where are you going for summer vacation?\nW: A couple of months ago, one of my students gave me a magazine. I was greatly interested in it. Now I get it in my mailbox every month.\nM: Why don't you just read it online?\nW: Well, I just love the photos, and sometimes I cut them out and put them up on my wall.\nM: Huh?\nW: I have been planning my vacation ever since I got that first magazine. I pick the most interesting photos, cut them out, and put them up on my wall. I look at them and decide where I want to go most.\nM: Most people just do that on Facebook, you know...\nW: Well, I just prefer to do it this way.\nM: So how many photos do you have on your wall?\nW: About a dozen.\nM: So have you decided where you will go?\nW: Oh, yes. I even have my plane ticket.\nM: I can't wait to hear where it is. Two months of planning and studying photos...okay, so...where are you going?\nW: To Morocco! I'll be there for a month!\nM: That sounds great!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She's a teacher.",
+                "She's a travel writer.",
+                "She's still a student."
+              ],
+              "correctAnswer": "She's a teacher.",
+              "variables": {
+                "a": "What does the woman do for a living?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Three months long.",
+                "Two months long.",
+                "One month long."
+              ],
+              "correctAnswer": "Three months long.",
+              "variables": {
+                "a": "How long is the speakers' vacation?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Post them on Facebook.",
+                "Put them up on her wall.",
+                "Put them in a box."
+              ],
+              "correctAnswer": "Put them up on her wall.",
+              "variables": {
+                "a": "What does the woman like to do with photos?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She is going to Europe.",
+                "She will go to many places.",
+                "She will travel by plane."
+              ],
+              "correctAnswer": "She will travel by plane.",
+              "variables": {
+                "a": "What is true about the woman's vacation plan?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Dear audiences, today we'll talk about divorce and its effect on children. Our guest is Jennifer Benzes. Thank you for coming, Jennifer. Do you mind saying something about your divorce?\nW: No. I got divorced years ago. Even worse, I got divorced when I had small children.\nM: Have you thought of the effect divorce may have on your children? Their needs can be forgotten as parents are struggling to re-establish their lives.\nW: Of course, we have. We are definitely more aware of the impact on children. After all we are not famous people who trade spouses like shoes. For most of us divorce is not entered into lightly. We all suffer. Anyway, we try to comfort our children.\nM: How?\nW: We tell them we love them and will always do.\nM: You haven't thought of saving the marriage?\nW: Yes, we have. We would do anything to spare our children pain. But you know, fixing a marriage is not like changing a tire. Family conflicts may take hold like a cancer.\nM: Then divorce is the only way to get rid of it.\nW: It's true with me. Others may succeed in fixing.\nM: Yet most people believe a had marriage is better for children than a divorce. According to a recent poll, more people today think parents should stay together for the sake of the children What do you think?\nW: I think the cost of staying together is worse than the benefits. Parents quarrelling and fighting all day may do more harm to their children.\nM: What do you want society to do for you?\nW: Understand us, not curse us. More importantly, they should help us share the loss and build a better future.\n{a}",
+          "text_ru": "M: Dear audiences, today we'll talk about divorce and its effect on children. Our guest is Jennifer Benzes. Thank you for coming, Jennifer. Do you mind saying something about your divorce?\nW: No. I got divorced years ago. Even worse, I got divorced when I had small children.\nM: Have you thought of the effect divorce may have on your children? Their needs can be forgotten as parents are struggling to re-establish their lives.\nW: Of course, we have. We are definitely more aware of the impact on children. After all we are not famous people who trade spouses like shoes. For most of us divorce is not entered into lightly. We all suffer. Anyway, we try to comfort our children.\nM: How?\nW: We tell them we love them and will always do.\nM: You haven't thought of saving the marriage?\nW: Yes, we have. We would do anything to spare our children pain. But you know, fixing a marriage is not like changing a tire. Family conflicts may take hold like a cancer.\nM: Then divorce is the only way to get rid of it.\nW: It's true with me. Others may succeed in fixing.\nM: Yet most people believe a had marriage is better for children than a divorce. According to a recent poll, more people today think parents should stay together for the sake of the children What do you think?\nW: I think the cost of staying together is worse than the benefits. Parents quarrelling and fighting all day may do more harm to their children.\nM: What do you want society to do for you?\nW: Understand us, not curse us. More importantly, they should help us share the loss and build a better future.\n{a}",
+          "text_kz": "M: Dear audiences, today we'll talk about divorce and its effect on children. Our guest is Jennifer Benzes. Thank you for coming, Jennifer. Do you mind saying something about your divorce?\nW: No. I got divorced years ago. Even worse, I got divorced when I had small children.\nM: Have you thought of the effect divorce may have on your children? Their needs can be forgotten as parents are struggling to re-establish their lives.\nW: Of course, we have. We are definitely more aware of the impact on children. After all we are not famous people who trade spouses like shoes. For most of us divorce is not entered into lightly. We all suffer. Anyway, we try to comfort our children.\nM: How?\nW: We tell them we love them and will always do.\nM: You haven't thought of saving the marriage?\nW: Yes, we have. We would do anything to spare our children pain. But you know, fixing a marriage is not like changing a tire. Family conflicts may take hold like a cancer.\nM: Then divorce is the only way to get rid of it.\nW: It's true with me. Others may succeed in fixing.\nM: Yet most people believe a had marriage is better for children than a divorce. According to a recent poll, more people today think parents should stay together for the sake of the children What do you think?\nW: I think the cost of staying together is worse than the benefits. Parents quarrelling and fighting all day may do more harm to their children.\nM: What do you want society to do for you?\nW: Understand us, not curse us. More importantly, they should help us share the loss and build a better future.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She plans to divorce",
+                "She has divorced several times.",
+                "She is a mother of more than one."
+              ],
+              "correctAnswer": "She is a mother of more than one.",
+              "variables": {
+                "a": "What do we learn about the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Divorce is to be entered into seriously.",
+                "Children's needs are ignored after parents get divorced",
+                "Most famous people look on divorce as a serious matter."
+              ],
+              "correctAnswer": "Divorce is to be entered into seriously.",
+              "variables": {
+                "a": "According to the woman, which of the following statements is true?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Every means should be tried before some marriages are fixed.",
+                "Some marriages can never be fixed.",
+                "A fixed marriage is not easily broken any more."
+              ],
+              "correctAnswer": "Some marriages can never be fixed.",
+              "variables": {
+                "a": "What does the woman think of fixing a marriage?"
+              }
+            },
+            {
+              "answerOptions": [
+                "understand the choice of divorced people",
+                "give more financial support to single mothers",
+                "help divorced people share the loss and build a new life"
+              ],
+              "correctAnswer": "help divorced people share the loss and build a new life",
+              "variables": {
+                "a": "The woman thinks it more important for society to ______."
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Phew! Home at last! I'm glad to be back, aren't you?\nW: Not really...I'm sorry our holiday is over. We had a great time, didn't we?\nM: Mmm...it was OK. The weather wasn't as good as I'd hoped. It started to get cloudy in the last two days. I remember the forecast was for bright sunshine the whole week!\nW: Well,most of the week was like that. We only had a little rain,right?\nM: Yeah...The food in the hotel was delicious,but it was priced too high. Next time,we should stay at a cheap hotel.\nW: Yeah,but the waiters were very helpful,I must say. When I asked for black tea,they sent some up to our room in a while.\nM: Mmm...that's true.\nW: But I don't know why the air conditioner didn't work. It was so hot!\nM: It didn't help when we opened the windows,either. It didn't cool the room down at all.\nW: Well,that was the only thing that didn't work properly.\nM: Right,well,it happens sometimes.\nW: So...what should we do for our next holiday then? We can go somewhere else - Asia or    Europe?\nM: Well,I would rather we go to Africa again.\n{a}",
+          "text_ru": "M: Phew! Home at last! I'm glad to be back, aren't you?\nW: Not really...I'm sorry our holiday is over. We had a great time, didn't we?\nM: Mmm...it was OK. The weather wasn't as good as I'd hoped. It started to get cloudy in the last two days. I remember the forecast was for bright sunshine the whole week!\nW: Well,most of the week was like that. We only had a little rain,right?\nM: Yeah...The food in the hotel was delicious,but it was priced too high. Next time,we should stay at a cheap hotel.\nW: Yeah,but the waiters were very helpful,I must say. When I asked for black tea,they sent some up to our room in a while.\nM: Mmm...that's true.\nW: But I don't know why the air conditioner didn't work. It was so hot!\nM: It didn't help when we opened the windows,either. It didn't cool the room down at all.\nW: Well,that was the only thing that didn't work properly.\nM: Right,well,it happens sometimes.\nW: So...what should we do for our next holiday then? We can go somewhere else - Asia or    Europe?\nM: Well,I would rather we go to Africa again.\n{a}",
+          "text_kz": "M: Phew! Home at last! I'm glad to be back, aren't you?\nW: Not really...I'm sorry our holiday is over. We had a great time, didn't we?\nM: Mmm...it was OK. The weather wasn't as good as I'd hoped. It started to get cloudy in the last two days. I remember the forecast was for bright sunshine the whole week!\nW: Well,most of the week was like that. We only had a little rain,right?\nM: Yeah...The food in the hotel was delicious,but it was priced too high. Next time,we should stay at a cheap hotel.\nW: Yeah,but the waiters were very helpful,I must say. When I asked for black tea,they sent some up to our room in a while.\nM: Mmm...that's true.\nW: But I don't know why the air conditioner didn't work. It was so hot!\nM: It didn't help when we opened the windows,either. It didn't cool the room down at all.\nW: Well,that was the only thing that didn't work properly.\nM: Right,well,it happens sometimes.\nW: So...what should we do for our next holiday then? We can go somewhere else - Asia or    Europe?\nM: Well,I would rather we go to Africa again.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Cloudy.",
+                "Sunny.",
+                "Rainy."
+              ],
+              "correctAnswer": "Sunny.",
+              "variables": {
+                "a": "What was the weather like most time during the holiday?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The food.",
+                "The waiters.",
+                "The price."
+              ],
+              "correctAnswer": "The price.",
+              "variables": {
+                "a": "What was the man unsatisfied with about the hotel?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The air conditioner.",
+                "service.",
+                "The weather."
+              ],
+              "correctAnswer": "The air conditioner.",
+              "variables": {
+                "a": "What did the woman complain about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In Asia.",
+                "In Africa.",
+                "In Europe."
+              ],
+              "correctAnswer": "In Africa.",
+              "variables": {
+                "a": "Where did the speakers spend their holiday?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: I'm here with Margaret Seabrook, the CEO of Creative Toys. In today's show, we're going to discuss the hottest new toy of 2018: the Super Spinner. Margaret, welcome!\nW: Thank you, Brian. It's great to be here.\nM: OK, so tell us about this new toy.\nW: Well, it's similar to a relaxation ball in its function, but it's useful for anyone who has problems focusing.\nM: So, how does it work?\nW: It's about the size of a cookie, and it has three small round parts that can move in any direction. Basically, you just hold it in between your thumb and middle finger and spin it. That's it.\nM: That's it?\nW: Yeah. It's very popular not only with children, but with adults as well.\nM: A professor at MIT by the name of Jill Meanley has publicly stated there is no scientific or medical evidence for your claims about its benefits. Many schools also have banned the toy, saying it leads to a lack of focus in the classroom.\nW: Well, that professor is allowed to have her opinion.\nM: Fair enough. And who invented it?\nW: Catherine Hettinger, a chemical engineer, was first believed to be its creator, but then we found that an IT professional named Scott McCoskery was the actual inventor.\nM: It's time for a commercial break. More with Margaret Seabrook in a moment.\n{a}",
+          "text_ru": "M: I'm here with Margaret Seabrook, the CEO of Creative Toys. In today's show, we're going to discuss the hottest new toy of 2018: the Super Spinner. Margaret, welcome!\nW: Thank you, Brian. It's great to be here.\nM: OK, so tell us about this new toy.\nW: Well, it's similar to a relaxation ball in its function, but it's useful for anyone who has problems focusing.\nM: So, how does it work?\nW: It's about the size of a cookie, and it has three small round parts that can move in any direction. Basically, you just hold it in between your thumb and middle finger and spin it. That's it.\nM: That's it?\nW: Yeah. It's very popular not only with children, but with adults as well.\nM: A professor at MIT by the name of Jill Meanley has publicly stated there is no scientific or medical evidence for your claims about its benefits. Many schools also have banned the toy, saying it leads to a lack of focus in the classroom.\nW: Well, that professor is allowed to have her opinion.\nM: Fair enough. And who invented it?\nW: Catherine Hettinger, a chemical engineer, was first believed to be its creator, but then we found that an IT professional named Scott McCoskery was the actual inventor.\nM: It's time for a commercial break. More with Margaret Seabrook in a moment.\n{a}",
+          "text_kz": "M: I'm here with Margaret Seabrook, the CEO of Creative Toys. In today's show, we're going to discuss the hottest new toy of 2018: the Super Spinner. Margaret, welcome!\nW: Thank you, Brian. It's great to be here.\nM: OK, so tell us about this new toy.\nW: Well, it's similar to a relaxation ball in its function, but it's useful for anyone who has problems focusing.\nM: So, how does it work?\nW: It's about the size of a cookie, and it has three small round parts that can move in any direction. Basically, you just hold it in between your thumb and middle finger and spin it. That's it.\nM: That's it?\nW: Yeah. It's very popular not only with children, but with adults as well.\nM: A professor at MIT by the name of Jill Meanley has publicly stated there is no scientific or medical evidence for your claims about its benefits. Many schools also have banned the toy, saying it leads to a lack of focus in the classroom.\nW: Well, that professor is allowed to have her opinion.\nM: Fair enough. And who invented it?\nW: Catherine Hettinger, a chemical engineer, was first believed to be its creator, but then we found that an IT professional named Scott McCoskery was the actual inventor.\nM: It's time for a commercial break. More with Margaret Seabrook in a moment.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Interviewer and interviewee.",
+                "Teacher and student.",
+                "Boss and secretary."
+              ],
+              "correctAnswer": "Interviewer and interviewee.",
+              "variables": {
+                "a": "What's the probable relationship between the two speakers?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Children.",
+                "Teenagers.",
+                "All age groups."
+              ],
+              "correctAnswer": "All age groups.",
+              "variables": {
+                "a": "What age group is the toy popular with?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It leads to theft.",
+                "It makes students lose focus.",
+                "It causes arguments in class."
+              ],
+              "correctAnswer": "It makes students lose focus.",
+              "variables": {
+                "a": "Why do many schools ban the toy?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Jill Meanley.",
+                "Catherine Hettinger.",
+                "Scott McCoskery."
+              ],
+              "correctAnswer": "Catherine Hettinger.",
+              "variables": {
+                "a": "Who actually invented the toy?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hey, James, how is the job search going?\nM: Hi, Sharon, I had no idea. It'll take so much time. It sure makes it difficult to prepare for final exams. How about you?\nW: I was lucky. There seems to be a shortage of highschool teachers now. I applied to three schools and each one offered me a position.\nM: That's great. Which one did you like?\nW: I haven't decided yet. Of course, it will be easiest for me to stay here in New York or go back home to Boston, but I may go to California.\nM: That will be a big move.\nW: So tell me about your plans?\nM: Well, I applied to six newspapers. Last week, I had an interview with New York Times.\nW: How did it go?\nM: Not so well. I think they are looking for people with some experience.\nW: Have you had any other interviews?\nM: No, not yet. It seems that everyone wants to be a writer these days. There just aren't many jobs out there.\nW: That's too bad.\nM: Yes, I had a hope to have a job lined up by graduation. That doesn't seem likely now.\nW: What will you do if you can't find a job?\nM: In that case, I'll begin working on the master's degree in the fall.\nW: Good luck.\n{a}",
+          "text_ru": "W: Hey, James, how is the job search going?\nM: Hi, Sharon, I had no idea. It'll take so much time. It sure makes it difficult to prepare for final exams. How about you?\nW: I was lucky. There seems to be a shortage of highschool teachers now. I applied to three schools and each one offered me a position.\nM: That's great. Which one did you like?\nW: I haven't decided yet. Of course, it will be easiest for me to stay here in New York or go back home to Boston, but I may go to California.\nM: That will be a big move.\nW: So tell me about your plans?\nM: Well, I applied to six newspapers. Last week, I had an interview with New York Times.\nW: How did it go?\nM: Not so well. I think they are looking for people with some experience.\nW: Have you had any other interviews?\nM: No, not yet. It seems that everyone wants to be a writer these days. There just aren't many jobs out there.\nW: That's too bad.\nM: Yes, I had a hope to have a job lined up by graduation. That doesn't seem likely now.\nW: What will you do if you can't find a job?\nM: In that case, I'll begin working on the master's degree in the fall.\nW: Good luck.\n{a}",
+          "text_kz": "W: Hey, James, how is the job search going?\nM: Hi, Sharon, I had no idea. It'll take so much time. It sure makes it difficult to prepare for final exams. How about you?\nW: I was lucky. There seems to be a shortage of highschool teachers now. I applied to three schools and each one offered me a position.\nM: That's great. Which one did you like?\nW: I haven't decided yet. Of course, it will be easiest for me to stay here in New York or go back home to Boston, but I may go to California.\nM: That will be a big move.\nW: So tell me about your plans?\nM: Well, I applied to six newspapers. Last week, I had an interview with New York Times.\nW: How did it go?\nM: Not so well. I think they are looking for people with some experience.\nW: Have you had any other interviews?\nM: No, not yet. It seems that everyone wants to be a writer these days. There just aren't many jobs out there.\nW: That's too bad.\nM: Yes, I had a hope to have a job lined up by graduation. That doesn't seem likely now.\nW: What will you do if you can't find a job?\nM: In that case, I'll begin working on the master's degree in the fall.\nW: Good luck.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Writers.",
+                "School teachers.",
+                "Newspaper reporters."
+              ],
+              "correctAnswer": "School teachers.",
+              "variables": {
+                "a": "What kind of jobs seems to be in short supply?"
+              }
+            },
+            {
+              "answerOptions": [
+                "New York.",
+                "Boston.",
+                "California."
+              ],
+              "correctAnswer": "California.",
+              "variables": {
+                "a": "Where is Sharon most likely to go?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Continue his education.",
+                "Start a newspaper.",
+                "Write a book."
+              ],
+              "correctAnswer": "Continue his education.",
+              "variables": {
+                "a": "What does James plan to do if he can't find a job?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Fellow students.",
+                "Laid-off workers.",
+                "High school teachers."
+              ],
+              "correctAnswer": "Fellow students.",
+              "variables": {
+                "a": "Who are the speakers?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Gordon, I'm going to Keswick in the Lake District this weekend.\nM: Really?\nW: Yeah, five of us. Why don't you join us? We're getting to Keswick on Friday. Then we're going boating on Saturday. And on Sunday, we're going to do some shopping. Then I will take some time to visit my aunt Lucy.\nM: You're not going to camp, are you? Isn't it a bit cold?\nW: No, we're not. It is a bit cold. We're staying in a country inn. It's not like five-star hotels or anything. But it's really comfortable.\nM: Hmm, sounds interesting. You know, it's the boating that I don't like.\nW: Well, what are you up to?\nM: Sit on my sofa all weekend and watch the DVDs I've just bought. And that will be a busy weekend. I may finish watching Friends.\nW: I don't know how you can do that all weekend, Gordon. I'd get bored.\nM: I know, I know. But that's really what I want to do.\n{a}",
+          "text_ru": "W: Gordon, I'm going to Keswick in the Lake District this weekend.\nM: Really?\nW: Yeah, five of us. Why don't you join us? We're getting to Keswick on Friday. Then we're going boating on Saturday. And on Sunday, we're going to do some shopping. Then I will take some time to visit my aunt Lucy.\nM: You're not going to camp, are you? Isn't it a bit cold?\nW: No, we're not. It is a bit cold. We're staying in a country inn. It's not like five-star hotels or anything. But it's really comfortable.\nM: Hmm, sounds interesting. You know, it's the boating that I don't like.\nW: Well, what are you up to?\nM: Sit on my sofa all weekend and watch the DVDs I've just bought. And that will be a busy weekend. I may finish watching Friends.\nW: I don't know how you can do that all weekend, Gordon. I'd get bored.\nM: I know, I know. But that's really what I want to do.\n{a}",
+          "text_kz": "W: Gordon, I'm going to Keswick in the Lake District this weekend.\nM: Really?\nW: Yeah, five of us. Why don't you join us? We're getting to Keswick on Friday. Then we're going boating on Saturday. And on Sunday, we're going to do some shopping. Then I will take some time to visit my aunt Lucy.\nM: You're not going to camp, are you? Isn't it a bit cold?\nW: No, we're not. It is a bit cold. We're staying in a country inn. It's not like five-star hotels or anything. But it's really comfortable.\nM: Hmm, sounds interesting. You know, it's the boating that I don't like.\nW: Well, what are you up to?\nM: Sit on my sofa all weekend and watch the DVDs I've just bought. And that will be a busy weekend. I may finish watching Friends.\nW: I don't know how you can do that all weekend, Gordon. I'd get bored.\nM: I know, I know. But that's really what I want to do.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Going shopping.",
+                "Going camping.",
+                "Going boating."
+              ],
+              "correctAnswer": "Going boating.",
+              "variables": {
+                "a": "What is the woman's plan for Saturday?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In a country inn.",
+                "In a five-star hotel.",
+                "In her aunt's home."
+              ],
+              "correctAnswer": "In a country inn.",
+              "variables": {
+                "a": "Where will the woman stay in Keswick?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Visit his friends.",
+                "Watch DVDs.",
+                "Join the woman."
+              ],
+              "correctAnswer": "Watch DVDs.",
+              "variables": {
+                "a": "What will Gordon do over the weekend?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Relaxed.",
+                "Boring.",
+                "Busy."
+              ],
+              "correctAnswer": "Boring.",
+              "variables": {
+                "a": "What does the woman think of Gordon's coming weekend?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Let's sit here and order some coffee while I'll show you some pictures.\nW: Good idea. But I'd prefer tea, please.\nM: This is Ted, my roommate. We live in the dormitory.\nW: Is this your room? You certainly have a lot of books. How did you ever manage to put them in such a good order?\nM: Ted did this for me. He is a neat person.\nW: Do you like living in the dormitory?\nM: Yes. Ted is a very good guy. Sometimes I leave my books and clothes lying around and he gets angry. Sometimes he turns his radio up too loud and makes much noise, then I get angry. But on the whole we can get well along.\nW: Where did you take this picture?\nM: That's a picture of us taken when we went to the beach during vacation~\nW: You look so smart. This is a lovely puppy.\nM: That's my dog Allen. He is now with my parents.\n{a}",
+          "text_ru": "M: Let's sit here and order some coffee while I'll show you some pictures.\nW: Good idea. But I'd prefer tea, please.\nM: This is Ted, my roommate. We live in the dormitory.\nW: Is this your room? You certainly have a lot of books. How did you ever manage to put them in such a good order?\nM: Ted did this for me. He is a neat person.\nW: Do you like living in the dormitory?\nM: Yes. Ted is a very good guy. Sometimes I leave my books and clothes lying around and he gets angry. Sometimes he turns his radio up too loud and makes much noise, then I get angry. But on the whole we can get well along.\nW: Where did you take this picture?\nM: That's a picture of us taken when we went to the beach during vacation~\nW: You look so smart. This is a lovely puppy.\nM: That's my dog Allen. He is now with my parents.\n{a}",
+          "text_kz": "M: Let's sit here and order some coffee while I'll show you some pictures.\nW: Good idea. But I'd prefer tea, please.\nM: This is Ted, my roommate. We live in the dormitory.\nW: Is this your room? You certainly have a lot of books. How did you ever manage to put them in such a good order?\nM: Ted did this for me. He is a neat person.\nW: Do you like living in the dormitory?\nM: Yes. Ted is a very good guy. Sometimes I leave my books and clothes lying around and he gets angry. Sometimes he turns his radio up too loud and makes much noise, then I get angry. But on the whole we can get well along.\nW: Where did you take this picture?\nM: That's a picture of us taken when we went to the beach during vacation~\nW: You look so smart. This is a lovely puppy.\nM: That's my dog Allen. He is now with my parents.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In a classroom.",
+                "In a snack bar.",
+                "In the dormitory."
+              ],
+              "correctAnswer": "In a snack bar.",
+              "variables": {
+                "a": "Where does this conversation most probably take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The man's brother.",
+                "The man's roommate.",
+                "The man's dog."
+              ],
+              "correctAnswer": "The man's roommate.",
+              "variables": {
+                "a": "Who is Ted?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because he plays the radio too loud.",
+                "Because he throws his things around.",
+                "Because he often leaves the door open."
+              ],
+              "correctAnswer": "Because he plays the radio too loud.",
+              "variables": {
+                "a": "Why does the man sometimes get angry with Ted?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They visited the man's parents.",
+                "They went to the beach.",
+                "They worked in a supermarket."
+              ],
+              "correctAnswer": "They went to the beach.",
+              "variables": {
+                "a": "What did they do during the vacation mentioned in the conversation?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Mum.\nW: There you are. I'm getting worried. It's so late.\nM: Yes. I ran into Linda and we went to a pub. She told me a funny thing.\nW: Oh? What was that?\nM: Well, she was driving home after work, and she suddenly saw an old lady on her hands and knees in the middle of the road.\nW: Really?\nM: Yes, Linda was so shocked that she stopped suddenly and the car behind crashed into hers.\nW: Was her hurt?\nM: No.\nW: And what was the old lady doing?\nM: I am just coming to that. So Linda got out of her car and saw the old lady pick up something and walk away.\nW: Lucky indeed. Linda didn't run her over.\nM: Then a policeman came. But he didn't believe what Linda said.\nW: Well...\nM: Luckily there was a witness, a man waiting for a bus. He saw it all. Guess what the old lady was doing?\nW: I haven't the slightest idea.\nM: She was looking for her gold tooth.\nW: A gold tooth?\nM: Yes, it fell out as she was crossing the road. The witness heard her saying, \"Oh, my gold tooth...\"\n{a}",
+          "text_ru": "M: Hi, Mum.\nW: There you are. I'm getting worried. It's so late.\nM: Yes. I ran into Linda and we went to a pub. She told me a funny thing.\nW: Oh? What was that?\nM: Well, she was driving home after work, and she suddenly saw an old lady on her hands and knees in the middle of the road.\nW: Really?\nM: Yes, Linda was so shocked that she stopped suddenly and the car behind crashed into hers.\nW: Was her hurt?\nM: No.\nW: And what was the old lady doing?\nM: I am just coming to that. So Linda got out of her car and saw the old lady pick up something and walk away.\nW: Lucky indeed. Linda didn't run her over.\nM: Then a policeman came. But he didn't believe what Linda said.\nW: Well...\nM: Luckily there was a witness, a man waiting for a bus. He saw it all. Guess what the old lady was doing?\nW: I haven't the slightest idea.\nM: She was looking for her gold tooth.\nW: A gold tooth?\nM: Yes, it fell out as she was crossing the road. The witness heard her saying, \"Oh, my gold tooth...\"\n{a}",
+          "text_kz": "M: Hi, Mum.\nW: There you are. I'm getting worried. It's so late.\nM: Yes. I ran into Linda and we went to a pub. She told me a funny thing.\nW: Oh? What was that?\nM: Well, she was driving home after work, and she suddenly saw an old lady on her hands and knees in the middle of the road.\nW: Really?\nM: Yes, Linda was so shocked that she stopped suddenly and the car behind crashed into hers.\nW: Was her hurt?\nM: No.\nW: And what was the old lady doing?\nM: I am just coming to that. So Linda got out of her car and saw the old lady pick up something and walk away.\nW: Lucky indeed. Linda didn't run her over.\nM: Then a policeman came. But he didn't believe what Linda said.\nW: Well...\nM: Luckily there was a witness, a man waiting for a bus. He saw it all. Guess what the old lady was doing?\nW: I haven't the slightest idea.\nM: She was looking for her gold tooth.\nW: A gold tooth?\nM: Yes, it fell out as she was crossing the road. The witness heard her saying, \"Oh, my gold tooth...\"\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "He hurt his hands and knees.",
+                "He went to a pub with Linda.",
+                "He waited a long time for the bus."
+              ],
+              "correctAnswer": "He went to a pub with Linda.",
+              "variables": {
+                "a": "Why did the son come back late?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Looking for something.",
+                "Struggling to stand up.",
+                "Trying to seek help."
+              ],
+              "correctAnswer": "Looking for something.",
+              "variables": {
+                "a": "What was the old lady doing in the middle of the road?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She was fired.",
+                "She got injured.",
+                "She had an accident."
+              ],
+              "correctAnswer": "She had an accident.",
+              "variables": {
+                "a": "What happened to Linda?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Outside the pub.",
+                "At a bus stop.",
+                "In his car."
+              ],
+              "correctAnswer": "At a bus stop.",
+              "variables": {
+                "a": "Where was the witness?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section 2: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "M: Today, we have Professor McKay on our morning talk show. Good morning, Professor McKay. I've heard that you and your team have just completed a report on old age.\nW: That's right. Well, the report basically look into the various beliefs that people hold about old age and tries to prove them.\nM: And what do you think your report can achieve?\nW: We hope that it will somehow help people to change their feelings about old age. The  problem is that far too many of us believe that most old people are poor, lonely, and unhappy. As a result, we tend to find old people, as a group, unattractive. And this is very dangerous for our society.\nM: But surely we cannot escape the fact that many old people are lonely and many are sick.\nW: No, we can't. But we must also remember that the proportion of such people is no greater among the 60-70 age group than among the 50-60 age group.\nM: In other words, there is no more mental illness, for example, among the 60s-70s than among the 50s-60s.\nW: Right!\nM: Are people's mental abilities affected by old age?\nW: Certain changes do take place as we grow older, but this happens throughout life. These changes are very gradual and happen at different times with different people, but, in general, if you know a person well in his middle age and have seen how he deals with events and problems, you will easily recognize him in an old age.\nM: So that someone who enjoys new experiences, travel, education, and so on in his middle years will usually continue to do so into old age?\nW: Exactly.\n{a}",
+          "text_ru": "M: Today, we have Professor McKay on our morning talk show. Good morning, Professor McKay. I've heard that you and your team have just completed a report on old age.\nW: That's right. Well, the report basically look into the various beliefs that people hold about old age and tries to prove them.\nM: And what do you think your report can achieve?\nW: We hope that it will somehow help people to change their feelings about old age. The  problem is that far too many of us believe that most old people are poor, lonely, and unhappy. As a result, we tend to find old people, as a group, unattractive. And this is very dangerous for our society.\nM: But surely we cannot escape the fact that many old people are lonely and many are sick.\nW: No, we can't. But we must also remember that the proportion of such people is no greater among the 60-70 age group than among the 50-60 age group.\nM: In other words, there is no more mental illness, for example, among the 60s-70s than among the 50s-60s.\nW: Right!\nM: Are people's mental abilities affected by old age?\nW: Certain changes do take place as we grow older, but this happens throughout life. These changes are very gradual and happen at different times with different people, but, in general, if you know a person well in his middle age and have seen how he deals with events and problems, you will easily recognize him in an old age.\nM: So that someone who enjoys new experiences, travel, education, and so on in his middle years will usually continue to do so into old age?\nW: Exactly.\n{a}",
+          "text_kz": "M: Today, we have Professor McKay on our morning talk show. Good morning, Professor McKay. I've heard that you and your team have just completed a report on old age.\nW: That's right. Well, the report basically look into the various beliefs that people hold about old age and tries to prove them.\nM: And what do you think your report can achieve?\nW: We hope that it will somehow help people to change their feelings about old age. The  problem is that far too many of us believe that most old people are poor, lonely, and unhappy. As a result, we tend to find old people, as a group, unattractive. And this is very dangerous for our society.\nM: But surely we cannot escape the fact that many old people are lonely and many are sick.\nW: No, we can't. But we must also remember that the proportion of such people is no greater among the 60-70 age group than among the 50-60 age group.\nM: In other words, there is no more mental illness, for example, among the 60s-70s than among the 50s-60s.\nW: Right!\nM: Are people's mental abilities affected by old age?\nW: Certain changes do take place as we grow older, but this happens throughout life. These changes are very gradual and happen at different times with different people, but, in general, if you know a person well in his middle age and have seen how he deals with events and problems, you will easily recognize him in an old age.\nM: So that someone who enjoys new experiences, travel, education, and so on in his middle years will usually continue to do so into old age?\nW: Exactly.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "It looks into opinions that people hold about old age.",
+                "It is about how to keep healthy in old age.",
+                "It investigates causes of old people's unhappiness."
+              ],
+              "correctAnswer": "It looks into opinions that people hold about old age.",
+              "variables": {
+                "a": "What do we know about Professor McKay's report?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Arise people's awareness of caring for the old.",
+                "Encourage people to be more responsible for the old.",
+                "Help people change their feelings about old age."
+              ],
+              "correctAnswer": "Help people change their feelings about old age.",
+              "variables": {
+                "a": "What does Professor McKay think the report can achieve?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They are mostly among the 60-70 age group.",
+                "They are mostly abandoned by their families.",
+                "People do not become more lonely because of old age."
+              ],
+              "correctAnswer": "People do not become more lonely because of old age.",
+              "variables": {
+                "a": "What do we know about old people who are lonely and sick?"
+              }
+            },
+            {
+              "answerOptions": [
+                "People do not change in old age a lot more than in middle age.",
+                "It's hard to recognize a person when he is turning old.",
+                "Old people can't deal with events and problems properly."
+              ],
+              "correctAnswer": "People do not change in old age a lot more than in middle age.",
+              "variables": {
+                "a": "What do we know about the changes that happen on old people?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: There are many interesting stories about how a baby learns to say its first word. Now Mike, would you like to share your story with us?\nM: OK, here's my story, I was about 18 months old I think and I had just started to say my first word. Every time a truck went by, I would shout a word that sounded like a track, but to everyone else, it sounded nothing like it. My parents tried to correct me, but failed. Then, about three months later, we traveled to New York, as we were waiting for our plane at the air?port. I looked out of a huge window, at that very moment I saw the largest truck in the world, I had to tell someone about this. I turned to my father who was standing next to about a thousand people waiting for the very flight and screamed \"Track! Track!\" My father tried hard to shut me up, but I was so excited, I kept screaming my special word. My poor mother decided she didn't know this baby and then ran into the ladies-room where she hid until I finally stopped. Well, I learned how to say truck correctly, and soon I was talking like a normal child. However, my parents will never forget the very first word I produced in my life.\n{a}",
+          "text_ru": "W: There are many interesting stories about how a baby learns to say its first word. Now Mike, would you like to share your story with us?\nM: OK, here's my story, I was about 18 months old I think and I had just started to say my first word. Every time a truck went by, I would shout a word that sounded like a track, but to everyone else, it sounded nothing like it. My parents tried to correct me, but failed. Then, about three months later, we traveled to New York, as we were waiting for our plane at the air?port. I looked out of a huge window, at that very moment I saw the largest truck in the world, I had to tell someone about this. I turned to my father who was standing next to about a thousand people waiting for the very flight and screamed \"Track! Track!\" My father tried hard to shut me up, but I was so excited, I kept screaming my special word. My poor mother decided she didn't know this baby and then ran into the ladies-room where she hid until I finally stopped. Well, I learned how to say truck correctly, and soon I was talking like a normal child. However, my parents will never forget the very first word I produced in my life.\n{a}",
+          "text_kz": "W: There are many interesting stories about how a baby learns to say its first word. Now Mike, would you like to share your story with us?\nM: OK, here's my story, I was about 18 months old I think and I had just started to say my first word. Every time a truck went by, I would shout a word that sounded like a track, but to everyone else, it sounded nothing like it. My parents tried to correct me, but failed. Then, about three months later, we traveled to New York, as we were waiting for our plane at the air?port. I looked out of a huge window, at that very moment I saw the largest truck in the world, I had to tell someone about this. I turned to my father who was standing next to about a thousand people waiting for the very flight and screamed \"Track! Track!\" My father tried hard to shut me up, but I was so excited, I kept screaming my special word. My poor mother decided she didn't know this baby and then ran into the ladies-room where she hid until I finally stopped. Well, I learned how to say truck correctly, and soon I was talking like a normal child. However, my parents will never forget the very first word I produced in my life.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Truck.",
+                "OK.",
+                "Duck."
+              ],
+              "correctAnswer": "Truck.",
+              "variables": {
+                "a": "What is the first word the baby tried to say?"
+              }
+            },
+            {
+              "answerOptions": [
+                "About 18 months.",
+                "About 21 months.",
+                "About 24 months."
+              ],
+              "correctAnswer": "About 21 months.",
+              "variables": {
+                "a": "How old was the baby when he learned to say that word correctly?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He corrected the baby.",
+                "He tried to stop the baby.",
+                "He did himself somewhere."
+              ],
+              "correctAnswer": "He tried to stop the baby.",
+              "variables": {
+                "a": "What did the father do when the baby screamed that word at the airport?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She got angry with the father.",
+                "She was frightened by the noise.",
+                "She felt uneasy about the noisy baby."
+              ],
+              "correctAnswer": "She felt uneasy about the noisy baby.",
+              "variables": {
+                "a": "Why did the mother pretend not to know the baby?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Where do you want to go to college, James?\nM: Well, I'm not sure. I can't decide. I'm worried I will make the wrong choice. I want to be a teacher. I want to go to Columbia University in New York, but it's so expensive. It's also very far from where my family lives. I also would like to go to Northwestern University, but none of my friends from high school are going there.\nW: You'll make new friends when you go to college.\nM: I'm worried about making new friends. Also, I'm worried that I won't be smart enough to get good grades at a difficult college. I could go to the University of California, but I don't think they have a good teaching school. Most importantly, I want to go to a school that is famous for teaching.\nW: Those are all excellent schools, James. If you're accepted into all those schools, you should consider yourself very fortunate. When I went to school, I went to a very small college, and I still got a great job as principal. You will be successful because you work very hard.\nM: Thanks for your help, Principal Skinner.\n{a}",
+          "text_ru": "W: Where do you want to go to college, James?\nM: Well, I'm not sure. I can't decide. I'm worried I will make the wrong choice. I want to be a teacher. I want to go to Columbia University in New York, but it's so expensive. It's also very far from where my family lives. I also would like to go to Northwestern University, but none of my friends from high school are going there.\nW: You'll make new friends when you go to college.\nM: I'm worried about making new friends. Also, I'm worried that I won't be smart enough to get good grades at a difficult college. I could go to the University of California, but I don't think they have a good teaching school. Most importantly, I want to go to a school that is famous for teaching.\nW: Those are all excellent schools, James. If you're accepted into all those schools, you should consider yourself very fortunate. When I went to school, I went to a very small college, and I still got a great job as principal. You will be successful because you work very hard.\nM: Thanks for your help, Principal Skinner.\n{a}",
+          "text_kz": "W: Where do you want to go to college, James?\nM: Well, I'm not sure. I can't decide. I'm worried I will make the wrong choice. I want to be a teacher. I want to go to Columbia University in New York, but it's so expensive. It's also very far from where my family lives. I also would like to go to Northwestern University, but none of my friends from high school are going there.\nW: You'll make new friends when you go to college.\nM: I'm worried about making new friends. Also, I'm worried that I won't be smart enough to get good grades at a difficult college. I could go to the University of California, but I don't think they have a good teaching school. Most importantly, I want to go to a school that is famous for teaching.\nW: Those are all excellent schools, James. If you're accepted into all those schools, you should consider yourself very fortunate. When I went to school, I went to a very small college, and I still got a great job as principal. You will be successful because you work very hard.\nM: Thanks for your help, Principal Skinner.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "His principal.",
+                "His mother.",
+                "His friend."
+              ],
+              "correctAnswer": "His principal.",
+              "variables": {
+                "a": "Who is James talking to?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It's too expensive.",
+                "It's far from his family.",
+                "None of his friends are going there."
+              ],
+              "correctAnswer": "None of his friends are going there.",
+              "variables": {
+                "a": "Why doesn't James want to go to Northwestern University?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Going to an inexpensive school.",
+                "Going to a well-known teaching school.",
+                "Going to an easy school."
+              ],
+              "correctAnswer": "Going to a well-known teaching school.",
+              "variables": {
+                "a": "What is most important to James?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He's a hard worker.",
+                "He makes friends easily.",
+                "He's confident he'll make the right choice."
+              ],
+              "correctAnswer": "He's a hard worker.",
+              "variables": {
+                "a": "What is James like?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Good morning, Mrs. Wong. How are you? I haven't seen you around the building for the last couple of weeks. Is everything alright?\nW: Morning, Mr. Jones. No, I haven't been out much recently. I've been feeling a bit under the weather.\nM: I'm sorry to hear that. I hope you don't mind me saying, but you don't look very well. Your face is very pale. Perhaps you need some fresh air to bring the color back to your cheeks. It's a lovely day outside today.\nW: That's just what I thought. I'm going to go for a walk in the park and then pop into the supermarket.\nM: You look as if you've lost weight as well.\nW: I haven't been eating like I usually do. Usually, I love my food, but these last two weeks I just haven't felt cooking and I've eaten very little. Most unlike me.\nM: Have you been to the doctor? What did she say?\nW: I didn't bother going to the doctor. It's nothing serious.\nM: You never know. If you've been feeling like this for two weeks, it's worth getting a check-up just to be sure.\n{a}",
+          "text_ru": "M: Good morning, Mrs. Wong. How are you? I haven't seen you around the building for the last couple of weeks. Is everything alright?\nW: Morning, Mr. Jones. No, I haven't been out much recently. I've been feeling a bit under the weather.\nM: I'm sorry to hear that. I hope you don't mind me saying, but you don't look very well. Your face is very pale. Perhaps you need some fresh air to bring the color back to your cheeks. It's a lovely day outside today.\nW: That's just what I thought. I'm going to go for a walk in the park and then pop into the supermarket.\nM: You look as if you've lost weight as well.\nW: I haven't been eating like I usually do. Usually, I love my food, but these last two weeks I just haven't felt cooking and I've eaten very little. Most unlike me.\nM: Have you been to the doctor? What did she say?\nW: I didn't bother going to the doctor. It's nothing serious.\nM: You never know. If you've been feeling like this for two weeks, it's worth getting a check-up just to be sure.\n{a}",
+          "text_kz": "M: Good morning, Mrs. Wong. How are you? I haven't seen you around the building for the last couple of weeks. Is everything alright?\nW: Morning, Mr. Jones. No, I haven't been out much recently. I've been feeling a bit under the weather.\nM: I'm sorry to hear that. I hope you don't mind me saying, but you don't look very well. Your face is very pale. Perhaps you need some fresh air to bring the color back to your cheeks. It's a lovely day outside today.\nW: That's just what I thought. I'm going to go for a walk in the park and then pop into the supermarket.\nM: You look as if you've lost weight as well.\nW: I haven't been eating like I usually do. Usually, I love my food, but these last two weeks I just haven't felt cooking and I've eaten very little. Most unlike me.\nM: Have you been to the doctor? What did she say?\nW: I didn't bother going to the doctor. It's nothing serious.\nM: You never know. If you've been feeling like this for two weeks, it's worth getting a check-up just to be sure.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Walking around the building.",
+                "Exercising in the park.",
+                "Staying at home."
+              ],
+              "correctAnswer": "Staying at home.",
+              "variables": {
+                "a": "What has Mrs. Wong been doing recently?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It's windy outside.",
+                "She doesn't feel well.",
+                "She feels sick of shopping."
+              ],
+              "correctAnswer": "She doesn't feel well.",
+              "variables": {
+                "a": "Why does Mrs. Wong look pale?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Be on a diet.",
+                "Eat a lot.",
+                "Do sports."
+              ],
+              "correctAnswer": "Eat a lot.",
+              "variables": {
+                "a": "What did Mrs. Wong use to do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Unnecessary.",
+                "Urgent.",
+                "Worthy."
+              ],
+              "correctAnswer": "Unnecessary.",
+              "variables": {
+                "a": "What does Mrs. Wong think of going to the doctor?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Mary, I hope you're packed and ready to leave.\nW: Yes, I'm packed, but not quite ready. I can't find my passport.\nM: Your passport? That's the one thing you mustn't leave behind.\nW: I know. I haven't lost it. I've packed it, but I can't remember which bag it's in.\nM: Well, you have to find it at the airport. Come on, the taxi is waiting.\nW: Did you say taxi? I thought we were going in your car.\nM: Yes, well, I have planned to, but I'll explain later. You've got to be there in an hour.\nW: The plane doesn't leave for two hours. Anyway, I'm ready to go now.\nM: Now, you're taking just one case, is that right?\nW: No, there is one in the hall as well.\nM: Gosh, what a lot of stuff! You're taking enough for a month instead of a week.\nW: Well, you can't depend on the weather. It might be cold.\nM: It's never cold in Rome. Certainly not in May. Come on, we really must go.\nW: Right, we're ready. We've got the bags. I'm sure there's no need to rush.\nM: There is. I asked the taxi driver to wait two minutes, not twenty.\nW: Look, I'm supposed to be going away to relax. You're making me nervous.\nM: Well, I want you to relax on holiday, but you can't relax yet.\nW: OK, I promise not to relax, at least not until we get to the airport and I find my passport.\n{a}",
+          "text_ru": "M: Mary, I hope you're packed and ready to leave.\nW: Yes, I'm packed, but not quite ready. I can't find my passport.\nM: Your passport? That's the one thing you mustn't leave behind.\nW: I know. I haven't lost it. I've packed it, but I can't remember which bag it's in.\nM: Well, you have to find it at the airport. Come on, the taxi is waiting.\nW: Did you say taxi? I thought we were going in your car.\nM: Yes, well, I have planned to, but I'll explain later. You've got to be there in an hour.\nW: The plane doesn't leave for two hours. Anyway, I'm ready to go now.\nM: Now, you're taking just one case, is that right?\nW: No, there is one in the hall as well.\nM: Gosh, what a lot of stuff! You're taking enough for a month instead of a week.\nW: Well, you can't depend on the weather. It might be cold.\nM: It's never cold in Rome. Certainly not in May. Come on, we really must go.\nW: Right, we're ready. We've got the bags. I'm sure there's no need to rush.\nM: There is. I asked the taxi driver to wait two minutes, not twenty.\nW: Look, I'm supposed to be going away to relax. You're making me nervous.\nM: Well, I want you to relax on holiday, but you can't relax yet.\nW: OK, I promise not to relax, at least not until we get to the airport and I find my passport.\n{a}",
+          "text_kz": "M: Mary, I hope you're packed and ready to leave.\nW: Yes, I'm packed, but not quite ready. I can't find my passport.\nM: Your passport? That's the one thing you mustn't leave behind.\nW: I know. I haven't lost it. I've packed it, but I can't remember which bag it's in.\nM: Well, you have to find it at the airport. Come on, the taxi is waiting.\nW: Did you say taxi? I thought we were going in your car.\nM: Yes, well, I have planned to, but I'll explain later. You've got to be there in an hour.\nW: The plane doesn't leave for two hours. Anyway, I'm ready to go now.\nM: Now, you're taking just one case, is that right?\nW: No, there is one in the hall as well.\nM: Gosh, what a lot of stuff! You're taking enough for a month instead of a week.\nW: Well, you can't depend on the weather. It might be cold.\nM: It's never cold in Rome. Certainly not in May. Come on, we really must go.\nW: Right, we're ready. We've got the bags. I'm sure there's no need to rush.\nM: There is. I asked the taxi driver to wait two minutes, not twenty.\nW: Look, I'm supposed to be going away to relax. You're making me nervous.\nM: Well, I want you to relax on holiday, but you can't relax yet.\nW: OK, I promise not to relax, at least not until we get to the airport and I find my passport.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She is afraid that she has lost it.",
+                "She is going to get it at the airport.",
+                "She has packed it in one of her bags."
+              ],
+              "correctAnswer": "She has packed it in one of her bags.",
+              "variables": {
+                "a": "What does the woman say about her passport?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It will cost her a lot.",
+                "It will last one week.",
+                "It ends in winter."
+              ],
+              "correctAnswer": "It will last one week.",
+              "variables": {
+                "a": "What do we know about the woman's trip?"
+              }
+            },
+            {
+              "answerOptions": [
+                "There is a lot of stuff to pack.",
+                "The taxi is waiting for them.",
+                "The plane is taking off soon."
+              ],
+              "correctAnswer": "The taxi is waiting for them.",
+              "variables": {
+                "a": "Why does the man urge the woman to hurry?"
+              }
+            },
+            {
+              "answerOptions": [
+                "At home.",
+                "In the man's car.",
+                "By the side of a taxi."
+              ],
+              "correctAnswer": "At home.",
+              "variables": {
+                "a": "Where does the conversation most probably take place?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Susan. How are you? I've been wondering when I'd run into you. What are you busy with?\nW: Nice to meet you here, Tim. I'm buying some Christmas gifts for those who work with me, but it's really a headache.\nM: Maybe I could give you some advice. Firstly, you'd better divide them into different groups-who were the people that are your friends as well as your workmates and who are the people you do not know well but you see pretty much daily.\nW: OK, then what should I do?\nM: For the friends, you want to get them personal gift. Do they like chocolate?\nW: This is what I always give, but I know Mary is on a diet.\nM: Does she like fruit or coffee? Anyway, think of the gift that you know your friend likes.\nW: Well, I think fruit is helpful to keep fit. What about the rest of them?\nM: Leave cards in their mailboxes or on their desks.\nW: Christmas cards?\nM: Yes, you can afford that. More importantly, it's true of them that you're thinking of them.\nW: Thank you for your suggestion, Tim. You really have saved me and my money as well.\n{a}",
+          "text_ru": "M: Hi, Susan. How are you? I've been wondering when I'd run into you. What are you busy with?\nW: Nice to meet you here, Tim. I'm buying some Christmas gifts for those who work with me, but it's really a headache.\nM: Maybe I could give you some advice. Firstly, you'd better divide them into different groups-who were the people that are your friends as well as your workmates and who are the people you do not know well but you see pretty much daily.\nW: OK, then what should I do?\nM: For the friends, you want to get them personal gift. Do they like chocolate?\nW: This is what I always give, but I know Mary is on a diet.\nM: Does she like fruit or coffee? Anyway, think of the gift that you know your friend likes.\nW: Well, I think fruit is helpful to keep fit. What about the rest of them?\nM: Leave cards in their mailboxes or on their desks.\nW: Christmas cards?\nM: Yes, you can afford that. More importantly, it's true of them that you're thinking of them.\nW: Thank you for your suggestion, Tim. You really have saved me and my money as well.\n{a}",
+          "text_kz": "M: Hi, Susan. How are you? I've been wondering when I'd run into you. What are you busy with?\nW: Nice to meet you here, Tim. I'm buying some Christmas gifts for those who work with me, but it's really a headache.\nM: Maybe I could give you some advice. Firstly, you'd better divide them into different groups-who were the people that are your friends as well as your workmates and who are the people you do not know well but you see pretty much daily.\nW: OK, then what should I do?\nM: For the friends, you want to get them personal gift. Do they like chocolate?\nW: This is what I always give, but I know Mary is on a diet.\nM: Does she like fruit or coffee? Anyway, think of the gift that you know your friend likes.\nW: Well, I think fruit is helpful to keep fit. What about the rest of them?\nM: Leave cards in their mailboxes or on their desks.\nW: Christmas cards?\nM: Yes, you can afford that. More importantly, it's true of them that you're thinking of them.\nW: Thank you for your suggestion, Tim. You really have saved me and my money as well.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Buying holiday presents.",
+                "Making a Christmas plan.",
+                "Sharing opinions on friendship."
+              ],
+              "correctAnswer": "Buying holiday presents.",
+              "variables": {
+                "a": "What are the two speakers talking about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Fruit.",
+                "Chocolate.",
+                "Coffee."
+              ],
+              "correctAnswer": "Chocolate.",
+              "variables": {
+                "a": "What does the woman always give to her friends?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She prefers fruit to coffee.",
+                "She is trying to lose weight.",
+                "She usually goes abroad during holidays."
+              ],
+              "correctAnswer": "She is trying to lose weight.",
+              "variables": {
+                "a": "What does the woman say about Mary?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Doubtful.",
+                "Surprised.",
+                "Satisfied."
+              ],
+              "correctAnswer": "Satisfied.",
+              "variables": {
+                "a": "How does the woman feel about Tim's suggestion?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: With us now, is Malcolm Bricklin, CEO of Visionary Vehicles.\nM: Hello, everyone.\nW: We have been hearing a couple of things about this news that Ford Motor Company is slashing up to 30,000 jobs, shutting down 14 plants nationwide. Is it a big deal if we are no longer manufacturing these cars, Malcolm?\nM: I think it's a huge deal. I mean the companies are massive employers both directly and indirectly. If you look at Ford after their restructuring, they've actually got 87,000 employees which is twice as many as Microsoft have worldwide. Moreover, if you look at those jobs, they are very high-paying jobs. These are people who can afford to buy their own products.\nW: Er, it seems to indicate a big hit for our economy if these jobs go bye-bye.\nM: Yeah, it's a really sad day for America.\nW: But it is not as if cars are stopped being made, right?\nM: Correct. Still a large number of cars are being made by American manufacturers. More than half of the American cars sold in America are American. So what has happened over time is that as the market share has fallen, foreign car companies have come in, taken over plants and set up new plants, and they have taken over that capacity. So, it is not like there are fewer cars being produced in America than there were 30 years ago.\nW: Let me ask you about the Chinese coming in. What would it mean to American jobs, if and when that happens?\nM: The Chinese cars we have seen so far aren't that great and they don't have the branding necessary to make a huge impact in the world stage.\n{a}",
+          "text_ru": "W: With us now, is Malcolm Bricklin, CEO of Visionary Vehicles.\nM: Hello, everyone.\nW: We have been hearing a couple of things about this news that Ford Motor Company is slashing up to 30,000 jobs, shutting down 14 plants nationwide. Is it a big deal if we are no longer manufacturing these cars, Malcolm?\nM: I think it's a huge deal. I mean the companies are massive employers both directly and indirectly. If you look at Ford after their restructuring, they've actually got 87,000 employees which is twice as many as Microsoft have worldwide. Moreover, if you look at those jobs, they are very high-paying jobs. These are people who can afford to buy their own products.\nW: Er, it seems to indicate a big hit for our economy if these jobs go bye-bye.\nM: Yeah, it's a really sad day for America.\nW: But it is not as if cars are stopped being made, right?\nM: Correct. Still a large number of cars are being made by American manufacturers. More than half of the American cars sold in America are American. So what has happened over time is that as the market share has fallen, foreign car companies have come in, taken over plants and set up new plants, and they have taken over that capacity. So, it is not like there are fewer cars being produced in America than there were 30 years ago.\nW: Let me ask you about the Chinese coming in. What would it mean to American jobs, if and when that happens?\nM: The Chinese cars we have seen so far aren't that great and they don't have the branding necessary to make a huge impact in the world stage.\n{a}",
+          "text_kz": "W: With us now, is Malcolm Bricklin, CEO of Visionary Vehicles.\nM: Hello, everyone.\nW: We have been hearing a couple of things about this news that Ford Motor Company is slashing up to 30,000 jobs, shutting down 14 plants nationwide. Is it a big deal if we are no longer manufacturing these cars, Malcolm?\nM: I think it's a huge deal. I mean the companies are massive employers both directly and indirectly. If you look at Ford after their restructuring, they've actually got 87,000 employees which is twice as many as Microsoft have worldwide. Moreover, if you look at those jobs, they are very high-paying jobs. These are people who can afford to buy their own products.\nW: Er, it seems to indicate a big hit for our economy if these jobs go bye-bye.\nM: Yeah, it's a really sad day for America.\nW: But it is not as if cars are stopped being made, right?\nM: Correct. Still a large number of cars are being made by American manufacturers. More than half of the American cars sold in America are American. So what has happened over time is that as the market share has fallen, foreign car companies have come in, taken over plants and set up new plants, and they have taken over that capacity. So, it is not like there are fewer cars being produced in America than there were 30 years ago.\nW: Let me ask you about the Chinese coming in. What would it mean to American jobs, if and when that happens?\nM: The Chinese cars we have seen so far aren't that great and they don't have the branding necessary to make a huge impact in the world stage.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "It is closing down some factories in the US.",
+                "It no longer offers high-paying jobs.",
+                "The number of its employees is doubled after the restructuring."
+              ],
+              "correctAnswer": "It is closing down some factories in the US.",
+              "variables": {
+                "a": "What do we know about the Ford Motor Company from the conversation?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Over 87,000 workers will lose their jobs in auto companies.",
+                "Many people will have to say bye-bye to their high salaries.",
+                "The employees' laid-off has a great impact on the American business."
+              ],
+              "correctAnswer": "The employees' laid-off has a great impact on the American business.",
+              "variables": {
+                "a": "Why is it a big deal if the American automakers no longer do the making?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They produced more cars than American manufacturers.",
+                "They reduced car-production in America.",
+                "They took over plants and manufacturing capacity."
+              ],
+              "correctAnswer": "They took over plants and manufacturing capacity.",
+              "variables": {
+                "a": "What happened to the foreign automakers in America?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It is a serious threat to its competitors.",
+                "It is not powerful enough to affect the world market.",
+                "The cars' quality is good enough to have their own branding."
+              ],
+              "correctAnswer": "It is not powerful enough to affect the world market.",
+              "variables": {
+                "a": "What does the man think of Chinese car manufacturing?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hello. I haven't seen you for a long time. How are you?\nW: Fine. Thanks.\nM: Tomorrow is my birthday. I would like to invite you and your family to my birthday party. Our teacher Mr. Wang in University will come also.\nW: Thank you very much. When will it begin?\nM: At 6:30 pm.\nW: Oh. Let me see. I get off work at 5:30 every day and then spend about 35 minutes on meeting my husband and my daughter, We shall cost about 45 minutes to go to your home. Is that all right?\nM: Yes, of course.\nW: OK. See you tomorrow.\nM: See you then.\n{a}",
+          "text_ru": "M: Hello. I haven't seen you for a long time. How are you?\nW: Fine. Thanks.\nM: Tomorrow is my birthday. I would like to invite you and your family to my birthday party. Our teacher Mr. Wang in University will come also.\nW: Thank you very much. When will it begin?\nM: At 6:30 pm.\nW: Oh. Let me see. I get off work at 5:30 every day and then spend about 35 minutes on meeting my husband and my daughter, We shall cost about 45 minutes to go to your home. Is that all right?\nM: Yes, of course.\nW: OK. See you tomorrow.\nM: See you then.\n{a}",
+          "text_kz": "M: Hello. I haven't seen you for a long time. How are you?\nW: Fine. Thanks.\nM: Tomorrow is my birthday. I would like to invite you and your family to my birthday party. Our teacher Mr. Wang in University will come also.\nW: Thank you very much. When will it begin?\nM: At 6:30 pm.\nW: Oh. Let me see. I get off work at 5:30 every day and then spend about 35 minutes on meeting my husband and my daughter, We shall cost about 45 minutes to go to your home. Is that all right?\nM: Yes, of course.\nW: OK. See you tomorrow.\nM: See you then.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "At 5:30 pm.",
+                "At 6:30 pm.",
+                "At 7:30 pm."
+              ],
+              "correctAnswer": "At 6:30 pm.",
+              "variables": {
+                "a": "When will the man begin his birthday party?"
+              }
+            },
+            {
+              "answerOptions": [
+                "At 6:05 pm.",
+                "At 6:30 pm.",
+                "At 6:50 pm."
+              ],
+              "correctAnswer": "At 6:50 pm.",
+              "variables": {
+                "a": "When will the woman and her family be able to arrive at the man's birthday party?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The man has a birthday party.",
+                "The woman and her family will be late for the man's birthday party.",
+                "The man invites the woman and her family to take part in his birthday party."
+              ],
+              "correctAnswer": "The man invites the woman and her family to take part in his birthday party.",
+              "variables": {
+                "a": "What does the dialogue mainly tell us?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Classmates.",
+                "Cousins.",
+                "Colleagues."
+              ],
+              "correctAnswer": "Classmates.",
+              "variables": {
+                "a": "What can be the relationship between the man and the woman?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Mary Lou Westin. It's been a hundred years! I haven't seen you since we were in high school.\nW: Randy? Randy Betford? Oh, my goodness, you look exactly the same! Even your hair is the same... curls everywhere!\nM: Well, you look... a lot different... But I mean that in a good way.\nW: Well, I got tired of that blond hair, so I decided to become a redhead, and I've never looked back! I also lost a lot of weight, and I'm really trying hard to keep it off. I don't wanna look like I did in high school ever again!\nM: So, do you live here? What do you do?\nW: I'm a lawyer in Brookfield, the next town over. I just come out here on weekends to do my shopping. What about you?\nM: I sell insurance, but I'm actually working in Springfield. We're looking to open a new office here in Ovington, so that's why I'm out here.\nW: Do you like your job?\nM: Well, I guess I make a nice living, but it's really boring work. I wish I could just change careers.\nW: I agree. I actually have the opposite problem. I work for an environmental law firm, so the work is exciting, and I feel like I'm really making a difference. The only problem is that the pay is quite low, so I'm basically living hand to mouth every month.\nM: That sounds like a fair trade, though. I'd switch places with you in a second. Say, would you like to have dinner with me tonight? I know a great seafood place.\nW: That would be fantastic!\n{a}",
+          "text_ru": "M: Mary Lou Westin. It's been a hundred years! I haven't seen you since we were in high school.\nW: Randy? Randy Betford? Oh, my goodness, you look exactly the same! Even your hair is the same... curls everywhere!\nM: Well, you look... a lot different... But I mean that in a good way.\nW: Well, I got tired of that blond hair, so I decided to become a redhead, and I've never looked back! I also lost a lot of weight, and I'm really trying hard to keep it off. I don't wanna look like I did in high school ever again!\nM: So, do you live here? What do you do?\nW: I'm a lawyer in Brookfield, the next town over. I just come out here on weekends to do my shopping. What about you?\nM: I sell insurance, but I'm actually working in Springfield. We're looking to open a new office here in Ovington, so that's why I'm out here.\nW: Do you like your job?\nM: Well, I guess I make a nice living, but it's really boring work. I wish I could just change careers.\nW: I agree. I actually have the opposite problem. I work for an environmental law firm, so the work is exciting, and I feel like I'm really making a difference. The only problem is that the pay is quite low, so I'm basically living hand to mouth every month.\nM: That sounds like a fair trade, though. I'd switch places with you in a second. Say, would you like to have dinner with me tonight? I know a great seafood place.\nW: That would be fantastic!\n{a}",
+          "text_kz": "M: Mary Lou Westin. It's been a hundred years! I haven't seen you since we were in high school.\nW: Randy? Randy Betford? Oh, my goodness, you look exactly the same! Even your hair is the same... curls everywhere!\nM: Well, you look... a lot different... But I mean that in a good way.\nW: Well, I got tired of that blond hair, so I decided to become a redhead, and I've never looked back! I also lost a lot of weight, and I'm really trying hard to keep it off. I don't wanna look like I did in high school ever again!\nM: So, do you live here? What do you do?\nW: I'm a lawyer in Brookfield, the next town over. I just come out here on weekends to do my shopping. What about you?\nM: I sell insurance, but I'm actually working in Springfield. We're looking to open a new office here in Ovington, so that's why I'm out here.\nW: Do you like your job?\nM: Well, I guess I make a nice living, but it's really boring work. I wish I could just change careers.\nW: I agree. I actually have the opposite problem. I work for an environmental law firm, so the work is exciting, and I feel like I'm really making a difference. The only problem is that the pay is quite low, so I'm basically living hand to mouth every month.\nM: That sounds like a fair trade, though. I'd switch places with you in a second. Say, would you like to have dinner with me tonight? I know a great seafood place.\nW: That would be fantastic!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She had dark hair.",
+                "She was overweight.",
+                "She had curly hair."
+              ],
+              "correctAnswer": "She was overweight.",
+              "variables": {
+                "a": "What did the woman look like in high school?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She sells insurance.",
+                "She works in a seafood restaurant.",
+                "She is a lawyer."
+              ],
+              "correctAnswer": "She is a lawyer.",
+              "variables": {
+                "a": "What does the woman do for living?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Dull but well-paid.",
+                "Exciting but low-paid.",
+                "He likes it very much."
+              ],
+              "correctAnswer": "Dull but well-paid.",
+              "variables": {
+                "a": "What does the man think of his job?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In Springfield.",
+                "In Ovington.",
+                "In Brookfield."
+              ],
+              "correctAnswer": "In Ovington.",
+              "variables": {
+                "a": "Where are the speakers at the moment?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "Tom: Dad, what will we have for dinner?\nDad: I don't know. Maybe fried fish, chicken soup and...\nTom: Oh, no. We've had such things since Mom's gone.\nDad: I'm sorry. But that is the only thing I can cook. What do you want to have then?\nTom: I'd like to go to McDonald's this time.\nDad: OK then. You'll drive, will you?\nTom: No, I'm a bit tired today. You do that, please.\nDad: OK, OK. I always do things like that ... Ah, here we are.\nTom: Dad, what do you want to have? I'd like a hamburger.\nDad: Hamburger, salad, coke and apple pie. Is that all right for you, Tom?\nTom: Right, and fetch me an ice-cream, too. I'll go and find the seats.\nDad: And I'll get some vegetable for myself, and a coffee... Oh, I'm afraid we'll have to do some packing.\n{a}",
+          "text_ru": "Tom: Dad, what will we have for dinner?\nDad: I don't know. Maybe fried fish, chicken soup and...\nTom: Oh, no. We've had such things since Mom's gone.\nDad: I'm sorry. But that is the only thing I can cook. What do you want to have then?\nTom: I'd like to go to McDonald's this time.\nDad: OK then. You'll drive, will you?\nTom: No, I'm a bit tired today. You do that, please.\nDad: OK, OK. I always do things like that ... Ah, here we are.\nTom: Dad, what do you want to have? I'd like a hamburger.\nDad: Hamburger, salad, coke and apple pie. Is that all right for you, Tom?\nTom: Right, and fetch me an ice-cream, too. I'll go and find the seats.\nDad: And I'll get some vegetable for myself, and a coffee... Oh, I'm afraid we'll have to do some packing.\n{a}",
+          "text_kz": "Tom: Dad, what will we have for dinner?\nDad: I don't know. Maybe fried fish, chicken soup and...\nTom: Oh, no. We've had such things since Mom's gone.\nDad: I'm sorry. But that is the only thing I can cook. What do you want to have then?\nTom: I'd like to go to McDonald's this time.\nDad: OK then. You'll drive, will you?\nTom: No, I'm a bit tired today. You do that, please.\nDad: OK, OK. I always do things like that ... Ah, here we are.\nTom: Dad, what do you want to have? I'd like a hamburger.\nDad: Hamburger, salad, coke and apple pie. Is that all right for you, Tom?\nTom: Right, and fetch me an ice-cream, too. I'll go and find the seats.\nDad: And I'll get some vegetable for myself, and a coffee... Oh, I'm afraid we'll have to do some packing.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Because he was bored with the food his father cooked.",
+                "Because he was bored with the home-made food.",
+                "Because he liked the atmosphere at the restaurant."
+              ],
+              "correctAnswer": "Because he was bored with the food his father cooked.",
+              "variables": {
+                "a": "Why did Tom want to go and eat out that evening?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To a cafeteria.",
+                "To a fast food restaurant.",
+                "To a coffee shop."
+              ],
+              "correctAnswer": "To a fast food restaurant.",
+              "variables": {
+                "a": "Where did Tom and his father finally agree to go for dinner?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He was still under 16.",
+                "He was a bit tired.",
+                "He was not a skillful driver yet."
+              ],
+              "correctAnswer": "He was a bit tired.",
+              "variables": {
+                "a": "Why wouldn't Tom do the driving?"
+              }
+            },
+            {
+              "answerOptions": [
+                "McDonald's was Tom's favorite.",
+                "Tom's father never did cooking at home.",
+                "Tom and his father ordered too much."
+              ],
+              "correctAnswer": "Tom and his father ordered too much.",
+              "variables": {
+                "a": "What can you infer from the dialogue?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section 3: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "M: Oh, it's you, Mrs. Bramley. Come in and sit down. Now, what was it? Oh, yes, your ankle. Has there been any improvement since last week?\nW: Well, no, I'm afraid not, doctor. The leg's still the same.\nM: I'd better have another look at it. HM! It's still very swollen. Have you been resting it, as! told you to?\nW: It's so difficult to rest it, doctor, you know, with a house to run, and six children to look after.\nM: Well, I've given you my advise. I'm sorry, but rest is necessary, otherwise I wouldn't have insisted on it. You must sit for at least four hours a day with the leg raised. Otherwise the ankle isn't going to improve. You understand that?\nW: Yes, I understand, and I'll try to do as you say.\nM: Very well then. I'll repeat that prescription for tablets, but the only effective treatment is rest. Ask the next patient to come in please.\n{a}",
+          "text_ru": "M: Oh, it's you, Mrs. Bramley. Come in and sit down. Now, what was it? Oh, yes, your ankle. Has there been any improvement since last week?\nW: Well, no, I'm afraid not, doctor. The leg's still the same.\nM: I'd better have another look at it. HM! It's still very swollen. Have you been resting it, as! told you to?\nW: It's so difficult to rest it, doctor, you know, with a house to run, and six children to look after.\nM: Well, I've given you my advise. I'm sorry, but rest is necessary, otherwise I wouldn't have insisted on it. You must sit for at least four hours a day with the leg raised. Otherwise the ankle isn't going to improve. You understand that?\nW: Yes, I understand, and I'll try to do as you say.\nM: Very well then. I'll repeat that prescription for tablets, but the only effective treatment is rest. Ask the next patient to come in please.\n{a}",
+          "text_kz": "M: Oh, it's you, Mrs. Bramley. Come in and sit down. Now, what was it? Oh, yes, your ankle. Has there been any improvement since last week?\nW: Well, no, I'm afraid not, doctor. The leg's still the same.\nM: I'd better have another look at it. HM! It's still very swollen. Have you been resting it, as! told you to?\nW: It's so difficult to rest it, doctor, you know, with a house to run, and six children to look after.\nM: Well, I've given you my advise. I'm sorry, but rest is necessary, otherwise I wouldn't have insisted on it. You must sit for at least four hours a day with the leg raised. Otherwise the ankle isn't going to improve. You understand that?\nW: Yes, I understand, and I'll try to do as you say.\nM: Very well then. I'll repeat that prescription for tablets, but the only effective treatment is rest. Ask the next patient to come in please.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Her ankle is swollen.",
+                "Her uncle's health has not improved.",
+                "She can't understand the doctor."
+              ],
+              "correctAnswer": "Her ankle is swollen.",
+              "variables": {
+                "a": "What's wrong with the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To sit at home for four days.",
+                "To take four tablets a day.",
+                "To sit for four hours a day with her leg raised."
+              ],
+              "correctAnswer": "To sit for four hours a day with her leg raised.",
+              "variables": {
+                "a": "What advice did the man give the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She had too many responsibilities at home.",
+                "She didn't want to lose her job.",
+                "She had run out of tablets."
+              ],
+              "correctAnswer": "She had too many responsibilities at home.",
+              "variables": {
+                "a": "What made it difficult to follow the man's advice?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Sympathetic.",
+                "Firm.",
+                "Scornful."
+              ],
+              "correctAnswer": "Firm.",
+              "variables": {
+                "a": "In what tone does the man talk to the woman?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Do you mind telling me about your work in the factory?\nW: Certainly not. I'm a machine operator working in the assembly workshop.\nM: Oh, are you? Then you have a six-day week, don't you?\nW: Yes. And we work eight hours a day, but this includes a one -hour break.\nM: What about the huge machines used in your factory? I know you make heavy machines yourselves. But I wonder if you also use machines imported from abroad.\nW: Most of them are made in China, some even by our factory. Only a few were bought from other countries.\nM: But I see the machines turned out here are quite modem and efficient.\nW: Following the national policy of self - reliance and hard - working struggle, we've tried our best in the past few years to improve our equipment. However, there is still a lot more to do.\nM: Now the question about yourself. I hope you don't mind it. How much do you earn each month?\nW: My monthly wage is 3,500 RMB, not including the extra pay of about 500 for extra work I put in.\nM: That sounds reasonable indeed. I'm very interested in worker's welfare here. What other benefits do you workers get, I wonder?\nW: Like other factories in China, our factory offers free medical service for workers.\n{a}",
+          "text_ru": "M: Do you mind telling me about your work in the factory?\nW: Certainly not. I'm a machine operator working in the assembly workshop.\nM: Oh, are you? Then you have a six-day week, don't you?\nW: Yes. And we work eight hours a day, but this includes a one -hour break.\nM: What about the huge machines used in your factory? I know you make heavy machines yourselves. But I wonder if you also use machines imported from abroad.\nW: Most of them are made in China, some even by our factory. Only a few were bought from other countries.\nM: But I see the machines turned out here are quite modem and efficient.\nW: Following the national policy of self - reliance and hard - working struggle, we've tried our best in the past few years to improve our equipment. However, there is still a lot more to do.\nM: Now the question about yourself. I hope you don't mind it. How much do you earn each month?\nW: My monthly wage is 3,500 RMB, not including the extra pay of about 500 for extra work I put in.\nM: That sounds reasonable indeed. I'm very interested in worker's welfare here. What other benefits do you workers get, I wonder?\nW: Like other factories in China, our factory offers free medical service for workers.\n{a}",
+          "text_kz": "M: Do you mind telling me about your work in the factory?\nW: Certainly not. I'm a machine operator working in the assembly workshop.\nM: Oh, are you? Then you have a six-day week, don't you?\nW: Yes. And we work eight hours a day, but this includes a one -hour break.\nM: What about the huge machines used in your factory? I know you make heavy machines yourselves. But I wonder if you also use machines imported from abroad.\nW: Most of them are made in China, some even by our factory. Only a few were bought from other countries.\nM: But I see the machines turned out here are quite modem and efficient.\nW: Following the national policy of self - reliance and hard - working struggle, we've tried our best in the past few years to improve our equipment. However, there is still a lot more to do.\nM: Now the question about yourself. I hope you don't mind it. How much do you earn each month?\nW: My monthly wage is 3,500 RMB, not including the extra pay of about 500 for extra work I put in.\nM: That sounds reasonable indeed. I'm very interested in worker's welfare here. What other benefits do you workers get, I wonder?\nW: Like other factories in China, our factory offers free medical service for workers.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Seven hours.",
+                "Eight hours.",
+                "Nine hours."
+              ],
+              "correctAnswer": "Seven hours.",
+              "variables": {
+                "a": "How many hours does the woman work every day except the break?"
+              }
+            },
+            {
+              "answerOptions": [
+                "$3,500.",
+                "$500.",
+                "3,500RMB."
+              ],
+              "correctAnswer": "3,500RMB.",
+              "variables": {
+                "a": "What is the monthly salary of the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Most of them are made in China.",
+                "Most of them are imported from abroad.",
+                "They made most of them by themselves."
+              ],
+              "correctAnswer": "Most of them are made in China.",
+              "variables": {
+                "a": "How about the machines used in the factories?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She is manager of the factory.",
+                "She is a machine operator.",
+                "She is a technician of the workshop."
+              ],
+              "correctAnswer": "She is a machine operator.",
+              "variables": {
+                "a": "What does the woman do in the factory?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Last time I talked about the student services in the college. Today I'd like to talk about the Counselling Services. The College Counselling Service is located in the North Building. The counsellors are Ms Penny Rawson and Ms Ann David. I have asked Ms Rawson to join us today to discuss their role. Ms Rawson...\nW: Thank you. Both Ann and I are full-time counsellors. Students either come tons on their own or are referred to us by a tutor. We see students individually, run group therapy sessions and courses of sessions as we think necessary. We are here to help with any problems? no matter how great or small, such as homesickness, relationship difficulties, death and separation, sexual problems, undue stress due to work and so on. You will not be the first to be homesick, find college life stressful, or decisions problematic. So please don't hesitate to come and have a chat if there is anything bothering you. This is a confidential service but we are willing to arrange with your course directors, your tutors, Student Union officers, career department or doctors. We can also put you in touch with outside counselling services. As a part of the university, all counselling is free of charge for full-time students. I know some of you may feel that seeing a counsellor has a stigma attached to it, but let me assure you even the best balanced individuals encounter situations where they need someone to talk with. So please don't hesitate. You're welcome to make use of this service. We hope you will enjoy your studies at the university. Thank you.\n{a}",
+          "text_ru": "M: Last time I talked about the student services in the college. Today I'd like to talk about the Counselling Services. The College Counselling Service is located in the North Building. The counsellors are Ms Penny Rawson and Ms Ann David. I have asked Ms Rawson to join us today to discuss their role. Ms Rawson...\nW: Thank you. Both Ann and I are full-time counsellors. Students either come tons on their own or are referred to us by a tutor. We see students individually, run group therapy sessions and courses of sessions as we think necessary. We are here to help with any problems? no matter how great or small, such as homesickness, relationship difficulties, death and separation, sexual problems, undue stress due to work and so on. You will not be the first to be homesick, find college life stressful, or decisions problematic. So please don't hesitate to come and have a chat if there is anything bothering you. This is a confidential service but we are willing to arrange with your course directors, your tutors, Student Union officers, career department or doctors. We can also put you in touch with outside counselling services. As a part of the university, all counselling is free of charge for full-time students. I know some of you may feel that seeing a counsellor has a stigma attached to it, but let me assure you even the best balanced individuals encounter situations where they need someone to talk with. So please don't hesitate. You're welcome to make use of this service. We hope you will enjoy your studies at the university. Thank you.\n{a}",
+          "text_kz": "M: Last time I talked about the student services in the college. Today I'd like to talk about the Counselling Services. The College Counselling Service is located in the North Building. The counsellors are Ms Penny Rawson and Ms Ann David. I have asked Ms Rawson to join us today to discuss their role. Ms Rawson...\nW: Thank you. Both Ann and I are full-time counsellors. Students either come tons on their own or are referred to us by a tutor. We see students individually, run group therapy sessions and courses of sessions as we think necessary. We are here to help with any problems? no matter how great or small, such as homesickness, relationship difficulties, death and separation, sexual problems, undue stress due to work and so on. You will not be the first to be homesick, find college life stressful, or decisions problematic. So please don't hesitate to come and have a chat if there is anything bothering you. This is a confidential service but we are willing to arrange with your course directors, your tutors, Student Union officers, career department or doctors. We can also put you in touch with outside counselling services. As a part of the university, all counselling is free of charge for full-time students. I know some of you may feel that seeing a counsellor has a stigma attached to it, but let me assure you even the best balanced individuals encounter situations where they need someone to talk with. So please don't hesitate. You're welcome to make use of this service. We hope you will enjoy your studies at the university. Thank you.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A Student Union officer.",
+                "A famous counsellor.",
+                "A course director."
+              ],
+              "correctAnswer": "A Student Union officer.",
+              "variables": {
+                "a": "Who might be the first speaker (the man)?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Strained relationship with boyfriend or girlfriend.",
+                "Financial difficulties.",
+                "Excessive stress of work."
+              ],
+              "correctAnswer": "Financial difficulties.",
+              "variables": {
+                "a": "Which of the following is NOT mentioned as a problem the counsellors can help with?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It can make students confident in their abilities.",
+                "The counselling fee charged for full-time students are lower than those non-full-time students.",
+                "It is conducted sometimes in cooperation with other members of the staff."
+              ],
+              "correctAnswer": "It is conducted sometimes in cooperation with other members of the staff.",
+              "variables": {
+                "a": "What can you infer about the counselling service from the talk?"
+              }
+            },
+            {
+              "answerOptions": [
+                "something to be ashamed of",
+                "something one wants to keep secret",
+                "willingness"
+              ],
+              "correctAnswer": "something to be ashamed of",
+              "variables": {
+                "a": "In the sentence \"... seeing a counsellor has a stigma... \",\"stigma\" here means ______."
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: I'm free this afternoon. Shall we go to the movies?\nM: OK. But I hate love stories. Any films about war on today?\nW: I'm afraid not. How about the theatre?\nM: Well, most plays are badly written, though they're cheap.\nW: Let's go to a concert. You like music very much, don't you?\nM: Yes, light music. But now you can only hear noisy music, American songs or songs where you can't understand a single word.\nW: What are you going to do then?\nM: Why not go to the library to borrow some books. You like reading as much as I do, don't you?\nW: OK, let's.\n{a}",
+          "text_ru": "W: I'm free this afternoon. Shall we go to the movies?\nM: OK. But I hate love stories. Any films about war on today?\nW: I'm afraid not. How about the theatre?\nM: Well, most plays are badly written, though they're cheap.\nW: Let's go to a concert. You like music very much, don't you?\nM: Yes, light music. But now you can only hear noisy music, American songs or songs where you can't understand a single word.\nW: What are you going to do then?\nM: Why not go to the library to borrow some books. You like reading as much as I do, don't you?\nW: OK, let's.\n{a}",
+          "text_kz": "W: I'm free this afternoon. Shall we go to the movies?\nM: OK. But I hate love stories. Any films about war on today?\nW: I'm afraid not. How about the theatre?\nM: Well, most plays are badly written, though they're cheap.\nW: Let's go to a concert. You like music very much, don't you?\nM: Yes, light music. But now you can only hear noisy music, American songs or songs where you can't understand a single word.\nW: What are you going to do then?\nM: Why not go to the library to borrow some books. You like reading as much as I do, don't you?\nW: OK, let's.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Go shopping.",
+                "Go to the library.",
+                "Go to the cinema"
+              ],
+              "correctAnswer": "Go to the cinema",
+              "variables": {
+                "a": "What is the woman going to do this afternoon first?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because they are expensive.",
+                "Because they're not well-written.",
+                "Because the theatre is too far away."
+              ],
+              "correctAnswer": "Because they're not well-written.",
+              "variables": {
+                "a": "What's the main reason the man doesn't like watching plays?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Light music.",
+                "English songs.",
+                "American songs."
+              ],
+              "correctAnswer": "Light music.",
+              "variables": {
+                "a": "What kind of music does the man like best?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Films.",
+                "Music.",
+                "Reading."
+              ],
+              "correctAnswer": "Reading.",
+              "variables": {
+                "a": "Which of the following does the man like most?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: I really need a vacation. I just can't decide where to go.\nM: Have you ever been to Curacao?\nW: No, I haven't. It's so far.\nM: Oh, come on! In this day and age, nothing is far. Besides, once you get there, it's like being in paradise. I really think you should consider it. In fact, I suggest you ask your travel agent about it.\nW: What's so great about Curacao? It's just another tropical island with a pretty beach.\nM: Just another tropical island? Bright sunny days with blue water rolling upon to the clean white sand. Gentle winds blowing through the palm trees of clear move at night. Come on! It's a tremendous place to go.\nW: Oh, I don't know.\nM: Look! You can go wherever you want. But it's important that you relax during your vacation. And Curacao is the perfect place for that. I mean, you can do all the things you like to do. Play tennis, swim, read, rest, not to mention eat well and get a great suntan. Why are you so hesitant? Come on! Be adventurous.\nW: You're certainly making it sound better by the minute. OK, maybe I'll check it out with my travel agent.\nM: I suggest you hurry. This is a very busy time of the year. And reservations aren't always easy to get. And it is absolutely necessary that you have reservations.\n{a}",
+          "text_ru": "W: I really need a vacation. I just can't decide where to go.\nM: Have you ever been to Curacao?\nW: No, I haven't. It's so far.\nM: Oh, come on! In this day and age, nothing is far. Besides, once you get there, it's like being in paradise. I really think you should consider it. In fact, I suggest you ask your travel agent about it.\nW: What's so great about Curacao? It's just another tropical island with a pretty beach.\nM: Just another tropical island? Bright sunny days with blue water rolling upon to the clean white sand. Gentle winds blowing through the palm trees of clear move at night. Come on! It's a tremendous place to go.\nW: Oh, I don't know.\nM: Look! You can go wherever you want. But it's important that you relax during your vacation. And Curacao is the perfect place for that. I mean, you can do all the things you like to do. Play tennis, swim, read, rest, not to mention eat well and get a great suntan. Why are you so hesitant? Come on! Be adventurous.\nW: You're certainly making it sound better by the minute. OK, maybe I'll check it out with my travel agent.\nM: I suggest you hurry. This is a very busy time of the year. And reservations aren't always easy to get. And it is absolutely necessary that you have reservations.\n{a}",
+          "text_kz": "W: I really need a vacation. I just can't decide where to go.\nM: Have you ever been to Curacao?\nW: No, I haven't. It's so far.\nM: Oh, come on! In this day and age, nothing is far. Besides, once you get there, it's like being in paradise. I really think you should consider it. In fact, I suggest you ask your travel agent about it.\nW: What's so great about Curacao? It's just another tropical island with a pretty beach.\nM: Just another tropical island? Bright sunny days with blue water rolling upon to the clean white sand. Gentle winds blowing through the palm trees of clear move at night. Come on! It's a tremendous place to go.\nW: Oh, I don't know.\nM: Look! You can go wherever you want. But it's important that you relax during your vacation. And Curacao is the perfect place for that. I mean, you can do all the things you like to do. Play tennis, swim, read, rest, not to mention eat well and get a great suntan. Why are you so hesitant? Come on! Be adventurous.\nW: You're certainly making it sound better by the minute. OK, maybe I'll check it out with my travel agent.\nM: I suggest you hurry. This is a very busy time of the year. And reservations aren't always easy to get. And it is absolutely necessary that you have reservations.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "It is difficult to reach.",
+                "It is a tourist paradise.",
+                "It is a perfect place for sports."
+              ],
+              "correctAnswer": "It is a tourist paradise.",
+              "variables": {
+                "a": "What does the man think of Curacao?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She thinks it is too far.",
+                "She thinks it is too crowded.",
+                "It is not safe to go there."
+              ],
+              "correctAnswer": "She thinks it is too far.",
+              "variables": {
+                "a": "Why does the woman hesitate to make her decision to go to Curacao?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Pack up for the trip.",
+                "Make her reservations.",
+                "Book her airline ticket."
+              ],
+              "correctAnswer": "Make her reservations.",
+              "variables": {
+                "a": "What is the woman probably going to do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Her friend.",
+                "Her husband.",
+                "Her travel agent."
+              ],
+              "correctAnswer": "Her friend.",
+              "variables": {
+                "a": "Who is the woman talking to?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Gosh! Have you seen this, Richard?\nM: See what?\nW: In the paper. It says, there is a man going around pretending he's from the electricity board. He's been calling at people's homes, saying he is coming to check that all their appliances are safe. Then he gets around them to make him a cup of tea, and while they are out of the room he steals their money, handbag whatever and makes off with it.\nM: But you know, Jane, it's partly their own fault. You should never let anyone like that in unless you're expecting them.\nW: It's all very well to say that. But someone comes to the door, and says electricity or gas and you automatically think they are OK, especially if they flash a card to you\nM: Does this man have an ID then?\nW: Yes, that's just it. It seems he used to work for the electricity board at one time. According to the paper the police are warning people especially pensioners not to admit anyone unless they have an appointment. It's a bit sad. One old lady told them she'd just been to the post–office to draw her pension when he called. She said he must have followed her home. He stole the whole lot.\nM: But what does he look like? Surely they must have a description.\nW: Oh, yes they have. Let's see, in his thirties, tall, bushy dark hair, slight northern accent, sounds a bit like you actually.\n{a}",
+          "text_ru": "W: Gosh! Have you seen this, Richard?\nM: See what?\nW: In the paper. It says, there is a man going around pretending he's from the electricity board. He's been calling at people's homes, saying he is coming to check that all their appliances are safe. Then he gets around them to make him a cup of tea, and while they are out of the room he steals their money, handbag whatever and makes off with it.\nM: But you know, Jane, it's partly their own fault. You should never let anyone like that in unless you're expecting them.\nW: It's all very well to say that. But someone comes to the door, and says electricity or gas and you automatically think they are OK, especially if they flash a card to you\nM: Does this man have an ID then?\nW: Yes, that's just it. It seems he used to work for the electricity board at one time. According to the paper the police are warning people especially pensioners not to admit anyone unless they have an appointment. It's a bit sad. One old lady told them she'd just been to the post–office to draw her pension when he called. She said he must have followed her home. He stole the whole lot.\nM: But what does he look like? Surely they must have a description.\nW: Oh, yes they have. Let's see, in his thirties, tall, bushy dark hair, slight northern accent, sounds a bit like you actually.\n{a}",
+          "text_kz": "W: Gosh! Have you seen this, Richard?\nM: See what?\nW: In the paper. It says, there is a man going around pretending he's from the electricity board. He's been calling at people's homes, saying he is coming to check that all their appliances are safe. Then he gets around them to make him a cup of tea, and while they are out of the room he steals their money, handbag whatever and makes off with it.\nM: But you know, Jane, it's partly their own fault. You should never let anyone like that in unless you're expecting them.\nW: It's all very well to say that. But someone comes to the door, and says electricity or gas and you automatically think they are OK, especially if they flash a card to you\nM: Does this man have an ID then?\nW: Yes, that's just it. It seems he used to work for the electricity board at one time. According to the paper the police are warning people especially pensioners not to admit anyone unless they have an appointment. It's a bit sad. One old lady told them she'd just been to the post–office to draw her pension when he called. She said he must have followed her home. He stole the whole lot.\nM: But what does he look like? Surely they must have a description.\nW: Oh, yes they have. Let's see, in his thirties, tall, bushy dark hair, slight northern accent, sounds a bit like you actually.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A notice by the electricity board.",
+                "Ads promoting electric appliances.",
+                "The description of a thief in disguise."
+              ],
+              "correctAnswer": "The description of a thief in disguise.",
+              "variables": {
+                "a": "What does the woman want the man to read in the newspaper?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Speaking with a proper accent.",
+                "Showing them his ID.",
+                "Making friends with them."
+              ],
+              "correctAnswer": "Showing them his ID.",
+              "variables": {
+                "a": "How did the man mention in the newspaper try to win further trust from the victims?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To be on the alert when being followed.",
+                "Not to leave senior citizens alone at home.",
+                "Not to let anyone in without an appointment."
+              ],
+              "correctAnswer": "Not to let anyone in without an appointment.",
+              "variables": {
+                "a": "What is the warning from the police?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She was robbed near the parking lot.",
+                "All her money in the bank disappeared.",
+                "The pension she had just drawn was stolen."
+              ],
+              "correctAnswer": "The pension she had just drawn was stolen.",
+              "variables": {
+                "a": "What does the woman speaker tell us about the old lady?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Good afternoon, madam. I'm doing some market research and I'm hoping you might have a few minutes to answer some questions.\nW: Okay, sure.\nM: Great, thank you very much. First of all, do you own a personal computer?\nW: Of course! Doesn't everyone?\nM: How long have you owned it?\nW: I bought this particular computer last year. But I got my first PC in 1995.\nM: I see. And what do you primarily use your computer for?\nW: Well, I use it to send e-mails a lot, and... um, I have a teach-yourself French program. And I shop online pretty often.\nM: Mmm. Any other uses?\nW: Keeping track of my bank account, and there are a couple of computer games I enjoy.\nM: Now you've mentioned e-mail and online shopping. Do you use the Internet for any other purposes?\nW: Not really. I haven't got around to explore it too much.\nM: Okay, thanks. Sorry to have given you so much trouble. Thanks again.\n{a}",
+          "text_ru": "M: Good afternoon, madam. I'm doing some market research and I'm hoping you might have a few minutes to answer some questions.\nW: Okay, sure.\nM: Great, thank you very much. First of all, do you own a personal computer?\nW: Of course! Doesn't everyone?\nM: How long have you owned it?\nW: I bought this particular computer last year. But I got my first PC in 1995.\nM: I see. And what do you primarily use your computer for?\nW: Well, I use it to send e-mails a lot, and... um, I have a teach-yourself French program. And I shop online pretty often.\nM: Mmm. Any other uses?\nW: Keeping track of my bank account, and there are a couple of computer games I enjoy.\nM: Now you've mentioned e-mail and online shopping. Do you use the Internet for any other purposes?\nW: Not really. I haven't got around to explore it too much.\nM: Okay, thanks. Sorry to have given you so much trouble. Thanks again.\n{a}",
+          "text_kz": "M: Good afternoon, madam. I'm doing some market research and I'm hoping you might have a few minutes to answer some questions.\nW: Okay, sure.\nM: Great, thank you very much. First of all, do you own a personal computer?\nW: Of course! Doesn't everyone?\nM: How long have you owned it?\nW: I bought this particular computer last year. But I got my first PC in 1995.\nM: I see. And what do you primarily use your computer for?\nW: Well, I use it to send e-mails a lot, and... um, I have a teach-yourself French program. And I shop online pretty often.\nM: Mmm. Any other uses?\nW: Keeping track of my bank account, and there are a couple of computer games I enjoy.\nM: Now you've mentioned e-mail and online shopping. Do you use the Internet for any other purposes?\nW: Not really. I haven't got around to explore it too much.\nM: Okay, thanks. Sorry to have given you so much trouble. Thanks again.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Last year.",
+                "This year.",
+                "In 1995."
+              ],
+              "correctAnswer": "In 1995.",
+              "variables": {
+                "a": "When did the woman begin using her computer?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The Franch language.",
+                "Buying and selling stocks.",
+                "How to shop online."
+              ],
+              "correctAnswer": "The Franch language.",
+              "variables": {
+                "a": "What does the woman use her computer to learn?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She has a very good knowledge of computers.",
+                "She does't know too much about computers.",
+                "She likes playing computer games best."
+              ],
+              "correctAnswer": "She does't know too much about computers.",
+              "variables": {
+                "a": "What do we know about the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He's a software engineer in a computer company.",
+                "He is a clerk in a bank.",
+                "He's a market researcher of a company."
+              ],
+              "correctAnswer": "He's a market researcher of a company.",
+              "variables": {
+                "a": "What does the man probably do?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Thanks for agreeing to this interview,Mrs. Rogers. My teacher wants me to interview someone who lived during the 1940s.\nW: Of course, Joey. What's your first question?\nM: Well,where were you living in 1940?\nW: In Minneapolis, Minnesota, where I was born and raised.\nM: Did you live with your family?\nW: Yes,with my parents and my younger brother. In 1943,I moved to Washington D. C. by myself. I got a job as a typist for a newspaper.\nM: What was D. C. like?\nW: It was an exciting time to be living there. I got my interest in politics from being in the nation's capital. When I moved to California,I went straight to Sacramento and got a job working for a state lawmaker.\nM: Were you in California when the war ended?\nW: No, I was still in D. C. I met my husband there, and we moved the following year, in 1946.\nM: How long did you work for the lawmaker?\nW: Well, I was a secretary for that politician for two years. Then I had my two girls and stayed home for a few years. But as soon as they were old enough, I ran for office myself.\nM: Really? Did you win?\nW: I did. I spent the next 20 years as a local politician.\nM: Wow. I've lived next door for years, and I didn't even know that!\n{a}",
+          "text_ru": "M: Thanks for agreeing to this interview,Mrs. Rogers. My teacher wants me to interview someone who lived during the 1940s.\nW: Of course, Joey. What's your first question?\nM: Well,where were you living in 1940?\nW: In Minneapolis, Minnesota, where I was born and raised.\nM: Did you live with your family?\nW: Yes,with my parents and my younger brother. In 1943,I moved to Washington D. C. by myself. I got a job as a typist for a newspaper.\nM: What was D. C. like?\nW: It was an exciting time to be living there. I got my interest in politics from being in the nation's capital. When I moved to California,I went straight to Sacramento and got a job working for a state lawmaker.\nM: Were you in California when the war ended?\nW: No, I was still in D. C. I met my husband there, and we moved the following year, in 1946.\nM: How long did you work for the lawmaker?\nW: Well, I was a secretary for that politician for two years. Then I had my two girls and stayed home for a few years. But as soon as they were old enough, I ran for office myself.\nM: Really? Did you win?\nW: I did. I spent the next 20 years as a local politician.\nM: Wow. I've lived next door for years, and I didn't even know that!\n{a}",
+          "text_kz": "M: Thanks for agreeing to this interview,Mrs. Rogers. My teacher wants me to interview someone who lived during the 1940s.\nW: Of course, Joey. What's your first question?\nM: Well,where were you living in 1940?\nW: In Minneapolis, Minnesota, where I was born and raised.\nM: Did you live with your family?\nW: Yes,with my parents and my younger brother. In 1943,I moved to Washington D. C. by myself. I got a job as a typist for a newspaper.\nM: What was D. C. like?\nW: It was an exciting time to be living there. I got my interest in politics from being in the nation's capital. When I moved to California,I went straight to Sacramento and got a job working for a state lawmaker.\nM: Were you in California when the war ended?\nW: No, I was still in D. C. I met my husband there, and we moved the following year, in 1946.\nM: How long did you work for the lawmaker?\nW: Well, I was a secretary for that politician for two years. Then I had my two girls and stayed home for a few years. But as soon as they were old enough, I ran for office myself.\nM: Really? Did you win?\nW: I did. I spent the next 20 years as a local politician.\nM: Wow. I've lived next door for years, and I didn't even know that!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "By herself.",
+                "With her husband.",
+                "With her parents and brother."
+              ],
+              "correctAnswer": "With her parents and brother.",
+              "variables": {
+                "a": "Who did the woman live with in 1940?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In Minnesota.",
+                "In Washington D. C..",
+                "In California."
+              ],
+              "correctAnswer": "In Washington D. C..",
+              "variables": {
+                "a": "Where was the woman in 1945?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Politician.",
+                "Secretary.",
+                "News reporter."
+              ],
+              "correctAnswer": "Politician.",
+              "variables": {
+                "a": "Which job did the woman have for the longest time?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Neighbors.",
+                "Teacher and student.",
+                "Grandma and grandson."
+              ],
+              "correctAnswer": "Neighbors.",
+              "variables": {
+                "a": "What is the probable relationship between the speakers?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: We are going to put on a performance.\nM: Really? When?\nW: On May 4. We have been preparing for it for two months.\nM: Where are you going to put it on? In your school?\nW: No. At the People's Theatre.\nM: If I remember correctly, you put it on at the Youth Square last year.\nW: Yeah. But it is under repair now.\nM: But why are you doing that? To collect money for repairing the Youth Square?\nW: No. We want to collect money and send it to Project Hope.\nM: That sounds like a good idea. Good luck to you.\nW: Thanks a lot.\n{a}",
+          "text_ru": "W: We are going to put on a performance.\nM: Really? When?\nW: On May 4. We have been preparing for it for two months.\nM: Where are you going to put it on? In your school?\nW: No. At the People's Theatre.\nM: If I remember correctly, you put it on at the Youth Square last year.\nW: Yeah. But it is under repair now.\nM: But why are you doing that? To collect money for repairing the Youth Square?\nW: No. We want to collect money and send it to Project Hope.\nM: That sounds like a good idea. Good luck to you.\nW: Thanks a lot.\n{a}",
+          "text_kz": "W: We are going to put on a performance.\nM: Really? When?\nW: On May 4. We have been preparing for it for two months.\nM: Where are you going to put it on? In your school?\nW: No. At the People's Theatre.\nM: If I remember correctly, you put it on at the Youth Square last year.\nW: Yeah. But it is under repair now.\nM: But why are you doing that? To collect money for repairing the Youth Square?\nW: No. We want to collect money and send it to Project Hope.\nM: That sounds like a good idea. Good luck to you.\nW: Thanks a lot.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "On May 4.",
+                "In the early April.",
+                "Two months ago."
+              ],
+              "correctAnswer": "Two months ago.",
+              "variables": {
+                "a": "When did the woman begin to prepare for the performance?"
+              }
+            },
+            {
+              "answerOptions": [
+                "An actress.",
+                "A company clerk.",
+                "An athlete."
+              ],
+              "correctAnswer": "An actress.",
+              "variables": {
+                "a": "What's probably the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because another performance is there.",
+                "Because it is being repaired.",
+                "Because someone is collecting money there."
+              ],
+              "correctAnswer": "Because it is being repaired.",
+              "variables": {
+                "a": "Why won't they put it on at the Youth Square?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Celebrating May 4.",
+                "Collecting money for Project Hope.",
+                "Repairing the Youth Square."
+              ],
+              "correctAnswer": "Collecting money for Project Hope.",
+              "variables": {
+                "a": "What is the performance for?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Excuse me. Can you do me a favor?\nW: What's your problem?\nM: I just can not find the right place here. I've never been here before.\nW: You must be a freshman. What do you want anyway?\nM: I want to find a book that I need for my term paper, but I cannot find it anywhere.\nW: The library has five reading rooms. You may try the General Reading Room. You can find almost all the books there. But you can not take the book out of the reading room.\nM: It doesn't matter. I just want to refer to it for some figures. Where is it?\nW: Go out of this building, cross the sports field, and you will see a white house. The General Reading Room is inside it.\nM: No wonder! It's not here! Thank you very much.\nW: My pleasure!\n{a}",
+          "text_ru": "M: Excuse me. Can you do me a favor?\nW: What's your problem?\nM: I just can not find the right place here. I've never been here before.\nW: You must be a freshman. What do you want anyway?\nM: I want to find a book that I need for my term paper, but I cannot find it anywhere.\nW: The library has five reading rooms. You may try the General Reading Room. You can find almost all the books there. But you can not take the book out of the reading room.\nM: It doesn't matter. I just want to refer to it for some figures. Where is it?\nW: Go out of this building, cross the sports field, and you will see a white house. The General Reading Room is inside it.\nM: No wonder! It's not here! Thank you very much.\nW: My pleasure!\n{a}",
+          "text_kz": "M: Excuse me. Can you do me a favor?\nW: What's your problem?\nM: I just can not find the right place here. I've never been here before.\nW: You must be a freshman. What do you want anyway?\nM: I want to find a book that I need for my term paper, but I cannot find it anywhere.\nW: The library has five reading rooms. You may try the General Reading Room. You can find almost all the books there. But you can not take the book out of the reading room.\nM: It doesn't matter. I just want to refer to it for some figures. Where is it?\nW: Go out of this building, cross the sports field, and you will see a white house. The General Reading Room is inside it.\nM: No wonder! It's not here! Thank you very much.\nW: My pleasure!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In a library.",
+                "In a bookstore.",
+                "On a sports field."
+              ],
+              "correctAnswer": "In a library.",
+              "variables": {
+                "a": "Where does this conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It's the first time he's come to the library.",
+                "There's only one reading room in the library.",
+                "He wants to refer to the book for some figures."
+              ],
+              "correctAnswer": "It's the first time he's come to the library.",
+              "variables": {
+                "a": "Why is the man not able to find the book he needs?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Beside the library building.",
+                "Inside the library building.",
+                "In a white house across the sports field."
+              ],
+              "correctAnswer": "In a white house across the sports field.",
+              "variables": {
+                "a": "where is the General Reading Room?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Four.",
+                "Five.",
+                "Six."
+              ],
+              "correctAnswer": "Five.",
+              "variables": {
+                "a": "How many reading rooms does the library have?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

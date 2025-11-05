@@ -131,7 +131,9 @@ enum TestStatus {
 model QuestionTemplate {
   templateId  String             @id @default(uuid()) @map("template_id")
   sectionId   String             @map("section_id")
-  text        String
+  textEn      String             @map("text_en")
+  textRu      String             @map("text_ru")
+  textKz      String             @map("text_kz")
   explanation String?
   instances   QuestionInstance[]
   section     Section            @relation(fields: [sectionId], references: [sectionId], onDelete: Cascade)

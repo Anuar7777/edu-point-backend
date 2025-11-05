@@ -1,0 +1,1227 @@
+{
+  "courseId": "be61cc06-7cb8-45cc-ae59-ebb95b84ec95",
+  "title": "Everyday English Course 23",
+  "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
+  "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
+  "totalSections": 3,
+  "sections": [
+    {
+      "title": "Section 1: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "W: Have you seen the job in the newspaper?\nM: Do you mean the one in Manchester?\nW: Yes.\nM: I saw it just now.\nW: What do you think of it?\nM: I think I'm not the type of man to do it.\nW: Why do you think so?\nM: They need an engineer to take care of the machine and I don't even know anything about that kind of machine.\nW: I know you are always quick to learn. I believe when you use it you will get to know it well.\nM: Are you serious about that?\nW: Sure I am. You should have a try.\nM: Mm...maybe I should have a try.\n{a}",
+          "text_ru": "W: Have you seen the job in the newspaper?\nM: Do you mean the one in Manchester?\nW: Yes.\nM: I saw it just now.\nW: What do you think of it?\nM: I think I'm not the type of man to do it.\nW: Why do you think so?\nM: They need an engineer to take care of the machine and I don't even know anything about that kind of machine.\nW: I know you are always quick to learn. I believe when you use it you will get to know it well.\nM: Are you serious about that?\nW: Sure I am. You should have a try.\nM: Mm...maybe I should have a try.\n{a}",
+          "text_kz": "W: Have you seen the job in the newspaper?\nM: Do you mean the one in Manchester?\nW: Yes.\nM: I saw it just now.\nW: What do you think of it?\nM: I think I'm not the type of man to do it.\nW: Why do you think so?\nM: They need an engineer to take care of the machine and I don't even know anything about that kind of machine.\nW: I know you are always quick to learn. I believe when you use it you will get to know it well.\nM: Are you serious about that?\nW: Sure I am. You should have a try.\nM: Mm...maybe I should have a try.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A modern machine.",
+                "A newspaper article.",
+                "A job opportunity."
+              ],
+              "correctAnswer": "A job opportunity.",
+              "variables": {
+                "a": "What are the two speakers mainly talking about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Lying to the man.",
+                "Encouraging the man.",
+                "Making fun of the man."
+              ],
+              "correctAnswer": "Encouraging the man.",
+              "variables": {
+                "a": "What is the woman really doing?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He is slow to learn.",
+                "He will have a try.",
+                "He is high in spirits."
+              ],
+              "correctAnswer": "He will have a try.",
+              "variables": {
+                "a": "What can we learn about the man?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Where did you put my new red tie?\nW: It's right there in the cupboard with your other ties.\nM: There's a green one and a couple of brown ones, but no red one.\nW: Here it is in your drawer. You must have put it there when you brought it home.\nM: I suppose so. We'd better hurry up or we're going to be late. The Smiths said to come at 7:00.\nW: Oh, it's 6:24 now. Sue isn't here to take care of the children yet.\nM: She shall be here at 6:40. That still gives us time to get there.\nW: Who else is coming tonight?\nM: The Browns and the Franks. And Mrs. Johnson's sister will be there too.\nW: Well. I think we'd better go down. Sue should be here pretty soon.\n{a}",
+          "text_ru": "M: Where did you put my new red tie?\nW: It's right there in the cupboard with your other ties.\nM: There's a green one and a couple of brown ones, but no red one.\nW: Here it is in your drawer. You must have put it there when you brought it home.\nM: I suppose so. We'd better hurry up or we're going to be late. The Smiths said to come at 7:00.\nW: Oh, it's 6:24 now. Sue isn't here to take care of the children yet.\nM: She shall be here at 6:40. That still gives us time to get there.\nW: Who else is coming tonight?\nM: The Browns and the Franks. And Mrs. Johnson's sister will be there too.\nW: Well. I think we'd better go down. Sue should be here pretty soon.\n{a}",
+          "text_kz": "M: Where did you put my new red tie?\nW: It's right there in the cupboard with your other ties.\nM: There's a green one and a couple of brown ones, but no red one.\nW: Here it is in your drawer. You must have put it there when you brought it home.\nM: I suppose so. We'd better hurry up or we're going to be late. The Smiths said to come at 7:00.\nW: Oh, it's 6:24 now. Sue isn't here to take care of the children yet.\nM: She shall be here at 6:40. That still gives us time to get there.\nW: Who else is coming tonight?\nM: The Browns and the Franks. And Mrs. Johnson's sister will be there too.\nW: Well. I think we'd better go down. Sue should be here pretty soon.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "3.",
+                "4.",
+                "5."
+              ],
+              "correctAnswer": "4.",
+              "variables": {
+                "a": "How many ties does the man have at least?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In the cupboard.",
+                "Under his shirt.",
+                "In his drawer."
+              ],
+              "correctAnswer": "In the cupboard.",
+              "variables": {
+                "a": "Where did the man put his green tie?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She is Mrs. Johnson's sister.",
+                "She is the person to look after their children.",
+                "She is the speakers' guest."
+              ],
+              "correctAnswer": "She is the person to look after their children.",
+              "variables": {
+                "a": "What can we learn about Sue?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hello. Is that Mr. Nelson? This is Linda speaking.\nM: Hello, Miss Linda. What can I do for you?\nW: I'm on my way to visit you now, but I've lost my way.\nM: That's too bad. Where are you now, Miss Linda?\nW: I don't know exactly. I think I'm somewhere on New Hampshire Street. I'm calling you from a bookstore.\nM: A bookstore on New Hampshire Street. It's at a corner, isn't it?\nW: Yes, it is. And I can see a restaurant at the other corner.\nM: Now I'm almost sure where you are. You turned at the second corner. You should have turned at the first corner from the railway station.\nW: Is that so? Then I'll go back to the first corner.\nM: It'll be better that way. You'll find a one-way traffic sign. That's where you have to turn to the left. Come up the slope to reach a six-storied apartment house. My room is on the third floor.\nW: I'm sure I won't have any trouble this time. Thanks.\nM: I'll be waiting for you. Bye.\n{a}",
+          "text_ru": "W: Hello. Is that Mr. Nelson? This is Linda speaking.\nM: Hello, Miss Linda. What can I do for you?\nW: I'm on my way to visit you now, but I've lost my way.\nM: That's too bad. Where are you now, Miss Linda?\nW: I don't know exactly. I think I'm somewhere on New Hampshire Street. I'm calling you from a bookstore.\nM: A bookstore on New Hampshire Street. It's at a corner, isn't it?\nW: Yes, it is. And I can see a restaurant at the other corner.\nM: Now I'm almost sure where you are. You turned at the second corner. You should have turned at the first corner from the railway station.\nW: Is that so? Then I'll go back to the first corner.\nM: It'll be better that way. You'll find a one-way traffic sign. That's where you have to turn to the left. Come up the slope to reach a six-storied apartment house. My room is on the third floor.\nW: I'm sure I won't have any trouble this time. Thanks.\nM: I'll be waiting for you. Bye.\n{a}",
+          "text_kz": "W: Hello. Is that Mr. Nelson? This is Linda speaking.\nM: Hello, Miss Linda. What can I do for you?\nW: I'm on my way to visit you now, but I've lost my way.\nM: That's too bad. Where are you now, Miss Linda?\nW: I don't know exactly. I think I'm somewhere on New Hampshire Street. I'm calling you from a bookstore.\nM: A bookstore on New Hampshire Street. It's at a corner, isn't it?\nW: Yes, it is. And I can see a restaurant at the other corner.\nM: Now I'm almost sure where you are. You turned at the second corner. You should have turned at the first corner from the railway station.\nW: Is that so? Then I'll go back to the first corner.\nM: It'll be better that way. You'll find a one-way traffic sign. That's where you have to turn to the left. Come up the slope to reach a six-storied apartment house. My room is on the third floor.\nW: I'm sure I won't have any trouble this time. Thanks.\nM: I'll be waiting for you. Bye.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Because she loses her way.",
+                "Because she wants to tell him something.",
+                "Because she wants the man to pick her up."
+              ],
+              "correctAnswer": "Because she loses her way.",
+              "variables": {
+                "a": "Why does the woman phone the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "At a corner of New Hampshire Street.",
+                "At a restaurant on the corner.",
+                "At the first corner of New Hampshire Street."
+              ],
+              "correctAnswer": "At a corner of New Hampshire Street.",
+              "variables": {
+                "a": "Where is the woman when she phones the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "On the first floor.",
+                "On the third floor.",
+                "On the sixth floor."
+              ],
+              "correctAnswer": "On the third floor.",
+              "variables": {
+                "a": "Which floor does the man live?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Susan, Please pass me a copy of China Daily.\nW: Here you are.\nM: I want to find what's on this weekend.\nW: Is there anything good on?\nM: The Beijing Opera is showing on Saturday evening. Do you like Beijing Opera?\nW: Oh, yes. Very much. When and where will it be?\nM: At 7:30 in Beihai Park.\nW: Let's go and see it, OK?\nM: Good idea!\n{a}",
+          "text_ru": "M: Susan, Please pass me a copy of China Daily.\nW: Here you are.\nM: I want to find what's on this weekend.\nW: Is there anything good on?\nM: The Beijing Opera is showing on Saturday evening. Do you like Beijing Opera?\nW: Oh, yes. Very much. When and where will it be?\nM: At 7:30 in Beihai Park.\nW: Let's go and see it, OK?\nM: Good idea!\n{a}",
+          "text_kz": "M: Susan, Please pass me a copy of China Daily.\nW: Here you are.\nM: I want to find what's on this weekend.\nW: Is there anything good on?\nM: The Beijing Opera is showing on Saturday evening. Do you like Beijing Opera?\nW: Oh, yes. Very much. When and where will it be?\nM: At 7:30 in Beihai Park.\nW: Let's go and see it, OK?\nM: Good idea!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A magazine.",
+                "A Chinese play.",
+                "A newspaper."
+              ],
+              "correctAnswer": "A newspaper.",
+              "variables": {
+                "a": "What is the man reading?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Beijing Theater.",
+                "Beihai Park.",
+                "Beihai Cinema."
+              ],
+              "correctAnswer": "Beihai Park.",
+              "variables": {
+                "a": "Where are they going at the weekend?"
+              }
+            },
+            {
+              "answerOptions": [
+                "For a visit.",
+                "To see Beijing Opera.",
+                "To learn Beijing Opera."
+              ],
+              "correctAnswer": "To see Beijing Opera.",
+              "variables": {
+                "a": "What are they going there for?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Good morning, madam. Is anybody taking care of you?\nW: No, not yet. Could you show me that overcoat, the silver gray one in the middle.\nM: Certainly. You've got excellent taste. It's very nice and it's 100 percent wool.\nW: I like it. Could I try it on?\nM: Certainly. It looks good on you, madam.\nW: I think so. But a slightly larger size would be better.\nM: Would you like to try this one on?\nW: This one fits me well. How much does it cost?\nM: Only $ 170.\nW: OK, I'll take it. And I'd like that blue jacket on the right. How much is it?\nM: It's just $ 250.\nW: Oh, that's too expensive, I'm afraid.\nM: Anything else?\nW: No, thanks.\n{a}",
+          "text_ru": "M: Good morning, madam. Is anybody taking care of you?\nW: No, not yet. Could you show me that overcoat, the silver gray one in the middle.\nM: Certainly. You've got excellent taste. It's very nice and it's 100 percent wool.\nW: I like it. Could I try it on?\nM: Certainly. It looks good on you, madam.\nW: I think so. But a slightly larger size would be better.\nM: Would you like to try this one on?\nW: This one fits me well. How much does it cost?\nM: Only $ 170.\nW: OK, I'll take it. And I'd like that blue jacket on the right. How much is it?\nM: It's just $ 250.\nW: Oh, that's too expensive, I'm afraid.\nM: Anything else?\nW: No, thanks.\n{a}",
+          "text_kz": "M: Good morning, madam. Is anybody taking care of you?\nW: No, not yet. Could you show me that overcoat, the silver gray one in the middle.\nM: Certainly. You've got excellent taste. It's very nice and it's 100 percent wool.\nW: I like it. Could I try it on?\nM: Certainly. It looks good on you, madam.\nW: I think so. But a slightly larger size would be better.\nM: Would you like to try this one on?\nW: This one fits me well. How much does it cost?\nM: Only $ 170.\nW: OK, I'll take it. And I'd like that blue jacket on the right. How much is it?\nM: It's just $ 250.\nW: Oh, that's too expensive, I'm afraid.\nM: Anything else?\nW: No, thanks.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "$215.",
+                "$385.",
+                "$170."
+              ],
+              "correctAnswer": "$170.",
+              "variables": {
+                "a": "How much does the woman pay for what she buys?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It's too expensive.",
+                "It's too large.",
+                "It's a bit small."
+              ],
+              "correctAnswer": "It's a bit small.",
+              "variables": {
+                "a": "Why does the woman change the first overcoat?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Blue.",
+                "White.",
+                "Grey."
+              ],
+              "correctAnswer": "Grey.",
+              "variables": {
+                "a": "What color is the overcoat?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Would you like some dessert now, Miss?\nW: I'd like to see the menu again, please.\nM: Here you are, Miss. The chocolate cake is delicious.\nW: No, thanks. I don't like chocolate. I'd rather have a pineapple pie.\nM: I'm afraid there isn't any more today.\nW: Then I'd like to have an apple pie.\nM: I'm sorry, but that's gone, too.\nW: How about some fresh fruit?\nM: We don't have any fresh fruit today. All we have now is chocolate cake.\nW: Then I just have a cup of coffee, please.\nM: Fine. I'll bring it right away.\n{a}",
+          "text_ru": "M: Would you like some dessert now, Miss?\nW: I'd like to see the menu again, please.\nM: Here you are, Miss. The chocolate cake is delicious.\nW: No, thanks. I don't like chocolate. I'd rather have a pineapple pie.\nM: I'm afraid there isn't any more today.\nW: Then I'd like to have an apple pie.\nM: I'm sorry, but that's gone, too.\nW: How about some fresh fruit?\nM: We don't have any fresh fruit today. All we have now is chocolate cake.\nW: Then I just have a cup of coffee, please.\nM: Fine. I'll bring it right away.\n{a}",
+          "text_kz": "M: Would you like some dessert now, Miss?\nW: I'd like to see the menu again, please.\nM: Here you are, Miss. The chocolate cake is delicious.\nW: No, thanks. I don't like chocolate. I'd rather have a pineapple pie.\nM: I'm afraid there isn't any more today.\nW: Then I'd like to have an apple pie.\nM: I'm sorry, but that's gone, too.\nW: How about some fresh fruit?\nM: We don't have any fresh fruit today. All we have now is chocolate cake.\nW: Then I just have a cup of coffee, please.\nM: Fine. I'll bring it right away.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Some fresh fruits.",
+                "An apple pie.",
+                "Chocolate cake."
+              ],
+              "correctAnswer": "Chocolate cake.",
+              "variables": {
+                "a": "What does the waiter try to advice the woman to eat?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The dessert the waiter can serve is only chocolate cake.",
+                "There're many kinds of dessert for the woman to choose from.",
+                "The woman doesn't choose pineapple pie at all."
+              ],
+              "correctAnswer": "The dessert the waiter can serve is only chocolate cake.",
+              "variables": {
+                "a": "Which of the following statements is TRUE according to the conversation?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The woman has no choice but to eat chocolate cake.",
+                "The woman can only drink a cup of coffee.",
+                "The woman will have an apple pie and some fruit."
+              ],
+              "correctAnswer": "The woman can only drink a cup of coffee.",
+              "variables": {
+                "a": "What is the result of this conversation?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hello. Harling's Shopping Centre. Can I help you?\nM: Hello. This is Mr. Anderson speaking. I saw your advertisement on TV that you have got some good things on men's suits this week.\nW: Yes, sir.\nM: What I'd like to buy is a dark, business type suit. Something in wool, I think.\nW: We have some excellent pure wool suits. Wool has the best of everything, comfort, quality, value. What size do you want?\nM: Usually I'm a 40 Regular, but I've gained a little weight lately.\nW: Oh. You'd better have a 42. What color?\nM: I'd like something dark gray, or navy blue, or even black. And I prefer a solid color.\nW: You'll be satisfied, sir. By the way, we have a fine selection of ties to go with the suits. Maybe you would like to come to have a look.\nM: Oh. And how much is it?\nW: It's twenty-nine dollars, very cheap.\nM: OK. I'll come over and have a look at it. Thank you. Good-bye.\nW: Thank you for calling. Good-bye.\n{a}",
+          "text_ru": "W: Hello. Harling's Shopping Centre. Can I help you?\nM: Hello. This is Mr. Anderson speaking. I saw your advertisement on TV that you have got some good things on men's suits this week.\nW: Yes, sir.\nM: What I'd like to buy is a dark, business type suit. Something in wool, I think.\nW: We have some excellent pure wool suits. Wool has the best of everything, comfort, quality, value. What size do you want?\nM: Usually I'm a 40 Regular, but I've gained a little weight lately.\nW: Oh. You'd better have a 42. What color?\nM: I'd like something dark gray, or navy blue, or even black. And I prefer a solid color.\nW: You'll be satisfied, sir. By the way, we have a fine selection of ties to go with the suits. Maybe you would like to come to have a look.\nM: Oh. And how much is it?\nW: It's twenty-nine dollars, very cheap.\nM: OK. I'll come over and have a look at it. Thank you. Good-bye.\nW: Thank you for calling. Good-bye.\n{a}",
+          "text_kz": "W: Hello. Harling's Shopping Centre. Can I help you?\nM: Hello. This is Mr. Anderson speaking. I saw your advertisement on TV that you have got some good things on men's suits this week.\nW: Yes, sir.\nM: What I'd like to buy is a dark, business type suit. Something in wool, I think.\nW: We have some excellent pure wool suits. Wool has the best of everything, comfort, quality, value. What size do you want?\nM: Usually I'm a 40 Regular, but I've gained a little weight lately.\nW: Oh. You'd better have a 42. What color?\nM: I'd like something dark gray, or navy blue, or even black. And I prefer a solid color.\nW: You'll be satisfied, sir. By the way, we have a fine selection of ties to go with the suits. Maybe you would like to come to have a look.\nM: Oh. And how much is it?\nW: It's twenty-nine dollars, very cheap.\nM: OK. I'll come over and have a look at it. Thank you. Good-bye.\nW: Thank you for calling. Good-bye.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "He heard its ad on the radio.",
+                "He saw its ad on TV.",
+                "He read its ad in the newspaper."
+              ],
+              "correctAnswer": "He saw its ad on TV.",
+              "variables": {
+                "a": "How did Mr. Anderson know that Harling's Shopping Centre has some good things?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Size 42.",
+                "Size 41.",
+                "Size 40."
+              ],
+              "correctAnswer": "Size 42.",
+              "variables": {
+                "a": "What size will suit Mr. Anderson?"
+              }
+            },
+            {
+              "answerOptions": [
+                "$49.",
+                "$39.",
+                "$29."
+              ],
+              "correctAnswer": "$29.",
+              "variables": {
+                "a": "How much is the tie?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: How do you usually spend your day, Paul?\nM: I usually get up at seven. I take a shower and dress and then I have breakfast at seven thirty. I leave the house at eight. I work from nine to five. I have dinner at six thirty, watch television and then go to bed.\nW: How do you usually spend you weekends?\nM: In the summer, I usually sit in the park. At other times of the year, I like to do odd jobs around the house or paint. Painting is my hobby.\nW: What do you do for exercise?\nM: I play basketball every weekend.\n{a}",
+          "text_ru": "W: How do you usually spend your day, Paul?\nM: I usually get up at seven. I take a shower and dress and then I have breakfast at seven thirty. I leave the house at eight. I work from nine to five. I have dinner at six thirty, watch television and then go to bed.\nW: How do you usually spend you weekends?\nM: In the summer, I usually sit in the park. At other times of the year, I like to do odd jobs around the house or paint. Painting is my hobby.\nW: What do you do for exercise?\nM: I play basketball every weekend.\n{a}",
+          "text_kz": "W: How do you usually spend your day, Paul?\nM: I usually get up at seven. I take a shower and dress and then I have breakfast at seven thirty. I leave the house at eight. I work from nine to five. I have dinner at six thirty, watch television and then go to bed.\nW: How do you usually spend you weekends?\nM: In the summer, I usually sit in the park. At other times of the year, I like to do odd jobs around the house or paint. Painting is my hobby.\nW: What do you do for exercise?\nM: I play basketball every weekend.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "At eight.",
+                "At six.",
+                "At six thirty."
+              ],
+              "correctAnswer": "At six thirty.",
+              "variables": {
+                "a": "At what time does the man usually have dinner?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Playing basketball.",
+                "Sitting in the park.",
+                "Painting."
+              ],
+              "correctAnswer": "Painting.",
+              "variables": {
+                "a": "What is the man's hobby?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He plays basketball every weekend.",
+                "He plays football every day.",
+                "He does morning exercises every day."
+              ],
+              "correctAnswer": "He plays basketball every weekend.",
+              "variables": {
+                "a": "What does the man do for exercise?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Why, Mary Smith! I haven't seen you for ages. How have you been?\nW: John, John Brown! It has been a long time, hasn't it? It must be at least a year.\nM: No, we talked at the Johnsons' Christmas party last December. Don't you remember?\nW: That's right. Well, how are you? Still working for the food company?\nM: No, I changed jobs three months ago. I'm with the National Bank now. How about you?\nW: I'm still teaching at the university, but I moved from the German Department to the Spanish Department. Well,how is your family? Are the children all in school now?\nM: No, Billy is still at home. Tom is in the third grade and Jane's in the second.\nW: Our two children haven't started school yet, either. But they will go in the fall.\n{a}",
+          "text_ru": "M: Why, Mary Smith! I haven't seen you for ages. How have you been?\nW: John, John Brown! It has been a long time, hasn't it? It must be at least a year.\nM: No, we talked at the Johnsons' Christmas party last December. Don't you remember?\nW: That's right. Well, how are you? Still working for the food company?\nM: No, I changed jobs three months ago. I'm with the National Bank now. How about you?\nW: I'm still teaching at the university, but I moved from the German Department to the Spanish Department. Well,how is your family? Are the children all in school now?\nM: No, Billy is still at home. Tom is in the third grade and Jane's in the second.\nW: Our two children haven't started school yet, either. But they will go in the fall.\n{a}",
+          "text_kz": "M: Why, Mary Smith! I haven't seen you for ages. How have you been?\nW: John, John Brown! It has been a long time, hasn't it? It must be at least a year.\nM: No, we talked at the Johnsons' Christmas party last December. Don't you remember?\nW: That's right. Well, how are you? Still working for the food company?\nM: No, I changed jobs three months ago. I'm with the National Bank now. How about you?\nW: I'm still teaching at the university, but I moved from the German Department to the Spanish Department. Well,how is your family? Are the children all in school now?\nM: No, Billy is still at home. Tom is in the third grade and Jane's in the second.\nW: Our two children haven't started school yet, either. But they will go in the fall.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "More than one year.",
+                "Less than one year.",
+                "Three months."
+              ],
+              "correctAnswer": "Less than one year.",
+              "variables": {
+                "a": "How long is it since they met each other?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In a food factory.",
+                "At a university.",
+                "At the National Bank."
+              ],
+              "correctAnswer": "At the National Bank.",
+              "variables": {
+                "a": "Where does the man work?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The woman speaks German better than Spanish.",
+                "Tom,John's son,is in Grade Three.",
+                "The man has two children."
+              ],
+              "correctAnswer": "Tom,John's son,is in Grade Three.",
+              "variables": {
+                "a": "Which of the following is true?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Adam, how is your knee today? Is it still giving you trouble?\nM: No, it feels a lot better today. I went to the doctor and he told me it was not serious, I should be fine for Saturday.\nW: Great! But why don't you take it easy today? Maybe just practice throwing. Don't do any running.\nM: OK. Do you have any news about Michigan and what we can expect in Saturday's game?\nW: Yes, I have some films, showing Michigan in the last three games. They are in my office, if you want to see them after practice, you can.\nM: Oh, that would be great. I'd like to see what we are up against. They are one of the top basketball teams in the country now since they beat Iowa last weekend. Come to think of it, why don't you go ahead and check out the game films right now? And just rest that knee this afternoon. I want you to be well in three days.\nW: Michigan has a strong team. We are in for a tough one.\nM: All right, I'll be back tomorrow for full practice.\n{a}",
+          "text_ru": "W: Adam, how is your knee today? Is it still giving you trouble?\nM: No, it feels a lot better today. I went to the doctor and he told me it was not serious, I should be fine for Saturday.\nW: Great! But why don't you take it easy today? Maybe just practice throwing. Don't do any running.\nM: OK. Do you have any news about Michigan and what we can expect in Saturday's game?\nW: Yes, I have some films, showing Michigan in the last three games. They are in my office, if you want to see them after practice, you can.\nM: Oh, that would be great. I'd like to see what we are up against. They are one of the top basketball teams in the country now since they beat Iowa last weekend. Come to think of it, why don't you go ahead and check out the game films right now? And just rest that knee this afternoon. I want you to be well in three days.\nW: Michigan has a strong team. We are in for a tough one.\nM: All right, I'll be back tomorrow for full practice.\n{a}",
+          "text_kz": "W: Adam, how is your knee today? Is it still giving you trouble?\nM: No, it feels a lot better today. I went to the doctor and he told me it was not serious, I should be fine for Saturday.\nW: Great! But why don't you take it easy today? Maybe just practice throwing. Don't do any running.\nM: OK. Do you have any news about Michigan and what we can expect in Saturday's game?\nW: Yes, I have some films, showing Michigan in the last three games. They are in my office, if you want to see them after practice, you can.\nM: Oh, that would be great. I'd like to see what we are up against. They are one of the top basketball teams in the country now since they beat Iowa last weekend. Come to think of it, why don't you go ahead and check out the game films right now? And just rest that knee this afternoon. I want you to be well in three days.\nW: Michigan has a strong team. We are in for a tough one.\nM: All right, I'll be back tomorrow for full practice.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "There will be a football match.",
+                "There will be a baseball match.",
+                "There will be a basketball match."
+              ],
+              "correctAnswer": "There will be a basketball match.",
+              "variables": {
+                "a": "What will happen on Saturday?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A team from Iowa.",
+                "A team from Michigan.",
+                "A team from Chicago."
+              ],
+              "correctAnswer": "A team from Michigan.",
+              "variables": {
+                "a": "Who will they play against?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He will go to have a good rest in bed.",
+                "He will go on practicing.",
+                "He will go to see some films of games."
+              ],
+              "correctAnswer": "He will go to see some films of games.",
+              "variables": {
+                "a": "What will the man do next?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section 2: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "M: Excuse me, are you waiting to buy the concert tickets?\nW: Yes, I am. So are all these people in front of me.\nM: How long have you been here?\nW: About 50 minutes. I've hardly moved forward in that time.\nM: Are you kidding?\nW: Not at all. There was a couple up ahead of me who got so fed up that they finally gave up and left. They said they'd been here for more than an hour.\nM: My God. Does anyone know what's causing the delay?\nW: It could be that there aren't enough people selling tickets this afternoon. Or maybe their computers break down.\nM: I just hope they don't run out of tickets when I get up there.\nW: That really would be annoying, wouldn't it?\nM: I guess I should have come before lunch. Or has it been like this all day?\nW: Actually it has. In fact, before I came, I tried calling to order my tickets over the phone, just to avoid this long wait, but they don't take phone orders, or checks, or credit cards. It's cash or nothing. And you have to come in person.\nM: Well, there are two more hours before the ticket office closes. Tickets to a good concert are worth waiting for. So I think i'll just make myself comfortable.\n{a}",
+          "text_ru": "M: Excuse me, are you waiting to buy the concert tickets?\nW: Yes, I am. So are all these people in front of me.\nM: How long have you been here?\nW: About 50 minutes. I've hardly moved forward in that time.\nM: Are you kidding?\nW: Not at all. There was a couple up ahead of me who got so fed up that they finally gave up and left. They said they'd been here for more than an hour.\nM: My God. Does anyone know what's causing the delay?\nW: It could be that there aren't enough people selling tickets this afternoon. Or maybe their computers break down.\nM: I just hope they don't run out of tickets when I get up there.\nW: That really would be annoying, wouldn't it?\nM: I guess I should have come before lunch. Or has it been like this all day?\nW: Actually it has. In fact, before I came, I tried calling to order my tickets over the phone, just to avoid this long wait, but they don't take phone orders, or checks, or credit cards. It's cash or nothing. And you have to come in person.\nM: Well, there are two more hours before the ticket office closes. Tickets to a good concert are worth waiting for. So I think i'll just make myself comfortable.\n{a}",
+          "text_kz": "M: Excuse me, are you waiting to buy the concert tickets?\nW: Yes, I am. So are all these people in front of me.\nM: How long have you been here?\nW: About 50 minutes. I've hardly moved forward in that time.\nM: Are you kidding?\nW: Not at all. There was a couple up ahead of me who got so fed up that they finally gave up and left. They said they'd been here for more than an hour.\nM: My God. Does anyone know what's causing the delay?\nW: It could be that there aren't enough people selling tickets this afternoon. Or maybe their computers break down.\nM: I just hope they don't run out of tickets when I get up there.\nW: That really would be annoying, wouldn't it?\nM: I guess I should have come before lunch. Or has it been like this all day?\nW: Actually it has. In fact, before I came, I tried calling to order my tickets over the phone, just to avoid this long wait, but they don't take phone orders, or checks, or credit cards. It's cash or nothing. And you have to come in person.\nM: Well, there are two more hours before the ticket office closes. Tickets to a good concert are worth waiting for. So I think i'll just make myself comfortable.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In the late evening",
+                "In the morning.",
+                "In the mid-afternoon."
+              ],
+              "correctAnswer": "In the mid-afternoon.",
+              "variables": {
+                "a": "At what time of the day does the conversation probably take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He's unwilling to wait in line.",
+                "He's satisfied with the purchase.",
+                "It's worthwhile to queue for tickets."
+              ],
+              "correctAnswer": "It's worthwhile to queue for tickets.",
+              "variables": {
+                "a": "What's the man's attitude towards what's happening?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Stay where he is.",
+                "Get the ticket after lunch.",
+                "Go home to ring the order."
+              ],
+              "correctAnswer": "Stay where he is.",
+              "variables": {
+                "a": "What will the man probably do next?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Would you mind taking your feet off the desk, Bill?\nM: Sorry, but I was very comfortable.\nW: But do you put your feet on your own desk?\nM: No, never. I don't want to mark my desk.\nW: Well, would you please keep my desk clean?\nM: Aren't you going to sell it?\nW: Yes, but who wants a badly marked one?\n{a}",
+          "text_ru": "W: Would you mind taking your feet off the desk, Bill?\nM: Sorry, but I was very comfortable.\nW: But do you put your feet on your own desk?\nM: No, never. I don't want to mark my desk.\nW: Well, would you please keep my desk clean?\nM: Aren't you going to sell it?\nW: Yes, but who wants a badly marked one?\n{a}",
+          "text_kz": "W: Would you mind taking your feet off the desk, Bill?\nM: Sorry, but I was very comfortable.\nW: But do you put your feet on your own desk?\nM: No, never. I don't want to mark my desk.\nW: Well, would you please keep my desk clean?\nM: Aren't you going to sell it?\nW: Yes, but who wants a badly marked one?\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "They are boss and employee.",
+                "They are colleagues.",
+                "They are brother and sister."
+              ],
+              "correctAnswer": "They are colleagues.",
+              "variables": {
+                "a": "What might be the relationship between the two?"
+              }
+            },
+            {
+              "answerOptions": [
+                "On the woman's desk.",
+                "On his desk.",
+                "On the floor."
+              ],
+              "correctAnswer": "On the woman's desk.",
+              "variables": {
+                "a": "Where did the man put his feet?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because the desk is going to be sold.",
+                "Because it is his own desk.",
+                "Because the desk is not his own."
+              ],
+              "correctAnswer": "Because the desk is going to be sold.",
+              "variables": {
+                "a": "Why did the man do so?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Good morning, Lucy. Can I help you?\nW: Good morning, sir. I'd like to talk with you about my studies for a minute, if I may.\nM: Certainly, come in and have a seat.\nW: Thank you. I have a record of my studies for last year. Would you like to see it?\nM: Yes, let me see now. You are studying mathematics, aren't you?.\nW: Yes, I am. But I'd like to apply for admission to the engineering college next year.\nM: I see. Have you asked your parents for their advice about this?\nW: Yes, I have. They think it is a good idea.\nM: Well, your record here has been very good. I don't think you will have much trouble.\nW: I hope not. Anyway, I am going to apply. And I'd like to ask you to write a recommendation for me, if it is not too much trouble.\nM: No trouble at all. I'd be glad to do it. Is there anything else?\nW: No, sir. I think that is all. Thank you very much.\nM: All right, Lucy. Good luck to you.\nW: Thank you, Good-bye.\n{a}",
+          "text_ru": "M: Good morning, Lucy. Can I help you?\nW: Good morning, sir. I'd like to talk with you about my studies for a minute, if I may.\nM: Certainly, come in and have a seat.\nW: Thank you. I have a record of my studies for last year. Would you like to see it?\nM: Yes, let me see now. You are studying mathematics, aren't you?.\nW: Yes, I am. But I'd like to apply for admission to the engineering college next year.\nM: I see. Have you asked your parents for their advice about this?\nW: Yes, I have. They think it is a good idea.\nM: Well, your record here has been very good. I don't think you will have much trouble.\nW: I hope not. Anyway, I am going to apply. And I'd like to ask you to write a recommendation for me, if it is not too much trouble.\nM: No trouble at all. I'd be glad to do it. Is there anything else?\nW: No, sir. I think that is all. Thank you very much.\nM: All right, Lucy. Good luck to you.\nW: Thank you, Good-bye.\n{a}",
+          "text_kz": "M: Good morning, Lucy. Can I help you?\nW: Good morning, sir. I'd like to talk with you about my studies for a minute, if I may.\nM: Certainly, come in and have a seat.\nW: Thank you. I have a record of my studies for last year. Would you like to see it?\nM: Yes, let me see now. You are studying mathematics, aren't you?.\nW: Yes, I am. But I'd like to apply for admission to the engineering college next year.\nM: I see. Have you asked your parents for their advice about this?\nW: Yes, I have. They think it is a good idea.\nM: Well, your record here has been very good. I don't think you will have much trouble.\nW: I hope not. Anyway, I am going to apply. And I'd like to ask you to write a recommendation for me, if it is not too much trouble.\nM: No trouble at all. I'd be glad to do it. Is there anything else?\nW: No, sir. I think that is all. Thank you very much.\nM: All right, Lucy. Good luck to you.\nW: Thank you, Good-bye.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A teacher.",
+                "A student.",
+                "A manager."
+              ],
+              "correctAnswer": "A student.",
+              "variables": {
+                "a": "What is the woman most likely to be?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Economics.",
+                "Engineering.",
+                "Science."
+              ],
+              "correctAnswer": "Engineering.",
+              "variables": {
+                "a": "Which would the woman like to apply for next year?"
+              }
+            },
+            {
+              "answerOptions": [
+                "For a good record of her studies this year.",
+                "For a recommendation of him.",
+                "To get some advises about the recommendation."
+              ],
+              "correctAnswer": "For a recommendation of him.",
+              "variables": {
+                "a": "What's the purpose of the woman talking with the man?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Mrs. Smith. Nice to see you here.\nW: Hi, Mr. White. I'm here to buy a pair of shoes for Tom again.\nM: He wore out the pair you bought last month?\nW: Yes. Sometimes I think I should buy him a pair of iron shoes.\nM: Oh, no. What you need is a pair of strong and comfortable shoes.\nW: What's your suggestion?\nM: Maybe you should buy him a pair of leather shoes.\nW: Tom doesn't like leather shoes.\nM: Then, how about sports shoes? They are strong and comfortable.\nW: It seems that is the only choice. All right. I'll take your suggestion. How about this pair?\nM: They are good.\n{a}",
+          "text_ru": "M: Hi, Mrs. Smith. Nice to see you here.\nW: Hi, Mr. White. I'm here to buy a pair of shoes for Tom again.\nM: He wore out the pair you bought last month?\nW: Yes. Sometimes I think I should buy him a pair of iron shoes.\nM: Oh, no. What you need is a pair of strong and comfortable shoes.\nW: What's your suggestion?\nM: Maybe you should buy him a pair of leather shoes.\nW: Tom doesn't like leather shoes.\nM: Then, how about sports shoes? They are strong and comfortable.\nW: It seems that is the only choice. All right. I'll take your suggestion. How about this pair?\nM: They are good.\n{a}",
+          "text_kz": "M: Hi, Mrs. Smith. Nice to see you here.\nW: Hi, Mr. White. I'm here to buy a pair of shoes for Tom again.\nM: He wore out the pair you bought last month?\nW: Yes. Sometimes I think I should buy him a pair of iron shoes.\nM: Oh, no. What you need is a pair of strong and comfortable shoes.\nW: What's your suggestion?\nM: Maybe you should buy him a pair of leather shoes.\nW: Tom doesn't like leather shoes.\nM: Then, how about sports shoes? They are strong and comfortable.\nW: It seems that is the only choice. All right. I'll take your suggestion. How about this pair?\nM: They are good.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In the street.",
+                "At a shoes shop.",
+                "On the bus."
+              ],
+              "correctAnswer": "At a shoes shop.",
+              "variables": {
+                "a": "Where does this talk take place probably?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because Tom's shoes wear out like paper.",
+                "Because Tom likes iron shoes.",
+                "Because Tom asked the woman to buy him a pair of iron shoes."
+              ],
+              "correctAnswer": "Because Tom's shoes wear out like paper.",
+              "variables": {
+                "a": "Why does she think of buying Tom a pair of iron shoes?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A pair of leather shoes.",
+                "A pair of iron shoes.",
+                "A pair of sports shoes."
+              ],
+              "correctAnswer": "A pair of sports shoes.",
+              "variables": {
+                "a": "What shoes did she buy at last?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Are you packing for another trip?\nM: Yeah. On Saturday, I'm flying to Toronto.\nW: Is this another engineering conference for work?\nM: No. I'm meeting with friends. But I earned so many miles by traveling for work that the ticket was free.\nW: That's impressive. You fly a lot. I've only been on a plane a few times.\nM: Really? Don't you travel with your dad?\nW: No. He travels a lot because he is a banker,and he has an office in Japan. When he's working in New York, we take the train to visit him.\nM: Oh, I thought you drove.\nW: No, my mom dislikes driving in the city. Besides, the train is super relaxing.\nM: What does your mom do for work?\nW: She's a nurse. But she gets the weekends off.\nM: I see. Does she like New York?\nW: Actually,neither of us likes it that much. But we love spending time with my dad there.\n{a}",
+          "text_ru": "W: Are you packing for another trip?\nM: Yeah. On Saturday, I'm flying to Toronto.\nW: Is this another engineering conference for work?\nM: No. I'm meeting with friends. But I earned so many miles by traveling for work that the ticket was free.\nW: That's impressive. You fly a lot. I've only been on a plane a few times.\nM: Really? Don't you travel with your dad?\nW: No. He travels a lot because he is a banker,and he has an office in Japan. When he's working in New York, we take the train to visit him.\nM: Oh, I thought you drove.\nW: No, my mom dislikes driving in the city. Besides, the train is super relaxing.\nM: What does your mom do for work?\nW: She's a nurse. But she gets the weekends off.\nM: I see. Does she like New York?\nW: Actually,neither of us likes it that much. But we love spending time with my dad there.\n{a}",
+          "text_kz": "W: Are you packing for another trip?\nM: Yeah. On Saturday, I'm flying to Toronto.\nW: Is this another engineering conference for work?\nM: No. I'm meeting with friends. But I earned so many miles by traveling for work that the ticket was free.\nW: That's impressive. You fly a lot. I've only been on a plane a few times.\nM: Really? Don't you travel with your dad?\nW: No. He travels a lot because he is a banker,and he has an office in Japan. When he's working in New York, we take the train to visit him.\nM: Oh, I thought you drove.\nW: No, my mom dislikes driving in the city. Besides, the train is super relaxing.\nM: What does your mom do for work?\nW: She's a nurse. But she gets the weekends off.\nM: I see. Does she like New York?\nW: Actually,neither of us likes it that much. But we love spending time with my dad there.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Finance.",
+                "Engineering.",
+                "Medicine."
+              ],
+              "correctAnswer": "Engineering.",
+              "variables": {
+                "a": "What field is the man probably in?"
+              }
+            },
+            {
+              "answerOptions": [
+                "By car.",
+                "By plane.",
+                "By train."
+              ],
+              "correctAnswer": "By train.",
+              "variables": {
+                "a": "How does the woman travel to New York?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She dislikes it a little bit.",
+                "She can't stand it.",
+                "She feels relaxed there."
+              ],
+              "correctAnswer": "She dislikes it a little bit.",
+              "variables": {
+                "a": "What does the woman think about New York?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Oh god! Look at the mess. Somebody's broken in. The back door's open.\nM: They mustn't have got in that way. I locked it.\nW: What about the windows? The bathroom window is open. Surely they must have climbed through that.\nM: Yeah. Wow, the television is gone.\nW: They must have had a car or a truck.\nM: My camera's here, but the radio's gone. Nothing else has been stolen. All your jeweler is here, but our daughter's toy is broken.\nW: Thank goodness. They can't have been here long.\nM: No, I think we must have disturbed them. They must have heard us coming and got out of the bathroom window quickly.\nW: Yes, well, hurry up. We'd better phone the police.\n{a}",
+          "text_ru": "W: Oh god! Look at the mess. Somebody's broken in. The back door's open.\nM: They mustn't have got in that way. I locked it.\nW: What about the windows? The bathroom window is open. Surely they must have climbed through that.\nM: Yeah. Wow, the television is gone.\nW: They must have had a car or a truck.\nM: My camera's here, but the radio's gone. Nothing else has been stolen. All your jeweler is here, but our daughter's toy is broken.\nW: Thank goodness. They can't have been here long.\nM: No, I think we must have disturbed them. They must have heard us coming and got out of the bathroom window quickly.\nW: Yes, well, hurry up. We'd better phone the police.\n{a}",
+          "text_kz": "W: Oh god! Look at the mess. Somebody's broken in. The back door's open.\nM: They mustn't have got in that way. I locked it.\nW: What about the windows? The bathroom window is open. Surely they must have climbed through that.\nM: Yeah. Wow, the television is gone.\nW: They must have had a car or a truck.\nM: My camera's here, but the radio's gone. Nothing else has been stolen. All your jeweler is here, but our daughter's toy is broken.\nW: Thank goodness. They can't have been here long.\nM: No, I think we must have disturbed them. They must have heard us coming and got out of the bathroom window quickly.\nW: Yes, well, hurry up. We'd better phone the police.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Father and daughter.",
+                "Husband and wife.",
+                "Manager and secretary."
+              ],
+              "correctAnswer": "Husband and wife.",
+              "variables": {
+                "a": "What is the possible relationship between the two speakers?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because they heard the sound of it.",
+                "Because thieves usually stole one.",
+                "Because their television was stolen."
+              ],
+              "correctAnswer": "Because their television was stolen.",
+              "variables": {
+                "a": "Why did they think the thieves have a car or a truck?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Two.",
+                "Three.",
+                "Four."
+              ],
+              "correctAnswer": "Two.",
+              "variables": {
+                "a": "How many kinds of things were stolen?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Lucy.\nW: Hi, Tom. Haven't seen you for ages. Any news?\nM: I'm going to take a business course when I leave school.\nW: Are you? Very glad to hear it. Then what are you going to do when you finish?\nM: Oh, I shall go back to Shanghai to practise there.\nW: That's a good idea. You know there are more opportunities for business there than in Beijing. And English is very useful in the job.\nM: Yes, I think it'll be very useful in many ways.\nW: Besides, Shanghai is an international trade centre. English is used almost everywhere.\nM: Then I'll be a very promising businessman there.\n{a}",
+          "text_ru": "M: Hi, Lucy.\nW: Hi, Tom. Haven't seen you for ages. Any news?\nM: I'm going to take a business course when I leave school.\nW: Are you? Very glad to hear it. Then what are you going to do when you finish?\nM: Oh, I shall go back to Shanghai to practise there.\nW: That's a good idea. You know there are more opportunities for business there than in Beijing. And English is very useful in the job.\nM: Yes, I think it'll be very useful in many ways.\nW: Besides, Shanghai is an international trade centre. English is used almost everywhere.\nM: Then I'll be a very promising businessman there.\n{a}",
+          "text_kz": "M: Hi, Lucy.\nW: Hi, Tom. Haven't seen you for ages. Any news?\nM: I'm going to take a business course when I leave school.\nW: Are you? Very glad to hear it. Then what are you going to do when you finish?\nM: Oh, I shall go back to Shanghai to practise there.\nW: That's a good idea. You know there are more opportunities for business there than in Beijing. And English is very useful in the job.\nM: Yes, I think it'll be very useful in many ways.\nW: Besides, Shanghai is an international trade centre. English is used almost everywhere.\nM: Then I'll be a very promising businessman there.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "To take a business course in Shanghai.",
+                "To learn some English in Shanghai.",
+                "To do some research in Shanghai."
+              ],
+              "correctAnswer": "To take a business course in Shanghai.",
+              "variables": {
+                "a": "What's the man's plan for his future?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He used to live in Shanghai.",
+                "He used to live in Beijing.",
+                "He used to live in Xi'an."
+              ],
+              "correctAnswer": "He used to live in Shanghai.",
+              "variables": {
+                "a": "What can you tell about the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Going to the evening school.",
+                "Improving their English.",
+                "Practising business."
+              ],
+              "correctAnswer": "Improving their English.",
+              "variables": {
+                "a": "What do they agree to?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Did you watch television last night, Richard?\nM: Yes, I did. Was there anything that interested you, Laura?\nW: There was a good game. Did you see it?\nM: Oh, I didn't. I wanted to, but my wife preferred to see an old film.\nW: What a pity! It was quite exciting. Both teams played very well.\nM: How did it finish?\nW: It finished in a draw. What was the film like?\nM: It was quite good. But I missed the beginning of it because I had to eat first.\nW: Did your wife enjoy it?\nM: No, she didn't. After half an hour she stopped watching and started to read a book before going to sleep.\n{a}",
+          "text_ru": "W: Did you watch television last night, Richard?\nM: Yes, I did. Was there anything that interested you, Laura?\nW: There was a good game. Did you see it?\nM: Oh, I didn't. I wanted to, but my wife preferred to see an old film.\nW: What a pity! It was quite exciting. Both teams played very well.\nM: How did it finish?\nW: It finished in a draw. What was the film like?\nM: It was quite good. But I missed the beginning of it because I had to eat first.\nW: Did your wife enjoy it?\nM: No, she didn't. After half an hour she stopped watching and started to read a book before going to sleep.\n{a}",
+          "text_kz": "W: Did you watch television last night, Richard?\nM: Yes, I did. Was there anything that interested you, Laura?\nW: There was a good game. Did you see it?\nM: Oh, I didn't. I wanted to, but my wife preferred to see an old film.\nW: What a pity! It was quite exciting. Both teams played very well.\nM: How did it finish?\nW: It finished in a draw. What was the film like?\nM: It was quite good. But I missed the beginning of it because I had to eat first.\nW: Did your wife enjoy it?\nM: No, she didn't. After half an hour she stopped watching and started to read a book before going to sleep.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "It was unfinished.",
+                "It was an exciting game.",
+                "Neither of the teams won the game."
+              ],
+              "correctAnswer": "Neither of the teams won the game.",
+              "variables": {
+                "a": "What was the result of the game?"
+              }
+            },
+            {
+              "answerOptions": [
+                "An old film.",
+                "A football game.",
+                "A play."
+              ],
+              "correctAnswer": "An old film.",
+              "variables": {
+                "a": "Which program did Richard watch?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She enjoyed the old film very much.",
+                "She started to read a book.",
+                "She did nothing but go to sleep."
+              ],
+              "correctAnswer": "She started to read a book.",
+              "variables": {
+                "a": "What did Richard's wife do at last?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Have you been to exhibitions in your spare time?\nW: Yes, a lot of times. I like exhibitions-exhibitions about famous people: dancers, actors, you know?\nM: Mm, and what about a folk concert? Have you ever been to one of them?\nW: No. I don't like folk music very much.\nM: What about the opera?\nW: No, never. I don't really like the opera. It is a bit too heavy for me.\nM: A pop concert?\nW: Yes. I saw Madonna once. She was fantastic-she is a really great dancer.\nM: And have you ever been to the theater?\nW: Yes I have.\n{a}",
+          "text_ru": "M: Have you been to exhibitions in your spare time?\nW: Yes, a lot of times. I like exhibitions-exhibitions about famous people: dancers, actors, you know?\nM: Mm, and what about a folk concert? Have you ever been to one of them?\nW: No. I don't like folk music very much.\nM: What about the opera?\nW: No, never. I don't really like the opera. It is a bit too heavy for me.\nM: A pop concert?\nW: Yes. I saw Madonna once. She was fantastic-she is a really great dancer.\nM: And have you ever been to the theater?\nW: Yes I have.\n{a}",
+          "text_kz": "M: Have you been to exhibitions in your spare time?\nW: Yes, a lot of times. I like exhibitions-exhibitions about famous people: dancers, actors, you know?\nM: Mm, and what about a folk concert? Have you ever been to one of them?\nW: No. I don't like folk music very much.\nM: What about the opera?\nW: No, never. I don't really like the opera. It is a bit too heavy for me.\nM: A pop concert?\nW: Yes. I saw Madonna once. She was fantastic-she is a really great dancer.\nM: And have you ever been to the theater?\nW: Yes I have.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Folk music.",
+                "Pop concert.",
+                "Opera."
+              ],
+              "correctAnswer": "Pop concert.",
+              "variables": {
+                "a": "What does the woman really like?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Madonna.",
+                "Famous people.",
+                "Actors."
+              ],
+              "correctAnswer": "Famous people.",
+              "variables": {
+                "a": "What are the exhibitions the woman often goes to about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She appreciates her.",
+                "She doesn't really like her.",
+                "It is a bit too heavy for her."
+              ],
+              "correctAnswer": "She appreciates her.",
+              "variables": {
+                "a": "How does the woman find Madonna?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Sue, it's me.\nW: Well, hello, where have you been all day, Steve? Mr. Smith asked me this morning where you were but he didn't seem to be looking for you or anything.\nM: What did you say?\nW: I told him that I didn't know. He seemed very busy as manager always are. Are you OK?\nM: I'm sorry. I didn't call you this morning. I've had a cold since Saturday. I haven't eaten much these days and it has made me feel really weak, but I'll probably be there tomorrow.\nW: All right. We'll go on a business trip next week and don't worry. You should go to see a doctor, Steve.\nM: Thanks, but I'm getting better now.\nW: Take care then, bye.\nM: Bye bye, Sue.\n{a}",
+          "text_ru": "M: Hi, Sue, it's me.\nW: Well, hello, where have you been all day, Steve? Mr. Smith asked me this morning where you were but he didn't seem to be looking for you or anything.\nM: What did you say?\nW: I told him that I didn't know. He seemed very busy as manager always are. Are you OK?\nM: I'm sorry. I didn't call you this morning. I've had a cold since Saturday. I haven't eaten much these days and it has made me feel really weak, but I'll probably be there tomorrow.\nW: All right. We'll go on a business trip next week and don't worry. You should go to see a doctor, Steve.\nM: Thanks, but I'm getting better now.\nW: Take care then, bye.\nM: Bye bye, Sue.\n{a}",
+          "text_kz": "M: Hi, Sue, it's me.\nW: Well, hello, where have you been all day, Steve? Mr. Smith asked me this morning where you were but he didn't seem to be looking for you or anything.\nM: What did you say?\nW: I told him that I didn't know. He seemed very busy as manager always are. Are you OK?\nM: I'm sorry. I didn't call you this morning. I've had a cold since Saturday. I haven't eaten much these days and it has made me feel really weak, but I'll probably be there tomorrow.\nW: All right. We'll go on a business trip next week and don't worry. You should go to see a doctor, Steve.\nM: Thanks, but I'm getting better now.\nW: Take care then, bye.\nM: Bye bye, Sue.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "He's seeing a doctor.",
+                "He's absent from work.",
+                "He's on a business trip."
+              ],
+              "correctAnswer": "He's absent from work.",
+              "variables": {
+                "a": "What do we know about Steve?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Weak.",
+                "Tired.",
+                "Bored."
+              ],
+              "correctAnswer": "Weak.",
+              "variables": {
+                "a": "How does Steve feel now?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Travel on business.",
+                "See her manager.",
+                "Visit Steve."
+              ],
+              "correctAnswer": "Travel on business.",
+              "variables": {
+                "a": "What is Sue going to do next week?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section 3: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "M: Welcome, Miss. May I help you?\nW: I hope so. I want a lipstick.\nM: Do you have any particular brand in mind?\nW: I like Lyfel very much.\nM: We have different shades of Lyfel lipstick. May I know what color you usually wear?\nW: Pink. But today, I'm thinking of buying one in a dark shade. You know, I will be a teacher next month. I wish to look more serious.\nM: Yes, I see. How do you like this one?\nW: Not too bad. May I have a try?\nM: Certainly, Miss.\nW: Mmm... It's still too bright. Any darker shades?\nM: Not from the Lyfel group, I'm afraid.\nW: Well, any brand will do as long as I can get the right color.\nM: How about this one, then? It has more transparent touch.\nW: OK, that's the very thing I need.\n{a}",
+          "text_ru": "M: Welcome, Miss. May I help you?\nW: I hope so. I want a lipstick.\nM: Do you have any particular brand in mind?\nW: I like Lyfel very much.\nM: We have different shades of Lyfel lipstick. May I know what color you usually wear?\nW: Pink. But today, I'm thinking of buying one in a dark shade. You know, I will be a teacher next month. I wish to look more serious.\nM: Yes, I see. How do you like this one?\nW: Not too bad. May I have a try?\nM: Certainly, Miss.\nW: Mmm... It's still too bright. Any darker shades?\nM: Not from the Lyfel group, I'm afraid.\nW: Well, any brand will do as long as I can get the right color.\nM: How about this one, then? It has more transparent touch.\nW: OK, that's the very thing I need.\n{a}",
+          "text_kz": "M: Welcome, Miss. May I help you?\nW: I hope so. I want a lipstick.\nM: Do you have any particular brand in mind?\nW: I like Lyfel very much.\nM: We have different shades of Lyfel lipstick. May I know what color you usually wear?\nW: Pink. But today, I'm thinking of buying one in a dark shade. You know, I will be a teacher next month. I wish to look more serious.\nM: Yes, I see. How do you like this one?\nW: Not too bad. May I have a try?\nM: Certainly, Miss.\nW: Mmm... It's still too bright. Any darker shades?\nM: Not from the Lyfel group, I'm afraid.\nW: Well, any brand will do as long as I can get the right color.\nM: How about this one, then? It has more transparent touch.\nW: OK, that's the very thing I need.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Lyfel, dark shade.",
+                "Lyfel, pink shade.",
+                "Lyfel, bright shade."
+              ],
+              "correctAnswer": "Lyfel, dark shade.",
+              "variables": {
+                "a": "What lipstick did the woman expect to buy?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To be cool.",
+                "To be serious.",
+                "To be attractive."
+              ],
+              "correctAnswer": "To be serious.",
+              "variables": {
+                "a": "Why does the woman want to change the color of her lipstick?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Its color is suitable but is very expensive.",
+                "Its color is right though it is not Lyfel brand.",
+                "Its color isn't right but its brand is Lyfel."
+              ],
+              "correctAnswer": "Its color is right though it is not Lyfel brand.",
+              "variables": {
+                "a": "How about the lipstick the woman took in the end?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: What's your apartment like?\nM: It's a furnished two-bedroom flat in a three-story building on campus.\nW: What is it like living in the campus housing?\nM: It's not so bad as I thought it would be. The freshmen that live nearby are really noisy, especially on weekends. But, the rent is much cheaper than private housing, so it's worth it.\nW: Do you have to pay fees on top of your monthly rent?\nM: No, they're all included. Besides, students don't have to pay state tax, so we're saving quite a bit of money living here.\nW: How long is your contract for?\nM: That's the bad thing-the contract ends in June, so we'll have to find a new apartment soon.\nW: Have you started looking again yet?\nM: Not yet. I'm hoping we'll be able to find something cheap once all the students leave the city for the summer.\n{a}",
+          "text_ru": "W: What's your apartment like?\nM: It's a furnished two-bedroom flat in a three-story building on campus.\nW: What is it like living in the campus housing?\nM: It's not so bad as I thought it would be. The freshmen that live nearby are really noisy, especially on weekends. But, the rent is much cheaper than private housing, so it's worth it.\nW: Do you have to pay fees on top of your monthly rent?\nM: No, they're all included. Besides, students don't have to pay state tax, so we're saving quite a bit of money living here.\nW: How long is your contract for?\nM: That's the bad thing-the contract ends in June, so we'll have to find a new apartment soon.\nW: Have you started looking again yet?\nM: Not yet. I'm hoping we'll be able to find something cheap once all the students leave the city for the summer.\n{a}",
+          "text_kz": "W: What's your apartment like?\nM: It's a furnished two-bedroom flat in a three-story building on campus.\nW: What is it like living in the campus housing?\nM: It's not so bad as I thought it would be. The freshmen that live nearby are really noisy, especially on weekends. But, the rent is much cheaper than private housing, so it's worth it.\nW: Do you have to pay fees on top of your monthly rent?\nM: No, they're all included. Besides, students don't have to pay state tax, so we're saving quite a bit of money living here.\nW: How long is your contract for?\nM: That's the bad thing-the contract ends in June, so we'll have to find a new apartment soon.\nW: Have you started looking again yet?\nM: Not yet. I'm hoping we'll be able to find something cheap once all the students leave the city for the summer.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Not too bad.",
+                "Very comfortable.",
+                "Very good."
+              ],
+              "correctAnswer": "Not too bad.",
+              "variables": {
+                "a": "What does the man think of the campus housing?"
+              }
+            },
+            {
+              "answerOptions": [
+                "State tax.",
+                "Education Tax.",
+                "Medical tax."
+              ],
+              "correctAnswer": "State tax.",
+              "variables": {
+                "a": "What don't students have to pay?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The man has bought a new house.",
+                "The man will have to find a new apartment.",
+                "The man can surely find a cheap apartment."
+              ],
+              "correctAnswer": "The man will have to find a new apartment.",
+              "variables": {
+                "a": "What can we learn from the conversation?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: I like that picture you put up on the wall yesterday.\nM: Thank you. It's a photo that I took on my vacation last year.\nW: You took it yourself?\nM: I've been taking pictures for years.\nW: Sounds interesting. Can I see some more of your pictures?\nM: Yes, certainly. Some of them are just faces of people who interest me.\nW: Do you let them know that you're taking pictures of them?\nM: I try not to. I like people who are going about their business without knowing the camera is there.\nW: I suppose you need a lot of equipment.\nM: Well, I have a dozen cameras, but I use two of them more than the others.\n{a}",
+          "text_ru": "W: I like that picture you put up on the wall yesterday.\nM: Thank you. It's a photo that I took on my vacation last year.\nW: You took it yourself?\nM: I've been taking pictures for years.\nW: Sounds interesting. Can I see some more of your pictures?\nM: Yes, certainly. Some of them are just faces of people who interest me.\nW: Do you let them know that you're taking pictures of them?\nM: I try not to. I like people who are going about their business without knowing the camera is there.\nW: I suppose you need a lot of equipment.\nM: Well, I have a dozen cameras, but I use two of them more than the others.\n{a}",
+          "text_kz": "W: I like that picture you put up on the wall yesterday.\nM: Thank you. It's a photo that I took on my vacation last year.\nW: You took it yourself?\nM: I've been taking pictures for years.\nW: Sounds interesting. Can I see some more of your pictures?\nM: Yes, certainly. Some of them are just faces of people who interest me.\nW: Do you let them know that you're taking pictures of them?\nM: I try not to. I like people who are going about their business without knowing the camera is there.\nW: I suppose you need a lot of equipment.\nM: Well, I have a dozen cameras, but I use two of them more than the others.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "The picture he drew on his vacation.",
+                "The picture he took.",
+                "The picture of him taken last year."
+              ],
+              "correctAnswer": "The picture he took.",
+              "variables": {
+                "a": "What did the man put up on the wall yesterday?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Pictures of people posting for the camera.",
+                "Pictures of daily lives.",
+                "Pictures taken by other people."
+              ],
+              "correctAnswer": "Pictures of people posting for the camera.",
+              "variables": {
+                "a": "What kind of photographs does the man NOT like?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Twelve.",
+                "Ten.",
+                "Two."
+              ],
+              "correctAnswer": "Two.",
+              "variables": {
+                "a": "How many cameras does the man use more often?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Now, Mr White, did you see the accident clearly?\nM: Oh, yes, I was standing outside my house.\nW: Do you remember what time it happened?\nM: Yes, it was 4: 30 by my watch.\nW: Good. Now, was the truck going fast?\nM: Yes. Well, perhaps the driver thought the light was changing to green. But it was red.\nW: Are you sure, Mr. White?\nM: Yes, absolutely sure.\nW: Then the truck hit the taxi, did it?\nM: Yes, with much noise. Then I called the police.\nW: Well, thanks a lot, Mr. White. Good-bye.\nM: Good-bye.\n{a}",
+          "text_ru": "W: Now, Mr White, did you see the accident clearly?\nM: Oh, yes, I was standing outside my house.\nW: Do you remember what time it happened?\nM: Yes, it was 4: 30 by my watch.\nW: Good. Now, was the truck going fast?\nM: Yes. Well, perhaps the driver thought the light was changing to green. But it was red.\nW: Are you sure, Mr. White?\nM: Yes, absolutely sure.\nW: Then the truck hit the taxi, did it?\nM: Yes, with much noise. Then I called the police.\nW: Well, thanks a lot, Mr. White. Good-bye.\nM: Good-bye.\n{a}",
+          "text_kz": "W: Now, Mr White, did you see the accident clearly?\nM: Oh, yes, I was standing outside my house.\nW: Do you remember what time it happened?\nM: Yes, it was 4: 30 by my watch.\nW: Good. Now, was the truck going fast?\nM: Yes. Well, perhaps the driver thought the light was changing to green. But it was red.\nW: Are you sure, Mr. White?\nM: Yes, absolutely sure.\nW: Then the truck hit the taxi, did it?\nM: Yes, with much noise. Then I called the police.\nW: Well, thanks a lot, Mr. White. Good-bye.\nM: Good-bye.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A fight in the street.",
+                "A damaged house.",
+                "A traffic accident."
+              ],
+              "correctAnswer": "A damaged house.",
+              "variables": {
+                "a": "What are the two speakers talking about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The driver was drunk.",
+                "A man was just crossing the street.",
+                "The traffic light was red."
+              ],
+              "correctAnswer": "The traffic light was red.",
+              "variables": {
+                "a": "What did the man tell the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Mr. White.",
+                "The woman.",
+                "A traffic policeman."
+              ],
+              "correctAnswer": "Mr. White.",
+              "variables": {
+                "a": "Who called the police?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Lily. Great graduation party, isn't it?\nW: Yes, everyone here is having a good time. Any ideas for the future?\nM: Well, I'm interested in finance and my uncle runs a company in Hong Kong, so I decided to go to Hong Kong University.\nW: Sounds great. Hong Kong is an international financial center. You will surely go far there.\nM: What about you?\nW: I'd like to go to university in Beijing.\nM: What do you want to take as your major, computer science or medicine?\nW: I prefer medicine. It's always being my dream to be a doctor.\n{a}",
+          "text_ru": "M: Hi, Lily. Great graduation party, isn't it?\nW: Yes, everyone here is having a good time. Any ideas for the future?\nM: Well, I'm interested in finance and my uncle runs a company in Hong Kong, so I decided to go to Hong Kong University.\nW: Sounds great. Hong Kong is an international financial center. You will surely go far there.\nM: What about you?\nW: I'd like to go to university in Beijing.\nM: What do you want to take as your major, computer science or medicine?\nW: I prefer medicine. It's always being my dream to be a doctor.\n{a}",
+          "text_kz": "M: Hi, Lily. Great graduation party, isn't it?\nW: Yes, everyone here is having a good time. Any ideas for the future?\nM: Well, I'm interested in finance and my uncle runs a company in Hong Kong, so I decided to go to Hong Kong University.\nW: Sounds great. Hong Kong is an international financial center. You will surely go far there.\nM: What about you?\nW: I'd like to go to university in Beijing.\nM: What do you want to take as your major, computer science or medicine?\nW: I prefer medicine. It's always being my dream to be a doctor.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Their future study.",
+                "The graduation party.",
+                "The college entrance exam."
+              ],
+              "correctAnswer": "Their future study.",
+              "variables": {
+                "a": "What are the two speakers talking about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Medicine.",
+                "Computing.",
+                "Banking."
+              ],
+              "correctAnswer": "Banking.",
+              "variables": {
+                "a": "In what field is the boy most likely to work in the future?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Her uncle has a company.",
+                "She dreams of becoming a doctor.",
+                "She wants to live in Hong Kong."
+              ],
+              "correctAnswer": "She dreams of becoming a doctor.",
+              "variables": {
+                "a": "What do we learn about the girl?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: I can't find my purse.\nM: Oh, no. Maybe you left it at the bank. You took it out when you cashed the cheque.\nW: But I remember having it after that.\nM: Well, you paid for the coffee when we were in that coffee shop. Remember?\nW: That's right. I remember feeling it to my pocket as we walked out.\nM: And then, we dropped in ... bookshop...\nW: Yes. But I remember taking a piece of paper out of my purse to write down the name of the book on it. I think I must have left the purse on the shelf. I'll call the bookshop and see if they found it.\n{a}",
+          "text_ru": "W: I can't find my purse.\nM: Oh, no. Maybe you left it at the bank. You took it out when you cashed the cheque.\nW: But I remember having it after that.\nM: Well, you paid for the coffee when we were in that coffee shop. Remember?\nW: That's right. I remember feeling it to my pocket as we walked out.\nM: And then, we dropped in ... bookshop...\nW: Yes. But I remember taking a piece of paper out of my purse to write down the name of the book on it. I think I must have left the purse on the shelf. I'll call the bookshop and see if they found it.\n{a}",
+          "text_kz": "W: I can't find my purse.\nM: Oh, no. Maybe you left it at the bank. You took it out when you cashed the cheque.\nW: But I remember having it after that.\nM: Well, you paid for the coffee when we were in that coffee shop. Remember?\nW: That's right. I remember feeling it to my pocket as we walked out.\nM: And then, we dropped in ... bookshop...\nW: Yes. But I remember taking a piece of paper out of my purse to write down the name of the book on it. I think I must have left the purse on the shelf. I'll call the bookshop and see if they found it.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "It was missing",
+                "It was left home",
+                "It was stolen"
+              ],
+              "correctAnswer": "It was missing",
+              "variables": {
+                "a": "What happened to the woman is purse?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To pay the bill",
+                "To cash the cheque.",
+                "To open an account"
+              ],
+              "correctAnswer": "To cash the cheque.",
+              "variables": {
+                "a": "What did the woman go to the bank for?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Coffee shop---bookshop---bank",
+                "Bookshop---bank---coffee shop",
+                "Bank---coffee shop---bookshop"
+              ],
+              "correctAnswer": "Bank---coffee shop---bookshop",
+              "variables": {
+                "a": "Which is the right order of the places the speakers have been to?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Jenny. What did you do today?\nW: Hi, Mark! I've just got back from the Art Gallery. They had a wonderful art exhibition today. You shouldn't have stayed home and worked on that paper. I think you would have been inspired by some of the paintings.\nM: Oh, Idon't know. I don't really care for modern art.\nW: I think you should think ofmodern art like food. You need to taste things to see if you like them. You know, some of the pieces at the exhibition were even for sale. The last one was on sale for $9,000.\nM: $9,000? Well, I may go and visit the exhibition tomorrow, but I'm not going tobuy anything.\nW: OK, let me know how it goes, won't you? And you might give Tom a call. He wanted to go with me today but his aunt was intown so he couldn't. He really wants to go.\nM: OK, I will.\n{a}",
+          "text_ru": "M: Hi, Jenny. What did you do today?\nW: Hi, Mark! I've just got back from the Art Gallery. They had a wonderful art exhibition today. You shouldn't have stayed home and worked on that paper. I think you would have been inspired by some of the paintings.\nM: Oh, Idon't know. I don't really care for modern art.\nW: I think you should think ofmodern art like food. You need to taste things to see if you like them. You know, some of the pieces at the exhibition were even for sale. The last one was on sale for $9,000.\nM: $9,000? Well, I may go and visit the exhibition tomorrow, but I'm not going tobuy anything.\nW: OK, let me know how it goes, won't you? And you might give Tom a call. He wanted to go with me today but his aunt was intown so he couldn't. He really wants to go.\nM: OK, I will.\n{a}",
+          "text_kz": "M: Hi, Jenny. What did you do today?\nW: Hi, Mark! I've just got back from the Art Gallery. They had a wonderful art exhibition today. You shouldn't have stayed home and worked on that paper. I think you would have been inspired by some of the paintings.\nM: Oh, Idon't know. I don't really care for modern art.\nW: I think you should think ofmodern art like food. You need to taste things to see if you like them. You know, some of the pieces at the exhibition were even for sale. The last one was on sale for $9,000.\nM: $9,000? Well, I may go and visit the exhibition tomorrow, but I'm not going tobuy anything.\nW: OK, let me know how it goes, won't you? And you might give Tom a call. He wanted to go with me today but his aunt was intown so he couldn't. He really wants to go.\nM: OK, I will.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A famous painting",
+                "Some unusual food",
+                "An art exhibition"
+              ],
+              "correctAnswer": "An art exhibition",
+              "variables": {
+                "a": "What are the two speakers talking about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Give Tom a call",
+                "Get some art work",
+                "Stay at home"
+              ],
+              "correctAnswer": "Give Tom a call",
+              "variables": {
+                "a": "What does the woman tell the man to do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He visited a gallery",
+                "He worked on his paper",
+                "He spent time with his aunt"
+              ],
+              "correctAnswer": "He spent time with his aunt",
+              "variables": {
+                "a": "What did Tom do today?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Someone came late last night looking for you. I told him you were out and suggested that he leave a no te, but he didn't.\nW: Late last night? That's strange. What did he look like?\nM: He seemed to be about thirty or so.\nW: Was he tall or short?\nM: He wasn't very tall, nor very short. About aver age height, I think.\nW: Was he fat or thin?\nM: A bit thin, if I remember correctly. Anyway, certainly not fat, but then he wasn't very thin either.\nW: Was there anything unusual about his looks? What kind of face did he have-round, square or long?\nM: Let me think...It was rather square, but not very. Or was it? Really, I didn't notice. It was so late and the lighting wasn't good.\nW: Was he wearing glasses?\nM: Was he or wasn't he? I'm not sure now. You see, I was so tired and sleepy. I didn't notice. I didn't pay much attention.\n{a}",
+          "text_ru": "M: Someone came late last night looking for you. I told him you were out and suggested that he leave a no te, but he didn't.\nW: Late last night? That's strange. What did he look like?\nM: He seemed to be about thirty or so.\nW: Was he tall or short?\nM: He wasn't very tall, nor very short. About aver age height, I think.\nW: Was he fat or thin?\nM: A bit thin, if I remember correctly. Anyway, certainly not fat, but then he wasn't very thin either.\nW: Was there anything unusual about his looks? What kind of face did he have-round, square or long?\nM: Let me think...It was rather square, but not very. Or was it? Really, I didn't notice. It was so late and the lighting wasn't good.\nW: Was he wearing glasses?\nM: Was he or wasn't he? I'm not sure now. You see, I was so tired and sleepy. I didn't notice. I didn't pay much attention.\n{a}",
+          "text_kz": "M: Someone came late last night looking for you. I told him you were out and suggested that he leave a no te, but he didn't.\nW: Late last night? That's strange. What did he look like?\nM: He seemed to be about thirty or so.\nW: Was he tall or short?\nM: He wasn't very tall, nor very short. About aver age height, I think.\nW: Was he fat or thin?\nM: A bit thin, if I remember correctly. Anyway, certainly not fat, but then he wasn't very thin either.\nW: Was there anything unusual about his looks? What kind of face did he have-round, square or long?\nM: Let me think...It was rather square, but not very. Or was it? Really, I didn't notice. It was so late and the lighting wasn't good.\nW: Was he wearing glasses?\nM: Was he or wasn't he? I'm not sure now. You see, I was so tired and sleepy. I didn't notice. I didn't pay much attention.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "They are boss and employee.",
+                "They are teacher and stu dent.",
+                "They are next door neighbors."
+              ],
+              "correctAnswer": "They are next door neighbors.",
+              "variables": {
+                "a": "What's the relationship between the two speakers?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He is an old man.",
+                "He is a middle aged man.",
+                "He is a young man."
+              ],
+              "correctAnswer": "He is a middle aged man.",
+              "variables": {
+                "a": "How old is the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He has a special looking.",
+                "He has a good looking.",
+                "He has an ordinary looking."
+              ],
+              "correctAnswer": "He has an ordinary looking.",
+              "variables": {
+                "a": "What kind of looking does the man probably have?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi. I think I'm sitting next to you. Seat 35B.\nW: Oh,sorry. I'll just move my things. Hold on a minute.\nM: Thanks. Phwoo...I've been waiting in departure for ages.\nW: Mmm...The flight was delayed leaving Beijing. Security checks, you know.\nM: Yeah. Same here.\nW: Are you going to London, then?\nM: Yes. I'm going to the LSE to do a master's degree in International Relations.\nW: Really? That sounds interesting. You must be really clever.\nM: So are you going to London too?\nW: Well actually, I'm going to the University of Middlesex to do Business Studies.\nM: That sounds interesting.\nW: Well actually, it's my parents who want me to do Business Studies. I'd rather study Philosophy, but my dad wants me to take over the family business. He thinks Business Studies will make me rich.\nM: Well, nobody wants to be poor...ah, here's the drinks trolley. What would you like?\nW: A Coke, please,I'm sorry...I don't know your name...\nM: Oh, sorry. I forgot...Ali.\n{a}",
+          "text_ru": "M: Hi. I think I'm sitting next to you. Seat 35B.\nW: Oh,sorry. I'll just move my things. Hold on a minute.\nM: Thanks. Phwoo...I've been waiting in departure for ages.\nW: Mmm...The flight was delayed leaving Beijing. Security checks, you know.\nM: Yeah. Same here.\nW: Are you going to London, then?\nM: Yes. I'm going to the LSE to do a master's degree in International Relations.\nW: Really? That sounds interesting. You must be really clever.\nM: So are you going to London too?\nW: Well actually, I'm going to the University of Middlesex to do Business Studies.\nM: That sounds interesting.\nW: Well actually, it's my parents who want me to do Business Studies. I'd rather study Philosophy, but my dad wants me to take over the family business. He thinks Business Studies will make me rich.\nM: Well, nobody wants to be poor...ah, here's the drinks trolley. What would you like?\nW: A Coke, please,I'm sorry...I don't know your name...\nM: Oh, sorry. I forgot...Ali.\n{a}",
+          "text_kz": "M: Hi. I think I'm sitting next to you. Seat 35B.\nW: Oh,sorry. I'll just move my things. Hold on a minute.\nM: Thanks. Phwoo...I've been waiting in departure for ages.\nW: Mmm...The flight was delayed leaving Beijing. Security checks, you know.\nM: Yeah. Same here.\nW: Are you going to London, then?\nM: Yes. I'm going to the LSE to do a master's degree in International Relations.\nW: Really? That sounds interesting. You must be really clever.\nM: So are you going to London too?\nW: Well actually, I'm going to the University of Middlesex to do Business Studies.\nM: That sounds interesting.\nW: Well actually, it's my parents who want me to do Business Studies. I'd rather study Philosophy, but my dad wants me to take over the family business. He thinks Business Studies will make me rich.\nM: Well, nobody wants to be poor...ah, here's the drinks trolley. What would you like?\nW: A Coke, please,I'm sorry...I don't know your name...\nM: Oh, sorry. I forgot...Ali.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In a ship.",
+                "In a flight.",
+                "In a train."
+              ],
+              "correctAnswer": "In a flight.",
+              "variables": {
+                "a": "Where does the conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To pursue his master degree.",
+                "To do business.",
+                "To attend an international meeting."
+              ],
+              "correctAnswer": "To pursue his master degree.",
+              "variables": {
+                "a": "Why does the man go to London?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because they want her to run a company.",
+                "Because they want her to be a career woman.",
+                "Because they want her to take over the family business."
+              ],
+              "correctAnswer": "Because they want her to take over the family business.",
+              "variables": {
+                "a": "Why do the woman's parents want her to do Business Studies?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: You know, Sally, we've both been working too hard. We've got to get away for a while, even if it's just for a few days.\nW: What a good idea, Eric! That would be wonderful. Let me look at my schedule...I could take off a week from Thursday, but no sooner.\nM: Let me look at my schedule too...Yes, that looks good.\nW: I thought you had a basketball game every Thursday until the end of the month.\nM: Oh, you're right. I must have forgotten to write that down. How about the next Thursday after that? Basketball season's over then. Do you know if you can get it off?\nW: That's Thursday and Friday, the third and fourth? I don't care if I can-I will get off. We need the change. Where would you like to go? New York?\nM: No, we don't have enough time to go there, and it's too expensive anyway.\nW: And we want to relax, not run around all the time. I know! Do you remember that little hotel in Wilmington, Vermont, where we stayed years ago? That would be perfect.\nM: Well, that was July, though. I wonder if they're open in the winter.\nW: Most likely, during skiing season. Uh...oh, I'd forgotten about skiing season. I don't know if we could get a room.\nM: I'll call and find out. Do you remember the name?\nW: It's right on the tip of my tongue...I have it. The Strawberry River Inn.\n{a}",
+          "text_ru": "M: You know, Sally, we've both been working too hard. We've got to get away for a while, even if it's just for a few days.\nW: What a good idea, Eric! That would be wonderful. Let me look at my schedule...I could take off a week from Thursday, but no sooner.\nM: Let me look at my schedule too...Yes, that looks good.\nW: I thought you had a basketball game every Thursday until the end of the month.\nM: Oh, you're right. I must have forgotten to write that down. How about the next Thursday after that? Basketball season's over then. Do you know if you can get it off?\nW: That's Thursday and Friday, the third and fourth? I don't care if I can-I will get off. We need the change. Where would you like to go? New York?\nM: No, we don't have enough time to go there, and it's too expensive anyway.\nW: And we want to relax, not run around all the time. I know! Do you remember that little hotel in Wilmington, Vermont, where we stayed years ago? That would be perfect.\nM: Well, that was July, though. I wonder if they're open in the winter.\nW: Most likely, during skiing season. Uh...oh, I'd forgotten about skiing season. I don't know if we could get a room.\nM: I'll call and find out. Do you remember the name?\nW: It's right on the tip of my tongue...I have it. The Strawberry River Inn.\n{a}",
+          "text_kz": "M: You know, Sally, we've both been working too hard. We've got to get away for a while, even if it's just for a few days.\nW: What a good idea, Eric! That would be wonderful. Let me look at my schedule...I could take off a week from Thursday, but no sooner.\nM: Let me look at my schedule too...Yes, that looks good.\nW: I thought you had a basketball game every Thursday until the end of the month.\nM: Oh, you're right. I must have forgotten to write that down. How about the next Thursday after that? Basketball season's over then. Do you know if you can get it off?\nW: That's Thursday and Friday, the third and fourth? I don't care if I can-I will get off. We need the change. Where would you like to go? New York?\nM: No, we don't have enough time to go there, and it's too expensive anyway.\nW: And we want to relax, not run around all the time. I know! Do you remember that little hotel in Wilmington, Vermont, where we stayed years ago? That would be perfect.\nM: Well, that was July, though. I wonder if they're open in the winter.\nW: Most likely, during skiing season. Uh...oh, I'd forgotten about skiing season. I don't know if we could get a room.\nM: I'll call and find out. Do you remember the name?\nW: It's right on the tip of my tongue...I have it. The Strawberry River Inn.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Every Thursday that month.",
+                "A week from Thursday.",
+                "Thursday and Friday,the third and fourth."
+              ],
+              "correctAnswer": "Every Thursday that month.",
+              "variables": {
+                "a": "When is Eric supposed to play basketball?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In the summer.",
+                "In the winter.",
+                "In the fall."
+              ],
+              "correctAnswer": "In the winter.",
+              "variables": {
+                "a": "When does this conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The Wilmington Hotel.",
+                "The River Inn.",
+                "The Strawberry River Inn."
+              ],
+              "correctAnswer": "The Strawberry River Inn.",
+              "variables": {
+                "a": "What's the name of the hotel where Sally and Eric are going to stay?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

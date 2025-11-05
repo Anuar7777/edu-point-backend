@@ -1,3 +1,6 @@
+/* eslint-disable @typescript-eslint/no-unsafe-call */
+/* eslint-disable @typescript-eslint/no-unsafe-member-access */
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
 import { Logger } from '@nestjs/common'
 import { Prisma, PrismaClient } from '@prisma/client'
 import { coursesData } from './data'
@@ -22,7 +25,9 @@ export async function seedCourses() {
 						description: section.description,
 						questionTemplates: {
 							create: section.questionTemplates.map(qt => ({
-								text: qt.text,
+								textEn: qt.text_en,
+								textRu: qt.text_ru,
+								textKz: qt.text_kz,
 								explanation: qt.explanation,
 								instances: {
 									create: qt.instances.map(inst => ({

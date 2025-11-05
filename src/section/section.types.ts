@@ -8,7 +8,9 @@ export type QuestionTemplatesWithPayload =
 	SectionWithPayload['questionTemplates'][number]
 
 export interface TestQuestion {
-	text: string
+	textEn: string
+	textRu: string
+	textKz: string
 	instanceId: string
 	templateId: string
 	explanation: string | null

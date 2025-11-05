@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common'
+import { Injectable, NotFoundException } from '@nestjs/common'
 import { PrismaClient, Role } from '@prisma/client'
 
 @Injectable()
@@ -35,5 +35,19 @@ export class CourseService {
 				lastAccessed: userCourse.lastAccessed,
 			}
 		} else return null
+	}
+
+	// TODO: rewrite all this code to fit a universal format
+
+	async get(courseId: string) {
+		const course = await this.prisma.course.findUnique({
+			where: { courseId },
+		})
+
+		if (!course) {
+			throw new NotFoundException('Course not found')
+		}
+
+		return course
 	}
 }

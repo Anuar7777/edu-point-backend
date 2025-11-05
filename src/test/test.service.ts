@@ -39,7 +39,9 @@ export class TestService {
 			const instances = template.instances
 			const instance = instances[Math.floor(Math.random() * instances.length)]
 
-			let text = template.text
+			let textEn = template.textEn
+			let textRu = template.textRu
+			let textKz = template.textKz
 			let explanation = template.explanation ?? null
 
 			if (instance.variables) {
@@ -47,7 +49,9 @@ export class TestService {
 					instance.variables as Record<string, unknown>,
 				)) {
 					const re = new RegExp(`{${key}}`, 'g')
-					text = text.replace(re, String(value))
+					textEn = textEn.replace(re, String(value))
+					textRu = textRu.replace(re, String(value))
+					textKz = textKz.replace(re, String(value))
 					if (explanation) explanation = explanation.replace(re, String(value))
 				}
 			}
@@ -55,7 +59,9 @@ export class TestService {
 			return {
 				templateId: template.templateId,
 				instanceId: instance.instanceId,
-				text,
+				textEn,
+				textRu,
+				textKz,
 				explanation,
 				answerOptions: instance.answerOptions,
 				correctAnswer: instance.correctAnswer,
@@ -140,9 +146,9 @@ export class TestService {
 
 			if (userAnswer === question.correctAnswer) correctCount++
 
-			const { text, correctAnswer } = question
+			const { textEn, textRu, textKz, correctAnswer } = question
 
-			return { text, correctAnswer, userAnswer }
+			return { textEn, textRu, textKz, correctAnswer, userAnswer }
 		}) as unknown as Prisma.InputJsonValue
 
 		const score = Math.round((correctCount / total) * 100)

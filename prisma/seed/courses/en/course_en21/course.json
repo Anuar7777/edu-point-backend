@@ -1,0 +1,1227 @@
+{
+  "courseId": "7696db3c-2b5b-4922-b70d-14643a5cf5f4",
+  "title": "Everyday English Course 21",
+  "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
+  "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
+  "totalSections": 3,
+  "sections": [
+    {
+      "title": "Section 1: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "W: What can I do for you, sir?\nM: I'm looking for a jacket for my son.\nW: Come with me, please. Here are the jackets for boys.\nM: The black one looks nice. How much is it?\nW: Twenty-five dollars.\nM: Oh, I am afraid it's too expensive.\nW: What about the blue one over there? It looks nice, too. And it's a little cheaper.\nM: But it's a bit too small. Have you got a bigger size?\nW: Sorry, we haven't. But we'll get some soon. Will you come back next week?\nM: All right. I'll come back then. Thanks.\n{a}",
+          "text_ru": "W: What can I do for you, sir?\nM: I'm looking for a jacket for my son.\nW: Come with me, please. Here are the jackets for boys.\nM: The black one looks nice. How much is it?\nW: Twenty-five dollars.\nM: Oh, I am afraid it's too expensive.\nW: What about the blue one over there? It looks nice, too. And it's a little cheaper.\nM: But it's a bit too small. Have you got a bigger size?\nW: Sorry, we haven't. But we'll get some soon. Will you come back next week?\nM: All right. I'll come back then. Thanks.\n{a}",
+          "text_kz": "W: What can I do for you, sir?\nM: I'm looking for a jacket for my son.\nW: Come with me, please. Here are the jackets for boys.\nM: The black one looks nice. How much is it?\nW: Twenty-five dollars.\nM: Oh, I am afraid it's too expensive.\nW: What about the blue one over there? It looks nice, too. And it's a little cheaper.\nM: But it's a bit too small. Have you got a bigger size?\nW: Sorry, we haven't. But we'll get some soon. Will you come back next week?\nM: All right. I'll come back then. Thanks.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "He is looking for the lost jacket of his son.",
+                "He wants to buy a jacket for himself.",
+                "He wants to buy a jacket for his son."
+              ],
+              "correctAnswer": "He wants to buy a jacket for his son.",
+              "variables": {
+                "a": "What is the man going to do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Fifty-two dollars.",
+                "Twenty dollars.",
+                "Twenty-five dollars."
+              ],
+              "correctAnswer": "Twenty-five dollars.",
+              "variables": {
+                "a": "How much is the black jacket?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A black jacket.",
+                "A blue jacket.",
+                "Nothing."
+              ],
+              "correctAnswer": "A blue jacket.",
+              "variables": {
+                "a": "What will the man buy at last?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hi, Mark, haven't seen you for ages. How are you doing?\nM: Can't complain. I'm busy with my experiments in the lab but after work I often play some sports.\nW: Like what?\nM: Like tennis, running and golf.\nW: Golf? That's my favorite game. How often do you play, Mark?\nM: I usually play about once a month. What about you, Michelle?\nW: I play every Sunday.\nM: Even when it rains?\nW: Yes, even when it rains. I never miss a game on Sunday.\nM: Where do you play?\nW: The Lawndale country club. Do you know it?\nM: Yes. I was there once. You're going to play next Sunday, I suppose.\nW: Certainly, listen! Why don't you join me? We can have a game.\nM: I'd love to. What time shall we meet?\nW: Let's meet at the clubhouse at 1:30 in the afternoon.\nM: Good. See you then.\n{a}",
+          "text_ru": "W: Hi, Mark, haven't seen you for ages. How are you doing?\nM: Can't complain. I'm busy with my experiments in the lab but after work I often play some sports.\nW: Like what?\nM: Like tennis, running and golf.\nW: Golf? That's my favorite game. How often do you play, Mark?\nM: I usually play about once a month. What about you, Michelle?\nW: I play every Sunday.\nM: Even when it rains?\nW: Yes, even when it rains. I never miss a game on Sunday.\nM: Where do you play?\nW: The Lawndale country club. Do you know it?\nM: Yes. I was there once. You're going to play next Sunday, I suppose.\nW: Certainly, listen! Why don't you join me? We can have a game.\nM: I'd love to. What time shall we meet?\nW: Let's meet at the clubhouse at 1:30 in the afternoon.\nM: Good. See you then.\n{a}",
+          "text_kz": "W: Hi, Mark, haven't seen you for ages. How are you doing?\nM: Can't complain. I'm busy with my experiments in the lab but after work I often play some sports.\nW: Like what?\nM: Like tennis, running and golf.\nW: Golf? That's my favorite game. How often do you play, Mark?\nM: I usually play about once a month. What about you, Michelle?\nW: I play every Sunday.\nM: Even when it rains?\nW: Yes, even when it rains. I never miss a game on Sunday.\nM: Where do you play?\nW: The Lawndale country club. Do you know it?\nM: Yes. I was there once. You're going to play next Sunday, I suppose.\nW: Certainly, listen! Why don't you join me? We can have a game.\nM: I'd love to. What time shall we meet?\nW: Let's meet at the clubhouse at 1:30 in the afternoon.\nM: Good. See you then.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Table tennis, running and golf.",
+                "Tennis, swimming and golf.",
+                "Tennis, running and golf."
+              ],
+              "correctAnswer": "Tennis, running and golf.",
+              "variables": {
+                "a": "What sports does the man like to play after work?"
+              }
+            },
+            {
+              "answerOptions": [
+                "About once a week.",
+                "About once a month.",
+                "About once a year."
+              ],
+              "correctAnswer": "About once a month.",
+              "variables": {
+                "a": "How often does the man play golf?"
+              }
+            },
+            {
+              "answerOptions": [
+                "At 1:30 pm.",
+                "At 2:00 am.",
+                "At 2:30 pm."
+              ],
+              "correctAnswer": "At 1:30 pm.",
+              "variables": {
+                "a": "What time will the speakers meet at the clubhouse?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: What do you want to make for dinner?\nW: I think I will make some steaks for dinner.\nM: Then we have to buy some steaks. Don't you think it's a little bit expensive?\nW: It is a little expensive but it's cheaper than having steaks in a restaurant.\nM: What a good wife!\nW: Do you want to buy some beer for Mr Chen?\nM: Yes, of course!We all like beer, but I think this time we'd better have some table wine, don't you?\nW: Yes, you are right. We do need table wine for the steaks.\nM: I think I would prefer the California Rose.\nW: That's good for steaks. What else do you want to buy?\nM: A carton of cigarettes.\nW: Oh, my God! Why do you want to smoke so much?\nM: No, it's not for me. It's for Mr Chen and his friends tonight.\nW: That makes me feel better but anyway cigarettes are terrible for health.\nM: I know. I'm quitting them.\nW: Don't you think we should buy some vegetables and ice cream for dessert?\nM: That's good. Let's go now.\nW: OK.\n{a}",
+          "text_ru": "M: What do you want to make for dinner?\nW: I think I will make some steaks for dinner.\nM: Then we have to buy some steaks. Don't you think it's a little bit expensive?\nW: It is a little expensive but it's cheaper than having steaks in a restaurant.\nM: What a good wife!\nW: Do you want to buy some beer for Mr Chen?\nM: Yes, of course!We all like beer, but I think this time we'd better have some table wine, don't you?\nW: Yes, you are right. We do need table wine for the steaks.\nM: I think I would prefer the California Rose.\nW: That's good for steaks. What else do you want to buy?\nM: A carton of cigarettes.\nW: Oh, my God! Why do you want to smoke so much?\nM: No, it's not for me. It's for Mr Chen and his friends tonight.\nW: That makes me feel better but anyway cigarettes are terrible for health.\nM: I know. I'm quitting them.\nW: Don't you think we should buy some vegetables and ice cream for dessert?\nM: That's good. Let's go now.\nW: OK.\n{a}",
+          "text_kz": "M: What do you want to make for dinner?\nW: I think I will make some steaks for dinner.\nM: Then we have to buy some steaks. Don't you think it's a little bit expensive?\nW: It is a little expensive but it's cheaper than having steaks in a restaurant.\nM: What a good wife!\nW: Do you want to buy some beer for Mr Chen?\nM: Yes, of course!We all like beer, but I think this time we'd better have some table wine, don't you?\nW: Yes, you are right. We do need table wine for the steaks.\nM: I think I would prefer the California Rose.\nW: That's good for steaks. What else do you want to buy?\nM: A carton of cigarettes.\nW: Oh, my God! Why do you want to smoke so much?\nM: No, it's not for me. It's for Mr Chen and his friends tonight.\nW: That makes me feel better but anyway cigarettes are terrible for health.\nM: I know. I'm quitting them.\nW: Don't you think we should buy some vegetables and ice cream for dessert?\nM: That's good. Let's go now.\nW: OK.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Whom to invite for supper.",
+                "Where to eat for dinner.",
+                "How to serve their friends."
+              ],
+              "correctAnswer": "How to serve their friends.",
+              "variables": {
+                "a": "What are they discussing about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A kind of cigarette.",
+                "A kind of wine.",
+                "A kind of flower."
+              ],
+              "correctAnswer": "A kind of wine.",
+              "variables": {
+                "a": "What is \"California Rose\" in the dialogue?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A restaurant.",
+                "A dinner party.",
+                "A store."
+              ],
+              "correctAnswer": "A store.",
+              "variables": {
+                "a": "Where are they going after the conversation?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Jane, I hear that you are leaving school now. What do you want to do? Have you made up your mind yet?\nW: No, not yet. But I think I'm going to take up singing.\nM: Any special reasons?\nW: Yes. It's because I am good at singing songs. All my classmates say so. Besides, singing is quite interesting and you can meet a lot of people.\nM: And you will have to please them too.\nW: Well, you do in any job, don't you?\nM: And what do your parents think about it?\nW: They don't quite agree with my idea. That is the only trouble.\nM: Have they got any other plans for you, then?\nW: Yes, um...they're trying to send me to an art college because they want me to be an actress.\nM: Then what will you do?\nW: Er...I haven't decided yet. But I usually get my own way in the end.\n{a}",
+          "text_ru": "M: Jane, I hear that you are leaving school now. What do you want to do? Have you made up your mind yet?\nW: No, not yet. But I think I'm going to take up singing.\nM: Any special reasons?\nW: Yes. It's because I am good at singing songs. All my classmates say so. Besides, singing is quite interesting and you can meet a lot of people.\nM: And you will have to please them too.\nW: Well, you do in any job, don't you?\nM: And what do your parents think about it?\nW: They don't quite agree with my idea. That is the only trouble.\nM: Have they got any other plans for you, then?\nW: Yes, um...they're trying to send me to an art college because they want me to be an actress.\nM: Then what will you do?\nW: Er...I haven't decided yet. But I usually get my own way in the end.\n{a}",
+          "text_kz": "M: Jane, I hear that you are leaving school now. What do you want to do? Have you made up your mind yet?\nW: No, not yet. But I think I'm going to take up singing.\nM: Any special reasons?\nW: Yes. It's because I am good at singing songs. All my classmates say so. Besides, singing is quite interesting and you can meet a lot of people.\nM: And you will have to please them too.\nW: Well, you do in any job, don't you?\nM: And what do your parents think about it?\nW: They don't quite agree with my idea. That is the only trouble.\nM: Have they got any other plans for you, then?\nW: Yes, um...they're trying to send me to an art college because they want me to be an actress.\nM: Then what will you do?\nW: Er...I haven't decided yet. But I usually get my own way in the end.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "The woman's school.",
+                "The woman's plan.",
+                "The woman's family."
+              ],
+              "correctAnswer": "The woman's plan.",
+              "variables": {
+                "a": "What are the two speakers talking about?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They are proud of it.",
+                "They are against it.",
+                "They don't care about it."
+              ],
+              "correctAnswer": "They are against it.",
+              "variables": {
+                "a": "What is Jane's parents' attitude towards her choice?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She will become a painter.",
+                "She will become an actress.",
+                "She will become a singer."
+              ],
+              "correctAnswer": "She will become a singer.",
+              "variables": {
+                "a": "What will Jane most probably do in the end?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: I want to send this package by first-class mail.\nW: Do you want it insured?\nM: Yes, for 50 dollars, please. I'd also like some stamps--a book of 22 and three airmail.\nW: You'll have to get those at the stamp window over there, next to general delivery.\nM: Can I get money orders there, too?\nW: No, that's to the left, three windows down the hall.\n{a}",
+          "text_ru": "M: I want to send this package by first-class mail.\nW: Do you want it insured?\nM: Yes, for 50 dollars, please. I'd also like some stamps--a book of 22 and three airmail.\nW: You'll have to get those at the stamp window over there, next to general delivery.\nM: Can I get money orders there, too?\nW: No, that's to the left, three windows down the hall.\n{a}",
+          "text_kz": "M: I want to send this package by first-class mail.\nW: Do you want it insured?\nM: Yes, for 50 dollars, please. I'd also like some stamps--a book of 22 and three airmail.\nW: You'll have to get those at the stamp window over there, next to general delivery.\nM: Can I get money orders there, too?\nW: No, that's to the left, three windows down the hall.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "At a bank.",
+                "At an airport.",
+                "At a post office."
+              ],
+              "correctAnswer": "At a post office.",
+              "variables": {
+                "a": "Where does the conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "3",
+                "22",
+                "25"
+              ],
+              "correctAnswer": "3",
+              "variables": {
+                "a": "How many airmail stamps does the man want to buy?"
+              }
+            },
+            {
+              "answerOptions": [
+                "At the stamp window.",
+                "Next to general delivery.",
+                "Three windows down the hall."
+              ],
+              "correctAnswer": "Three windows down the hall.",
+              "variables": {
+                "a": "Where can the man get money orders?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Please sit down. Let's see. You're Mr. Brown, is that right?\nM: Right. I'll graduate from college next June.\nW: Have you ever done any work in this field?\nM: No, never. We did some practice work in class.\nW: You seem to be doing well at college. What kind of pay do you hope to get?\nM: From what I've read, it seems that the pay at the beginning would, be around $12,000 a year.\nW: Here we would start at $10,500 for the first year of training. Then you would get $15,000. After that it would depend on how well you work.\nM: That sounds fair enough. What about other things, like vacation?\nW: Those are all explained in this paper. You can take it along and look at it at home.\nM: Do you really think I can get a job here? I really hope that I can work here. But I guess I'll just have to go home and wait.\nW: Well, I'm talking to three people today and four tomorrow. The company will be hiring two people. You'll hear sometime next month. Good luck and thanks for coming today.\n{a}",
+          "text_ru": "W: Please sit down. Let's see. You're Mr. Brown, is that right?\nM: Right. I'll graduate from college next June.\nW: Have you ever done any work in this field?\nM: No, never. We did some practice work in class.\nW: You seem to be doing well at college. What kind of pay do you hope to get?\nM: From what I've read, it seems that the pay at the beginning would, be around $12,000 a year.\nW: Here we would start at $10,500 for the first year of training. Then you would get $15,000. After that it would depend on how well you work.\nM: That sounds fair enough. What about other things, like vacation?\nW: Those are all explained in this paper. You can take it along and look at it at home.\nM: Do you really think I can get a job here? I really hope that I can work here. But I guess I'll just have to go home and wait.\nW: Well, I'm talking to three people today and four tomorrow. The company will be hiring two people. You'll hear sometime next month. Good luck and thanks for coming today.\n{a}",
+          "text_kz": "W: Please sit down. Let's see. You're Mr. Brown, is that right?\nM: Right. I'll graduate from college next June.\nW: Have you ever done any work in this field?\nM: No, never. We did some practice work in class.\nW: You seem to be doing well at college. What kind of pay do you hope to get?\nM: From what I've read, it seems that the pay at the beginning would, be around $12,000 a year.\nW: Here we would start at $10,500 for the first year of training. Then you would get $15,000. After that it would depend on how well you work.\nM: That sounds fair enough. What about other things, like vacation?\nW: Those are all explained in this paper. You can take it along and look at it at home.\nM: Do you really think I can get a job here? I really hope that I can work here. But I guess I'll just have to go home and wait.\nW: Well, I'm talking to three people today and four tomorrow. The company will be hiring two people. You'll hear sometime next month. Good luck and thanks for coming today.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "$15,000.",
+                "$12,000.",
+                "$10,500."
+              ],
+              "correctAnswer": "$12,000.",
+              "variables": {
+                "a": "How much does the man want to be paid a year at the beginning?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He is a graduate from a college.",
+                "He is still a college student.",
+                "He is a lucky man on that day."
+              ],
+              "correctAnswer": "He is still a college student.",
+              "variables": {
+                "a": "What do you know from the conversation about the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Three.",
+                "Four.",
+                "Seven."
+              ],
+              "correctAnswer": "Seven.",
+              "variables": {
+                "a": "How many people will the woman talk to?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: So you are to leave all of us. How can you do that? What shall we do without you?\nW: Don't worry. I'll be back in five or six days.\nM: What are you going to do there?\nW: Some people are in great need of help after the flood. Being a doctor, I have the responsibility to help those in trouble.\nM: That's true. But you often go to those dangerous places and we are all worried about your safety, mum.\nW: Don't be so troubled. I'm a doctor. I know how to care for myself. What worries me is your life and study at school. Are you used to the life in the school?\nM: Yes. But many classmates have their mothers or fathers pick them up after school. I have to go and come all by myself.\nW: I'm sorry, dear. I'll ask your father to be back when I'm away. Maybe he can manage a few days off from his manager. I must go right now. The bus is waiting out over there. Bye-bye.\n{a}",
+          "text_ru": "M: So you are to leave all of us. How can you do that? What shall we do without you?\nW: Don't worry. I'll be back in five or six days.\nM: What are you going to do there?\nW: Some people are in great need of help after the flood. Being a doctor, I have the responsibility to help those in trouble.\nM: That's true. But you often go to those dangerous places and we are all worried about your safety, mum.\nW: Don't be so troubled. I'm a doctor. I know how to care for myself. What worries me is your life and study at school. Are you used to the life in the school?\nM: Yes. But many classmates have their mothers or fathers pick them up after school. I have to go and come all by myself.\nW: I'm sorry, dear. I'll ask your father to be back when I'm away. Maybe he can manage a few days off from his manager. I must go right now. The bus is waiting out over there. Bye-bye.\n{a}",
+          "text_kz": "M: So you are to leave all of us. How can you do that? What shall we do without you?\nW: Don't worry. I'll be back in five or six days.\nM: What are you going to do there?\nW: Some people are in great need of help after the flood. Being a doctor, I have the responsibility to help those in trouble.\nM: That's true. But you often go to those dangerous places and we are all worried about your safety, mum.\nW: Don't be so troubled. I'm a doctor. I know how to care for myself. What worries me is your life and study at school. Are you used to the life in the school?\nM: Yes. But many classmates have their mothers or fathers pick them up after school. I have to go and come all by myself.\nW: I'm sorry, dear. I'll ask your father to be back when I'm away. Maybe he can manage a few days off from his manager. I must go right now. The bus is waiting out over there. Bye-bye.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Because there is going to be a flood.",
+                "Because she is going to help the flooded people.",
+                "Because she is going to look after the patients in the hospital."
+              ],
+              "correctAnswer": "Because she is going to help the flooded people.",
+              "variables": {
+                "a": "Why is the mother leaving?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The family is full of care and love.",
+                "The boy's father is too busy to ask for a leave.",
+                "The mother never cares for her son."
+              ],
+              "correctAnswer": "The family is full of care and love.",
+              "variables": {
+                "a": "What is the family like?"
+              }
+            },
+            {
+              "answerOptions": [
+                "His father.",
+                "His grandfather.",
+                "No one."
+              ],
+              "correctAnswer": "No one.",
+              "variables": {
+                "a": "Who will pick the boy up after school when his mother leaves?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Do you think you can take me to the Grand Hotel in 30 minutes?\nM: It depends. If the traffic isn't too heavy... Anyhow, I'll try my best. You've got enough time.\nW: How much should I pay?\nM: $12.75, please.\nW: Thanks a lot. Here's $15. Give me $1.00 back, please.\n{a}",
+          "text_ru": "W: Do you think you can take me to the Grand Hotel in 30 minutes?\nM: It depends. If the traffic isn't too heavy... Anyhow, I'll try my best. You've got enough time.\nW: How much should I pay?\nM: $12.75, please.\nW: Thanks a lot. Here's $15. Give me $1.00 back, please.\n{a}",
+          "text_kz": "W: Do you think you can take me to the Grand Hotel in 30 minutes?\nM: It depends. If the traffic isn't too heavy... Anyhow, I'll try my best. You've got enough time.\nW: How much should I pay?\nM: $12.75, please.\nW: Thanks a lot. Here's $15. Give me $1.00 back, please.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "He is a conductor.",
+                "He is a taxi driver.",
+                "He is a bus driver."
+              ],
+              "correctAnswer": "He is a taxi driver.",
+              "variables": {
+                "a": "What's the job of the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Less than 30 minutes.",
+                "More than 30 minutes.",
+                "30 minutes."
+              ],
+              "correctAnswer": "30 minutes.",
+              "variables": {
+                "a": "How long does it take to get to the Grand Hotel?"
+              }
+            },
+            {
+              "answerOptions": [
+                "$1.25.",
+                "$15.",
+                "$12.75."
+              ],
+              "correctAnswer": "$1.25.",
+              "variables": {
+                "a": "How much tip does the woman give to the man?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: It's well known that Abraham Lincoln was the greatest American, you know.\nM: Yes, many American people do think so, and they feel proud of Lincoln. He rose from the lowest to the highest position in the United States.\nW: DO you know how he was killed?\nM: Yes. It was on April 14, 1865. After a very busy day, Lincoln and his wife went to see a play at a theatre in Washington. A 25-year-old man, who was from the South, suddenly shot Lincoln through the head.\nW: Did he die immediately when he was shot?\nM: No, he didn't. He died early the next morning in the hospital.\n{a}",
+          "text_ru": "W: It's well known that Abraham Lincoln was the greatest American, you know.\nM: Yes, many American people do think so, and they feel proud of Lincoln. He rose from the lowest to the highest position in the United States.\nW: DO you know how he was killed?\nM: Yes. It was on April 14, 1865. After a very busy day, Lincoln and his wife went to see a play at a theatre in Washington. A 25-year-old man, who was from the South, suddenly shot Lincoln through the head.\nW: Did he die immediately when he was shot?\nM: No, he didn't. He died early the next morning in the hospital.\n{a}",
+          "text_kz": "W: It's well known that Abraham Lincoln was the greatest American, you know.\nM: Yes, many American people do think so, and they feel proud of Lincoln. He rose from the lowest to the highest position in the United States.\nW: DO you know how he was killed?\nM: Yes. It was on April 14, 1865. After a very busy day, Lincoln and his wife went to see a play at a theatre in Washington. A 25-year-old man, who was from the South, suddenly shot Lincoln through the head.\nW: Did he die immediately when he was shot?\nM: No, he didn't. He died early the next morning in the hospital.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A young man of 24 from the north.",
+                "A young man of 25 from the south.",
+                "A slave owner of 26 from the south."
+              ],
+              "correctAnswer": "A young man of 25 from the south.",
+              "variables": {
+                "a": "Who shot Abraham Lincoln?"
+              }
+            },
+            {
+              "answerOptions": [
+                "On the evening of April 14, 1865.",
+                "On the night of April 15, 1865.",
+                "On the morning of April 15, 1865."
+              ],
+              "correctAnswer": "On the morning of April 15, 1865.",
+              "variables": {
+                "a": "When did Lincoln die?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In the hospital.",
+                "On the way to the hospital.",
+                "At the theatre."
+              ],
+              "correctAnswer": "In the hospital.",
+              "variables": {
+                "a": "Where did Lincoln die?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: You're campaign manager Julie. How do I convince the members of the student body to know that I'm the best candidate for school president?\nW: It won't be easy.\nM: Thanks a lot.\nW: I'm just kidding, Bob. Actually I think once we show everyone how well you did as junior class treasurer, you will win easily.\nM: How do you do that? Meet with all three thousand people who are members of the student body?\nW: Come on! What I'm thinking of first is hanging campaign posters in all the hallways where most of the students are sure to see them.\nM: That sounds good. But everyone puts up posters. What can we do differently?\nW: The campus radio station is willing to let you have five minutes tomorrow morning at seven o'clock to outline your plans for the year. Lots of students will be listening then.\nM: That's a great idea!\nW: I've also arranged for you to give a speech during dinner tomorrow. At least five hundred students will be there. You'll answer questions after you finish speaking.\nM: How about if I write it tonight and show it to you after chemistry class tomorrow?\nW: Fine.\n{a}",
+          "text_ru": "M: You're campaign manager Julie. How do I convince the members of the student body to know that I'm the best candidate for school president?\nW: It won't be easy.\nM: Thanks a lot.\nW: I'm just kidding, Bob. Actually I think once we show everyone how well you did as junior class treasurer, you will win easily.\nM: How do you do that? Meet with all three thousand people who are members of the student body?\nW: Come on! What I'm thinking of first is hanging campaign posters in all the hallways where most of the students are sure to see them.\nM: That sounds good. But everyone puts up posters. What can we do differently?\nW: The campus radio station is willing to let you have five minutes tomorrow morning at seven o'clock to outline your plans for the year. Lots of students will be listening then.\nM: That's a great idea!\nW: I've also arranged for you to give a speech during dinner tomorrow. At least five hundred students will be there. You'll answer questions after you finish speaking.\nM: How about if I write it tonight and show it to you after chemistry class tomorrow?\nW: Fine.\n{a}",
+          "text_kz": "M: You're campaign manager Julie. How do I convince the members of the student body to know that I'm the best candidate for school president?\nW: It won't be easy.\nM: Thanks a lot.\nW: I'm just kidding, Bob. Actually I think once we show everyone how well you did as junior class treasurer, you will win easily.\nM: How do you do that? Meet with all three thousand people who are members of the student body?\nW: Come on! What I'm thinking of first is hanging campaign posters in all the hallways where most of the students are sure to see them.\nM: That sounds good. But everyone puts up posters. What can we do differently?\nW: The campus radio station is willing to let you have five minutes tomorrow morning at seven o'clock to outline your plans for the year. Lots of students will be listening then.\nM: That's a great idea!\nW: I've also arranged for you to give a speech during dinner tomorrow. At least five hundred students will be there. You'll answer questions after you finish speaking.\nM: How about if I write it tonight and show it to you after chemistry class tomorrow?\nW: Fine.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A candidate.",
+                "A radio announcer.",
+                "A campaign manager."
+              ],
+              "correctAnswer": "A campaign manager.",
+              "variables": {
+                "a": "Who is the woman?"
+              }
+            },
+            {
+              "answerOptions": [
+                "In the hallways.",
+                "In the classrooms.",
+                "In the cafeteria."
+              ],
+              "correctAnswer": "In the hallways.",
+              "variables": {
+                "a": "Where will they put the posters?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Make posters.",
+                "Write a speech.",
+                "Answer questions."
+              ],
+              "correctAnswer": "Write a speech.",
+              "variables": {
+                "a": "What will the man do tonight?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section 2: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "M: Dr Stone, how did you become an expert on smell?\nW: Well, I didn't intend to in the first place. But when I was in university, there was a course on senses. The other senses seem to be more concrete somehow, but smell is so personal. I found it extremely interesting.\nM: Do you have any interesting information to give us about smells?\nW: Well, let's see. Did you know that it's harder to forget smells than to forget facts? There have been experiments where people could pick out a particular smell thirty days after smelling it for the first time.\nM: Really? So smells can bring back more memories than, say, music?\nW: That seems to be the case.\nM: That's interesting. So what's your favorite smell?\nW: Oh, I have lots of different ones. The smells of the sea reminds me of happy family holidays, and the smell of roses makes me think of my friend's house. Strangely enough, I like the smell of air craft fuel at airports. Then I know I am going to fly somewhere exciting. But it's the general smell of my garden in the rain that I really like the most. That means I am at home where I should be.\n{a}",
+          "text_ru": "M: Dr Stone, how did you become an expert on smell?\nW: Well, I didn't intend to in the first place. But when I was in university, there was a course on senses. The other senses seem to be more concrete somehow, but smell is so personal. I found it extremely interesting.\nM: Do you have any interesting information to give us about smells?\nW: Well, let's see. Did you know that it's harder to forget smells than to forget facts? There have been experiments where people could pick out a particular smell thirty days after smelling it for the first time.\nM: Really? So smells can bring back more memories than, say, music?\nW: That seems to be the case.\nM: That's interesting. So what's your favorite smell?\nW: Oh, I have lots of different ones. The smells of the sea reminds me of happy family holidays, and the smell of roses makes me think of my friend's house. Strangely enough, I like the smell of air craft fuel at airports. Then I know I am going to fly somewhere exciting. But it's the general smell of my garden in the rain that I really like the most. That means I am at home where I should be.\n{a}",
+          "text_kz": "M: Dr Stone, how did you become an expert on smell?\nW: Well, I didn't intend to in the first place. But when I was in university, there was a course on senses. The other senses seem to be more concrete somehow, but smell is so personal. I found it extremely interesting.\nM: Do you have any interesting information to give us about smells?\nW: Well, let's see. Did you know that it's harder to forget smells than to forget facts? There have been experiments where people could pick out a particular smell thirty days after smelling it for the first time.\nM: Really? So smells can bring back more memories than, say, music?\nW: That seems to be the case.\nM: That's interesting. So what's your favorite smell?\nW: Oh, I have lots of different ones. The smells of the sea reminds me of happy family holidays, and the smell of roses makes me think of my friend's house. Strangely enough, I like the smell of air craft fuel at airports. Then I know I am going to fly somewhere exciting. But it's the general smell of my garden in the rain that I really like the most. That means I am at home where I should be.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "It is personal.",
+                "It is concrete.",
+                "It is strange."
+              ],
+              "correctAnswer": "It is personal.",
+              "variables": {
+                "a": "What is the woman's view on smell?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They are as pleasant as music.",
+                "They can last about thirty days.",
+                "They make things more memorable."
+              ],
+              "correctAnswer": "They make things more memorable.",
+              "variables": {
+                "a": "What is special about smells?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Smell of the sea.",
+                "Smell of her garden.",
+                "Smell of aircraft fuel."
+              ],
+              "correctAnswer": "Smell of her garden.",
+              "variables": {
+                "a": "What is the woman's most favorite smell?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Stan, you've already finished your essay? I've been working on mine for two weeks, and I'll need another week before it's finished.\nM: I know, Jenny, it's a huge project - researching. thinking of an argument and then finding details that show the argument is true.\nW: That part only took me one week. But writing and rewriting,and then deleting and writing again ...that's killing me!\nM: That part didn't bother me.\nW: What's your secret?\nM: I write an outline: a basic plan of what I'm going to say. And then I fill it in with topics for each paragraph. After that,I put notes about what details to include.\nW: That sounds hard.\nM: It's easier than you think, and when it's time to write, everything goes really smoothly. I have an outline from last semester that I could show you, if you're interested.\n{a}",
+          "text_ru": "W: Stan, you've already finished your essay? I've been working on mine for two weeks, and I'll need another week before it's finished.\nM: I know, Jenny, it's a huge project - researching. thinking of an argument and then finding details that show the argument is true.\nW: That part only took me one week. But writing and rewriting,and then deleting and writing again ...that's killing me!\nM: That part didn't bother me.\nW: What's your secret?\nM: I write an outline: a basic plan of what I'm going to say. And then I fill it in with topics for each paragraph. After that,I put notes about what details to include.\nW: That sounds hard.\nM: It's easier than you think, and when it's time to write, everything goes really smoothly. I have an outline from last semester that I could show you, if you're interested.\n{a}",
+          "text_kz": "W: Stan, you've already finished your essay? I've been working on mine for two weeks, and I'll need another week before it's finished.\nM: I know, Jenny, it's a huge project - researching. thinking of an argument and then finding details that show the argument is true.\nW: That part only took me one week. But writing and rewriting,and then deleting and writing again ...that's killing me!\nM: That part didn't bother me.\nW: What's your secret?\nM: I write an outline: a basic plan of what I'm going to say. And then I fill it in with topics for each paragraph. After that,I put notes about what details to include.\nW: That sounds hard.\nM: It's easier than you think, and when it's time to write, everything goes really smoothly. I have an outline from last semester that I could show you, if you're interested.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Three weeks.",
+                "Two weeks.",
+                "One week."
+              ],
+              "correctAnswer": "Three weeks.",
+              "variables": {
+                "a": "How long does it take Jenny to write her paper altogether?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Preparing an outline.",
+                "Writing the paper.",
+                "Doing the research."
+              ],
+              "correctAnswer": "Writing the paper.",
+              "variables": {
+                "a": "Which part is the most difficult for Jenny?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Borrow his outline.",
+                "Use her outline from last semester.",
+                "Make a plan before writing."
+              ],
+              "correctAnswer": "Make a plan before writing.",
+              "variables": {
+                "a": "What does Stan think Jenny should do?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Did you see today's newspaper? That building over there in Centerville was just struck by lightning for the fourth time.\nM: I'm not surprised. If the conditions for lightning to strike are right one time, they might be as good another time.\nW: Well, I don't take any chances. If I'm caught in a thunderstorm, I will look for a building or a closed car. Also, I was told that if you're stuck outdoors, the best thing you can do is to keep yourself close to the ground and avoid bodies of water.\nM: To tell you the truth, even when I'm at home, I don't take baths or showers during a thunderstorm. And I don't use anything that works electrically. Maybe I'm too anxious.\nW: I wouldn't say that. According to the article, lightning starts thousands of fires every year in the United States alone. Hundreds of people are injured or even killed. I think you're just being sensible.\n{a}",
+          "text_ru": "W: Did you see today's newspaper? That building over there in Centerville was just struck by lightning for the fourth time.\nM: I'm not surprised. If the conditions for lightning to strike are right one time, they might be as good another time.\nW: Well, I don't take any chances. If I'm caught in a thunderstorm, I will look for a building or a closed car. Also, I was told that if you're stuck outdoors, the best thing you can do is to keep yourself close to the ground and avoid bodies of water.\nM: To tell you the truth, even when I'm at home, I don't take baths or showers during a thunderstorm. And I don't use anything that works electrically. Maybe I'm too anxious.\nW: I wouldn't say that. According to the article, lightning starts thousands of fires every year in the United States alone. Hundreds of people are injured or even killed. I think you're just being sensible.\n{a}",
+          "text_kz": "W: Did you see today's newspaper? That building over there in Centerville was just struck by lightning for the fourth time.\nM: I'm not surprised. If the conditions for lightning to strike are right one time, they might be as good another time.\nW: Well, I don't take any chances. If I'm caught in a thunderstorm, I will look for a building or a closed car. Also, I was told that if you're stuck outdoors, the best thing you can do is to keep yourself close to the ground and avoid bodies of water.\nM: To tell you the truth, even when I'm at home, I don't take baths or showers during a thunderstorm. And I don't use anything that works electrically. Maybe I'm too anxious.\nW: I wouldn't say that. According to the article, lightning starts thousands of fires every year in the United States alone. Hundreds of people are injured or even killed. I think you're just being sensible.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Stand on the ground.",
+                "Put herself in water.",
+                "Try to find a house."
+              ],
+              "correctAnswer": "Try to find a house.",
+              "variables": {
+                "a": "What will the woman probably do if she's caught in a thunderstorm?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It is acceptable.",
+                "It is dangerous.",
+                "It is unbelievable."
+              ],
+              "correctAnswer": "It is dangerous.",
+              "variables": {
+                "a": "What does the man think of taking a bath during a thunderstorm?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It is unusual.",
+                "It is unnecessary.",
+                "It is very practical."
+              ],
+              "correctAnswer": "It is very practical.",
+              "variables": {
+                "a": "What does the woman think about the man's action?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Can I help you?\nM: Well. I'm looking for something I saw at a friend's house a few days ago.\nW: What is it?\nM: It's a light metal shelf.\nW: You're in the right department, but we don't have them in stock now.\nM: Oh, that's too bad. Are you going to be getting more?\nW: They're on order, but I should warn you that the price has gone up.\nM: Just my luck.\nW: They were $12.50, but the new ones will be about three dollars more. Come in next week. We should have them by then.\nM: OK. I will be back. Thank you.\n{a}",
+          "text_ru": "W: Can I help you?\nM: Well. I'm looking for something I saw at a friend's house a few days ago.\nW: What is it?\nM: It's a light metal shelf.\nW: You're in the right department, but we don't have them in stock now.\nM: Oh, that's too bad. Are you going to be getting more?\nW: They're on order, but I should warn you that the price has gone up.\nM: Just my luck.\nW: They were $12.50, but the new ones will be about three dollars more. Come in next week. We should have them by then.\nM: OK. I will be back. Thank you.\n{a}",
+          "text_kz": "W: Can I help you?\nM: Well. I'm looking for something I saw at a friend's house a few days ago.\nW: What is it?\nM: It's a light metal shelf.\nW: You're in the right department, but we don't have them in stock now.\nM: Oh, that's too bad. Are you going to be getting more?\nW: They're on order, but I should warn you that the price has gone up.\nM: Just my luck.\nW: They were $12.50, but the new ones will be about three dollars more. Come in next week. We should have them by then.\nM: OK. I will be back. Thank you.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "At a department store.",
+                "In the man's home.",
+                "In a kitchen."
+              ],
+              "correctAnswer": "At a department store.",
+              "variables": {
+                "a": "Where does this conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A salesman recommended it.",
+                "He saw an advertisement.",
+                "His friend has one."
+              ],
+              "correctAnswer": "His friend has one.",
+              "variables": {
+                "a": "How did the man find out;about the item that he wants to buy?"
+              }
+            },
+            {
+              "answerOptions": [
+                "$12.50.",
+                "$12.50.",
+                "$15.50."
+              ],
+              "correctAnswer": "$15.50.",
+              "variables": {
+                "a": "How much will the new item become after price increase?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Are you quite independent of your parents now?\nW: Yes. As soon as I left school, I... my studies as a nurse. I stopped asking my parents for money since I got financial support from the government. But I still stay with them a lot.\nM: You're staying ... very close to your parents?\nW: I am. They never forced me to do anything I didn't want to do. What about you?\nM: Well, I am also fond of my family. But I don't always get on very well with them. They try to control me too much.\nW: But they allowed you to come to study in England on your own.\nM: Yes, but, only after a lot of persuasion. Your parents treat you as an adult. Mine treat me as a child.\n{a}",
+          "text_ru": "M: Are you quite independent of your parents now?\nW: Yes. As soon as I left school, I... my studies as a nurse. I stopped asking my parents for money since I got financial support from the government. But I still stay with them a lot.\nM: You're staying ... very close to your parents?\nW: I am. They never forced me to do anything I didn't want to do. What about you?\nM: Well, I am also fond of my family. But I don't always get on very well with them. They try to control me too much.\nW: But they allowed you to come to study in England on your own.\nM: Yes, but, only after a lot of persuasion. Your parents treat you as an adult. Mine treat me as a child.\n{a}",
+          "text_kz": "M: Are you quite independent of your parents now?\nW: Yes. As soon as I left school, I... my studies as a nurse. I stopped asking my parents for money since I got financial support from the government. But I still stay with them a lot.\nM: You're staying ... very close to your parents?\nW: I am. They never forced me to do anything I didn't want to do. What about you?\nM: Well, I am also fond of my family. But I don't always get on very well with them. They try to control me too much.\nW: But they allowed you to come to study in England on your own.\nM: Yes, but, only after a lot of persuasion. Your parents treat you as an adult. Mine treat me as a child.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Her parents",
+                "The government",
+                "The woman herself"
+              ],
+              "correctAnswer": "The government",
+              "variables": {
+                "a": "Who supported the woman financially for her studies at nurse school?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They respected her choice",
+                "They treated her as a child",
+                "They controlled her too much"
+              ],
+              "correctAnswer": "They respected her choice",
+              "variables": {
+                "a": "What do we learn about the woman's parents?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He was forced to study abroad",
+                "He is longing for more freedom",
+                "He is open to persuasion"
+              ],
+              "correctAnswer": "He is longing for more freedom",
+              "variables": {
+                "a": "What is TRUE about the man?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Oh, my! I can't go on.\nW: Me neither. I give up or I will die.\nM: I've never seen such hot weather in my life.\nW: I can't agree more. It's like the whole world is boiling.\nM: Look. the temperature has hit 98!\nW: I can't believe it. We used to have such nice weather here all year round.\nM: Yes. How I miss the good old days. Just cool or warm days.\nW: So, what to do now?\nM: I guess we can't do anything until the sun sets down.\nW: You are right. I'm sweating all over.\nM: Let's go back home and take a shower.\nW: Yes. We might cool down in this way.\n{a}",
+          "text_ru": "M: Oh, my! I can't go on.\nW: Me neither. I give up or I will die.\nM: I've never seen such hot weather in my life.\nW: I can't agree more. It's like the whole world is boiling.\nM: Look. the temperature has hit 98!\nW: I can't believe it. We used to have such nice weather here all year round.\nM: Yes. How I miss the good old days. Just cool or warm days.\nW: So, what to do now?\nM: I guess we can't do anything until the sun sets down.\nW: You are right. I'm sweating all over.\nM: Let's go back home and take a shower.\nW: Yes. We might cool down in this way.\n{a}",
+          "text_kz": "M: Oh, my! I can't go on.\nW: Me neither. I give up or I will die.\nM: I've never seen such hot weather in my life.\nW: I can't agree more. It's like the whole world is boiling.\nM: Look. the temperature has hit 98!\nW: I can't believe it. We used to have such nice weather here all year round.\nM: Yes. How I miss the good old days. Just cool or warm days.\nW: So, what to do now?\nM: I guess we can't do anything until the sun sets down.\nW: You are right. I'm sweating all over.\nM: Let's go back home and take a shower.\nW: Yes. We might cool down in this way.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Very hot.",
+                "Cool.",
+                "Quite warm."
+              ],
+              "correctAnswer": "Very hot.",
+              "variables": {
+                "a": "What is the weather like?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They don't agree with each other about it.",
+                "They never like hot weather.",
+                "They think it is too hot to do anything."
+              ],
+              "correctAnswer": "They think it is too hot to do anything.",
+              "variables": {
+                "a": "What do the two speakers think of the weather?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Go back home and take a shower.",
+                "Drink something cool.",
+                "Go swimming."
+              ],
+              "correctAnswer": "Go back home and take a shower.",
+              "variables": {
+                "a": "What will they probably do at the end of the conversation?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Excuse me. Can you tell me which is the way to the nearest shoe shop?\nM: There's one on Queen's Road.\nW: Thank you, but how can I get there?\nM: It's not far from here. Walk along this road and after three blocks you'll see a post office on your right. The shop is just behind it.\nW: How long do you think it will take me to get there?\nM: About 20 minutes at the most. Anyway, you can take the No.102 Bus.\nW: I'd better go there by bus. By the way, where is the bus stop, please?\nM: Just across the road.\nW: Thanks a lot.\n{a}",
+          "text_ru": "W: Excuse me. Can you tell me which is the way to the nearest shoe shop?\nM: There's one on Queen's Road.\nW: Thank you, but how can I get there?\nM: It's not far from here. Walk along this road and after three blocks you'll see a post office on your right. The shop is just behind it.\nW: How long do you think it will take me to get there?\nM: About 20 minutes at the most. Anyway, you can take the No.102 Bus.\nW: I'd better go there by bus. By the way, where is the bus stop, please?\nM: Just across the road.\nW: Thanks a lot.\n{a}",
+          "text_kz": "W: Excuse me. Can you tell me which is the way to the nearest shoe shop?\nM: There's one on Queen's Road.\nW: Thank you, but how can I get there?\nM: It's not far from here. Walk along this road and after three blocks you'll see a post office on your right. The shop is just behind it.\nW: How long do you think it will take me to get there?\nM: About 20 minutes at the most. Anyway, you can take the No.102 Bus.\nW: I'd better go there by bus. By the way, where is the bus stop, please?\nM: Just across the road.\nW: Thanks a lot.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "To get to the cinema.",
+                "To go to a shoe shop.",
+                "To go to a post office."
+              ],
+              "correctAnswer": "To go to a shoe shop.",
+              "variables": {
+                "a": "What does the woman want to do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Not far from the Queen's Road.",
+                "Across the road.",
+                "Behind the post office."
+              ],
+              "correctAnswer": "Behind the post office.",
+              "variables": {
+                "a": "Where is the place the woman is going to?"
+              }
+            },
+            {
+              "answerOptions": [
+                "On foot.",
+                "By taxi.",
+                "By bus."
+              ],
+              "correctAnswer": "By bus.",
+              "variables": {
+                "a": "How will the woman go to the place?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: When I got home last night I found a letter from the school I used to study in. The students there want me to go back and talk to them.\nW: Oh, really? And are you going?\nM: I don't know. I used to hate school, so I don't feel like going back.\nW: But it's different now.\nM: Yes, I know. But it's still a difficult situation. You see, when I was at school I used to be bad at studies and none of the teachers liked me.\nW: Well; I think you should go. When I was younger, I used to dream about meeting a famous pop star. You can't let them down.\nM: Maybe you are right. OK, I'll go.\n{a}",
+          "text_ru": "M: When I got home last night I found a letter from the school I used to study in. The students there want me to go back and talk to them.\nW: Oh, really? And are you going?\nM: I don't know. I used to hate school, so I don't feel like going back.\nW: But it's different now.\nM: Yes, I know. But it's still a difficult situation. You see, when I was at school I used to be bad at studies and none of the teachers liked me.\nW: Well; I think you should go. When I was younger, I used to dream about meeting a famous pop star. You can't let them down.\nM: Maybe you are right. OK, I'll go.\n{a}",
+          "text_kz": "M: When I got home last night I found a letter from the school I used to study in. The students there want me to go back and talk to them.\nW: Oh, really? And are you going?\nM: I don't know. I used to hate school, so I don't feel like going back.\nW: But it's different now.\nM: Yes, I know. But it's still a difficult situation. You see, when I was at school I used to be bad at studies and none of the teachers liked me.\nW: Well; I think you should go. When I was younger, I used to dream about meeting a famous pop star. You can't let them down.\nM: Maybe you are right. OK, I'll go.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "To teach in his mother school.",
+                "To give a concert.",
+                "To give a talk."
+              ],
+              "correctAnswer": "To give a talk.",
+              "variables": {
+                "a": "What is the man invited to do?"
+              }
+            },
+            {
+              "answerOptions": [
+                "A pop singer.",
+                "A teacher.",
+                "A famous actor."
+              ],
+              "correctAnswer": "A pop singer.",
+              "variables": {
+                "a": "What is the man now?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The man is going back to his former school to get further education.",
+                "The man has decided to accept the invitation of his school.",
+                "The man used to like school but have some trouble in his subjects."
+              ],
+              "correctAnswer": "The man has decided to accept the invitation of his school.",
+              "variables": {
+                "a": "Which of the following is true?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Hi, Miss. Freezing cold, isn't it? What can I do for you?\nW: I'd like some plants that can keep the earth fresh.\nM: Especially in this cold season when you can't keep die window open, isn't it?\nW: Absolutely. And something that's easy to care for and not expensive.\nM: OK, Miss. Our shop won't disappoint you. Look at these plants. They've just come in and I bet you like one of them. This is a corn plant. The tall tree can grow more than six feet and it doesn't need any water or light.\nW: Quite striking, isn't it? What's that?\nM: A palm. It adds a tropical touch to your room. The leaves are perfect for cleaning your air. It has a long life and it's easy to care for.\nW: Oh, this lovely small plant has beautiful white flower. What do you call it?\nM: Peace lily. Even the flower isn't blooming, its dense leaves look great.\nW: Perfect. It's just what I want.\nM: Won't you have a look at Janet Craig and Mother-in-Law's Tongue? And they're just as good.\nM: No, thanks. The peace lily is OK. The more I see, the less certain I become, you know.\n{a}",
+          "text_ru": "M: Hi, Miss. Freezing cold, isn't it? What can I do for you?\nW: I'd like some plants that can keep the earth fresh.\nM: Especially in this cold season when you can't keep die window open, isn't it?\nW: Absolutely. And something that's easy to care for and not expensive.\nM: OK, Miss. Our shop won't disappoint you. Look at these plants. They've just come in and I bet you like one of them. This is a corn plant. The tall tree can grow more than six feet and it doesn't need any water or light.\nW: Quite striking, isn't it? What's that?\nM: A palm. It adds a tropical touch to your room. The leaves are perfect for cleaning your air. It has a long life and it's easy to care for.\nW: Oh, this lovely small plant has beautiful white flower. What do you call it?\nM: Peace lily. Even the flower isn't blooming, its dense leaves look great.\nW: Perfect. It's just what I want.\nM: Won't you have a look at Janet Craig and Mother-in-Law's Tongue? And they're just as good.\nM: No, thanks. The peace lily is OK. The more I see, the less certain I become, you know.\n{a}",
+          "text_kz": "M: Hi, Miss. Freezing cold, isn't it? What can I do for you?\nW: I'd like some plants that can keep the earth fresh.\nM: Especially in this cold season when you can't keep die window open, isn't it?\nW: Absolutely. And something that's easy to care for and not expensive.\nM: OK, Miss. Our shop won't disappoint you. Look at these plants. They've just come in and I bet you like one of them. This is a corn plant. The tall tree can grow more than six feet and it doesn't need any water or light.\nW: Quite striking, isn't it? What's that?\nM: A palm. It adds a tropical touch to your room. The leaves are perfect for cleaning your air. It has a long life and it's easy to care for.\nW: Oh, this lovely small plant has beautiful white flower. What do you call it?\nM: Peace lily. Even the flower isn't blooming, its dense leaves look great.\nW: Perfect. It's just what I want.\nM: Won't you have a look at Janet Craig and Mother-in-Law's Tongue? And they're just as good.\nM: No, thanks. The peace lily is OK. The more I see, the less certain I become, you know.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "She believes in the air-cleaning function of plants",
+                "She often sends plants to friends as gifts",
+                "She likes to decorate her house with plants"
+              ],
+              "correctAnswer": "She believes in the air-cleaning function of plants",
+              "variables": {
+                "a": "Why does the woman want to buy some plants?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Palm",
+                "Peace Lily",
+                "Corn Plant"
+              ],
+              "correctAnswer": "Palm",
+              "variables": {
+                "a": "Which of the following plants can add a tropical touch to a room?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Corn Plant",
+                "Janet Craig",
+                "Peace Lily"
+              ],
+              "correctAnswer": "Peace Lily",
+              "variables": {
+                "a": "Which of the following plants will the woman probably buy in the end?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hello, Old English Restaurant. Can I help you?\nM: Yes. I'd like to book a table for tonight.\nW: Yes, sir. What time?\nM: Eight o'clock.\nW: Certainly. For how many people?\nM: There are ten of us.\nW: Ten of you! But we don't usually accept large parties, sir.\nM: I know, but we are regular customers.\nW: What's your name please, sir?\nM: Michael Peterson.\nW: Mr. Peterson...of course! That'll be all right. We'll put two tables together.\nM: Thanks.\nW: What food would you prefer for today, sir? We have fresh seafood tonight.\nM: No. We like to eat vegetables.\n{a}",
+          "text_ru": "W: Hello, Old English Restaurant. Can I help you?\nM: Yes. I'd like to book a table for tonight.\nW: Yes, sir. What time?\nM: Eight o'clock.\nW: Certainly. For how many people?\nM: There are ten of us.\nW: Ten of you! But we don't usually accept large parties, sir.\nM: I know, but we are regular customers.\nW: What's your name please, sir?\nM: Michael Peterson.\nW: Mr. Peterson...of course! That'll be all right. We'll put two tables together.\nM: Thanks.\nW: What food would you prefer for today, sir? We have fresh seafood tonight.\nM: No. We like to eat vegetables.\n{a}",
+          "text_kz": "W: Hello, Old English Restaurant. Can I help you?\nM: Yes. I'd like to book a table for tonight.\nW: Yes, sir. What time?\nM: Eight o'clock.\nW: Certainly. For how many people?\nM: There are ten of us.\nW: Ten of you! But we don't usually accept large parties, sir.\nM: I know, but we are regular customers.\nW: What's your name please, sir?\nM: Michael Peterson.\nW: Mr. Peterson...of course! That'll be all right. We'll put two tables together.\nM: Thanks.\nW: What food would you prefer for today, sir? We have fresh seafood tonight.\nM: No. We like to eat vegetables.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "At a seafood shop.",
+                "In a dining hall.",
+                "On the phone."
+              ],
+              "correctAnswer": "On the phone.",
+              "variables": {
+                "a": "Where does the conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It is famous for seafood.",
+                "It seldom accepts large parties.",
+                "Famous people often come to dine."
+              ],
+              "correctAnswer": "It seldom accepts large parties.",
+              "variables": {
+                "a": "What do we know about the restaurant?"
+              }
+            },
+            {
+              "answerOptions": [
+                "The restaurant is by the sea.",
+                "Seafood is very popular nowadays.",
+                "Regular customers have advantages there."
+              ],
+              "correctAnswer": "Regular customers have advantages there.",
+              "variables": {
+                "a": "What can we learn from the conversation?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section 3: English Practice",
+      "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
+      "questionTemplates": [
+        {
+          "text_en": "M: Hi, can I talk to Mary, please?\nW: This is Mary. Who's that speaking?\nM: Hi, Mary. This is Greg Sonders from Brown College.\nW: How can I help you, Mr. Sonders?\nM: Well, your papers mention your impressive grade point average. And your test scores meet our admission standards. But we'd like to know if you'd be interested in college sports.\nW: Definitely! I wrote on my application that I played high school basketball. In fact, I hold my school's all time record for points scored in a game.\nM: Great! Do you play any other sports?\nW: I also play volleyball.\nM: Great! Well, you've certainly made an impression on us. We'll let you know our decision soon.\nW: Thanks!\nM: Goodbye.\n{a}",
+          "text_ru": "M: Hi, can I talk to Mary, please?\nW: This is Mary. Who's that speaking?\nM: Hi, Mary. This is Greg Sonders from Brown College.\nW: How can I help you, Mr. Sonders?\nM: Well, your papers mention your impressive grade point average. And your test scores meet our admission standards. But we'd like to know if you'd be interested in college sports.\nW: Definitely! I wrote on my application that I played high school basketball. In fact, I hold my school's all time record for points scored in a game.\nM: Great! Do you play any other sports?\nW: I also play volleyball.\nM: Great! Well, you've certainly made an impression on us. We'll let you know our decision soon.\nW: Thanks!\nM: Goodbye.\n{a}",
+          "text_kz": "M: Hi, can I talk to Mary, please?\nW: This is Mary. Who's that speaking?\nM: Hi, Mary. This is Greg Sonders from Brown College.\nW: How can I help you, Mr. Sonders?\nM: Well, your papers mention your impressive grade point average. And your test scores meet our admission standards. But we'd like to know if you'd be interested in college sports.\nW: Definitely! I wrote on my application that I played high school basketball. In fact, I hold my school's all time record for points scored in a game.\nM: Great! Do you play any other sports?\nW: I also play volleyball.\nM: Great! Well, you've certainly made an impression on us. We'll let you know our decision soon.\nW: Thanks!\nM: Goodbye.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A college official.",
+                "A student from Brown College.",
+                "A boss from a company."
+              ],
+              "correctAnswer": "A college official.",
+              "variables": {
+                "a": "What is Greg Sonders?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Mary's grade point average.",
+                "Mary's test scores.",
+                "If Mary is interested in college sports."
+              ],
+              "correctAnswer": "If Mary is interested in college sports.",
+              "variables": {
+                "a": "does Greg want to know?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Volleyball.",
+                "Basketball.",
+                "Baseball."
+              ],
+              "correctAnswer": "Basketball.",
+              "variables": {
+                "a": "What sport is Mary probably best at?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Good morning, this is Ann broadcasting from university radio and in the studio we have Robin, president of the Martha Bicycle Club with us.\nM: Good morning, everyone.\nW: Robin, can you tell us what the mountain lake cycle tour is all about?\nM: Well, Ann, the tour today is not a race. People do it for fitness and fun andtry to better their time every year.\nW: How long will it take to cycle one way, Robin?\nM: About seven to nine hours for the average cyclists. Good cyclists can do it in four hours.\nW: How many people will be taking part this year?\nM: This is our biggest year ever. We have twelve hundred cyclists registered.\nW: I doubt they'll block the road when the cyclists start out?\nM: Don't worry, we've introduced the staggered starts to avoid these problems. Our first group will leave Ottawa at seven o'clock.\nW: Thank you, Robin. Now down to the starting line of the university.\n{a}",
+          "text_ru": "W: Good morning, this is Ann broadcasting from university radio and in the studio we have Robin, president of the Martha Bicycle Club with us.\nM: Good morning, everyone.\nW: Robin, can you tell us what the mountain lake cycle tour is all about?\nM: Well, Ann, the tour today is not a race. People do it for fitness and fun andtry to better their time every year.\nW: How long will it take to cycle one way, Robin?\nM: About seven to nine hours for the average cyclists. Good cyclists can do it in four hours.\nW: How many people will be taking part this year?\nM: This is our biggest year ever. We have twelve hundred cyclists registered.\nW: I doubt they'll block the road when the cyclists start out?\nM: Don't worry, we've introduced the staggered starts to avoid these problems. Our first group will leave Ottawa at seven o'clock.\nW: Thank you, Robin. Now down to the starting line of the university.\n{a}",
+          "text_kz": "W: Good morning, this is Ann broadcasting from university radio and in the studio we have Robin, president of the Martha Bicycle Club with us.\nM: Good morning, everyone.\nW: Robin, can you tell us what the mountain lake cycle tour is all about?\nM: Well, Ann, the tour today is not a race. People do it for fitness and fun andtry to better their time every year.\nW: How long will it take to cycle one way, Robin?\nM: About seven to nine hours for the average cyclists. Good cyclists can do it in four hours.\nW: How many people will be taking part this year?\nM: This is our biggest year ever. We have twelve hundred cyclists registered.\nW: I doubt they'll block the road when the cyclists start out?\nM: Don't worry, we've introduced the staggered starts to avoid these problems. Our first group will leave Ottawa at seven o'clock.\nW: Thank you, Robin. Now down to the starting line of the university.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In the radio studio.",
+                "In the bicycle shop.",
+                "On the road."
+              ],
+              "correctAnswer": "In the radio studio.",
+              "variables": {
+                "a": "Where does this interview take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "To meet cyclists from other countries.",
+                "To race with professional athletes.",
+                "To exercise and enjoy themselves."
+              ],
+              "correctAnswer": "To exercise and enjoy themselves.",
+              "variables": {
+                "a": "Why do cyclists participate in the mountain lake cycle tour?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Two hundred cyclists.",
+                "Ten hundred cyclists.",
+                "Twelve hundred cyclists."
+              ],
+              "correctAnswer": "Twelve hundred cyclists.",
+              "variables": {
+                "a": "How many cyclists will take part in the tour?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Hi, John. What are you doing here?\nM: I'm waiting for the bus.\nW: Where are you going?\nM: I'm going to the station to meet my sister.\nW: Oh, is she coming by herself?\nM: Yes, the train comes in about half past four, but it's twenty past four now. I have only ten minutes!\nW: How often does the bus run?\nM: Every ten minutes. I missed a No. 1 bus 15 minutes ago, and the next one hasn't come yet!\n{a}",
+          "text_ru": "W: Hi, John. What are you doing here?\nM: I'm waiting for the bus.\nW: Where are you going?\nM: I'm going to the station to meet my sister.\nW: Oh, is she coming by herself?\nM: Yes, the train comes in about half past four, but it's twenty past four now. I have only ten minutes!\nW: How often does the bus run?\nM: Every ten minutes. I missed a No. 1 bus 15 minutes ago, and the next one hasn't come yet!\n{a}",
+          "text_kz": "W: Hi, John. What are you doing here?\nM: I'm waiting for the bus.\nW: Where are you going?\nM: I'm going to the station to meet my sister.\nW: Oh, is she coming by herself?\nM: Yes, the train comes in about half past four, but it's twenty past four now. I have only ten minutes!\nW: How often does the bus run?\nM: Every ten minutes. I missed a No. 1 bus 15 minutes ago, and the next one hasn't come yet!\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Every 5 minutes.",
+                "Every 10 minutes.",
+                "Every 15 minutes."
+              ],
+              "correctAnswer": "Every 10 minutes.",
+              "variables": {
+                "a": "How often does the No. 1 bus run?"
+              }
+            },
+            {
+              "answerOptions": [
+                "By car.",
+                "By air.",
+                "By train."
+              ],
+              "correctAnswer": "By train.",
+              "variables": {
+                "a": "How does John's sister come?"
+              }
+            },
+            {
+              "answerOptions": [
+                "At 4:30.",
+                "At 4:20.",
+                "At 4:10."
+              ],
+              "correctAnswer": "At 4:30.",
+              "variables": {
+                "a": "When will John's sister arrive?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Well, do you have anything planned for this Saturday?\nW: Er, I'm kind of busy. Why do you ask?\nM: I was wondering if we could get together and do something, like going to a concert or taking a walk by the lake.\nW: I'd love to, but I'm really busy this weekend.\nM: That's too bad.\nW: I have promised to help with the cleaning of the house at 10:30 in the morning. And then, I have an appointment with the dentist at 12:30 pm.\nM: How about after the dentist's appointment?\nW: Then, I'll have to meet Jim at 4:30 pm to help him with the science project due on Monday morning.\nM: OK, then, maybe some other time.\n{a}",
+          "text_ru": "M: Well, do you have anything planned for this Saturday?\nW: Er, I'm kind of busy. Why do you ask?\nM: I was wondering if we could get together and do something, like going to a concert or taking a walk by the lake.\nW: I'd love to, but I'm really busy this weekend.\nM: That's too bad.\nW: I have promised to help with the cleaning of the house at 10:30 in the morning. And then, I have an appointment with the dentist at 12:30 pm.\nM: How about after the dentist's appointment?\nW: Then, I'll have to meet Jim at 4:30 pm to help him with the science project due on Monday morning.\nM: OK, then, maybe some other time.\n{a}",
+          "text_kz": "M: Well, do you have anything planned for this Saturday?\nW: Er, I'm kind of busy. Why do you ask?\nM: I was wondering if we could get together and do something, like going to a concert or taking a walk by the lake.\nW: I'd love to, but I'm really busy this weekend.\nM: That's too bad.\nW: I have promised to help with the cleaning of the house at 10:30 in the morning. And then, I have an appointment with the dentist at 12:30 pm.\nM: How about after the dentist's appointment?\nW: Then, I'll have to meet Jim at 4:30 pm to help him with the science project due on Monday morning.\nM: OK, then, maybe some other time.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Making an appointment.",
+                "Offering information.",
+                "Asking for permission."
+              ],
+              "correctAnswer": "Making an appointment.",
+              "variables": {
+                "a": "What is the man doing?"
+              }
+            },
+            {
+              "answerOptions": [
+                "10:30 a.m",
+                "12:30 p.m",
+                "4:30 p.m"
+              ],
+              "correctAnswer": "12:30 p.m",
+              "variables": {
+                "a": "What time is the woman going to see the dentist this Saturday?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Clean the house",
+                "Take a walk by the lake",
+                "Help Jim with his science project."
+              ],
+              "correctAnswer": "Help Jim with his science project.",
+              "variables": {
+                "a": "What ie the woman going to do after seeing the dentist?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Why weren't you at the German class last night, Tom? Have you given up?\nM: Well, no...I came back late yesterday and found John sleeping in the chair. He'd been writing a report all day long and he was too tired to go out again, so we gave the lesson a miss.\nW: You've missed quite a lot of lessons lately, haven't you? Are you losing interest?\nM: Yes, I'm afraid so. Neither John nor I have a gift for language. People just laugh at us when we attempt to speak German. How did you and Jane pick it up so quickly and easily? You've hardly been in Germany a month.\nW: It was neither quick nor easy. We'd both studied the language before we came, and we only needed to revise it.\nM: Anyway, all our friends here speak English very well, so we don't really need to learn German.\n{a}",
+          "text_ru": "W: Why weren't you at the German class last night, Tom? Have you given up?\nM: Well, no...I came back late yesterday and found John sleeping in the chair. He'd been writing a report all day long and he was too tired to go out again, so we gave the lesson a miss.\nW: You've missed quite a lot of lessons lately, haven't you? Are you losing interest?\nM: Yes, I'm afraid so. Neither John nor I have a gift for language. People just laugh at us when we attempt to speak German. How did you and Jane pick it up so quickly and easily? You've hardly been in Germany a month.\nW: It was neither quick nor easy. We'd both studied the language before we came, and we only needed to revise it.\nM: Anyway, all our friends here speak English very well, so we don't really need to learn German.\n{a}",
+          "text_kz": "W: Why weren't you at the German class last night, Tom? Have you given up?\nM: Well, no...I came back late yesterday and found John sleeping in the chair. He'd been writing a report all day long and he was too tired to go out again, so we gave the lesson a miss.\nW: You've missed quite a lot of lessons lately, haven't you? Are you losing interest?\nM: Yes, I'm afraid so. Neither John nor I have a gift for language. People just laugh at us when we attempt to speak German. How did you and Jane pick it up so quickly and easily? You've hardly been in Germany a month.\nW: It was neither quick nor easy. We'd both studied the language before we came, and we only needed to revise it.\nM: Anyway, all our friends here speak English very well, so we don't really need to learn German.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Teacher and student.",
+                "Mother and son.",
+                "Classmates."
+              ],
+              "correctAnswer": "Classmates.",
+              "variables": {
+                "a": "What's the relationship between the woman and the man?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He came back late and his friend was tired.",
+                "He had given it up.",
+                "He had been writing reports all day long."
+              ],
+              "correctAnswer": "He came back late and his friend was tired.",
+              "variables": {
+                "a": "Why didn't the man come to the class last night?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He is interested in learning foreign languages.",
+                "He can communicate with his friends in English.",
+                "He had studied the language before he came."
+              ],
+              "correctAnswer": "He can communicate with his friends in English.",
+              "variables": {
+                "a": "What can we know about the man?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Morning. Gall. Did you enjoy your holiday in the country?\nM: Yes. We had a great time. And some friends went along with us.\nW: Where did you stay? In a hotel?\nM: No. We camped in the mountains, near Snowdon. We cooked all our meals over an open fire.\nW: Sounds great. Was the weather good?\nM: The sun shone nearly every day and it didn't rain at all.\nW: Did you like the people there?\nM: Yes, they were friendly. We met some farmers and had tea in their houses.\n{a}",
+          "text_ru": "W: Morning. Gall. Did you enjoy your holiday in the country?\nM: Yes. We had a great time. And some friends went along with us.\nW: Where did you stay? In a hotel?\nM: No. We camped in the mountains, near Snowdon. We cooked all our meals over an open fire.\nW: Sounds great. Was the weather good?\nM: The sun shone nearly every day and it didn't rain at all.\nW: Did you like the people there?\nM: Yes, they were friendly. We met some farmers and had tea in their houses.\n{a}",
+          "text_kz": "W: Morning. Gall. Did you enjoy your holiday in the country?\nM: Yes. We had a great time. And some friends went along with us.\nW: Where did you stay? In a hotel?\nM: No. We camped in the mountains, near Snowdon. We cooked all our meals over an open fire.\nW: Sounds great. Was the weather good?\nM: The sun shone nearly every day and it didn't rain at all.\nW: Did you like the people there?\nM: Yes, they were friendly. We met some farmers and had tea in their houses.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In a farm house.",
+                "In the open.",
+                "At a hotel."
+              ],
+              "correctAnswer": "In the open.",
+              "variables": {
+                "a": "Where did Gail spend the nights in the country?"
+              }
+            },
+            {
+              "answerOptions": [
+                "It snowed a lot.",
+                "It rained nearly every day.",
+                "There was a lot of sunshine."
+              ],
+              "correctAnswer": "There was a lot of sunshine.",
+              "variables": {
+                "a": "What was the weather like in the country?"
+              }
+            },
+            {
+              "answerOptions": [
+                "They were tall.",
+                "They were strange.",
+                "They were friendly"
+              ],
+              "correctAnswer": "They were friendly",
+              "variables": {
+                "a": "What did Gail think of the people in the country?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: What seems to be the matter?\nW: I just can't sleep well, doctor.\nM: I see. And how long have you had this problem?\nW: Oh, for about two weeks now.\nM: Two weeks. Do you have headaches?\nW: Sometimes.\nM: Fever?\nW: No.\nM: Are you having any family problems?\nW: No, not really. We all get along pretty well.\nM: And how about work?\nW: Well, I've been working a lot lately... more than 11 hours a day.\nM: Maybe you should take a vacation and just rest for a few days.\nW: Well, I can't right now. We're in the middle of some important business.\nM: Yes, I understand, but you really need to slow down. You're going to kill yourself if you go on like this.\n{a}",
+          "text_ru": "M: What seems to be the matter?\nW: I just can't sleep well, doctor.\nM: I see. And how long have you had this problem?\nW: Oh, for about two weeks now.\nM: Two weeks. Do you have headaches?\nW: Sometimes.\nM: Fever?\nW: No.\nM: Are you having any family problems?\nW: No, not really. We all get along pretty well.\nM: And how about work?\nW: Well, I've been working a lot lately... more than 11 hours a day.\nM: Maybe you should take a vacation and just rest for a few days.\nW: Well, I can't right now. We're in the middle of some important business.\nM: Yes, I understand, but you really need to slow down. You're going to kill yourself if you go on like this.\n{a}",
+          "text_kz": "M: What seems to be the matter?\nW: I just can't sleep well, doctor.\nM: I see. And how long have you had this problem?\nW: Oh, for about two weeks now.\nM: Two weeks. Do you have headaches?\nW: Sometimes.\nM: Fever?\nW: No.\nM: Are you having any family problems?\nW: No, not really. We all get along pretty well.\nM: And how about work?\nW: Well, I've been working a lot lately... more than 11 hours a day.\nM: Maybe you should take a vacation and just rest for a few days.\nW: Well, I can't right now. We're in the middle of some important business.\nM: Yes, I understand, but you really need to slow down. You're going to kill yourself if you go on like this.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In a company.",
+                "In a factory.",
+                "In a hospital."
+              ],
+              "correctAnswer": "In a hospital.",
+              "variables": {
+                "a": "Where does the conversation take place?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Because she has been working too hard.",
+                "Because she has a family problem.",
+                "Because she has a high fever."
+              ],
+              "correctAnswer": "Because she has been working too hard.",
+              "variables": {
+                "a": "Why can't the woman sleep well?"
+              }
+            },
+            {
+              "answerOptions": [
+                "She should take some medicine.",
+                "She should take holidays.",
+                "She should change a job."
+              ],
+              "correctAnswer": "She should take holidays.",
+              "variables": {
+                "a": "What does the doctor suggest that the woman should do?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Good morning! What can I do for you, Madam?\nW: Good morning! I'm looking for a coat.\nM: What color would you like?\nW: Could you show me some? I'd like a middle sized red coat.\nM: Sorry. We haven't anything in your size.\nW: Do you have a smaller size?\nM: I'm sorry. The small size coats have just been sold out. What about the blue one? It looks nice and maybe fits you.\nW: Well, may I try it on?\nM: Yes, please.\nW: It seems nice on me. How much is it?\nM: 168 yuan.\nW: OK. Here is 170 yuan. You keep the change please!\nM: Thanks.\n{a}",
+          "text_ru": "M: Good morning! What can I do for you, Madam?\nW: Good morning! I'm looking for a coat.\nM: What color would you like?\nW: Could you show me some? I'd like a middle sized red coat.\nM: Sorry. We haven't anything in your size.\nW: Do you have a smaller size?\nM: I'm sorry. The small size coats have just been sold out. What about the blue one? It looks nice and maybe fits you.\nW: Well, may I try it on?\nM: Yes, please.\nW: It seems nice on me. How much is it?\nM: 168 yuan.\nW: OK. Here is 170 yuan. You keep the change please!\nM: Thanks.\n{a}",
+          "text_kz": "M: Good morning! What can I do for you, Madam?\nW: Good morning! I'm looking for a coat.\nM: What color would you like?\nW: Could you show me some? I'd like a middle sized red coat.\nM: Sorry. We haven't anything in your size.\nW: Do you have a smaller size?\nM: I'm sorry. The small size coats have just been sold out. What about the blue one? It looks nice and maybe fits you.\nW: Well, may I try it on?\nM: Yes, please.\nW: It seems nice on me. How much is it?\nM: 168 yuan.\nW: OK. Here is 170 yuan. You keep the change please!\nM: Thanks.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "A sweater.",
+                "A shirt.",
+                "A coat."
+              ],
+              "correctAnswer": "A coat.",
+              "variables": {
+                "a": "What is the woman going to buy?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Red.",
+                "Blue.",
+                "Green."
+              ],
+              "correctAnswer": "Blue.",
+              "variables": {
+                "a": "Which color coat does she finally buy?"
+              }
+            },
+            {
+              "answerOptions": [
+                "170 yuan.",
+                "168 yuan.",
+                "186 yuan."
+              ],
+              "correctAnswer": "170 yuan.",
+              "variables": {
+                "a": "How much does the woman pay?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "M: Any messages, Miss Grey?\nW: Just one, Mr. Blank. You had a telephone call from someone called Brown, David Brown.\nM: Brown? I don't seem to know anyone called Brown. What did he say?\nW: He wouldn't say. But it sounded important. I told him you'd phone him as soon as you got back.\nM: Well, I'd better do it then, I suppose. Er...you've got his phone number, haven't you?\nW: Yes, it's 633201.\nM: 622301.\nW: No, 633201.\nM: Oh, I'd better write it down, otherwise I'll probably forget it.\nW: I have already done it, Mr. Blank. It's on your desk.\n{a}",
+          "text_ru": "M: Any messages, Miss Grey?\nW: Just one, Mr. Blank. You had a telephone call from someone called Brown, David Brown.\nM: Brown? I don't seem to know anyone called Brown. What did he say?\nW: He wouldn't say. But it sounded important. I told him you'd phone him as soon as you got back.\nM: Well, I'd better do it then, I suppose. Er...you've got his phone number, haven't you?\nW: Yes, it's 633201.\nM: 622301.\nW: No, 633201.\nM: Oh, I'd better write it down, otherwise I'll probably forget it.\nW: I have already done it, Mr. Blank. It's on your desk.\n{a}",
+          "text_kz": "M: Any messages, Miss Grey?\nW: Just one, Mr. Blank. You had a telephone call from someone called Brown, David Brown.\nM: Brown? I don't seem to know anyone called Brown. What did he say?\nW: He wouldn't say. But it sounded important. I told him you'd phone him as soon as you got back.\nM: Well, I'd better do it then, I suppose. Er...you've got his phone number, haven't you?\nW: Yes, it's 633201.\nM: 622301.\nW: No, 633201.\nM: Oh, I'd better write it down, otherwise I'll probably forget it.\nW: I have already done it, Mr. Blank. It's on your desk.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "Boss and secretary.",
+                "Father and daughter.",
+                "Manager and customer."
+              ],
+              "correctAnswer": "Boss and secretary.",
+              "variables": {
+                "a": "What is the probable relationship between the two speakers?"
+              }
+            },
+            {
+              "answerOptions": [
+                "633001.",
+                "622301.",
+                "633201."
+              ],
+              "correctAnswer": "633201.",
+              "variables": {
+                "a": "What is David Brown's phone number?"
+              }
+            },
+            {
+              "answerOptions": [
+                "On Miss Grey's desk.",
+                "On Mr. Blank's desk.",
+                "On Mr. Brown's desk."
+              ],
+              "correctAnswer": "On Mr. Blank's desk.",
+              "variables": {
+                "a": "Where is the phone number?"
+              }
+            }
+          ]
+        },
+        {
+          "text_en": "W: Andrew, you're quite a hero, aren't you?\nM: Am I? I didn't know.\nW: Have you ever been on the radio before?\nM: No, not really. I mean I've never found so much money before.\nW: Tell me what happened that morning.\nM: Well, I collected my newspapers at about 8 o'clock and started my pa- per around. I went past the phone box and I saw this black bag in one comer. I got off my bike to have a better look. It was just an ordinary case. So I decided to find out who it belonged to.\nW: When did you realize it was money?\nM: As soon as I opened it.\nW: What did you do next?\nM: I rushed out of the box, went to the nearest house, and phoned the police.\nW: what did the police do with the bag?\nM: I didn't stay to find out. I had to go and continue the delivery of my newspapers.\nW: Were you late for school?\nM: Only about five minutes. Nobody seemed to mind.\n{a}",
+          "text_ru": "W: Andrew, you're quite a hero, aren't you?\nM: Am I? I didn't know.\nW: Have you ever been on the radio before?\nM: No, not really. I mean I've never found so much money before.\nW: Tell me what happened that morning.\nM: Well, I collected my newspapers at about 8 o'clock and started my pa- per around. I went past the phone box and I saw this black bag in one comer. I got off my bike to have a better look. It was just an ordinary case. So I decided to find out who it belonged to.\nW: When did you realize it was money?\nM: As soon as I opened it.\nW: What did you do next?\nM: I rushed out of the box, went to the nearest house, and phoned the police.\nW: what did the police do with the bag?\nM: I didn't stay to find out. I had to go and continue the delivery of my newspapers.\nW: Were you late for school?\nM: Only about five minutes. Nobody seemed to mind.\n{a}",
+          "text_kz": "W: Andrew, you're quite a hero, aren't you?\nM: Am I? I didn't know.\nW: Have you ever been on the radio before?\nM: No, not really. I mean I've never found so much money before.\nW: Tell me what happened that morning.\nM: Well, I collected my newspapers at about 8 o'clock and started my pa- per around. I went past the phone box and I saw this black bag in one comer. I got off my bike to have a better look. It was just an ordinary case. So I decided to find out who it belonged to.\nW: When did you realize it was money?\nM: As soon as I opened it.\nW: What did you do next?\nM: I rushed out of the box, went to the nearest house, and phoned the police.\nW: what did the police do with the bag?\nM: I didn't stay to find out. I had to go and continue the delivery of my newspapers.\nW: Were you late for school?\nM: Only about five minutes. Nobody seemed to mind.\n{a}",
+          "instances": [
+            {
+              "answerOptions": [
+                "In a phone box",
+                "On his way to school",
+                "Outside the newspaper office"
+              ],
+              "correctAnswer": "In a phone box",
+              "variables": {
+                "a": "Where did Andrew find the money?"
+              }
+            },
+            {
+              "answerOptions": [
+                "Took the money to a nearby bank",
+                "Reported to the police",
+                "Looked for the owner"
+              ],
+              "correctAnswer": "Reported to the police",
+              "variables": {
+                "a": "What did Andrew do after he found the money?"
+              }
+            },
+            {
+              "answerOptions": [
+                "He sold newspapers",
+                "He worked as a radio reporter",
+                "He worked part-time before class"
+              ],
+              "correctAnswer": "He worked part-time before class",
+              "variables": {
+                "a": "What is true about Andrew?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

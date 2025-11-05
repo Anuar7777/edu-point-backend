@@ -4,7 +4,7 @@ import { UserCourse } from '@prisma/client'
 
 @Injectable()
 export class UserCourseService {
-	constructor(private prisma: PrismaService) {}
+	constructor(private readonly prisma: PrismaService) {}
 
 	async get(userId: string, courseId: string) {
 		const userCourse = await this.prisma.userCourse.findUnique({
