@@ -1,5 +1,5 @@
 {
-  "courseId": "1a19ee90-13c3-4c5f-aeee-d6f250b4d038",
+  "courseId": "381e4475-54fb-4aff-ab39-0903bd63aebb",
   "title": "Everyday English Course 41",
   "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
   "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
@@ -10,9 +10,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "W: I missed the weather report this morning. What did it say?\nM: Cloudy, with a strong wind from the north. The highest temperature during the day will be two below zero. At night it will drop to ten below zero.\n{a}",
-          "text_ru": "W: I missed the weather report this morning. What did it say?\nM: Cloudy, with a strong wind from the north. The highest temperature during the day will be two below zero. At night it will drop to ten below zero.\n{a}",
-          "text_kz": "W: I missed the weather report this morning. What did it say?\nM: Cloudy, with a strong wind from the north. The highest temperature during the day will be two below zero. At night it will drop to ten below zero.\n{a}",
+          "text": "W: I missed the weather report this morning. What did it say?\nM: Cloudy, with a strong wind from the north. The highest temperature during the day will be two below zero. At night it will drop to ten below zero.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -28,9 +26,7 @@
           ]
         },
         {
-          "text_en": "W: This is my house. You can't do anything against my wishes. You can't put your feet on my chairs. You can't stay out late at night. You can't ask friends to dinner in the house. You must pay me at the beginning of every month but not at the end.\nM: OK. I won't do anything against your wishes.\n{a}",
-          "text_ru": "W: This is my house. You can't do anything against my wishes. You can't put your feet on my chairs. You can't stay out late at night. You can't ask friends to dinner in the house. You must pay me at the beginning of every month but not at the end.\nM: OK. I won't do anything against your wishes.\n{a}",
-          "text_kz": "W: This is my house. You can't do anything against my wishes. You can't put your feet on my chairs. You can't stay out late at night. You can't ask friends to dinner in the house. You must pay me at the beginning of every month but not at the end.\nM: OK. I won't do anything against your wishes.\n{a}",
+          "text": "W: This is my house. You can't do anything against my wishes. You can't put your feet on my chairs. You can't stay out late at night. You can't ask friends to dinner in the house. You must pay me at the beginning of every month but not at the end.\nM: OK. I won't do anything against your wishes.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -46,9 +42,7 @@
           ]
         },
         {
-          "text_en": "F: Don't you think the radio is too noisy?\nM: Yes, ask Lucy to turn it down.\n{a}",
-          "text_ru": "F: Don't you think the radio is too noisy?\nM: Yes, ask Lucy to turn it down.\n{a}",
-          "text_kz": "F: Don't you think the radio is too noisy?\nM: Yes, ask Lucy to turn it down.\n{a}",
+          "text": "F: Don't you think the radio is too noisy?\nM: Yes, ask Lucy to turn it down.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -64,9 +58,7 @@
           ]
         },
         {
-          "text_en": "M: What are you going to do this summer vacation?\nW: I want to have a trip to Beijing because I have never been there. But my mother wants me to stay at home and study since I am going to take the National Entrance Examination next year.\n{a}",
-          "text_ru": "M: What are you going to do this summer vacation?\nW: I want to have a trip to Beijing because I have never been there. But my mother wants me to stay at home and study since I am going to take the National Entrance Examination next year.\n{a}",
-          "text_kz": "M: What are you going to do this summer vacation?\nW: I want to have a trip to Beijing because I have never been there. But my mother wants me to stay at home and study since I am going to take the National Entrance Examination next year.\n{a}",
+          "text": "M: What are you going to do this summer vacation?\nW: I want to have a trip to Beijing because I have never been there. But my mother wants me to stay at home and study since I am going to take the National Entrance Examination next year.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -82,9 +74,7 @@
           ]
         },
         {
-          "text_en": "W: Sorry, sir, we are working on your order now and will be delivering it soon.\nM: Soon? How soon is soon?\n{a}",
-          "text_ru": "W: Sorry, sir, we are working on your order now and will be delivering it soon.\nM: Soon? How soon is soon?\n{a}",
-          "text_kz": "W: Sorry, sir, we are working on your order now and will be delivering it soon.\nM: Soon? How soon is soon?\n{a}",
+          "text": "W: Sorry, sir, we are working on your order now and will be delivering it soon.\nM: Soon? How soon is soon?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -100,9 +90,7 @@
           ]
         },
         {
-          "text_en": "W: Hey, why can't we go to see the play in Sunday?\nM: Because the weather report says it will be rainy on Sunday.\n{a}",
-          "text_ru": "W: Hey, why can't we go to see the play in Sunday?\nM: Because the weather report says it will be rainy on Sunday.\n{a}",
-          "text_kz": "W: Hey, why can't we go to see the play in Sunday?\nM: Because the weather report says it will be rainy on Sunday.\n{a}",
+          "text": "W: Hey, why can't we go to see the play in Sunday?\nM: Because the weather report says it will be rainy on Sunday.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -118,9 +106,7 @@
           ]
         },
         {
-          "text_en": "M: I think one of my favorite places is a little jazz bar downtown called the Music Box.\nW: The Music Box?\nM: Yeah, it's a really popular place for office workers after hours and students, especially on weekends.\n{a}",
-          "text_ru": "M: I think one of my favorite places is a little jazz bar downtown called the Music Box.\nW: The Music Box?\nM: Yeah, it's a really popular place for office workers after hours and students, especially on weekends.\n{a}",
-          "text_kz": "M: I think one of my favorite places is a little jazz bar downtown called the Music Box.\nW: The Music Box?\nM: Yeah, it's a really popular place for office workers after hours and students, especially on weekends.\n{a}",
+          "text": "M: I think one of my favorite places is a little jazz bar downtown called the Music Box.\nW: The Music Box?\nM: Yeah, it's a really popular place for office workers after hours and students, especially on weekends.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -136,9 +122,7 @@
           ]
         },
         {
-          "text_en": "W: Why don't you eat your apple?\nM: My teeth are bad.\n{a}",
-          "text_ru": "W: Why don't you eat your apple?\nM: My teeth are bad.\n{a}",
-          "text_kz": "W: Why don't you eat your apple?\nM: My teeth are bad.\n{a}",
+          "text": "W: Why don't you eat your apple?\nM: My teeth are bad.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -154,9 +138,7 @@
           ]
         },
         {
-          "text_en": "W: Bob said that Seattle is a great place for conferences.\nM: He is certainly in the position to make that comment. HE has been there so often.\n{a}",
-          "text_ru": "W: Bob said that Seattle is a great place for conferences.\nM: He is certainly in the position to make that comment. HE has been there so often.\n{a}",
-          "text_kz": "W: Bob said that Seattle is a great place for conferences.\nM: He is certainly in the position to make that comment. HE has been there so often.\n{a}",
+          "text": "W: Bob said that Seattle is a great place for conferences.\nM: He is certainly in the position to make that comment. HE has been there so often.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -172,9 +154,7 @@
           ]
         },
         {
-          "text_en": "M: How do you like your neighbors?\nW: The old man looks very serious and I've never seen him smile. The old lady is so kind.\n{a}",
-          "text_ru": "M: How do you like your neighbors?\nW: The old man looks very serious and I've never seen him smile. The old lady is so kind.\n{a}",
-          "text_kz": "M: How do you like your neighbors?\nW: The old man looks very serious and I've never seen him smile. The old lady is so kind.\n{a}",
+          "text": "M: How do you like your neighbors?\nW: The old man looks very serious and I've never seen him smile. The old lady is so kind.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -196,9 +176,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: How much does one ticket cost?\nW: Two dollars for the general public, but children tickets are half price.\n{a}",
-          "text_ru": "M: How much does one ticket cost?\nW: Two dollars for the general public, but children tickets are half price.\n{a}",
-          "text_kz": "M: How much does one ticket cost?\nW: Two dollars for the general public, but children tickets are half price.\n{a}",
+          "text": "M: How much does one ticket cost?\nW: Two dollars for the general public, but children tickets are half price.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -214,9 +192,7 @@
           ]
         },
         {
-          "text_en": "F: Will you be free this evening?\nM: I'm afraid not. I'll have a maths test tomorrow.\n{a}",
-          "text_ru": "F: Will you be free this evening?\nM: I'm afraid not. I'll have a maths test tomorrow.\n{a}",
-          "text_kz": "F: Will you be free this evening?\nM: I'm afraid not. I'll have a maths test tomorrow.\n{a}",
+          "text": "F: Will you be free this evening?\nM: I'm afraid not. I'll have a maths test tomorrow.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -232,9 +208,7 @@
           ]
         },
         {
-          "text_en": "W: Did you hear that Anna needs to stay in bed for 4 weeks?\nM: Yeah. She injured her spine in a fall and a doctor told her to lie flat on her back for a month so it can mend.\n{a}",
-          "text_ru": "W: Did you hear that Anna needs to stay in bed for 4 weeks?\nM: Yeah. She injured her spine in a fall and a doctor told her to lie flat on her back for a month so it can mend.\n{a}",
-          "text_kz": "W: Did you hear that Anna needs to stay in bed for 4 weeks?\nM: Yeah. She injured her spine in a fall and a doctor told her to lie flat on her back for a month so it can mend.\n{a}",
+          "text": "W: Did you hear that Anna needs to stay in bed for 4 weeks?\nM: Yeah. She injured her spine in a fall and a doctor told her to lie flat on her back for a month so it can mend.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -250,9 +224,7 @@
           ]
         },
         {
-          "text_en": "M: I don't understand why the neighbors are moving our so soon. They just moved into the flat last month.\nW: The landlord has refused to mend the thing he promised to before they moved in.\n{a}",
-          "text_ru": "M: I don't understand why the neighbors are moving our so soon. They just moved into the flat last month.\nW: The landlord has refused to mend the thing he promised to before they moved in.\n{a}",
-          "text_kz": "M: I don't understand why the neighbors are moving our so soon. They just moved into the flat last month.\nW: The landlord has refused to mend the thing he promised to before they moved in.\n{a}",
+          "text": "M: I don't understand why the neighbors are moving our so soon. They just moved into the flat last month.\nW: The landlord has refused to mend the thing he promised to before they moved in.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -268,9 +240,7 @@
           ]
         },
         {
-          "text_en": "W: It's nearly ten o'clock. Let's listen to the weather forecast.\nM: Here is the weather forecast: Fog is spreading from the east and it'll affect all areas by midnight. It will be heavy in some places.\n{a}",
-          "text_ru": "W: It's nearly ten o'clock. Let's listen to the weather forecast.\nM: Here is the weather forecast: Fog is spreading from the east and it'll affect all areas by midnight. It will be heavy in some places.\n{a}",
-          "text_kz": "W: It's nearly ten o'clock. Let's listen to the weather forecast.\nM: Here is the weather forecast: Fog is spreading from the east and it'll affect all areas by midnight. It will be heavy in some places.\n{a}",
+          "text": "W: It's nearly ten o'clock. Let's listen to the weather forecast.\nM: Here is the weather forecast: Fog is spreading from the east and it'll affect all areas by midnight. It will be heavy in some places.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -286,9 +256,7 @@
           ]
         },
         {
-          "text_en": "W: Good morning. I'm here to see Mr. Smith.\nM: Mr. Smith will not be back until Thursday night. You may come then.\n{a}",
-          "text_ru": "W: Good morning. I'm here to see Mr. Smith.\nM: Mr. Smith will not be back until Thursday night. You may come then.\n{a}",
-          "text_kz": "W: Good morning. I'm here to see Mr. Smith.\nM: Mr. Smith will not be back until Thursday night. You may come then.\n{a}",
+          "text": "W: Good morning. I'm here to see Mr. Smith.\nM: Mr. Smith will not be back until Thursday night. You may come then.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -304,9 +272,7 @@
           ]
         },
         {
-          "text_en": "W: I really can't like the way Tom controls the conversation all the time. If he is going to be in the Christmas party, I just wouldn't come.\nM: I'm sorry you feel that way. But my mother insists that he come.\n{a}",
-          "text_ru": "W: I really can't like the way Tom controls the conversation all the time. If he is going to be in the Christmas party, I just wouldn't come.\nM: I'm sorry you feel that way. But my mother insists that he come.\n{a}",
-          "text_kz": "W: I really can't like the way Tom controls the conversation all the time. If he is going to be in the Christmas party, I just wouldn't come.\nM: I'm sorry you feel that way. But my mother insists that he come.\n{a}",
+          "text": "W: I really can't like the way Tom controls the conversation all the time. If he is going to be in the Christmas party, I just wouldn't come.\nM: I'm sorry you feel that way. But my mother insists that he come.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -322,9 +288,7 @@
           ]
         },
         {
-          "text_en": "M: We are famous for our barbecue pork with rice. Would you like to have some?\nW: Er... I don't think so. I am not a big fan of Barbarella pork.\n{a}",
-          "text_ru": "M: We are famous for our barbecue pork with rice. Would you like to have some?\nW: Er... I don't think so. I am not a big fan of Barbarella pork.\n{a}",
-          "text_kz": "M: We are famous for our barbecue pork with rice. Would you like to have some?\nW: Er... I don't think so. I am not a big fan of Barbarella pork.\n{a}",
+          "text": "M: We are famous for our barbecue pork with rice. Would you like to have some?\nW: Er... I don't think so. I am not a big fan of Barbarella pork.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -340,9 +304,7 @@
           ]
         },
         {
-          "text_en": "W: I was hoping that you'd wear your new dress. It's much prettier.\nM: But this one is more comfortable for hot weather.\n{a}",
-          "text_ru": "W: I was hoping that you'd wear your new dress. It's much prettier.\nM: But this one is more comfortable for hot weather.\n{a}",
-          "text_kz": "W: I was hoping that you'd wear your new dress. It's much prettier.\nM: But this one is more comfortable for hot weather.\n{a}",
+          "text": "W: I was hoping that you'd wear your new dress. It's much prettier.\nM: But this one is more comfortable for hot weather.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -358,9 +320,7 @@
           ]
         },
         {
-          "text_en": "F: Men have been to the moon in a spaceship. Is that right?\nM: Yes. But men have never traveled to other planets.\n{a}",
-          "text_ru": "F: Men have been to the moon in a spaceship. Is that right?\nM: Yes. But men have never traveled to other planets.\n{a}",
-          "text_kz": "F: Men have been to the moon in a spaceship. Is that right?\nM: Yes. But men have never traveled to other planets.\n{a}",
+          "text": "F: Men have been to the moon in a spaceship. Is that right?\nM: Yes. But men have never traveled to other planets.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -382,9 +342,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: The Variety Theatre finally went out of business.\nW: Well, that's not a surprise. It was the worst one in town.\n{a}",
-          "text_ru": "M: The Variety Theatre finally went out of business.\nW: Well, that's not a surprise. It was the worst one in town.\n{a}",
-          "text_kz": "M: The Variety Theatre finally went out of business.\nW: Well, that's not a surprise. It was the worst one in town.\n{a}",
+          "text": "M: The Variety Theatre finally went out of business.\nW: Well, that's not a surprise. It was the worst one in town.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -400,9 +358,7 @@
           ]
         },
         {
-          "text_en": "M: It was the third time Rodger had phoned me to say he had a new job.\nW: It's difficult to keep a young man in one job for life nowadays.\n{a}",
-          "text_ru": "M: It was the third time Rodger had phoned me to say he had a new job.\nW: It's difficult to keep a young man in one job for life nowadays.\n{a}",
-          "text_kz": "M: It was the third time Rodger had phoned me to say he had a new job.\nW: It's difficult to keep a young man in one job for life nowadays.\n{a}",
+          "text": "M: It was the third time Rodger had phoned me to say he had a new job.\nW: It's difficult to keep a young man in one job for life nowadays.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -418,9 +374,7 @@
           ]
         },
         {
-          "text_en": "W: What are the things in our our suitcase? There aren't any toys at all. Where have you put them?\nM: Oh, no. This is not our suitcase. The old lady must have taken ours bymistake. She was sitting next to us at the restaurant.\n{a}",
-          "text_ru": "W: What are the things in our our suitcase? There aren't any toys at all. Where have you put them?\nM: Oh, no. This is not our suitcase. The old lady must have taken ours bymistake. She was sitting next to us at the restaurant.\n{a}",
-          "text_kz": "W: What are the things in our our suitcase? There aren't any toys at all. Where have you put them?\nM: Oh, no. This is not our suitcase. The old lady must have taken ours bymistake. She was sitting next to us at the restaurant.\n{a}",
+          "text": "W: What are the things in our our suitcase? There aren't any toys at all. Where have you put them?\nM: Oh, no. This is not our suitcase. The old lady must have taken ours bymistake. She was sitting next to us at the restaurant.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -436,9 +390,7 @@
           ]
         },
         {
-          "text_en": "M: So how is your new roommate?\nW: She really makes me angry.\nM: What happened?\nW: She's always making loud noises at midnight. When I remind her, she's always rude.\n{a}",
-          "text_ru": "M: So how is your new roommate?\nW: She really makes me angry.\nM: What happened?\nW: She's always making loud noises at midnight. When I remind her, she's always rude.\n{a}",
-          "text_kz": "M: So how is your new roommate?\nW: She really makes me angry.\nM: What happened?\nW: She's always making loud noises at midnight. When I remind her, she's always rude.\n{a}",
+          "text": "M: So how is your new roommate?\nW: She really makes me angry.\nM: What happened?\nW: She's always making loud noises at midnight. When I remind her, she's always rude.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -454,9 +406,7 @@
           ]
         },
         {
-          "text_en": "F: What a terrible day!\nM: Yes, I feel like in fire!\n{a}",
-          "text_ru": "F: What a terrible day!\nM: Yes, I feel like in fire!\n{a}",
-          "text_kz": "F: What a terrible day!\nM: Yes, I feel like in fire!\n{a}",
+          "text": "F: What a terrible day!\nM: Yes, I feel like in fire!\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -472,9 +422,7 @@
           ]
         },
         {
-          "text_en": "W: When did you start your work last night?\nM: I began to work after the TV news finished.\n{a}",
-          "text_ru": "W: When did you start your work last night?\nM: I began to work after the TV news finished.\n{a}",
-          "text_kz": "W: When did you start your work last night?\nM: I began to work after the TV news finished.\n{a}",
+          "text": "W: When did you start your work last night?\nM: I began to work after the TV news finished.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -490,9 +438,7 @@
           ]
         },
         {
-          "text_en": "W: I really like those abstract paintings we saw yesterday. What do you think?\nM: I guess it's something I haven't acquired a taste for yet.\n{a}",
-          "text_ru": "W: I really like those abstract paintings we saw yesterday. What do you think?\nM: I guess it's something I haven't acquired a taste for yet.\n{a}",
-          "text_kz": "W: I really like those abstract paintings we saw yesterday. What do you think?\nM: I guess it's something I haven't acquired a taste for yet.\n{a}",
+          "text": "W: I really like those abstract paintings we saw yesterday. What do you think?\nM: I guess it's something I haven't acquired a taste for yet.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -508,9 +454,7 @@
           ]
         },
         {
-          "text_en": "W: If Professor Thomas is willing to give us a three-day extension to finish the project, maybe he'll give us a few more days.\nM: Let's not push our luck, OK?\n{a}",
-          "text_ru": "W: If Professor Thomas is willing to give us a three-day extension to finish the project, maybe he'll give us a few more days.\nM: Let's not push our luck, OK?\n{a}",
-          "text_kz": "W: If Professor Thomas is willing to give us a three-day extension to finish the project, maybe he'll give us a few more days.\nM: Let's not push our luck, OK?\n{a}",
+          "text": "W: If Professor Thomas is willing to give us a three-day extension to finish the project, maybe he'll give us a few more days.\nM: Let's not push our luck, OK?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -526,9 +470,7 @@
           ]
         },
         {
-          "text_en": "W: Gorge, look at the long waiting line. I am glad you've made a reservation.\nM: More and more people enjoy eating out now. Beside, this place is especially popular with the overseas students.\n{a}",
-          "text_ru": "W: Gorge, look at the long waiting line. I am glad you've made a reservation.\nM: More and more people enjoy eating out now. Beside, this place is especially popular with the overseas students.\n{a}",
-          "text_kz": "W: Gorge, look at the long waiting line. I am glad you've made a reservation.\nM: More and more people enjoy eating out now. Beside, this place is especially popular with the overseas students.\n{a}",
+          "text": "W: Gorge, look at the long waiting line. I am glad you've made a reservation.\nM: More and more people enjoy eating out now. Beside, this place is especially popular with the overseas students.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -544,9 +486,7 @@
           ]
         },
         {
-          "text_en": "W: Could you please turn down your TV a little?\nM: Sorry! Are you still preparing for the final exam?\n{a}",
-          "text_ru": "W: Could you please turn down your TV a little?\nM: Sorry! Are you still preparing for the final exam?\n{a}",
-          "text_kz": "W: Could you please turn down your TV a little?\nM: Sorry! Are you still preparing for the final exam?\n{a}",
+          "text": "W: Could you please turn down your TV a little?\nM: Sorry! Are you still preparing for the final exam?\n{a}",
           "instances": [
             {
               "answerOptions": [

@@ -1,5 +1,5 @@
 {
-  "courseId": "5d06e65a-a5af-4611-9656-250cdce01d7a",
+  "courseId": "b3ebfd63-55b7-4c99-87cf-803920385283",
   "title": "Everyday English Course 68",
   "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
   "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
@@ -10,9 +10,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "F: Do you often have something to drink after supper?\nM: Yes, I often drink some coffee after supper.\n{a}",
-          "text_ru": "F: Do you often have something to drink after supper?\nM: Yes, I often drink some coffee after supper.\n{a}",
-          "text_kz": "F: Do you often have something to drink after supper?\nM: Yes, I often drink some coffee after supper.\n{a}",
+          "text": "F: Do you often have something to drink after supper?\nM: Yes, I often drink some coffee after supper.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -28,9 +26,7 @@
           ]
         },
         {
-          "text_en": "W: Harold, could you slow down a little bit?\nM: We're late, Jane. And I'm worried that we might run into traffic around Broadway, so I'm just trying to get there as fast as possible... Oh my God! Did you see what that bus just did?\nW: I knew we should have taken the subway.\n{a}",
-          "text_ru": "W: Harold, could you slow down a little bit?\nM: We're late, Jane. And I'm worried that we might run into traffic around Broadway, so I'm just trying to get there as fast as possible... Oh my God! Did you see what that bus just did?\nW: I knew we should have taken the subway.\n{a}",
-          "text_kz": "W: Harold, could you slow down a little bit?\nM: We're late, Jane. And I'm worried that we might run into traffic around Broadway, so I'm just trying to get there as fast as possible... Oh my God! Did you see what that bus just did?\nW: I knew we should have taken the subway.\n{a}",
+          "text": "W: Harold, could you slow down a little bit?\nM: We're late, Jane. And I'm worried that we might run into traffic around Broadway, so I'm just trying to get there as fast as possible... Oh my God! Did you see what that bus just did?\nW: I knew we should have taken the subway.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -46,9 +42,7 @@
           ]
         },
         {
-          "text_en": "M: How often do you call your parents, Janet? I call mine every Saturday and every Sunday.\nW: I call my parents once a month. But they call me every two weeks.\n{a}",
-          "text_ru": "M: How often do you call your parents, Janet? I call mine every Saturday and every Sunday.\nW: I call my parents once a month. But they call me every two weeks.\n{a}",
-          "text_kz": "M: How often do you call your parents, Janet? I call mine every Saturday and every Sunday.\nW: I call my parents once a month. But they call me every two weeks.\n{a}",
+          "text": "M: How often do you call your parents, Janet? I call mine every Saturday and every Sunday.\nW: I call my parents once a month. But they call me every two weeks.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -64,9 +58,7 @@
           ]
         },
         {
-          "text_en": "W: What a memory I have! I did write down the mobile number on a sheet of paper when I answered the phone this morning, even that Mr. Smith's email address, and now it is nowhere to be found!\nM: Don't worry. I'll be seeing him in an hour. I can ask him for his email address when I see him.\nW: That's very kind of you, Mr. Baker.\n{a}",
-          "text_ru": "W: What a memory I have! I did write down the mobile number on a sheet of paper when I answered the phone this morning, even that Mr. Smith's email address, and now it is nowhere to be found!\nM: Don't worry. I'll be seeing him in an hour. I can ask him for his email address when I see him.\nW: That's very kind of you, Mr. Baker.\n{a}",
-          "text_kz": "W: What a memory I have! I did write down the mobile number on a sheet of paper when I answered the phone this morning, even that Mr. Smith's email address, and now it is nowhere to be found!\nM: Don't worry. I'll be seeing him in an hour. I can ask him for his email address when I see him.\nW: That's very kind of you, Mr. Baker.\n{a}",
+          "text": "W: What a memory I have! I did write down the mobile number on a sheet of paper when I answered the phone this morning, even that Mr. Smith's email address, and now it is nowhere to be found!\nM: Don't worry. I'll be seeing him in an hour. I can ask him for his email address when I see him.\nW: That's very kind of you, Mr. Baker.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -82,9 +74,7 @@
           ]
         },
         {
-          "text_en": "W: If I were you,I'd take the bus to work. Driving in that rush hour traffic is terrible.\nM: But by the time the bus gets to my stop, there aren't any seats left.\n{a}",
-          "text_ru": "W: If I were you,I'd take the bus to work. Driving in that rush hour traffic is terrible.\nM: But by the time the bus gets to my stop, there aren't any seats left.\n{a}",
-          "text_kz": "W: If I were you,I'd take the bus to work. Driving in that rush hour traffic is terrible.\nM: But by the time the bus gets to my stop, there aren't any seats left.\n{a}",
+          "text": "W: If I were you,I'd take the bus to work. Driving in that rush hour traffic is terrible.\nM: But by the time the bus gets to my stop, there aren't any seats left.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -100,9 +90,7 @@
           ]
         },
         {
-          "text_en": "W: In my opinion, watching the news on TV is a good way to learn English. What do you think?\nM: It would be better if you could check the same information in English newspapers afterwards.\n{a}",
-          "text_ru": "W: In my opinion, watching the news on TV is a good way to learn English. What do you think?\nM: It would be better if you could check the same information in English newspapers afterwards.\n{a}",
-          "text_kz": "W: In my opinion, watching the news on TV is a good way to learn English. What do you think?\nM: It would be better if you could check the same information in English newspapers afterwards.\n{a}",
+          "text": "W: In my opinion, watching the news on TV is a good way to learn English. What do you think?\nM: It would be better if you could check the same information in English newspapers afterwards.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -118,9 +106,7 @@
           ]
         },
         {
-          "text_en": "M: What exactly are you looking for?\nW: I am looking for a collection of the 19th century European paintings.\nM: Is it the book on your left, the one with the yellow cover?\nW: Let me see. Yeah, this is what I want. Thanks a lot.\n{a}",
-          "text_ru": "M: What exactly are you looking for?\nW: I am looking for a collection of the 19th century European paintings.\nM: Is it the book on your left, the one with the yellow cover?\nW: Let me see. Yeah, this is what I want. Thanks a lot.\n{a}",
-          "text_kz": "M: What exactly are you looking for?\nW: I am looking for a collection of the 19th century European paintings.\nM: Is it the book on your left, the one with the yellow cover?\nW: Let me see. Yeah, this is what I want. Thanks a lot.\n{a}",
+          "text": "M: What exactly are you looking for?\nW: I am looking for a collection of the 19th century European paintings.\nM: Is it the book on your left, the one with the yellow cover?\nW: Let me see. Yeah, this is what I want. Thanks a lot.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -136,9 +122,7 @@
           ]
         },
         {
-          "text_en": "M: Mum, I'm watching today's football game on tape. If you happen to know the score, please don't tell me.\nW: OK, but you're not going to like it.\n{a}",
-          "text_ru": "M: Mum, I'm watching today's football game on tape. If you happen to know the score, please don't tell me.\nW: OK, but you're not going to like it.\n{a}",
-          "text_kz": "M: Mum, I'm watching today's football game on tape. If you happen to know the score, please don't tell me.\nW: OK, but you're not going to like it.\n{a}",
+          "text": "M: Mum, I'm watching today's football game on tape. If you happen to know the score, please don't tell me.\nW: OK, but you're not going to like it.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -154,9 +138,7 @@
           ]
         },
         {
-          "text_en": "M: My chemistry project is in trouble. My partner and I have totally different ideas about how to proceed.\nW: You should try to meet each other halfway.\n{a}",
-          "text_ru": "M: My chemistry project is in trouble. My partner and I have totally different ideas about how to proceed.\nW: You should try to meet each other halfway.\n{a}",
-          "text_kz": "M: My chemistry project is in trouble. My partner and I have totally different ideas about how to proceed.\nW: You should try to meet each other halfway.\n{a}",
+          "text": "M: My chemistry project is in trouble. My partner and I have totally different ideas about how to proceed.\nW: You should try to meet each other halfway.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -172,9 +154,7 @@
           ]
         },
         {
-          "text_en": "M: I promised my sister that I would attend the show if I didn't have work tomorrow.\nW: Why don't you take me along?\n{a}",
-          "text_ru": "M: I promised my sister that I would attend the show if I didn't have work tomorrow.\nW: Why don't you take me along?\n{a}",
-          "text_kz": "M: I promised my sister that I would attend the show if I didn't have work tomorrow.\nW: Why don't you take me along?\n{a}",
+          "text": "M: I promised my sister that I would attend the show if I didn't have work tomorrow.\nW: Why don't you take me along?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -196,9 +176,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: I am surprised to see you using the record player I was going to throw away!\nW: It still works. You'd better get fid of these wasteful habits.\n{a}",
-          "text_ru": "M: I am surprised to see you using the record player I was going to throw away!\nW: It still works. You'd better get fid of these wasteful habits.\n{a}",
-          "text_kz": "M: I am surprised to see you using the record player I was going to throw away!\nW: It still works. You'd better get fid of these wasteful habits.\n{a}",
+          "text": "M: I am surprised to see you using the record player I was going to throw away!\nW: It still works. You'd better get fid of these wasteful habits.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -214,9 +192,7 @@
           ]
         },
         {
-          "text_en": "M: How did you like yesterday's play?\nW: On the whole, it was quite good. The part of the secretary was played wonderfully, but I think the man who played the boss was too dramatic to be realistic.\n{a}",
-          "text_ru": "M: How did you like yesterday's play?\nW: On the whole, it was quite good. The part of the secretary was played wonderfully, but I think the man who played the boss was too dramatic to be realistic.\n{a}",
-          "text_kz": "M: How did you like yesterday's play?\nW: On the whole, it was quite good. The part of the secretary was played wonderfully, but I think the man who played the boss was too dramatic to be realistic.\n{a}",
+          "text": "M: How did you like yesterday's play?\nW: On the whole, it was quite good. The part of the secretary was played wonderfully, but I think the man who played the boss was too dramatic to be realistic.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -232,9 +208,7 @@
           ]
         },
         {
-          "text_en": "F: I often go out for a walk after supper twice a week. What about you?\nM: Once a week.\n{a}",
-          "text_ru": "F: I often go out for a walk after supper twice a week. What about you?\nM: Once a week.\n{a}",
-          "text_kz": "F: I often go out for a walk after supper twice a week. What about you?\nM: Once a week.\n{a}",
+          "text": "F: I often go out for a walk after supper twice a week. What about you?\nM: Once a week.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -250,9 +224,7 @@
           ]
         },
         {
-          "text_en": "M: I haven't heard from my sister since last month.\nW: Don't worry, Charlie. Letters from the United States can be slow sometimes.\n{a}",
-          "text_ru": "M: I haven't heard from my sister since last month.\nW: Don't worry, Charlie. Letters from the United States can be slow sometimes.\n{a}",
-          "text_kz": "M: I haven't heard from my sister since last month.\nW: Don't worry, Charlie. Letters from the United States can be slow sometimes.\n{a}",
+          "text": "M: I haven't heard from my sister since last month.\nW: Don't worry, Charlie. Letters from the United States can be slow sometimes.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -268,9 +240,7 @@
           ]
         },
         {
-          "text_en": "W: Look! The boy is calling for help.\nM: Oh, yes. He fell into the river.\n{a}",
-          "text_ru": "W: Look! The boy is calling for help.\nM: Oh, yes. He fell into the river.\n{a}",
-          "text_kz": "W: Look! The boy is calling for help.\nM: Oh, yes. He fell into the river.\n{a}",
+          "text": "W: Look! The boy is calling for help.\nM: Oh, yes. He fell into the river.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -286,9 +256,7 @@
           ]
         },
         {
-          "text_en": "W: It is exciting just to think about it! It'll be my first trip to Hawaii. But I may have trouble finding my way around there when I'm there.\nM: Don't worry about that. Just give me a call when you arrive. I'll be glad to show you around.\n{a}",
-          "text_ru": "W: It is exciting just to think about it! It'll be my first trip to Hawaii. But I may have trouble finding my way around there when I'm there.\nM: Don't worry about that. Just give me a call when you arrive. I'll be glad to show you around.\n{a}",
-          "text_kz": "W: It is exciting just to think about it! It'll be my first trip to Hawaii. But I may have trouble finding my way around there when I'm there.\nM: Don't worry about that. Just give me a call when you arrive. I'll be glad to show you around.\n{a}",
+          "text": "W: It is exciting just to think about it! It'll be my first trip to Hawaii. But I may have trouble finding my way around there when I'm there.\nM: Don't worry about that. Just give me a call when you arrive. I'll be glad to show you around.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -304,9 +272,7 @@
           ]
         },
         {
-          "text_en": "M: The Golden Lion sounds like a good place to eat in.\nW: OK. Let's go there. I hear they have good service.\n{a}",
-          "text_ru": "M: The Golden Lion sounds like a good place to eat in.\nW: OK. Let's go there. I hear they have good service.\n{a}",
-          "text_kz": "M: The Golden Lion sounds like a good place to eat in.\nW: OK. Let's go there. I hear they have good service.\n{a}",
+          "text": "M: The Golden Lion sounds like a good place to eat in.\nW: OK. Let's go there. I hear they have good service.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -322,9 +288,7 @@
           ]
         },
         {
-          "text_en": "W: I will never go with Bill again. He could never remember where he parked his car.\nM: That certainly sounds like Bill.\n{a}",
-          "text_ru": "W: I will never go with Bill again. He could never remember where he parked his car.\nM: That certainly sounds like Bill.\n{a}",
-          "text_kz": "W: I will never go with Bill again. He could never remember where he parked his car.\nM: That certainly sounds like Bill.\n{a}",
+          "text": "W: I will never go with Bill again. He could never remember where he parked his car.\nM: That certainly sounds like Bill.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -340,9 +304,7 @@
           ]
         },
         {
-          "text_en": "W: Let's see if the basketball game has started yet.\nM: Started? It must be clear who is winning by now.\n{a}",
-          "text_ru": "W: Let's see if the basketball game has started yet.\nM: Started? It must be clear who is winning by now.\n{a}",
-          "text_kz": "W: Let's see if the basketball game has started yet.\nM: Started? It must be clear who is winning by now.\n{a}",
+          "text": "W: Let's see if the basketball game has started yet.\nM: Started? It must be clear who is winning by now.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -358,9 +320,7 @@
           ]
         },
         {
-          "text_en": "W: May I make a recommendation, sir? Our seafood with this special sauce is very good.\nM: Thank you, but I don't eat shellfish. I'm allergic to it.\n{a}",
-          "text_ru": "W: May I make a recommendation, sir? Our seafood with this special sauce is very good.\nM: Thank you, but I don't eat shellfish. I'm allergic to it.\n{a}",
-          "text_kz": "W: May I make a recommendation, sir? Our seafood with this special sauce is very good.\nM: Thank you, but I don't eat shellfish. I'm allergic to it.\n{a}",
+          "text": "W: May I make a recommendation, sir? Our seafood with this special sauce is very good.\nM: Thank you, but I don't eat shellfish. I'm allergic to it.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -382,9 +342,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "W: Great Theater. What can I do for you?\nM: Yes. Could you tell me what time the last play starts?\n{a}",
-          "text_ru": "W: Great Theater. What can I do for you?\nM: Yes. Could you tell me what time the last play starts?\n{a}",
-          "text_kz": "W: Great Theater. What can I do for you?\nM: Yes. Could you tell me what time the last play starts?\n{a}",
+          "text": "W: Great Theater. What can I do for you?\nM: Yes. Could you tell me what time the last play starts?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -400,9 +358,7 @@
           ]
         },
         {
-          "text_en": "M: What did you think of Dana's speech today?\nW: Well, she must have spent a lot time preparing it. I can't believe I can sit for that long without feeling bored.\n{a}",
-          "text_ru": "M: What did you think of Dana's speech today?\nW: Well, she must have spent a lot time preparing it. I can't believe I can sit for that long without feeling bored.\n{a}",
-          "text_kz": "M: What did you think of Dana's speech today?\nW: Well, she must have spent a lot time preparing it. I can't believe I can sit for that long without feeling bored.\n{a}",
+          "text": "M: What did you think of Dana's speech today?\nW: Well, she must have spent a lot time preparing it. I can't believe I can sit for that long without feeling bored.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -418,9 +374,7 @@
           ]
         },
         {
-          "text_en": "W: Excuse me, are you from Washington?\nM: No, we come from London.\n{a}",
-          "text_ru": "W: Excuse me, are you from Washington?\nM: No, we come from London.\n{a}",
-          "text_kz": "W: Excuse me, are you from Washington?\nM: No, we come from London.\n{a}",
+          "text": "W: Excuse me, are you from Washington?\nM: No, we come from London.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -436,9 +390,7 @@
           ]
         },
         {
-          "text_en": "W: Stanley, there is a Mr. Miller on the phone who wants to talk to you.\nM: I'm Busy at the moment. Can you ask him to hold? Tell him I'll talk with him in a few seconds.\nW: Sure, he's on Line 2.\nM: Thanks, Jane.\n{a}",
-          "text_ru": "W: Stanley, there is a Mr. Miller on the phone who wants to talk to you.\nM: I'm Busy at the moment. Can you ask him to hold? Tell him I'll talk with him in a few seconds.\nW: Sure, he's on Line 2.\nM: Thanks, Jane.\n{a}",
-          "text_kz": "W: Stanley, there is a Mr. Miller on the phone who wants to talk to you.\nM: I'm Busy at the moment. Can you ask him to hold? Tell him I'll talk with him in a few seconds.\nW: Sure, he's on Line 2.\nM: Thanks, Jane.\n{a}",
+          "text": "W: Stanley, there is a Mr. Miller on the phone who wants to talk to you.\nM: I'm Busy at the moment. Can you ask him to hold? Tell him I'll talk with him in a few seconds.\nW: Sure, he's on Line 2.\nM: Thanks, Jane.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -454,9 +406,7 @@
           ]
         },
         {
-          "text_en": "M: A hotel? For a holiday like that? Why don't you try it the hard way? I have always taken a tent with us.\nW: Oh, it must be nice, but we could never contemplate it with our lot. We're terribly disorganized as a family and our car isn't big enough to get all of us in.\n{a}",
-          "text_ru": "M: A hotel? For a holiday like that? Why don't you try it the hard way? I have always taken a tent with us.\nW: Oh, it must be nice, but we could never contemplate it with our lot. We're terribly disorganized as a family and our car isn't big enough to get all of us in.\n{a}",
-          "text_kz": "M: A hotel? For a holiday like that? Why don't you try it the hard way? I have always taken a tent with us.\nW: Oh, it must be nice, but we could never contemplate it with our lot. We're terribly disorganized as a family and our car isn't big enough to get all of us in.\n{a}",
+          "text": "M: A hotel? For a holiday like that? Why don't you try it the hard way? I have always taken a tent with us.\nW: Oh, it must be nice, but we could never contemplate it with our lot. We're terribly disorganized as a family and our car isn't big enough to get all of us in.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -472,9 +422,7 @@
           ]
         },
         {
-          "text_en": "W: I'm calling to say goodbye to you and Andy.\nM: When do you leave?\nW: I'm catching the 11:00 train.\nM: Take care of yourself and don't forget to keep in touch.\n{a}",
-          "text_ru": "W: I'm calling to say goodbye to you and Andy.\nM: When do you leave?\nW: I'm catching the 11:00 train.\nM: Take care of yourself and don't forget to keep in touch.\n{a}",
-          "text_kz": "W: I'm calling to say goodbye to you and Andy.\nM: When do you leave?\nW: I'm catching the 11:00 train.\nM: Take care of yourself and don't forget to keep in touch.\n{a}",
+          "text": "W: I'm calling to say goodbye to you and Andy.\nM: When do you leave?\nW: I'm catching the 11:00 train.\nM: Take care of yourself and don't forget to keep in touch.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -490,9 +438,7 @@
           ]
         },
         {
-          "text_en": "W: Oh, I wish we had taken the lift.\nM: Cheer up. It's already on the 8th floor.\nW: But I am really tired out.\nM: Just think it's helpful for our health.\nW: Possibly, but if I know it was so far up, I wouldn't have suggested walking.\n{a}",
-          "text_ru": "W: Oh, I wish we had taken the lift.\nM: Cheer up. It's already on the 8th floor.\nW: But I am really tired out.\nM: Just think it's helpful for our health.\nW: Possibly, but if I know it was so far up, I wouldn't have suggested walking.\n{a}",
-          "text_kz": "W: Oh, I wish we had taken the lift.\nM: Cheer up. It's already on the 8th floor.\nW: But I am really tired out.\nM: Just think it's helpful for our health.\nW: Possibly, but if I know it was so far up, I wouldn't have suggested walking.\n{a}",
+          "text": "W: Oh, I wish we had taken the lift.\nM: Cheer up. It's already on the 8th floor.\nW: But I am really tired out.\nM: Just think it's helpful for our health.\nW: Possibly, but if I know it was so far up, I wouldn't have suggested walking.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -508,9 +454,7 @@
           ]
         },
         {
-          "text_en": "W: Hello. Can I speak to Linda, please?\nM: Sorry, there's no Linda here.\n{a}",
-          "text_ru": "W: Hello. Can I speak to Linda, please?\nM: Sorry, there's no Linda here.\n{a}",
-          "text_kz": "W: Hello. Can I speak to Linda, please?\nM: Sorry, there's no Linda here.\n{a}",
+          "text": "W: Hello. Can I speak to Linda, please?\nM: Sorry, there's no Linda here.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -526,9 +470,7 @@
           ]
         },
         {
-          "text_en": "M: Shall we go to the cinema this evening?\nW: Oh,sorry. I'm afraid I can't. I'm seeing my mum off at the airport at 7:30.\n{a}",
-          "text_ru": "M: Shall we go to the cinema this evening?\nW: Oh,sorry. I'm afraid I can't. I'm seeing my mum off at the airport at 7:30.\n{a}",
-          "text_kz": "M: Shall we go to the cinema this evening?\nW: Oh,sorry. I'm afraid I can't. I'm seeing my mum off at the airport at 7:30.\n{a}",
+          "text": "M: Shall we go to the cinema this evening?\nW: Oh,sorry. I'm afraid I can't. I'm seeing my mum off at the airport at 7:30.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -544,9 +486,7 @@
           ]
         },
         {
-          "text_en": "W: If it doesn't stop raining by Thursday, we'll have to cancel the fair.\nM: No, we could just hold it indoors in the gym.\nW: I've checked. The gym and the school-hall are both booked.\n{a}",
-          "text_ru": "W: If it doesn't stop raining by Thursday, we'll have to cancel the fair.\nM: No, we could just hold it indoors in the gym.\nW: I've checked. The gym and the school-hall are both booked.\n{a}",
-          "text_kz": "W: If it doesn't stop raining by Thursday, we'll have to cancel the fair.\nM: No, we could just hold it indoors in the gym.\nW: I've checked. The gym and the school-hall are both booked.\n{a}",
+          "text": "W: If it doesn't stop raining by Thursday, we'll have to cancel the fair.\nM: No, we could just hold it indoors in the gym.\nW: I've checked. The gym and the school-hall are both booked.\n{a}",
           "instances": [
             {
               "answerOptions": [

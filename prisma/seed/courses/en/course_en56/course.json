@@ -1,5 +1,5 @@
 {
-  "courseId": "771ae9c5-09a2-41eb-acb3-33348fa2aca8",
+  "courseId": "cad8458f-da98-4a22-86f1-f906dfdd71e5",
   "title": "Everyday English Course 56",
   "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
   "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
@@ -10,9 +10,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: I'd like to buy a copy of Professor Franklin's book on American culture.\nW: I'm sorry. The book has been out of print for sometime now.\n{a}",
-          "text_ru": "M: I'd like to buy a copy of Professor Franklin's book on American culture.\nW: I'm sorry. The book has been out of print for sometime now.\n{a}",
-          "text_kz": "M: I'd like to buy a copy of Professor Franklin's book on American culture.\nW: I'm sorry. The book has been out of print for sometime now.\n{a}",
+          "text": "M: I'd like to buy a copy of Professor Franklin's book on American culture.\nW: I'm sorry. The book has been out of print for sometime now.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -28,9 +26,7 @@
           ]
         },
         {
-          "text_en": "W: I can't imagine what happened to Judy.\nM: Neither can I. I'm sure she planned to come to the party.\n{a}",
-          "text_ru": "W: I can't imagine what happened to Judy.\nM: Neither can I. I'm sure she planned to come to the party.\n{a}",
-          "text_kz": "W: I can't imagine what happened to Judy.\nM: Neither can I. I'm sure she planned to come to the party.\n{a}",
+          "text": "W: I can't imagine what happened to Judy.\nM: Neither can I. I'm sure she planned to come to the party.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -46,9 +42,7 @@
           ]
         },
         {
-          "text_en": "M: Amy, could I use your bike?\nW: I'm afraid you can't use it now. I am using it in 10 minutes.\n{a}",
-          "text_ru": "M: Amy, could I use your bike?\nW: I'm afraid you can't use it now. I am using it in 10 minutes.\n{a}",
-          "text_kz": "M: Amy, could I use your bike?\nW: I'm afraid you can't use it now. I am using it in 10 minutes.\n{a}",
+          "text": "M: Amy, could I use your bike?\nW: I'm afraid you can't use it now. I am using it in 10 minutes.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -64,9 +58,7 @@
           ]
         },
         {
-          "text_en": "M: The tape-recorder you lent me yesterday is stolen. I'd like to buy a new one for you.\nW: Oh, that's all right.\n{a}",
-          "text_ru": "M: The tape-recorder you lent me yesterday is stolen. I'd like to buy a new one for you.\nW: Oh, that's all right.\n{a}",
-          "text_kz": "M: The tape-recorder you lent me yesterday is stolen. I'd like to buy a new one for you.\nW: Oh, that's all right.\n{a}",
+          "text": "M: The tape-recorder you lent me yesterday is stolen. I'd like to buy a new one for you.\nW: Oh, that's all right.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -82,9 +74,7 @@
           ]
         },
         {
-          "text_en": "W: Hi, what can I do for you today, sir?\nM: Good morning. I bought this air conditioner here a few months ago. It doesn't work now. Can I return it or get it fixed?\n{a}",
-          "text_ru": "W: Hi, what can I do for you today, sir?\nM: Good morning. I bought this air conditioner here a few months ago. It doesn't work now. Can I return it or get it fixed?\n{a}",
-          "text_kz": "W: Hi, what can I do for you today, sir?\nM: Good morning. I bought this air conditioner here a few months ago. It doesn't work now. Can I return it or get it fixed?\n{a}",
+          "text": "W: Hi, what can I do for you today, sir?\nM: Good morning. I bought this air conditioner here a few months ago. It doesn't work now. Can I return it or get it fixed?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -100,9 +90,7 @@
           ]
         },
         {
-          "text_en": "M: Some people know a lot more than they tell.\nW: Unfortunately the reverse is also true.\n{a}",
-          "text_ru": "M: Some people know a lot more than they tell.\nW: Unfortunately the reverse is also true.\n{a}",
-          "text_kz": "M: Some people know a lot more than they tell.\nW: Unfortunately the reverse is also true.\n{a}",
+          "text": "M: Some people know a lot more than they tell.\nW: Unfortunately the reverse is also true.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -118,9 +106,7 @@
           ]
         },
         {
-          "text_en": "M: I want to have this shirt washed and this suit dry-cleaned.\nW: Very well, sir. Your name and room number, please.\n{a}",
-          "text_ru": "M: I want to have this shirt washed and this suit dry-cleaned.\nW: Very well, sir. Your name and room number, please.\n{a}",
-          "text_kz": "M: I want to have this shirt washed and this suit dry-cleaned.\nW: Very well, sir. Your name and room number, please.\n{a}",
+          "text": "M: I want to have this shirt washed and this suit dry-cleaned.\nW: Very well, sir. Your name and room number, please.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -136,9 +122,7 @@
           ]
         },
         {
-          "text_en": "W: Hi, are you new here?\nM: Yes, I am.\nW: Is this your first year in college?\nM: No, I'm an exchange student from Boston College. I studied for two years here.\n{a}",
-          "text_ru": "W: Hi, are you new here?\nM: Yes, I am.\nW: Is this your first year in college?\nM: No, I'm an exchange student from Boston College. I studied for two years here.\n{a}",
-          "text_kz": "W: Hi, are you new here?\nM: Yes, I am.\nW: Is this your first year in college?\nM: No, I'm an exchange student from Boston College. I studied for two years here.\n{a}",
+          "text": "W: Hi, are you new here?\nM: Yes, I am.\nW: Is this your first year in college?\nM: No, I'm an exchange student from Boston College. I studied for two years here.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -154,9 +138,7 @@
           ]
         },
         {
-          "text_en": "W: I think the story is interesting,but Mary thinks it dull. Can you tell us how you like it?\nM: I'm sorry I know nothing about your story.\n{a}",
-          "text_ru": "W: I think the story is interesting,but Mary thinks it dull. Can you tell us how you like it?\nM: I'm sorry I know nothing about your story.\n{a}",
-          "text_kz": "W: I think the story is interesting,but Mary thinks it dull. Can you tell us how you like it?\nM: I'm sorry I know nothing about your story.\n{a}",
+          "text": "W: I think the story is interesting,but Mary thinks it dull. Can you tell us how you like it?\nM: I'm sorry I know nothing about your story.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -172,9 +154,7 @@
           ]
         },
         {
-          "text_en": "W: I'm afraid I can't show you the apartment at the moment, because the tenant is still living in it. It's really a lovely place, with a big kitchen and a sunny window, for only two hundred dollars a month.\nM: Sounds good, but we really can't rent an apartment without seeing it first.\n{a}",
-          "text_ru": "W: I'm afraid I can't show you the apartment at the moment, because the tenant is still living in it. It's really a lovely place, with a big kitchen and a sunny window, for only two hundred dollars a month.\nM: Sounds good, but we really can't rent an apartment without seeing it first.\n{a}",
-          "text_kz": "W: I'm afraid I can't show you the apartment at the moment, because the tenant is still living in it. It's really a lovely place, with a big kitchen and a sunny window, for only two hundred dollars a month.\nM: Sounds good, but we really can't rent an apartment without seeing it first.\n{a}",
+          "text": "W: I'm afraid I can't show you the apartment at the moment, because the tenant is still living in it. It's really a lovely place, with a big kitchen and a sunny window, for only two hundred dollars a month.\nM: Sounds good, but we really can't rent an apartment without seeing it first.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -196,9 +176,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "W: Jack, are you going to play tennis with us today?\nM: I promised Bill I'd go swimming with him.\n{a}",
-          "text_ru": "W: Jack, are you going to play tennis with us today?\nM: I promised Bill I'd go swimming with him.\n{a}",
-          "text_kz": "W: Jack, are you going to play tennis with us today?\nM: I promised Bill I'd go swimming with him.\n{a}",
+          "text": "W: Jack, are you going to play tennis with us today?\nM: I promised Bill I'd go swimming with him.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -214,9 +192,7 @@
           ]
         },
         {
-          "text_en": "W: John told me he had got a second-hand car, do you know how much he paid for it?\nM: Well, he said he paid 800 dollars for it. I think he got a real bargain.\n{a}",
-          "text_ru": "W: John told me he had got a second-hand car, do you know how much he paid for it?\nM: Well, he said he paid 800 dollars for it. I think he got a real bargain.\n{a}",
-          "text_kz": "W: John told me he had got a second-hand car, do you know how much he paid for it?\nM: Well, he said he paid 800 dollars for it. I think he got a real bargain.\n{a}",
+          "text": "W: John told me he had got a second-hand car, do you know how much he paid for it?\nM: Well, he said he paid 800 dollars for it. I think he got a real bargain.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -232,9 +208,7 @@
           ]
         },
         {
-          "text_en": "M: Do you ever know what Tony is talking about.'?\nW: Never, he always beats around the bush.\n{a}",
-          "text_ru": "M: Do you ever know what Tony is talking about.'?\nW: Never, he always beats around the bush.\n{a}",
-          "text_kz": "M: Do you ever know what Tony is talking about.'?\nW: Never, he always beats around the bush.\n{a}",
+          "text": "M: Do you ever know what Tony is talking about.'?\nW: Never, he always beats around the bush.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -250,9 +224,7 @@
           ]
         },
         {
-          "text_en": "M: How did you feel when the head called you?\nW: I couldn't say I was relaxed.\n{a}",
-          "text_ru": "M: How did you feel when the head called you?\nW: I couldn't say I was relaxed.\n{a}",
-          "text_kz": "M: How did you feel when the head called you?\nW: I couldn't say I was relaxed.\n{a}",
+          "text": "M: How did you feel when the head called you?\nW: I couldn't say I was relaxed.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -268,9 +240,7 @@
           ]
         },
         {
-          "text_en": "W: John's been dismissed for stealing.\nM: There must be some mistake.\n{a}",
-          "text_ru": "W: John's been dismissed for stealing.\nM: There must be some mistake.\n{a}",
-          "text_kz": "W: John's been dismissed for stealing.\nM: There must be some mistake.\n{a}",
+          "text": "W: John's been dismissed for stealing.\nM: There must be some mistake.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -286,9 +256,7 @@
           ]
         },
         {
-          "text_en": "W: Can I help you?\nM: Yes, I'd like a bottle of juice.\n{a}",
-          "text_ru": "W: Can I help you?\nM: Yes, I'd like a bottle of juice.\n{a}",
-          "text_kz": "W: Can I help you?\nM: Yes, I'd like a bottle of juice.\n{a}",
+          "text": "W: Can I help you?\nM: Yes, I'd like a bottle of juice.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -304,9 +272,7 @@
           ]
         },
         {
-          "text_en": "M: I was deeply affected by the tallk the blind boy gave this morning.\nW: I think everyone felt the same.\n{a}",
-          "text_ru": "M: I was deeply affected by the tallk the blind boy gave this morning.\nW: I think everyone felt the same.\n{a}",
-          "text_kz": "M: I was deeply affected by the tallk the blind boy gave this morning.\nW: I think everyone felt the same.\n{a}",
+          "text": "M: I was deeply affected by the tallk the blind boy gave this morning.\nW: I think everyone felt the same.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -322,9 +288,7 @@
           ]
         },
         {
-          "text_en": "W: Oh,look! Joni Mitchell is in town.\nM: Who's that? I've never heard of her.\nW: What? She's one of the greatest folk singers in the world!\n{a}",
-          "text_ru": "W: Oh,look! Joni Mitchell is in town.\nM: Who's that? I've never heard of her.\nW: What? She's one of the greatest folk singers in the world!\n{a}",
-          "text_kz": "W: Oh,look! Joni Mitchell is in town.\nM: Who's that? I've never heard of her.\nW: What? She's one of the greatest folk singers in the world!\n{a}",
+          "text": "W: Oh,look! Joni Mitchell is in town.\nM: Who's that? I've never heard of her.\nW: What? She's one of the greatest folk singers in the world!\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -340,9 +304,7 @@
           ]
         },
         {
-          "text_en": "W: Do you know what's wrong with Mark? He's been acting very strangely lately.\nM: Come on, with his parents coming to visit next week-right after he's moved into a new apartment-he's just got a lot on his mind.\n{a}",
-          "text_ru": "W: Do you know what's wrong with Mark? He's been acting very strangely lately.\nM: Come on, with his parents coming to visit next week-right after he's moved into a new apartment-he's just got a lot on his mind.\n{a}",
-          "text_kz": "W: Do you know what's wrong with Mark? He's been acting very strangely lately.\nM: Come on, with his parents coming to visit next week-right after he's moved into a new apartment-he's just got a lot on his mind.\n{a}",
+          "text": "W: Do you know what's wrong with Mark? He's been acting very strangely lately.\nM: Come on, with his parents coming to visit next week-right after he's moved into a new apartment-he's just got a lot on his mind.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -358,9 +320,7 @@
           ]
         },
         {
-          "text_en": "M: Which floor do you live on, Edison?\nW: On the fourth floor.\n{a}",
-          "text_ru": "M: Which floor do you live on, Edison?\nW: On the fourth floor.\n{a}",
-          "text_kz": "M: Which floor do you live on, Edison?\nW: On the fourth floor.\n{a}",
+          "text": "M: Which floor do you live on, Edison?\nW: On the fourth floor.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -382,9 +342,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: A new film will be on tonight. Will you go with me?\nW: Sorry, I have no time for films or dinner out. I now have to worry about the upcoming final exam.\n{a}",
-          "text_ru": "M: A new film will be on tonight. Will you go with me?\nW: Sorry, I have no time for films or dinner out. I now have to worry about the upcoming final exam.\n{a}",
-          "text_kz": "M: A new film will be on tonight. Will you go with me?\nW: Sorry, I have no time for films or dinner out. I now have to worry about the upcoming final exam.\n{a}",
+          "text": "M: A new film will be on tonight. Will you go with me?\nW: Sorry, I have no time for films or dinner out. I now have to worry about the upcoming final exam.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -400,9 +358,7 @@
           ]
         },
         {
-          "text_en": "F: Who is going to your birthday party?\nM: Let me see: Rose, Mary, Bob, and the twins Peter and Mike.\n{a}",
-          "text_ru": "F: Who is going to your birthday party?\nM: Let me see: Rose, Mary, Bob, and the twins Peter and Mike.\n{a}",
-          "text_kz": "F: Who is going to your birthday party?\nM: Let me see: Rose, Mary, Bob, and the twins Peter and Mike.\n{a}",
+          "text": "F: Who is going to your birthday party?\nM: Let me see: Rose, Mary, Bob, and the twins Peter and Mike.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -418,9 +374,7 @@
           ]
         },
         {
-          "text_en": "W: Hi, Bob, guess what? I'm going to visit Quebec next summer. I'm invited to go to a friend's wedding, but while I'm there, I'd also like to do some sightseeing.\nM: That's nice, Sherry. But do you mean the province of Quebec or Quebec City?\nW: I mean the province. My friend's wedding is in Montreal, so I'm going there first. I'll stay for 5 days. Is Montreal the capital city of the province?\nM: Well, many people think so because it's the biggest city, but it's not the capital. Quebec City is, but Montreal is great. The Santa Lawrence River runs right through the middle of the city. It's beautiful in summer.\nW: Wow, and do you think I can get by in English? My French is okay, but not that good. I know most people there speak French, but can I also use English?\nM: Well, people speak both French and English there, but you'll hear French most of the time and all the street signs are in French. In fact, Montreal is the third largest French-speaking city in the world. So you'd better practice your French before you go.\nW: Good advice, what about Quebec City? I'll visit a friend from college who lives there now. What's it like?\nM: It's a beautiful city, very old. Many old buildings have been nicely restored. Some of them were built in the 17th and 18th centuries. You'll love it there.\nW: Fantastic. I can't wait to go.\n{a}",
-          "text_ru": "W: Hi, Bob, guess what? I'm going to visit Quebec next summer. I'm invited to go to a friend's wedding, but while I'm there, I'd also like to do some sightseeing.\nM: That's nice, Sherry. But do you mean the province of Quebec or Quebec City?\nW: I mean the province. My friend's wedding is in Montreal, so I'm going there first. I'll stay for 5 days. Is Montreal the capital city of the province?\nM: Well, many people think so because it's the biggest city, but it's not the capital. Quebec City is, but Montreal is great. The Santa Lawrence River runs right through the middle of the city. It's beautiful in summer.\nW: Wow, and do you think I can get by in English? My French is okay, but not that good. I know most people there speak French, but can I also use English?\nM: Well, people speak both French and English there, but you'll hear French most of the time and all the street signs are in French. In fact, Montreal is the third largest French-speaking city in the world. So you'd better practice your French before you go.\nW: Good advice, what about Quebec City? I'll visit a friend from college who lives there now. What's it like?\nM: It's a beautiful city, very old. Many old buildings have been nicely restored. Some of them were built in the 17th and 18th centuries. You'll love it there.\nW: Fantastic. I can't wait to go.\n{a}",
-          "text_kz": "W: Hi, Bob, guess what? I'm going to visit Quebec next summer. I'm invited to go to a friend's wedding, but while I'm there, I'd also like to do some sightseeing.\nM: That's nice, Sherry. But do you mean the province of Quebec or Quebec City?\nW: I mean the province. My friend's wedding is in Montreal, so I'm going there first. I'll stay for 5 days. Is Montreal the capital city of the province?\nM: Well, many people think so because it's the biggest city, but it's not the capital. Quebec City is, but Montreal is great. The Santa Lawrence River runs right through the middle of the city. It's beautiful in summer.\nW: Wow, and do you think I can get by in English? My French is okay, but not that good. I know most people there speak French, but can I also use English?\nM: Well, people speak both French and English there, but you'll hear French most of the time and all the street signs are in French. In fact, Montreal is the third largest French-speaking city in the world. So you'd better practice your French before you go.\nW: Good advice, what about Quebec City? I'll visit a friend from college who lives there now. What's it like?\nM: It's a beautiful city, very old. Many old buildings have been nicely restored. Some of them were built in the 17th and 18th centuries. You'll love it there.\nW: Fantastic. I can't wait to go.\n{a}",
+          "text": "W: Hi, Bob, guess what? I'm going to visit Quebec next summer. I'm invited to go to a friend's wedding, but while I'm there, I'd also like to do some sightseeing.\nM: That's nice, Sherry. But do you mean the province of Quebec or Quebec City?\nW: I mean the province. My friend's wedding is in Montreal, so I'm going there first. I'll stay for 5 days. Is Montreal the capital city of the province?\nM: Well, many people think so because it's the biggest city, but it's not the capital. Quebec City is, but Montreal is great. The Santa Lawrence River runs right through the middle of the city. It's beautiful in summer.\nW: Wow, and do you think I can get by in English? My French is okay, but not that good. I know most people there speak French, but can I also use English?\nM: Well, people speak both French and English there, but you'll hear French most of the time and all the street signs are in French. In fact, Montreal is the third largest French-speaking city in the world. So you'd better practice your French before you go.\nW: Good advice, what about Quebec City? I'll visit a friend from college who lives there now. What's it like?\nM: It's a beautiful city, very old. Many old buildings have been nicely restored. Some of them were built in the 17th and 18th centuries. You'll love it there.\nW: Fantastic. I can't wait to go.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -436,9 +390,7 @@
           ]
         },
         {
-          "text_en": "M: How was the weather for your hiking trip last Saturday?\nW: It rained a little in the morning,but got sunny in the afternoon.\nM: Did you have a lot of fun?\nW: Sure.\n{a}",
-          "text_ru": "M: How was the weather for your hiking trip last Saturday?\nW: It rained a little in the morning,but got sunny in the afternoon.\nM: Did you have a lot of fun?\nW: Sure.\n{a}",
-          "text_kz": "M: How was the weather for your hiking trip last Saturday?\nW: It rained a little in the morning,but got sunny in the afternoon.\nM: Did you have a lot of fun?\nW: Sure.\n{a}",
+          "text": "M: How was the weather for your hiking trip last Saturday?\nW: It rained a little in the morning,but got sunny in the afternoon.\nM: Did you have a lot of fun?\nW: Sure.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -454,9 +406,7 @@
           ]
         },
         {
-          "text_en": "W: It's nearly seven o'clock. Let's go.\nM: Don't worry. The party starts at seven thirty.\n{a}",
-          "text_ru": "W: It's nearly seven o'clock. Let's go.\nM: Don't worry. The party starts at seven thirty.\n{a}",
-          "text_kz": "W: It's nearly seven o'clock. Let's go.\nM: Don't worry. The party starts at seven thirty.\n{a}",
+          "text": "W: It's nearly seven o'clock. Let's go.\nM: Don't worry. The party starts at seven thirty.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -472,9 +422,7 @@
           ]
         },
         {
-          "text_en": "W: Kennedy Airport, please. I have to be there by 7:00.\nM: I can't promise anything, but I'll do my best.\nW: I'll pay more if we get there on time.\nM: But safety is more important.\n{a}",
-          "text_ru": "W: Kennedy Airport, please. I have to be there by 7:00.\nM: I can't promise anything, but I'll do my best.\nW: I'll pay more if we get there on time.\nM: But safety is more important.\n{a}",
-          "text_kz": "W: Kennedy Airport, please. I have to be there by 7:00.\nM: I can't promise anything, but I'll do my best.\nW: I'll pay more if we get there on time.\nM: But safety is more important.\n{a}",
+          "text": "W: Kennedy Airport, please. I have to be there by 7:00.\nM: I can't promise anything, but I'll do my best.\nW: I'll pay more if we get there on time.\nM: But safety is more important.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -490,9 +438,7 @@
           ]
         },
         {
-          "text_en": "M: Why did you buy so many books?\nW: The bookstore is celebrating its 5th anniversary, so there's a 35% discount on all books.\n{a}",
-          "text_ru": "M: Why did you buy so many books?\nW: The bookstore is celebrating its 5th anniversary, so there's a 35% discount on all books.\n{a}",
-          "text_kz": "M: Why did you buy so many books?\nW: The bookstore is celebrating its 5th anniversary, so there's a 35% discount on all books.\n{a}",
+          "text": "M: Why did you buy so many books?\nW: The bookstore is celebrating its 5th anniversary, so there's a 35% discount on all books.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -508,9 +454,7 @@
           ]
         },
         {
-          "text_en": "W: These DVDs will be due back on Thursday, the 7th.\nM: How much more should we pay to keep them another week?\n{a}",
-          "text_ru": "W: These DVDs will be due back on Thursday, the 7th.\nM: How much more should we pay to keep them another week?\n{a}",
-          "text_kz": "W: These DVDs will be due back on Thursday, the 7th.\nM: How much more should we pay to keep them another week?\n{a}",
+          "text": "W: These DVDs will be due back on Thursday, the 7th.\nM: How much more should we pay to keep them another week?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -526,9 +470,7 @@
           ]
         },
         {
-          "text_en": "W: What kind of songs do you prefer, folk songs or pop songs?\nM: Folk songs.\n{a}",
-          "text_ru": "W: What kind of songs do you prefer, folk songs or pop songs?\nM: Folk songs.\n{a}",
-          "text_kz": "W: What kind of songs do you prefer, folk songs or pop songs?\nM: Folk songs.\n{a}",
+          "text": "W: What kind of songs do you prefer, folk songs or pop songs?\nM: Folk songs.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -544,9 +486,7 @@
           ]
         },
         {
-          "text_en": "M: The air conditioner in my room is broken and I can't work.\nW: Why not go to the office?\n{a}",
-          "text_ru": "M: The air conditioner in my room is broken and I can't work.\nW: Why not go to the office?\n{a}",
-          "text_kz": "M: The air conditioner in my room is broken and I can't work.\nW: Why not go to the office?\n{a}",
+          "text": "M: The air conditioner in my room is broken and I can't work.\nW: Why not go to the office?\n{a}",
           "instances": [
             {
               "answerOptions": [

@@ -1,5 +1,5 @@
 {
-  "courseId": "c21f9ce7-ff8a-43b7-aa9a-973525747fae",
+  "courseId": "d2ea4b35-ba8a-498f-9897-eba7857686a8",
   "title": "Everyday English Course 57",
   "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
   "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
@@ -10,9 +10,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "F: I go to work by bike every day, what about you, Peter?\nM: I go to work by bus, and seldom by bike.\n{a}",
-          "text_ru": "F: I go to work by bike every day, what about you, Peter?\nM: I go to work by bus, and seldom by bike.\n{a}",
-          "text_kz": "F: I go to work by bike every day, what about you, Peter?\nM: I go to work by bus, and seldom by bike.\n{a}",
+          "text": "F: I go to work by bike every day, what about you, Peter?\nM: I go to work by bus, and seldom by bike.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -28,9 +26,7 @@
           ]
         },
         {
-          "text_en": "F: Excuse me, could you tell me which train will leave for London?\nM: Sorry, the train for London has just left.\n{a}",
-          "text_ru": "F: Excuse me, could you tell me which train will leave for London?\nM: Sorry, the train for London has just left.\n{a}",
-          "text_kz": "F: Excuse me, could you tell me which train will leave for London?\nM: Sorry, the train for London has just left.\n{a}",
+          "text": "F: Excuse me, could you tell me which train will leave for London?\nM: Sorry, the train for London has just left.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -46,9 +42,7 @@
           ]
         },
         {
-          "text_en": "W: Looks like rain. Better find your umbrella.\nM: Yeah, I think it's going to rain. That's why I'm not going out.\n{a}",
-          "text_ru": "W: Looks like rain. Better find your umbrella.\nM: Yeah, I think it's going to rain. That's why I'm not going out.\n{a}",
-          "text_kz": "W: Looks like rain. Better find your umbrella.\nM: Yeah, I think it's going to rain. That's why I'm not going out.\n{a}",
+          "text": "W: Looks like rain. Better find your umbrella.\nM: Yeah, I think it's going to rain. That's why I'm not going out.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -64,9 +58,7 @@
           ]
         },
         {
-          "text_en": "W: What kind of course are you looking for, language or computer?\nM: I need to improve my English.\nW: Have you ever considered taking one of our online courses?\n{a}",
-          "text_ru": "W: What kind of course are you looking for, language or computer?\nM: I need to improve my English.\nW: Have you ever considered taking one of our online courses?\n{a}",
-          "text_kz": "W: What kind of course are you looking for, language or computer?\nM: I need to improve my English.\nW: Have you ever considered taking one of our online courses?\n{a}",
+          "text": "W: What kind of course are you looking for, language or computer?\nM: I need to improve my English.\nW: Have you ever considered taking one of our online courses?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -82,9 +74,7 @@
           ]
         },
         {
-          "text_en": "W: Today is cold.\nM: But yesterday was even colder.\n{a}",
-          "text_ru": "W: Today is cold.\nM: But yesterday was even colder.\n{a}",
-          "text_kz": "W: Today is cold.\nM: But yesterday was even colder.\n{a}",
+          "text": "W: Today is cold.\nM: But yesterday was even colder.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -100,9 +90,7 @@
           ]
         },
         {
-          "text_en": "W: Excuse me, sir. May I help you?\nM: No, thanks. We are just looking.\nW: If there is anything that interests you, just let me know.\nM: OK. Thanks.\n{a}",
-          "text_ru": "W: Excuse me, sir. May I help you?\nM: No, thanks. We are just looking.\nW: If there is anything that interests you, just let me know.\nM: OK. Thanks.\n{a}",
-          "text_kz": "W: Excuse me, sir. May I help you?\nM: No, thanks. We are just looking.\nW: If there is anything that interests you, just let me know.\nM: OK. Thanks.\n{a}",
+          "text": "W: Excuse me, sir. May I help you?\nM: No, thanks. We are just looking.\nW: If there is anything that interests you, just let me know.\nM: OK. Thanks.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -118,9 +106,7 @@
           ]
         },
         {
-          "text_en": "M: Do you have a driver's license?\nW: No. I am going to take the test in a couple of weeks.\nM: Didn't you drive in your own country?\nW: Yes. But I have to be more skilled.\nM: And you have to study the traffic rules too.\n{a}",
-          "text_ru": "M: Do you have a driver's license?\nW: No. I am going to take the test in a couple of weeks.\nM: Didn't you drive in your own country?\nW: Yes. But I have to be more skilled.\nM: And you have to study the traffic rules too.\n{a}",
-          "text_kz": "M: Do you have a driver's license?\nW: No. I am going to take the test in a couple of weeks.\nM: Didn't you drive in your own country?\nW: Yes. But I have to be more skilled.\nM: And you have to study the traffic rules too.\n{a}",
+          "text": "M: Do you have a driver's license?\nW: No. I am going to take the test in a couple of weeks.\nM: Didn't you drive in your own country?\nW: Yes. But I have to be more skilled.\nM: And you have to study the traffic rules too.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -136,9 +122,7 @@
           ]
         },
         {
-          "text_en": "W: Your MP3 is so beautiful. From which shop did you buy it?\nM: Not in the usual shop. I bought it on the Internet. It's much cheaper than the ones we bought from the shops.\n{a}",
-          "text_ru": "W: Your MP3 is so beautiful. From which shop did you buy it?\nM: Not in the usual shop. I bought it on the Internet. It's much cheaper than the ones we bought from the shops.\n{a}",
-          "text_kz": "W: Your MP3 is so beautiful. From which shop did you buy it?\nM: Not in the usual shop. I bought it on the Internet. It's much cheaper than the ones we bought from the shops.\n{a}",
+          "text": "W: Your MP3 is so beautiful. From which shop did you buy it?\nM: Not in the usual shop. I bought it on the Internet. It's much cheaper than the ones we bought from the shops.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -154,9 +138,7 @@
           ]
         },
         {
-          "text_en": "W: Could you tell me how many of your employees are women?\nM: Yes, certainly. We have a very high percentage of female staff. We employ about 160 women, which is eighty percent of all our staff.\n{a}",
-          "text_ru": "W: Could you tell me how many of your employees are women?\nM: Yes, certainly. We have a very high percentage of female staff. We employ about 160 women, which is eighty percent of all our staff.\n{a}",
-          "text_kz": "W: Could you tell me how many of your employees are women?\nM: Yes, certainly. We have a very high percentage of female staff. We employ about 160 women, which is eighty percent of all our staff.\n{a}",
+          "text": "W: Could you tell me how many of your employees are women?\nM: Yes, certainly. We have a very high percentage of female staff. We employ about 160 women, which is eighty percent of all our staff.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -172,9 +154,7 @@
           ]
         },
         {
-          "text_en": "W: Oh, Dad, what will you give me for my birthday?\nM: Alice, do you like a red bike?\n{a}",
-          "text_ru": "W: Oh, Dad, what will you give me for my birthday?\nM: Alice, do you like a red bike?\n{a}",
-          "text_kz": "W: Oh, Dad, what will you give me for my birthday?\nM: Alice, do you like a red bike?\n{a}",
+          "text": "W: Oh, Dad, what will you give me for my birthday?\nM: Alice, do you like a red bike?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -196,9 +176,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "W: Do you think he could help me change the water in the fish tank this week?\nM: I don't know. He's pretty busy.\n{a}",
-          "text_ru": "W: Do you think he could help me change the water in the fish tank this week?\nM: I don't know. He's pretty busy.\n{a}",
-          "text_kz": "W: Do you think he could help me change the water in the fish tank this week?\nM: I don't know. He's pretty busy.\n{a}",
+          "text": "W: Do you think he could help me change the water in the fish tank this week?\nM: I don't know. He's pretty busy.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -214,9 +192,7 @@
           ]
         },
         {
-          "text_en": "W: Am I standing in the right position?\nM: Uh ... just one thing, you should lift your feet a little higher, and keep your arms straight back. Now, when you go into the water, your head will go first and your legs will follow right along be-hind.\n{a}",
-          "text_ru": "W: Am I standing in the right position?\nM: Uh ... just one thing, you should lift your feet a little higher, and keep your arms straight back. Now, when you go into the water, your head will go first and your legs will follow right along be-hind.\n{a}",
-          "text_kz": "W: Am I standing in the right position?\nM: Uh ... just one thing, you should lift your feet a little higher, and keep your arms straight back. Now, when you go into the water, your head will go first and your legs will follow right along be-hind.\n{a}",
+          "text": "W: Am I standing in the right position?\nM: Uh ... just one thing, you should lift your feet a little higher, and keep your arms straight back. Now, when you go into the water, your head will go first and your legs will follow right along be-hind.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -232,9 +208,7 @@
           ]
         },
         {
-          "text_en": "W: Did you enjoy visiting the museum?\nM: I've been there a hundred times!\n{a}",
-          "text_ru": "W: Did you enjoy visiting the museum?\nM: I've been there a hundred times!\n{a}",
-          "text_kz": "W: Did you enjoy visiting the museum?\nM: I've been there a hundred times!\n{a}",
+          "text": "W: Did you enjoy visiting the museum?\nM: I've been there a hundred times!\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -250,9 +224,7 @@
           ]
         },
         {
-          "text_en": "W: I'm out of coins for the slot machine. Do you have any?\nM: I don't have any either. But I'll get some from the cafe.\n{a}",
-          "text_ru": "W: I'm out of coins for the slot machine. Do you have any?\nM: I don't have any either. But I'll get some from the cafe.\n{a}",
-          "text_kz": "W: I'm out of coins for the slot machine. Do you have any?\nM: I don't have any either. But I'll get some from the cafe.\n{a}",
+          "text": "W: I'm out of coins for the slot machine. Do you have any?\nM: I don't have any either. But I'll get some from the cafe.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -268,9 +240,7 @@
           ]
         },
         {
-          "text_en": "M: Has your younger sister found a new job?\nW: No. She is still at home. But I'm helping her look for one.\n{a}",
-          "text_ru": "M: Has your younger sister found a new job?\nW: No. She is still at home. But I'm helping her look for one.\n{a}",
-          "text_kz": "M: Has your younger sister found a new job?\nW: No. She is still at home. But I'm helping her look for one.\n{a}",
+          "text": "M: Has your younger sister found a new job?\nW: No. She is still at home. But I'm helping her look for one.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -286,9 +256,7 @@
           ]
         },
         {
-          "text_en": "F: My husband often repairs watches for people.\nM: Really? I have a broken one.\n{a}",
-          "text_ru": "F: My husband often repairs watches for people.\nM: Really? I have a broken one.\n{a}",
-          "text_kz": "F: My husband often repairs watches for people.\nM: Really? I have a broken one.\n{a}",
+          "text": "F: My husband often repairs watches for people.\nM: Really? I have a broken one.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -304,9 +272,7 @@
           ]
         },
         {
-          "text_en": "W: Well, what are you going to eat? The pork is very good here.\nM: Umm...I had pork yesterday. I think I'll have the beef.\n{a}",
-          "text_ru": "W: Well, what are you going to eat? The pork is very good here.\nM: Umm...I had pork yesterday. I think I'll have the beef.\n{a}",
-          "text_kz": "W: Well, what are you going to eat? The pork is very good here.\nM: Umm...I had pork yesterday. I think I'll have the beef.\n{a}",
+          "text": "W: Well, what are you going to eat? The pork is very good here.\nM: Umm...I had pork yesterday. I think I'll have the beef.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -322,9 +288,7 @@
           ]
         },
         {
-          "text_en": "M: Do you think the headmaster could see me before nine thirty?\nW: He won't be in until eleven forty-five.\nM: Is twelve forty any good?\nW: Yes, I'll write down the time.\n{a}",
-          "text_ru": "M: Do you think the headmaster could see me before nine thirty?\nW: He won't be in until eleven forty-five.\nM: Is twelve forty any good?\nW: Yes, I'll write down the time.\n{a}",
-          "text_kz": "M: Do you think the headmaster could see me before nine thirty?\nW: He won't be in until eleven forty-five.\nM: Is twelve forty any good?\nW: Yes, I'll write down the time.\n{a}",
+          "text": "M: Do you think the headmaster could see me before nine thirty?\nW: He won't be in until eleven forty-five.\nM: Is twelve forty any good?\nW: Yes, I'll write down the time.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -340,9 +304,7 @@
           ]
         },
         {
-          "text_en": "M: Barbara!\nW: Mark!\nM: What are you doing here? You live in Manchester, don't you?\nW: Yes, I do. But I'm having a week's holiday here.\n{a}",
-          "text_ru": "M: Barbara!\nW: Mark!\nM: What are you doing here? You live in Manchester, don't you?\nW: Yes, I do. But I'm having a week's holiday here.\n{a}",
-          "text_kz": "M: Barbara!\nW: Mark!\nM: What are you doing here? You live in Manchester, don't you?\nW: Yes, I do. But I'm having a week's holiday here.\n{a}",
+          "text": "M: Barbara!\nW: Mark!\nM: What are you doing here? You live in Manchester, don't you?\nW: Yes, I do. But I'm having a week's holiday here.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -358,9 +320,7 @@
           ]
         },
         {
-          "text_en": "F: Are you sure that you have got the tickets in your pocket?\nM: Oh, I'm sorry. They are left at home.\n{a}",
-          "text_ru": "F: Are you sure that you have got the tickets in your pocket?\nM: Oh, I'm sorry. They are left at home.\n{a}",
-          "text_kz": "F: Are you sure that you have got the tickets in your pocket?\nM: Oh, I'm sorry. They are left at home.\n{a}",
+          "text": "F: Are you sure that you have got the tickets in your pocket?\nM: Oh, I'm sorry. They are left at home.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -382,9 +342,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: What can I do for you, Madam?\nW: Is there any fish here?\n{a}",
-          "text_ru": "M: What can I do for you, Madam?\nW: Is there any fish here?\n{a}",
-          "text_kz": "M: What can I do for you, Madam?\nW: Is there any fish here?\n{a}",
+          "text": "M: What can I do for you, Madam?\nW: Is there any fish here?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -400,9 +358,7 @@
           ]
         },
         {
-          "text_en": "M: Would you like to have lunch with us?\nW: I'd love to, but I have to help John with his math problem right now.\nM: Would you like me to give you a lift?\nW: No,thanks. His home is not far and I can walk there.\n{a}",
-          "text_ru": "M: Would you like to have lunch with us?\nW: I'd love to, but I have to help John with his math problem right now.\nM: Would you like me to give you a lift?\nW: No,thanks. His home is not far and I can walk there.\n{a}",
-          "text_kz": "M: Would you like to have lunch with us?\nW: I'd love to, but I have to help John with his math problem right now.\nM: Would you like me to give you a lift?\nW: No,thanks. His home is not far and I can walk there.\n{a}",
+          "text": "M: Would you like to have lunch with us?\nW: I'd love to, but I have to help John with his math problem right now.\nM: Would you like me to give you a lift?\nW: No,thanks. His home is not far and I can walk there.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -418,9 +374,7 @@
           ]
         },
         {
-          "text_en": "W: Drive slowly, David. You could have an accident.\nM: You can count on me. I have been driving for years.\nW: Look out! Red light!\nM: It doesn't matter. It is late. There is no one around.\nW: Don't let the police catch you. Oh, David, that's a policeman. He is waving over us.\n{a}",
-          "text_ru": "W: Drive slowly, David. You could have an accident.\nM: You can count on me. I have been driving for years.\nW: Look out! Red light!\nM: It doesn't matter. It is late. There is no one around.\nW: Don't let the police catch you. Oh, David, that's a policeman. He is waving over us.\n{a}",
-          "text_kz": "W: Drive slowly, David. You could have an accident.\nM: You can count on me. I have been driving for years.\nW: Look out! Red light!\nM: It doesn't matter. It is late. There is no one around.\nW: Don't let the police catch you. Oh, David, that's a policeman. He is waving over us.\n{a}",
+          "text": "W: Drive slowly, David. You could have an accident.\nM: You can count on me. I have been driving for years.\nW: Look out! Red light!\nM: It doesn't matter. It is late. There is no one around.\nW: Don't let the police catch you. Oh, David, that's a policeman. He is waving over us.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -436,9 +390,7 @@
           ]
         },
         {
-          "text_en": "M: Of the two houses we saw today, which do you prefer?\nW: I think the white one is prettier, but the brick one has a bigger garden. So I like it better.\n{a}",
-          "text_ru": "M: Of the two houses we saw today, which do you prefer?\nW: I think the white one is prettier, but the brick one has a bigger garden. So I like it better.\n{a}",
-          "text_kz": "M: Of the two houses we saw today, which do you prefer?\nW: I think the white one is prettier, but the brick one has a bigger garden. So I like it better.\n{a}",
+          "text": "M: Of the two houses we saw today, which do you prefer?\nW: I think the white one is prettier, but the brick one has a bigger garden. So I like it better.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -454,9 +406,7 @@
           ]
         },
         {
-          "text_en": "M: There is an exhibition about planes and satellites.\nW: Really? I'd like to see that, too.\n{a}",
-          "text_ru": "M: There is an exhibition about planes and satellites.\nW: Really? I'd like to see that, too.\n{a}",
-          "text_kz": "M: There is an exhibition about planes and satellites.\nW: Really? I'd like to see that, too.\n{a}",
+          "text": "M: There is an exhibition about planes and satellites.\nW: Really? I'd like to see that, too.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -472,9 +422,7 @@
           ]
         },
         {
-          "text_en": "W: These are very nice shirts. How much are they?\nM: Five dollars each. For two, nine dollars. They are on special sale today.\n{a}",
-          "text_ru": "W: These are very nice shirts. How much are they?\nM: Five dollars each. For two, nine dollars. They are on special sale today.\n{a}",
-          "text_kz": "W: These are very nice shirts. How much are they?\nM: Five dollars each. For two, nine dollars. They are on special sale today.\n{a}",
+          "text": "W: These are very nice shirts. How much are they?\nM: Five dollars each. For two, nine dollars. They are on special sale today.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -490,9 +438,7 @@
           ]
         },
         {
-          "text_en": "M: I can't seem to solve this problem.\nW: Neither can I.\n{a}",
-          "text_ru": "M: I can't seem to solve this problem.\nW: Neither can I.\n{a}",
-          "text_kz": "M: I can't seem to solve this problem.\nW: Neither can I.\n{a}",
+          "text": "M: I can't seem to solve this problem.\nW: Neither can I.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -508,9 +454,7 @@
           ]
         },
         {
-          "text_en": "W: This is Helen. Can I speak to David?\nM: Yes, hold on, please.\n{a}",
-          "text_ru": "W: This is Helen. Can I speak to David?\nM: Yes, hold on, please.\n{a}",
-          "text_kz": "W: This is Helen. Can I speak to David?\nM: Yes, hold on, please.\n{a}",
+          "text": "W: This is Helen. Can I speak to David?\nM: Yes, hold on, please.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -526,9 +470,7 @@
           ]
         },
         {
-          "text_en": "W: Where is Jack? His manager is trying to catch him several times but has always just missed him.\nM: That's because he is being in and out all day.\nW: What's been going on?\nM: It has been many emergency calls and he is the only technician available to go out and deal with them.\n{a}",
-          "text_ru": "W: Where is Jack? His manager is trying to catch him several times but has always just missed him.\nM: That's because he is being in and out all day.\nW: What's been going on?\nM: It has been many emergency calls and he is the only technician available to go out and deal with them.\n{a}",
-          "text_kz": "W: Where is Jack? His manager is trying to catch him several times but has always just missed him.\nM: That's because he is being in and out all day.\nW: What's been going on?\nM: It has been many emergency calls and he is the only technician available to go out and deal with them.\n{a}",
+          "text": "W: Where is Jack? His manager is trying to catch him several times but has always just missed him.\nM: That's because he is being in and out all day.\nW: What's been going on?\nM: It has been many emergency calls and he is the only technician available to go out and deal with them.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -544,9 +486,7 @@
           ]
         },
         {
-          "text_en": "W: Late again, Ted? This is getting to be a habit. I'd be surprised if you were on time.\nM: Sorry, Miss Jamison. Did you see the fog on the weather report? It was dangerous to drive too fast.\nW: Maybe you should leave home earlier...\n{a}",
-          "text_ru": "W: Late again, Ted? This is getting to be a habit. I'd be surprised if you were on time.\nM: Sorry, Miss Jamison. Did you see the fog on the weather report? It was dangerous to drive too fast.\nW: Maybe you should leave home earlier...\n{a}",
-          "text_kz": "W: Late again, Ted? This is getting to be a habit. I'd be surprised if you were on time.\nM: Sorry, Miss Jamison. Did you see the fog on the weather report? It was dangerous to drive too fast.\nW: Maybe you should leave home earlier...\n{a}",
+          "text": "W: Late again, Ted? This is getting to be a habit. I'd be surprised if you were on time.\nM: Sorry, Miss Jamison. Did you see the fog on the weather report? It was dangerous to drive too fast.\nW: Maybe you should leave home earlier...\n{a}",
           "instances": [
             {
               "answerOptions": [

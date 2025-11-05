@@ -1,5 +1,5 @@
 {
-  "courseId": "78dac269-8590-4cb2-873d-4aba2fbfaa3c",
+  "courseId": "5261285d-a066-4c67-af56-246161057773",
   "title": "Everyday English Course 105",
   "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
   "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
@@ -10,9 +10,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: Good morning. What can I do for you?\nF: I'd like to buy some New Year's cards.\n{a}",
-          "text_ru": "M: Good morning. What can I do for you?\nF: I'd like to buy some New Year's cards.\n{a}",
-          "text_kz": "M: Good morning. What can I do for you?\nF: I'd like to buy some New Year's cards.\n{a}",
+          "text": "M: Good morning. What can I do for you?\nF: I'd like to buy some New Year's cards.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -28,9 +26,7 @@
           ]
         },
         {
-          "text_en": "M: What's the best way to downtown?\nW: If you're in a hurry, you should take a taxi. But it's very expensive.\nM: I'm in no particular hurry.\nW: Well, take an airport bus then, it will cost you only about 5.\nM: That's a good idea.\n{a}",
-          "text_ru": "M: What's the best way to downtown?\nW: If you're in a hurry, you should take a taxi. But it's very expensive.\nM: I'm in no particular hurry.\nW: Well, take an airport bus then, it will cost you only about 5.\nM: That's a good idea.\n{a}",
-          "text_kz": "M: What's the best way to downtown?\nW: If you're in a hurry, you should take a taxi. But it's very expensive.\nM: I'm in no particular hurry.\nW: Well, take an airport bus then, it will cost you only about 5.\nM: That's a good idea.\n{a}",
+          "text": "M: What's the best way to downtown?\nW: If you're in a hurry, you should take a taxi. But it's very expensive.\nM: I'm in no particular hurry.\nW: Well, take an airport bus then, it will cost you only about 5.\nM: That's a good idea.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -46,9 +42,7 @@
           ]
         },
         {
-          "text_en": "W: Hello, is that Steve? I'm stuck in a traffic jam. I'm afraid I can't make it before seven o'clock.\nM: Never mind. I'll be here waiting for you.\n{a}",
-          "text_ru": "W: Hello, is that Steve? I'm stuck in a traffic jam. I'm afraid I can't make it before seven o'clock.\nM: Never mind. I'll be here waiting for you.\n{a}",
-          "text_kz": "W: Hello, is that Steve? I'm stuck in a traffic jam. I'm afraid I can't make it before seven o'clock.\nM: Never mind. I'll be here waiting for you.\n{a}",
+          "text": "W: Hello, is that Steve? I'm stuck in a traffic jam. I'm afraid I can't make it before seven o'clock.\nM: Never mind. I'll be here waiting for you.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -64,9 +58,7 @@
           ]
         },
         {
-          "text_en": "M: Have we got everything now?\nW: No, I still need to get some eggs, tomatoes and potatoes.\n{a}",
-          "text_ru": "M: Have we got everything now?\nW: No, I still need to get some eggs, tomatoes and potatoes.\n{a}",
-          "text_kz": "M: Have we got everything now?\nW: No, I still need to get some eggs, tomatoes and potatoes.\n{a}",
+          "text": "M: Have we got everything now?\nW: No, I still need to get some eggs, tomatoes and potatoes.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -82,9 +74,7 @@
           ]
         },
         {
-          "text_en": "F: Let's see. Yes. You've got quite a high temperature.\nM: I've got a bad headache, too.\n{a}",
-          "text_ru": "F: Let's see. Yes. You've got quite a high temperature.\nM: I've got a bad headache, too.\n{a}",
-          "text_kz": "F: Let's see. Yes. You've got quite a high temperature.\nM: I've got a bad headache, too.\n{a}",
+          "text": "F: Let's see. Yes. You've got quite a high temperature.\nM: I've got a bad headache, too.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -100,9 +90,7 @@
           ]
         },
         {
-          "text_en": "M: Say, Lisa, what are you watching?\nW: A Japanese film. I'm going to spend all next year in Japan, and I'd better get to know more about its culture.\nM: You mean you are accepted into the program?\nW: Sure.\nM: That's wonderful. You must be excited.\nW: Excited and nervous. You know I must work on some basic conversation skills.\nM: How much Japanese can you understand?\nW: Only a little now. But I'll attend a special language class next month.\nM: I wish I were as clever as you are in foreign languages. I'd love to study abroad.\nW: Then why don't you? The school has a lot of programs that don't require the mastery of a foreign language. You just have to be the kind of person who is and can get used to a new environment fast.\nM: I thought all programs required one to know a foreign language. Thank you for letting me know this.\n{a}",
-          "text_ru": "M: Say, Lisa, what are you watching?\nW: A Japanese film. I'm going to spend all next year in Japan, and I'd better get to know more about its culture.\nM: You mean you are accepted into the program?\nW: Sure.\nM: That's wonderful. You must be excited.\nW: Excited and nervous. You know I must work on some basic conversation skills.\nM: How much Japanese can you understand?\nW: Only a little now. But I'll attend a special language class next month.\nM: I wish I were as clever as you are in foreign languages. I'd love to study abroad.\nW: Then why don't you? The school has a lot of programs that don't require the mastery of a foreign language. You just have to be the kind of person who is and can get used to a new environment fast.\nM: I thought all programs required one to know a foreign language. Thank you for letting me know this.\n{a}",
-          "text_kz": "M: Say, Lisa, what are you watching?\nW: A Japanese film. I'm going to spend all next year in Japan, and I'd better get to know more about its culture.\nM: You mean you are accepted into the program?\nW: Sure.\nM: That's wonderful. You must be excited.\nW: Excited and nervous. You know I must work on some basic conversation skills.\nM: How much Japanese can you understand?\nW: Only a little now. But I'll attend a special language class next month.\nM: I wish I were as clever as you are in foreign languages. I'd love to study abroad.\nW: Then why don't you? The school has a lot of programs that don't require the mastery of a foreign language. You just have to be the kind of person who is and can get used to a new environment fast.\nM: I thought all programs required one to know a foreign language. Thank you for letting me know this.\n{a}",
+          "text": "M: Say, Lisa, what are you watching?\nW: A Japanese film. I'm going to spend all next year in Japan, and I'd better get to know more about its culture.\nM: You mean you are accepted into the program?\nW: Sure.\nM: That's wonderful. You must be excited.\nW: Excited and nervous. You know I must work on some basic conversation skills.\nM: How much Japanese can you understand?\nW: Only a little now. But I'll attend a special language class next month.\nM: I wish I were as clever as you are in foreign languages. I'd love to study abroad.\nW: Then why don't you? The school has a lot of programs that don't require the mastery of a foreign language. You just have to be the kind of person who is and can get used to a new environment fast.\nM: I thought all programs required one to know a foreign language. Thank you for letting me know this.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -118,9 +106,7 @@
           ]
         },
         {
-          "text_en": "F: Where's Li Lei?\nM: He has gone to the reading-room.\n{a}",
-          "text_ru": "F: Where's Li Lei?\nM: He has gone to the reading-room.\n{a}",
-          "text_kz": "F: Where's Li Lei?\nM: He has gone to the reading-room.\n{a}",
+          "text": "F: Where's Li Lei?\nM: He has gone to the reading-room.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -136,9 +122,7 @@
           ]
         },
         {
-          "text_en": "M: It's hot! I wish it would rain and cool off!\nW: This isn't usual for November. I don't remember it ever being so hot and dry in November before.\n{a}",
-          "text_ru": "M: It's hot! I wish it would rain and cool off!\nW: This isn't usual for November. I don't remember it ever being so hot and dry in November before.\n{a}",
-          "text_kz": "M: It's hot! I wish it would rain and cool off!\nW: This isn't usual for November. I don't remember it ever being so hot and dry in November before.\n{a}",
+          "text": "M: It's hot! I wish it would rain and cool off!\nW: This isn't usual for November. I don't remember it ever being so hot and dry in November before.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -154,9 +138,7 @@
           ]
         },
         {
-          "text_en": "W: Hi, I'm calling about the three-bedroom house you sell in yesterday's paper. Can you give me more details?\nM: Of course.\n{a}",
-          "text_ru": "W: Hi, I'm calling about the three-bedroom house you sell in yesterday's paper. Can you give me more details?\nM: Of course.\n{a}",
-          "text_kz": "W: Hi, I'm calling about the three-bedroom house you sell in yesterday's paper. Can you give me more details?\nM: Of course.\n{a}",
+          "text": "W: Hi, I'm calling about the three-bedroom house you sell in yesterday's paper. Can you give me more details?\nM: Of course.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -172,9 +154,7 @@
           ]
         },
         {
-          "text_en": "M: I have a terrible cold.\nW: We have quite a few medications to make you more comfortable.\n{a}",
-          "text_ru": "M: I have a terrible cold.\nW: We have quite a few medications to make you more comfortable.\n{a}",
-          "text_kz": "M: I have a terrible cold.\nW: We have quite a few medications to make you more comfortable.\n{a}",
+          "text": "M: I have a terrible cold.\nW: We have quite a few medications to make you more comfortable.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -196,9 +176,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "W: How did you like the movie?\nM: It was a waste of time and money. I wish I had stayed home watching TV.\n{a}",
-          "text_ru": "W: How did you like the movie?\nM: It was a waste of time and money. I wish I had stayed home watching TV.\n{a}",
-          "text_kz": "W: How did you like the movie?\nM: It was a waste of time and money. I wish I had stayed home watching TV.\n{a}",
+          "text": "W: How did you like the movie?\nM: It was a waste of time and money. I wish I had stayed home watching TV.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -214,9 +192,7 @@
           ]
         },
         {
-          "text_en": "W: Bill, that is a lovely painting in your living-room.\nM: I'm glad you like it. It's a Christmas gift from my son.\nW: Well, it's beautiful. Your son has very good taste.\n{a}",
-          "text_ru": "W: Bill, that is a lovely painting in your living-room.\nM: I'm glad you like it. It's a Christmas gift from my son.\nW: Well, it's beautiful. Your son has very good taste.\n{a}",
-          "text_kz": "W: Bill, that is a lovely painting in your living-room.\nM: I'm glad you like it. It's a Christmas gift from my son.\nW: Well, it's beautiful. Your son has very good taste.\n{a}",
+          "text": "W: Bill, that is a lovely painting in your living-room.\nM: I'm glad you like it. It's a Christmas gift from my son.\nW: Well, it's beautiful. Your son has very good taste.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -232,9 +208,7 @@
           ]
         },
         {
-          "text_en": "W: Do you know that Sam turned down that job offer by a travel agency?\nM: Yeah. The hours were convenient, but had he accepted it, he wouldn't have been able to make ends meet.\n{a}",
-          "text_ru": "W: Do you know that Sam turned down that job offer by a travel agency?\nM: Yeah. The hours were convenient, but had he accepted it, he wouldn't have been able to make ends meet.\n{a}",
-          "text_kz": "W: Do you know that Sam turned down that job offer by a travel agency?\nM: Yeah. The hours were convenient, but had he accepted it, he wouldn't have been able to make ends meet.\n{a}",
+          "text": "W: Do you know that Sam turned down that job offer by a travel agency?\nM: Yeah. The hours were convenient, but had he accepted it, he wouldn't have been able to make ends meet.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -250,9 +224,7 @@
           ]
         },
         {
-          "text_en": "M: Professor Smith certainly has a good reputation in the Department of English.\nW: A well-deserved one. The same students who fall asleep in discussions and seminars fight for front-row seats in his lectures.\n{a}",
-          "text_ru": "M: Professor Smith certainly has a good reputation in the Department of English.\nW: A well-deserved one. The same students who fall asleep in discussions and seminars fight for front-row seats in his lectures.\n{a}",
-          "text_kz": "M: Professor Smith certainly has a good reputation in the Department of English.\nW: A well-deserved one. The same students who fall asleep in discussions and seminars fight for front-row seats in his lectures.\n{a}",
+          "text": "M: Professor Smith certainly has a good reputation in the Department of English.\nW: A well-deserved one. The same students who fall asleep in discussions and seminars fight for front-row seats in his lectures.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -268,9 +240,7 @@
           ]
         },
         {
-          "text_en": "M: Look, Sandra. I got this really nice postcard from my aunt.\nW: Oh, what a pretty village and it's right by a river. Is it in the mountains?\nM: Yes. But you can't see them in the picture.\nW: Perhaps they're behind those tall trees.\n{a}",
-          "text_ru": "M: Look, Sandra. I got this really nice postcard from my aunt.\nW: Oh, what a pretty village and it's right by a river. Is it in the mountains?\nM: Yes. But you can't see them in the picture.\nW: Perhaps they're behind those tall trees.\n{a}",
-          "text_kz": "M: Look, Sandra. I got this really nice postcard from my aunt.\nW: Oh, what a pretty village and it's right by a river. Is it in the mountains?\nM: Yes. But you can't see them in the picture.\nW: Perhaps they're behind those tall trees.\n{a}",
+          "text": "M: Look, Sandra. I got this really nice postcard from my aunt.\nW: Oh, what a pretty village and it's right by a river. Is it in the mountains?\nM: Yes. But you can't see them in the picture.\nW: Perhaps they're behind those tall trees.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -286,9 +256,7 @@
           ]
         },
         {
-          "text_en": "M: Hello, is Jones in? Can I speak to him?\nW: Hold on. He is coming.\n{a}",
-          "text_ru": "M: Hello, is Jones in? Can I speak to him?\nW: Hold on. He is coming.\n{a}",
-          "text_kz": "M: Hello, is Jones in? Can I speak to him?\nW: Hold on. He is coming.\n{a}",
+          "text": "M: Hello, is Jones in? Can I speak to him?\nW: Hold on. He is coming.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -304,9 +272,7 @@
           ]
         },
         {
-          "text_en": "M: What a great singer Justin is! His concert is just awesome. And you'll never regret the money you paid for the ticket.\nW: Yeah. Judging by the amount of the applause, everyone was enjoying it.\n{a}",
-          "text_ru": "M: What a great singer Justin is! His concert is just awesome. And you'll never regret the money you paid for the ticket.\nW: Yeah. Judging by the amount of the applause, everyone was enjoying it.\n{a}",
-          "text_kz": "M: What a great singer Justin is! His concert is just awesome. And you'll never regret the money you paid for the ticket.\nW: Yeah. Judging by the amount of the applause, everyone was enjoying it.\n{a}",
+          "text": "M: What a great singer Justin is! His concert is just awesome. And you'll never regret the money you paid for the ticket.\nW: Yeah. Judging by the amount of the applause, everyone was enjoying it.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -322,9 +288,7 @@
           ]
         },
         {
-          "text_en": "M: I was born in Los Angeles. What about you? Where are you from?\nW: I'm Chinese.\nM: Chinese? But your English is excellent. Where did you learn English?\nW: In China.\nM: Fancy that! Your country must have a very good record of English language education.\n{a}",
-          "text_ru": "M: I was born in Los Angeles. What about you? Where are you from?\nW: I'm Chinese.\nM: Chinese? But your English is excellent. Where did you learn English?\nW: In China.\nM: Fancy that! Your country must have a very good record of English language education.\n{a}",
-          "text_kz": "M: I was born in Los Angeles. What about you? Where are you from?\nW: I'm Chinese.\nM: Chinese? But your English is excellent. Where did you learn English?\nW: In China.\nM: Fancy that! Your country must have a very good record of English language education.\n{a}",
+          "text": "M: I was born in Los Angeles. What about you? Where are you from?\nW: I'm Chinese.\nM: Chinese? But your English is excellent. Where did you learn English?\nW: In China.\nM: Fancy that! Your country must have a very good record of English language education.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -340,9 +304,7 @@
           ]
         },
         {
-          "text_en": "W: Shall we meet at a quarter past three?\nM: No, let's meet at a quarter to three.\n{a}",
-          "text_ru": "W: Shall we meet at a quarter past three?\nM: No, let's meet at a quarter to three.\n{a}",
-          "text_kz": "W: Shall we meet at a quarter past three?\nM: No, let's meet at a quarter to three.\n{a}",
+          "text": "W: Shall we meet at a quarter past three?\nM: No, let's meet at a quarter to three.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -358,9 +320,7 @@
           ]
         },
         {
-          "text_en": "W: Sir,there's a Mr Miller on the phone who wants to talk to you.\nM: I'm busy at the moment. Can you ask him to hold on?Tell him I'll talk with him in a few seconds.\n{a}",
-          "text_ru": "W: Sir,there's a Mr Miller on the phone who wants to talk to you.\nM: I'm busy at the moment. Can you ask him to hold on?Tell him I'll talk with him in a few seconds.\n{a}",
-          "text_kz": "W: Sir,there's a Mr Miller on the phone who wants to talk to you.\nM: I'm busy at the moment. Can you ask him to hold on?Tell him I'll talk with him in a few seconds.\n{a}",
+          "text": "W: Sir,there's a Mr Miller on the phone who wants to talk to you.\nM: I'm busy at the moment. Can you ask him to hold on?Tell him I'll talk with him in a few seconds.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -382,9 +342,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: Do you have everything ready?\nW: I'm sorry, but I have to buy a pound of sweets and some apples.\n{a}",
-          "text_ru": "M: Do you have everything ready?\nW: I'm sorry, but I have to buy a pound of sweets and some apples.\n{a}",
-          "text_kz": "M: Do you have everything ready?\nW: I'm sorry, but I have to buy a pound of sweets and some apples.\n{a}",
+          "text": "M: Do you have everything ready?\nW: I'm sorry, but I have to buy a pound of sweets and some apples.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -400,9 +358,7 @@
           ]
         },
         {
-          "text_en": "W: Why are you giving me a speeding ticket? I was only going 40.\nM: Can't you read? That was 10 M.P.H. over the limit.\n{a}",
-          "text_ru": "W: Why are you giving me a speeding ticket? I was only going 40.\nM: Can't you read? That was 10 M.P.H. over the limit.\n{a}",
-          "text_kz": "W: Why are you giving me a speeding ticket? I was only going 40.\nM: Can't you read? That was 10 M.P.H. over the limit.\n{a}",
+          "text": "W: Why are you giving me a speeding ticket? I was only going 40.\nM: Can't you read? That was 10 M.P.H. over the limit.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -418,9 +374,7 @@
           ]
         },
         {
-          "text_en": "W: There was a storm warning on the radio this morning. Did you happen to be listening?\nM: No, but what a shame! I guess we'll have to change our sailing plans. Would you rather play golf or go cycling?\n{a}",
-          "text_ru": "W: There was a storm warning on the radio this morning. Did you happen to be listening?\nM: No, but what a shame! I guess we'll have to change our sailing plans. Would you rather play golf or go cycling?\n{a}",
-          "text_kz": "W: There was a storm warning on the radio this morning. Did you happen to be listening?\nM: No, but what a shame! I guess we'll have to change our sailing plans. Would you rather play golf or go cycling?\n{a}",
+          "text": "W: There was a storm warning on the radio this morning. Did you happen to be listening?\nM: No, but what a shame! I guess we'll have to change our sailing plans. Would you rather play golf or go cycling?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -436,9 +390,7 @@
           ]
         },
         {
-          "text_en": "W: I often go to bed at eleven o'clock. How about you, Jack?\nM: That's too late. I usually go to bed an hour earlier than you.\n{a}",
-          "text_ru": "W: I often go to bed at eleven o'clock. How about you, Jack?\nM: That's too late. I usually go to bed an hour earlier than you.\n{a}",
-          "text_kz": "W: I often go to bed at eleven o'clock. How about you, Jack?\nM: That's too late. I usually go to bed an hour earlier than you.\n{a}",
+          "text": "W: I often go to bed at eleven o'clock. How about you, Jack?\nM: That's too late. I usually go to bed an hour earlier than you.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -454,9 +406,7 @@
           ]
         },
         {
-          "text_en": "M: You didn't do well in today's math test. What was the matter?\nW: I was in a hurry, and I didn't check over my answers.\n{a}",
-          "text_ru": "M: You didn't do well in today's math test. What was the matter?\nW: I was in a hurry, and I didn't check over my answers.\n{a}",
-          "text_kz": "M: You didn't do well in today's math test. What was the matter?\nW: I was in a hurry, and I didn't check over my answers.\n{a}",
+          "text": "M: You didn't do well in today's math test. What was the matter?\nW: I was in a hurry, and I didn't check over my answers.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -472,9 +422,7 @@
           ]
         },
         {
-          "text_en": "M: Excuse me, is it far from here to hospital?\nF: No, not at all. It takes nearly 2 minutes to get there on foot.\n{a}",
-          "text_ru": "M: Excuse me, is it far from here to hospital?\nF: No, not at all. It takes nearly 2 minutes to get there on foot.\n{a}",
-          "text_kz": "M: Excuse me, is it far from here to hospital?\nF: No, not at all. It takes nearly 2 minutes to get there on foot.\n{a}",
+          "text": "M: Excuse me, is it far from here to hospital?\nF: No, not at all. It takes nearly 2 minutes to get there on foot.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -490,9 +438,7 @@
           ]
         },
         {
-          "text_en": "W: What is your dream, Linda?\nM: I want to be a nurse.\n{a}",
-          "text_ru": "W: What is your dream, Linda?\nM: I want to be a nurse.\n{a}",
-          "text_kz": "W: What is your dream, Linda?\nM: I want to be a nurse.\n{a}",
+          "text": "W: What is your dream, Linda?\nM: I want to be a nurse.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -508,9 +454,7 @@
           ]
         },
         {
-          "text_en": "M: Er... Hi, could you tell me where electronic products are displayed? I want to see some TVs, digital video cameras, DVD players, that sort of thing.\nW: Well. Several countries are displaying electronic products. China's selection is very large this year. You might as well go to the east wing first to take a look at a Chinese booth.\n{a}",
-          "text_ru": "M: Er... Hi, could you tell me where electronic products are displayed? I want to see some TVs, digital video cameras, DVD players, that sort of thing.\nW: Well. Several countries are displaying electronic products. China's selection is very large this year. You might as well go to the east wing first to take a look at a Chinese booth.\n{a}",
-          "text_kz": "M: Er... Hi, could you tell me where electronic products are displayed? I want to see some TVs, digital video cameras, DVD players, that sort of thing.\nW: Well. Several countries are displaying electronic products. China's selection is very large this year. You might as well go to the east wing first to take a look at a Chinese booth.\n{a}",
+          "text": "M: Er... Hi, could you tell me where electronic products are displayed? I want to see some TVs, digital video cameras, DVD players, that sort of thing.\nW: Well. Several countries are displaying electronic products. China's selection is very large this year. You might as well go to the east wing first to take a look at a Chinese booth.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -526,9 +470,7 @@
           ]
         },
         {
-          "text_en": "W: Mary Green is very unlucky. The most terrible things keep happening to her.\nM: Yes, if you can trust what she says. But most of her stories are pretty unbelievable in my opinion.\n{a}",
-          "text_ru": "W: Mary Green is very unlucky. The most terrible things keep happening to her.\nM: Yes, if you can trust what she says. But most of her stories are pretty unbelievable in my opinion.\n{a}",
-          "text_kz": "W: Mary Green is very unlucky. The most terrible things keep happening to her.\nM: Yes, if you can trust what she says. But most of her stories are pretty unbelievable in my opinion.\n{a}",
+          "text": "W: Mary Green is very unlucky. The most terrible things keep happening to her.\nM: Yes, if you can trust what she says. But most of her stories are pretty unbelievable in my opinion.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -544,9 +486,7 @@
           ]
         },
         {
-          "text_en": "W: I'm sorry, but the number you dialed is not in service.\nM: But that's impossible! I just spoke to him this morning. Please cheek for me.\n{a}",
-          "text_ru": "W: I'm sorry, but the number you dialed is not in service.\nM: But that's impossible! I just spoke to him this morning. Please cheek for me.\n{a}",
-          "text_kz": "W: I'm sorry, but the number you dialed is not in service.\nM: But that's impossible! I just spoke to him this morning. Please cheek for me.\n{a}",
+          "text": "W: I'm sorry, but the number you dialed is not in service.\nM: But that's impossible! I just spoke to him this morning. Please cheek for me.\n{a}",
           "instances": [
             {
               "answerOptions": [

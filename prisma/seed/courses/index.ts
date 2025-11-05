@@ -9,7 +9,10 @@ const prisma = new PrismaClient()
 const logger = new Logger('seed')
 
 export async function seedCourses() {
-	for (const [key, courseData] of Object.entries(coursesData)) {
+	for (const [key, courseData] of Object.entries(coursesData) as [
+		string,
+		any,
+	][]) {
 		const course = await prisma.course.upsert({
 			where: { courseId: courseData.courseId },
 			update: {},
@@ -25,9 +28,7 @@ export async function seedCourses() {
 						description: section.description,
 						questionTemplates: {
 							create: section.questionTemplates.map(qt => ({
-								textEn: qt.text_en,
-								textRu: qt.text_ru,
-								textKz: qt.text_kz,
+								text: qt.text,
 								explanation: qt.explanation,
 								instances: {
 									create: qt.instances.map(inst => ({

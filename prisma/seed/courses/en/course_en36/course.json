@@ -1,5 +1,5 @@
 {
-  "courseId": "daeda907-9da3-4f29-8ce9-db8ab274efe6",
+  "courseId": "06759370-6b00-45c6-b9cf-4e10be297cc3",
   "title": "Everyday English Course 36",
   "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
   "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
@@ -10,9 +10,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: Hurry up. It is time for TV.\nW: What are we going to watch?\nM: A football match between Germany and Italy. It will be exciting.\nW: But I am not interested in, football. I like to see a TV film.\nM: Oh. no. You can see a TV film any other day.\nW: There will he oilier football games any other day.\nM: But this game is the most important of the season.\nW: If you insist on watching the game, I will go.\nM: Where are you going? Are you annoyed with me?\nW: No. I am going to the cinema.\n{a}",
-          "text_ru": "M: Hurry up. It is time for TV.\nW: What are we going to watch?\nM: A football match between Germany and Italy. It will be exciting.\nW: But I am not interested in, football. I like to see a TV film.\nM: Oh. no. You can see a TV film any other day.\nW: There will he oilier football games any other day.\nM: But this game is the most important of the season.\nW: If you insist on watching the game, I will go.\nM: Where are you going? Are you annoyed with me?\nW: No. I am going to the cinema.\n{a}",
-          "text_kz": "M: Hurry up. It is time for TV.\nW: What are we going to watch?\nM: A football match between Germany and Italy. It will be exciting.\nW: But I am not interested in, football. I like to see a TV film.\nM: Oh. no. You can see a TV film any other day.\nW: There will he oilier football games any other day.\nM: But this game is the most important of the season.\nW: If you insist on watching the game, I will go.\nM: Where are you going? Are you annoyed with me?\nW: No. I am going to the cinema.\n{a}",
+          "text": "M: Hurry up. It is time for TV.\nW: What are we going to watch?\nM: A football match between Germany and Italy. It will be exciting.\nW: But I am not interested in, football. I like to see a TV film.\nM: Oh. no. You can see a TV film any other day.\nW: There will he oilier football games any other day.\nM: But this game is the most important of the season.\nW: If you insist on watching the game, I will go.\nM: Where are you going? Are you annoyed with me?\nW: No. I am going to the cinema.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -39,9 +37,7 @@
           ]
         },
         {
-          "text_en": "M: So, Macy, how was your holiday?\nW: Oh, we loved it. Tom liked Germany best, but France was my favorite.\nM: So did Rachael finally go with you?\nW: No, she wasn't able to. She was called away for a business trip to China.\nM: That's a pity. So where exactly did you go and visit?\nW: Well, we traveled all over, Italy, Spain and Holland; we even bathed in a Swiss lake\nM: You did, really?\n{a}",
-          "text_ru": "M: So, Macy, how was your holiday?\nW: Oh, we loved it. Tom liked Germany best, but France was my favorite.\nM: So did Rachael finally go with you?\nW: No, she wasn't able to. She was called away for a business trip to China.\nM: That's a pity. So where exactly did you go and visit?\nW: Well, we traveled all over, Italy, Spain and Holland; we even bathed in a Swiss lake\nM: You did, really?\n{a}",
-          "text_kz": "M: So, Macy, how was your holiday?\nW: Oh, we loved it. Tom liked Germany best, but France was my favorite.\nM: So did Rachael finally go with you?\nW: No, she wasn't able to. She was called away for a business trip to China.\nM: That's a pity. So where exactly did you go and visit?\nW: Well, we traveled all over, Italy, Spain and Holland; we even bathed in a Swiss lake\nM: You did, really?\n{a}",
+          "text": "M: So, Macy, how was your holiday?\nW: Oh, we loved it. Tom liked Germany best, but France was my favorite.\nM: So did Rachael finally go with you?\nW: No, she wasn't able to. She was called away for a business trip to China.\nM: That's a pity. So where exactly did you go and visit?\nW: Well, we traveled all over, Italy, Spain and Holland; we even bathed in a Swiss lake\nM: You did, really?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -68,9 +64,7 @@
           ]
         },
         {
-          "text_en": "W: Where's Cecilia, Mark?\nM: I'm not sure. She finishes school at 3. Maybe she went to Joyce's. She knows she has to come home before 5.\nW: It's 5:30 now.\nM: Maybe she forgot her watch.\nW: Well, someone has to wash the dishes. The kitchen's a mess.\nM: I can go to Joyce's. I know her address.\nW: That's OK. We don't need her. You can wash the dishes.\n{a}",
-          "text_ru": "W: Where's Cecilia, Mark?\nM: I'm not sure. She finishes school at 3. Maybe she went to Joyce's. She knows she has to come home before 5.\nW: It's 5:30 now.\nM: Maybe she forgot her watch.\nW: Well, someone has to wash the dishes. The kitchen's a mess.\nM: I can go to Joyce's. I know her address.\nW: That's OK. We don't need her. You can wash the dishes.\n{a}",
-          "text_kz": "W: Where's Cecilia, Mark?\nM: I'm not sure. She finishes school at 3. Maybe she went to Joyce's. She knows she has to come home before 5.\nW: It's 5:30 now.\nM: Maybe she forgot her watch.\nW: Well, someone has to wash the dishes. The kitchen's a mess.\nM: I can go to Joyce's. I know her address.\nW: That's OK. We don't need her. You can wash the dishes.\n{a}",
+          "text": "W: Where's Cecilia, Mark?\nM: I'm not sure. She finishes school at 3. Maybe she went to Joyce's. She knows she has to come home before 5.\nW: It's 5:30 now.\nM: Maybe she forgot her watch.\nW: Well, someone has to wash the dishes. The kitchen's a mess.\nM: I can go to Joyce's. I know her address.\nW: That's OK. We don't need her. You can wash the dishes.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -97,9 +91,7 @@
           ]
         },
         {
-          "text_en": "W: What's going on between you and Charlie? Did you have a fight or something?\nM: No, but I can't stand him anymore. He is the worst roommate I've ever had. He never cleans up after himself and he is always listening to loud music when I try to get some sleep.\nW: Why don't you have a heart-to-heart talk with him?\nM: I've tried, but it didn't work. Maybe you can talk to him. After all, you are his good friend.\n{a}",
-          "text_ru": "W: What's going on between you and Charlie? Did you have a fight or something?\nM: No, but I can't stand him anymore. He is the worst roommate I've ever had. He never cleans up after himself and he is always listening to loud music when I try to get some sleep.\nW: Why don't you have a heart-to-heart talk with him?\nM: I've tried, but it didn't work. Maybe you can talk to him. After all, you are his good friend.\n{a}",
-          "text_kz": "W: What's going on between you and Charlie? Did you have a fight or something?\nM: No, but I can't stand him anymore. He is the worst roommate I've ever had. He never cleans up after himself and he is always listening to loud music when I try to get some sleep.\nW: Why don't you have a heart-to-heart talk with him?\nM: I've tried, but it didn't work. Maybe you can talk to him. After all, you are his good friend.\n{a}",
+          "text": "W: What's going on between you and Charlie? Did you have a fight or something?\nM: No, but I can't stand him anymore. He is the worst roommate I've ever had. He never cleans up after himself and he is always listening to loud music when I try to get some sleep.\nW: Why don't you have a heart-to-heart talk with him?\nM: I've tried, but it didn't work. Maybe you can talk to him. After all, you are his good friend.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -126,9 +118,7 @@
           ]
         },
         {
-          "text_en": "W: Good morning, sir. Can I help you?\nM: Yes. I'd like a single room with a bath.\nW: Do you have a reservation, sir?\nM: No.\nW: OK. Please wait a second. I'll find a room for you.\n{a}",
-          "text_ru": "W: Good morning, sir. Can I help you?\nM: Yes. I'd like a single room with a bath.\nW: Do you have a reservation, sir?\nM: No.\nW: OK. Please wait a second. I'll find a room for you.\n{a}",
-          "text_kz": "W: Good morning, sir. Can I help you?\nM: Yes. I'd like a single room with a bath.\nW: Do you have a reservation, sir?\nM: No.\nW: OK. Please wait a second. I'll find a room for you.\n{a}",
+          "text": "W: Good morning, sir. Can I help you?\nM: Yes. I'd like a single room with a bath.\nW: Do you have a reservation, sir?\nM: No.\nW: OK. Please wait a second. I'll find a room for you.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -155,9 +145,7 @@
           ]
         },
         {
-          "text_en": "M: I am considering dropping my dancing class. I am not making any progress.\nW: If I were you, I stick with it. It's definitely worth time and effort.\n{a}",
-          "text_ru": "M: I am considering dropping my dancing class. I am not making any progress.\nW: If I were you, I stick with it. It's definitely worth time and effort.\n{a}",
-          "text_kz": "M: I am considering dropping my dancing class. I am not making any progress.\nW: If I were you, I stick with it. It's definitely worth time and effort.\n{a}",
+          "text": "M: I am considering dropping my dancing class. I am not making any progress.\nW: If I were you, I stick with it. It's definitely worth time and effort.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -173,9 +161,7 @@
           ]
         },
         {
-          "text_en": "M: Look at the girl on the bike!\nF: Oh, yes she's really a smart girl.\n{a}",
-          "text_ru": "M: Look at the girl on the bike!\nF: Oh, yes she's really a smart girl.\n{a}",
-          "text_kz": "M: Look at the girl on the bike!\nF: Oh, yes she's really a smart girl.\n{a}",
+          "text": "M: Look at the girl on the bike!\nF: Oh, yes she's really a smart girl.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -191,9 +177,7 @@
           ]
         },
         {
-          "text_en": "M: Can you accompany me while I am singing.\nW: I don't play very well, but I will give it a try.\n{a}",
-          "text_ru": "M: Can you accompany me while I am singing.\nW: I don't play very well, but I will give it a try.\n{a}",
-          "text_kz": "M: Can you accompany me while I am singing.\nW: I don't play very well, but I will give it a try.\n{a}",
+          "text": "M: Can you accompany me while I am singing.\nW: I don't play very well, but I will give it a try.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -209,9 +193,7 @@
           ]
         },
         {
-          "text_en": "W: I can't figure out what's wrong with my watch. It was just a month ago that I had it repaired.\nM: Don't waste your time and money any more. It's very old watch and it is quite worn out.\n{a}",
-          "text_ru": "W: I can't figure out what's wrong with my watch. It was just a month ago that I had it repaired.\nM: Don't waste your time and money any more. It's very old watch and it is quite worn out.\n{a}",
-          "text_kz": "W: I can't figure out what's wrong with my watch. It was just a month ago that I had it repaired.\nM: Don't waste your time and money any more. It's very old watch and it is quite worn out.\n{a}",
+          "text": "W: I can't figure out what's wrong with my watch. It was just a month ago that I had it repaired.\nM: Don't waste your time and money any more. It's very old watch and it is quite worn out.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -227,9 +209,7 @@
           ]
         },
         {
-          "text_en": "M: I think it's going to rain.\nW: I guess so. The skies are dark and cloudy.\n{a}",
-          "text_ru": "M: I think it's going to rain.\nW: I guess so. The skies are dark and cloudy.\n{a}",
-          "text_kz": "M: I think it's going to rain.\nW: I guess so. The skies are dark and cloudy.\n{a}",
+          "text": "M: I think it's going to rain.\nW: I guess so. The skies are dark and cloudy.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -251,9 +231,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "W: Front desk. Can I help you?\nM: Yeah, hi, this is Room 327. Is your dining room still open?\n{a}",
-          "text_ru": "W: Front desk. Can I help you?\nM: Yeah, hi, this is Room 327. Is your dining room still open?\n{a}",
-          "text_kz": "W: Front desk. Can I help you?\nM: Yeah, hi, this is Room 327. Is your dining room still open?\n{a}",
+          "text": "W: Front desk. Can I help you?\nM: Yeah, hi, this is Room 327. Is your dining room still open?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -269,9 +247,7 @@
           ]
         },
         {
-          "text_en": "M: When did you first find the door broken and things missing?\nW: After I got up, around 5:20. Then I called the police station.\n{a}",
-          "text_ru": "M: When did you first find the door broken and things missing?\nW: After I got up, around 5:20. Then I called the police station.\n{a}",
-          "text_kz": "M: When did you first find the door broken and things missing?\nW: After I got up, around 5:20. Then I called the police station.\n{a}",
+          "text": "M: When did you first find the door broken and things missing?\nW: After I got up, around 5:20. Then I called the police station.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -287,9 +263,7 @@
           ]
         },
         {
-          "text_en": "F: The lecture will start at three this afternoon, is that right?\nM: Well, the plan has changed. The lecture will begin at eight tomorrow morning.\n{a}",
-          "text_ru": "F: The lecture will start at three this afternoon, is that right?\nM: Well, the plan has changed. The lecture will begin at eight tomorrow morning.\n{a}",
-          "text_kz": "F: The lecture will start at three this afternoon, is that right?\nM: Well, the plan has changed. The lecture will begin at eight tomorrow morning.\n{a}",
+          "text": "F: The lecture will start at three this afternoon, is that right?\nM: Well, the plan has changed. The lecture will begin at eight tomorrow morning.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -305,9 +279,7 @@
           ]
         },
         {
-          "text_en": "W: I wish I knew the times of the trains to London. But our phone's out of order.\nM: Don't worry, Grandma. I'll find out for you on the Internet.\nW: Thank you!\n{a}",
-          "text_ru": "W: I wish I knew the times of the trains to London. But our phone's out of order.\nM: Don't worry, Grandma. I'll find out for you on the Internet.\nW: Thank you!\n{a}",
-          "text_kz": "W: I wish I knew the times of the trains to London. But our phone's out of order.\nM: Don't worry, Grandma. I'll find out for you on the Internet.\nW: Thank you!\n{a}",
+          "text": "W: I wish I knew the times of the trains to London. But our phone's out of order.\nM: Don't worry, Grandma. I'll find out for you on the Internet.\nW: Thank you!\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -323,9 +295,7 @@
           ]
         },
         {
-          "text_en": "M: Would you turn off the alarm clock?\nW: Dear, but you said you had a meeting to attend at 8:40.\n{a}",
-          "text_ru": "M: Would you turn off the alarm clock?\nW: Dear, but you said you had a meeting to attend at 8:40.\n{a}",
-          "text_kz": "M: Would you turn off the alarm clock?\nW: Dear, but you said you had a meeting to attend at 8:40.\n{a}",
+          "text": "M: Would you turn off the alarm clock?\nW: Dear, but you said you had a meeting to attend at 8:40.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -341,9 +311,7 @@
           ]
         },
         {
-          "text_en": "W: Peterson, shall we go and dance?\nM: OK. But wait a minute. I've just finished my homework, Let me put it in my desk first.\n{a}",
-          "text_ru": "W: Peterson, shall we go and dance?\nM: OK. But wait a minute. I've just finished my homework, Let me put it in my desk first.\n{a}",
-          "text_kz": "W: Peterson, shall we go and dance?\nM: OK. But wait a minute. I've just finished my homework, Let me put it in my desk first.\n{a}",
+          "text": "W: Peterson, shall we go and dance?\nM: OK. But wait a minute. I've just finished my homework, Let me put it in my desk first.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -359,9 +327,7 @@
           ]
         },
         {
-          "text_en": "W: What do you think of my new car?\nM: To be honest, it is no better than mine.\n{a}",
-          "text_ru": "W: What do you think of my new car?\nM: To be honest, it is no better than mine.\n{a}",
-          "text_kz": "W: What do you think of my new car?\nM: To be honest, it is no better than mine.\n{a}",
+          "text": "W: What do you think of my new car?\nM: To be honest, it is no better than mine.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -377,9 +343,7 @@
           ]
         },
         {
-          "text_en": "F: Excuse me. Could you tell me the way to the Book Shop?\nM: OK. Turn left at the second crossing, the highest building on the left is the shop.\n{a}",
-          "text_ru": "F: Excuse me. Could you tell me the way to the Book Shop?\nM: OK. Turn left at the second crossing, the highest building on the left is the shop.\n{a}",
-          "text_kz": "F: Excuse me. Could you tell me the way to the Book Shop?\nM: OK. Turn left at the second crossing, the highest building on the left is the shop.\n{a}",
+          "text": "F: Excuse me. Could you tell me the way to the Book Shop?\nM: OK. Turn left at the second crossing, the highest building on the left is the shop.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -395,9 +359,7 @@
           ]
         },
         {
-          "text_en": "W: This is a beautiful park. Shall we come again tomorrow?\nM: Don't we have to go shopping?\nW: We can do that in the afternoon, and come here in the morning.\nM: OK. And let's bring Hilda and Julia with us.\n{a}",
-          "text_ru": "W: This is a beautiful park. Shall we come again tomorrow?\nM: Don't we have to go shopping?\nW: We can do that in the afternoon, and come here in the morning.\nM: OK. And let's bring Hilda and Julia with us.\n{a}",
-          "text_kz": "W: This is a beautiful park. Shall we come again tomorrow?\nM: Don't we have to go shopping?\nW: We can do that in the afternoon, and come here in the morning.\nM: OK. And let's bring Hilda and Julia with us.\n{a}",
+          "text": "W: This is a beautiful park. Shall we come again tomorrow?\nM: Don't we have to go shopping?\nW: We can do that in the afternoon, and come here in the morning.\nM: OK. And let's bring Hilda and Julia with us.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -413,9 +375,7 @@
           ]
         },
         {
-          "text_en": "W: What did the weatherman say?\nM: It's supposed to clear up this week.\n{a}",
-          "text_ru": "W: What did the weatherman say?\nM: It's supposed to clear up this week.\n{a}",
-          "text_kz": "W: What did the weatherman say?\nM: It's supposed to clear up this week.\n{a}",
+          "text": "W: What did the weatherman say?\nM: It's supposed to clear up this week.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -437,9 +397,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "F: When will the concert finish?\nM: Well...it starts at six thirty, and will lasts three hours.\n{a}",
-          "text_ru": "F: When will the concert finish?\nM: Well...it starts at six thirty, and will lasts three hours.\n{a}",
-          "text_kz": "F: When will the concert finish?\nM: Well...it starts at six thirty, and will lasts three hours.\n{a}",
+          "text": "F: When will the concert finish?\nM: Well...it starts at six thirty, and will lasts three hours.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -455,9 +413,7 @@
           ]
         },
         {
-          "text_en": "W: Has Tom moved to the downtown?\nM: No. He is still living in the country.\n{a}",
-          "text_ru": "W: Has Tom moved to the downtown?\nM: No. He is still living in the country.\n{a}",
-          "text_kz": "W: Has Tom moved to the downtown?\nM: No. He is still living in the country.\n{a}",
+          "text": "W: Has Tom moved to the downtown?\nM: No. He is still living in the country.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -473,9 +429,7 @@
           ]
         },
         {
-          "text_en": "W: Did you cook the soup yourself, Mike? It's delicious.\nM: No. My mother cooked it for me.\n{a}",
-          "text_ru": "W: Did you cook the soup yourself, Mike? It's delicious.\nM: No. My mother cooked it for me.\n{a}",
-          "text_kz": "W: Did you cook the soup yourself, Mike? It's delicious.\nM: No. My mother cooked it for me.\n{a}",
+          "text": "W: Did you cook the soup yourself, Mike? It's delicious.\nM: No. My mother cooked it for me.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -491,9 +445,7 @@
           ]
         },
         {
-          "text_en": "F: When did you start your work last night?\nM: I began to work after the TV news finished.\n{a}",
-          "text_ru": "F: When did you start your work last night?\nM: I began to work after the TV news finished.\n{a}",
-          "text_kz": "F: When did you start your work last night?\nM: I began to work after the TV news finished.\n{a}",
+          "text": "F: When did you start your work last night?\nM: I began to work after the TV news finished.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -509,9 +461,7 @@
           ]
         },
         {
-          "text_en": "W: Have you been wasting your time on those online games again?\nM: Not really. I've worked on my term paper a lot this week and I need a break.\n{a}",
-          "text_ru": "W: Have you been wasting your time on those online games again?\nM: Not really. I've worked on my term paper a lot this week and I need a break.\n{a}",
-          "text_kz": "W: Have you been wasting your time on those online games again?\nM: Not really. I've worked on my term paper a lot this week and I need a break.\n{a}",
+          "text": "W: Have you been wasting your time on those online games again?\nM: Not really. I've worked on my term paper a lot this week and I need a break.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -527,9 +477,7 @@
           ]
         },
         {
-          "text_en": "M: This TV set is getting worse and worse. Now it doesn't work at all.\nW: Here's an advertisement on the newspaper about a big TV sale. Usually a big sale like this would have some good bargains. What would you say?\n{a}",
-          "text_ru": "M: This TV set is getting worse and worse. Now it doesn't work at all.\nW: Here's an advertisement on the newspaper about a big TV sale. Usually a big sale like this would have some good bargains. What would you say?\n{a}",
-          "text_kz": "M: This TV set is getting worse and worse. Now it doesn't work at all.\nW: Here's an advertisement on the newspaper about a big TV sale. Usually a big sale like this would have some good bargains. What would you say?\n{a}",
+          "text": "M: This TV set is getting worse and worse. Now it doesn't work at all.\nW: Here's an advertisement on the newspaper about a big TV sale. Usually a big sale like this would have some good bargains. What would you say?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -545,9 +493,7 @@
           ]
         },
         {
-          "text_en": "W: What do you think of your hotel?\nM: Not very good, I'm afraid.\n{a}",
-          "text_ru": "W: What do you think of your hotel?\nM: Not very good, I'm afraid.\n{a}",
-          "text_kz": "W: What do you think of your hotel?\nM: Not very good, I'm afraid.\n{a}",
+          "text": "W: What do you think of your hotel?\nM: Not very good, I'm afraid.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -563,9 +509,7 @@
           ]
         },
         {
-          "text_en": "M: Excuse me, Madam. My fight is BA6520. Is this my gate?\nW: That's right. Please show your ticket and ID card.\n{a}",
-          "text_ru": "M: Excuse me, Madam. My fight is BA6520. Is this my gate?\nW: That's right. Please show your ticket and ID card.\n{a}",
-          "text_kz": "M: Excuse me, Madam. My fight is BA6520. Is this my gate?\nW: That's right. Please show your ticket and ID card.\n{a}",
+          "text": "M: Excuse me, Madam. My fight is BA6520. Is this my gate?\nW: That's right. Please show your ticket and ID card.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -581,9 +525,7 @@
           ]
         },
         {
-          "text_en": "W: Forgive my mess. We had a party last night. A lot of people came over and they all brought food and drinks.\nM: Yeah, I can tell. Well, I think it's pretty obvious what you'll be doing today.\n{a}",
-          "text_ru": "W: Forgive my mess. We had a party last night. A lot of people came over and they all brought food and drinks.\nM: Yeah, I can tell. Well, I think it's pretty obvious what you'll be doing today.\n{a}",
-          "text_kz": "W: Forgive my mess. We had a party last night. A lot of people came over and they all brought food and drinks.\nM: Yeah, I can tell. Well, I think it's pretty obvious what you'll be doing today.\n{a}",
+          "text": "W: Forgive my mess. We had a party last night. A lot of people came over and they all brought food and drinks.\nM: Yeah, I can tell. Well, I think it's pretty obvious what you'll be doing today.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -599,9 +541,7 @@
           ]
         },
         {
-          "text_en": "M: Anne, please bring your passport with you and at least 2,000 dollars.\nW: I won't forget.\n{a}",
-          "text_ru": "M: Anne, please bring your passport with you and at least 2,000 dollars.\nW: I won't forget.\n{a}",
-          "text_kz": "M: Anne, please bring your passport with you and at least 2,000 dollars.\nW: I won't forget.\n{a}",
+          "text": "M: Anne, please bring your passport with you and at least 2,000 dollars.\nW: I won't forget.\n{a}",
           "instances": [
             {
               "answerOptions": [

@@ -1,5 +1,5 @@
 {
-  "courseId": "55df4754-2cfd-41c5-92cf-383fb3faf0e6",
+  "courseId": "5e3a7682-ad09-48b0-8743-f6a721c9e82d",
   "title": "Everyday English Course 29",
   "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
   "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
@@ -10,9 +10,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: There will be a party at my new house this Saturday. Would you like to come?\nW: That sounds good, but I have French class in the morning and dance class in the afternoon.\nM: That's OK. The party is to start in the evening, and you can come after the dance class.\nW: Great! Should I bring something?\nM: Yes, it's a potluck party, so you should prepare something to eat.\nW: No problem. A roast turkey, salad, or pudding... I was wondering which to prepare.\nM: Anything will be fine.\nW: I think I'm good at pudding. I'll make banana-flavored pudding for you.\nM: Nice. See you then.\n{a}",
-          "text_ru": "M: There will be a party at my new house this Saturday. Would you like to come?\nW: That sounds good, but I have French class in the morning and dance class in the afternoon.\nM: That's OK. The party is to start in the evening, and you can come after the dance class.\nW: Great! Should I bring something?\nM: Yes, it's a potluck party, so you should prepare something to eat.\nW: No problem. A roast turkey, salad, or pudding... I was wondering which to prepare.\nM: Anything will be fine.\nW: I think I'm good at pudding. I'll make banana-flavored pudding for you.\nM: Nice. See you then.\n{a}",
-          "text_kz": "M: There will be a party at my new house this Saturday. Would you like to come?\nW: That sounds good, but I have French class in the morning and dance class in the afternoon.\nM: That's OK. The party is to start in the evening, and you can come after the dance class.\nW: Great! Should I bring something?\nM: Yes, it's a potluck party, so you should prepare something to eat.\nW: No problem. A roast turkey, salad, or pudding... I was wondering which to prepare.\nM: Anything will be fine.\nW: I think I'm good at pudding. I'll make banana-flavored pudding for you.\nM: Nice. See you then.\n{a}",
+          "text": "M: There will be a party at my new house this Saturday. Would you like to come?\nW: That sounds good, but I have French class in the morning and dance class in the afternoon.\nM: That's OK. The party is to start in the evening, and you can come after the dance class.\nW: Great! Should I bring something?\nM: Yes, it's a potluck party, so you should prepare something to eat.\nW: No problem. A roast turkey, salad, or pudding... I was wondering which to prepare.\nM: Anything will be fine.\nW: I think I'm good at pudding. I'll make banana-flavored pudding for you.\nM: Nice. See you then.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -39,9 +37,7 @@
           ]
         },
         {
-          "text_en": "W: John, my dad's new MP3 player seems to be missing. Did you move it?\nM: No, I didn't. Isn't it right next to the computer?\nW: No, and I don't see it anywhere. I have the feeling one of our party guests took it.\nM: Really? What are you going to do now?\nW: I'll just tell my parents what happened, I guess.\nM: Then they'll know you had people over without permission. Won't they be angry about that?\nW: Probably. I wish I'd done that from the start, instead of keeping my plans secret. They'd have said no to a party, and the MP3 player would still be here.\n{a}",
-          "text_ru": "W: John, my dad's new MP3 player seems to be missing. Did you move it?\nM: No, I didn't. Isn't it right next to the computer?\nW: No, and I don't see it anywhere. I have the feeling one of our party guests took it.\nM: Really? What are you going to do now?\nW: I'll just tell my parents what happened, I guess.\nM: Then they'll know you had people over without permission. Won't they be angry about that?\nW: Probably. I wish I'd done that from the start, instead of keeping my plans secret. They'd have said no to a party, and the MP3 player would still be here.\n{a}",
-          "text_kz": "W: John, my dad's new MP3 player seems to be missing. Did you move it?\nM: No, I didn't. Isn't it right next to the computer?\nW: No, and I don't see it anywhere. I have the feeling one of our party guests took it.\nM: Really? What are you going to do now?\nW: I'll just tell my parents what happened, I guess.\nM: Then they'll know you had people over without permission. Won't they be angry about that?\nW: Probably. I wish I'd done that from the start, instead of keeping my plans secret. They'd have said no to a party, and the MP3 player would still be here.\n{a}",
+          "text": "W: John, my dad's new MP3 player seems to be missing. Did you move it?\nM: No, I didn't. Isn't it right next to the computer?\nW: No, and I don't see it anywhere. I have the feeling one of our party guests took it.\nM: Really? What are you going to do now?\nW: I'll just tell my parents what happened, I guess.\nM: Then they'll know you had people over without permission. Won't they be angry about that?\nW: Probably. I wish I'd done that from the start, instead of keeping my plans secret. They'd have said no to a party, and the MP3 player would still be here.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -68,9 +64,7 @@
           ]
         },
         {
-          "text_en": "M: Lin Yang. It's twelve already. What about having some thing to eat?\nW: Are you hungry?\nM: Well, I am a bit. Aren't you?\nW: Not very. But I don't mind going somewhere for a light meal.\nM: Where shall we go? What about McDonald's?\nW: I'm fed up with French fries and hamburgers. I think we'd better go to the restaurant around the corner. It's a family-type. It serves good food at very reasonable prices.\nM: OK, let's go.\n{a}",
-          "text_ru": "M: Lin Yang. It's twelve already. What about having some thing to eat?\nW: Are you hungry?\nM: Well, I am a bit. Aren't you?\nW: Not very. But I don't mind going somewhere for a light meal.\nM: Where shall we go? What about McDonald's?\nW: I'm fed up with French fries and hamburgers. I think we'd better go to the restaurant around the corner. It's a family-type. It serves good food at very reasonable prices.\nM: OK, let's go.\n{a}",
-          "text_kz": "M: Lin Yang. It's twelve already. What about having some thing to eat?\nW: Are you hungry?\nM: Well, I am a bit. Aren't you?\nW: Not very. But I don't mind going somewhere for a light meal.\nM: Where shall we go? What about McDonald's?\nW: I'm fed up with French fries and hamburgers. I think we'd better go to the restaurant around the corner. It's a family-type. It serves good food at very reasonable prices.\nM: OK, let's go.\n{a}",
+          "text": "M: Lin Yang. It's twelve already. What about having some thing to eat?\nW: Are you hungry?\nM: Well, I am a bit. Aren't you?\nW: Not very. But I don't mind going somewhere for a light meal.\nM: Where shall we go? What about McDonald's?\nW: I'm fed up with French fries and hamburgers. I think we'd better go to the restaurant around the corner. It's a family-type. It serves good food at very reasonable prices.\nM: OK, let's go.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -97,9 +91,7 @@
           ]
         },
         {
-          "text_en": "M: Hello, Kate. Have you been to the new sports center yet?\nW: Not yet. Where is it?\nM: On Mill Road, near Stone Street, behind Santa Station.\nW: What about it?\nM: It's wonderful. You can do a lot of sports there. I played table tennis last Saturday, and watched a basketball match.\nW: What about the swimming pool?\nM: It's very good. Would you like to go there with me next week?\nW: Good idea. Every day is OK except Monday.\nM: Well. Why not go there on Saturday? Then we can stay for a long time.\nW: OK. See you.\n{a}",
-          "text_ru": "M: Hello, Kate. Have you been to the new sports center yet?\nW: Not yet. Where is it?\nM: On Mill Road, near Stone Street, behind Santa Station.\nW: What about it?\nM: It's wonderful. You can do a lot of sports there. I played table tennis last Saturday, and watched a basketball match.\nW: What about the swimming pool?\nM: It's very good. Would you like to go there with me next week?\nW: Good idea. Every day is OK except Monday.\nM: Well. Why not go there on Saturday? Then we can stay for a long time.\nW: OK. See you.\n{a}",
-          "text_kz": "M: Hello, Kate. Have you been to the new sports center yet?\nW: Not yet. Where is it?\nM: On Mill Road, near Stone Street, behind Santa Station.\nW: What about it?\nM: It's wonderful. You can do a lot of sports there. I played table tennis last Saturday, and watched a basketball match.\nW: What about the swimming pool?\nM: It's very good. Would you like to go there with me next week?\nW: Good idea. Every day is OK except Monday.\nM: Well. Why not go there on Saturday? Then we can stay for a long time.\nW: OK. See you.\n{a}",
+          "text": "M: Hello, Kate. Have you been to the new sports center yet?\nW: Not yet. Where is it?\nM: On Mill Road, near Stone Street, behind Santa Station.\nW: What about it?\nM: It's wonderful. You can do a lot of sports there. I played table tennis last Saturday, and watched a basketball match.\nW: What about the swimming pool?\nM: It's very good. Would you like to go there with me next week?\nW: Good idea. Every day is OK except Monday.\nM: Well. Why not go there on Saturday? Then we can stay for a long time.\nW: OK. See you.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -126,9 +118,7 @@
           ]
         },
         {
-          "text_en": "M: Hi, Sally.\nW: Hello, Tom. How are you?\nM: I'm fine. Where are you going?\nW: Oh, I'm on my way home from work.\nM: I didn't know you had a job.\nW: Yeh. I work part-time at a supermarket.\nM: What do you do there?\nW: I work in the produce section. Trimming and wrapping fresh fruit and vegetables. I also stock shelves. Sometimes when it really gets busy, work at the check-out counter. Have you got a job, Tom?\nM: Yeh. I do yard work for people. You know, cutting grass, raking leaves. pulling weeds, things like that.\nW: I'd like doing that. It must be nice to work outdoors.\nM: Sometimes it is. Except when it rains or snows or gets too hot or too cold or...\nW: Ha. Ha. I think every job has its shortcomings. There are times when get pretty tired of carrying things around at my job. But a job's a job Gotta earn money for school.\nM: Me, too. Tuition is sure high, isn't it? Well, I'd better get going. I've got to plant some trees for my neighbours this afternoon.\nW: Well, don't work too hard. Holding down a job, going to class, studying. Sometimes it can become too much for one person. Take it easy.\nM: You, too. It was great seeing you. Sally!\n{a}",
-          "text_ru": "M: Hi, Sally.\nW: Hello, Tom. How are you?\nM: I'm fine. Where are you going?\nW: Oh, I'm on my way home from work.\nM: I didn't know you had a job.\nW: Yeh. I work part-time at a supermarket.\nM: What do you do there?\nW: I work in the produce section. Trimming and wrapping fresh fruit and vegetables. I also stock shelves. Sometimes when it really gets busy, work at the check-out counter. Have you got a job, Tom?\nM: Yeh. I do yard work for people. You know, cutting grass, raking leaves. pulling weeds, things like that.\nW: I'd like doing that. It must be nice to work outdoors.\nM: Sometimes it is. Except when it rains or snows or gets too hot or too cold or...\nW: Ha. Ha. I think every job has its shortcomings. There are times when get pretty tired of carrying things around at my job. But a job's a job Gotta earn money for school.\nM: Me, too. Tuition is sure high, isn't it? Well, I'd better get going. I've got to plant some trees for my neighbours this afternoon.\nW: Well, don't work too hard. Holding down a job, going to class, studying. Sometimes it can become too much for one person. Take it easy.\nM: You, too. It was great seeing you. Sally!\n{a}",
-          "text_kz": "M: Hi, Sally.\nW: Hello, Tom. How are you?\nM: I'm fine. Where are you going?\nW: Oh, I'm on my way home from work.\nM: I didn't know you had a job.\nW: Yeh. I work part-time at a supermarket.\nM: What do you do there?\nW: I work in the produce section. Trimming and wrapping fresh fruit and vegetables. I also stock shelves. Sometimes when it really gets busy, work at the check-out counter. Have you got a job, Tom?\nM: Yeh. I do yard work for people. You know, cutting grass, raking leaves. pulling weeds, things like that.\nW: I'd like doing that. It must be nice to work outdoors.\nM: Sometimes it is. Except when it rains or snows or gets too hot or too cold or...\nW: Ha. Ha. I think every job has its shortcomings. There are times when get pretty tired of carrying things around at my job. But a job's a job Gotta earn money for school.\nM: Me, too. Tuition is sure high, isn't it? Well, I'd better get going. I've got to plant some trees for my neighbours this afternoon.\nW: Well, don't work too hard. Holding down a job, going to class, studying. Sometimes it can become too much for one person. Take it easy.\nM: You, too. It was great seeing you. Sally!\n{a}",
+          "text": "M: Hi, Sally.\nW: Hello, Tom. How are you?\nM: I'm fine. Where are you going?\nW: Oh, I'm on my way home from work.\nM: I didn't know you had a job.\nW: Yeh. I work part-time at a supermarket.\nM: What do you do there?\nW: I work in the produce section. Trimming and wrapping fresh fruit and vegetables. I also stock shelves. Sometimes when it really gets busy, work at the check-out counter. Have you got a job, Tom?\nM: Yeh. I do yard work for people. You know, cutting grass, raking leaves. pulling weeds, things like that.\nW: I'd like doing that. It must be nice to work outdoors.\nM: Sometimes it is. Except when it rains or snows or gets too hot or too cold or...\nW: Ha. Ha. I think every job has its shortcomings. There are times when get pretty tired of carrying things around at my job. But a job's a job Gotta earn money for school.\nM: Me, too. Tuition is sure high, isn't it? Well, I'd better get going. I've got to plant some trees for my neighbours this afternoon.\nW: Well, don't work too hard. Holding down a job, going to class, studying. Sometimes it can become too much for one person. Take it easy.\nM: You, too. It was great seeing you. Sally!\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -155,9 +145,7 @@
           ]
         },
         {
-          "text_en": "W: I like this apartment. Do you think we can afford it?\nM: Yes, I think so. It's not a very expensive apartment. It's in the right area, and it has everything that we are looking for. The rooms are quite large, too.\nW: I love the balcony. We can sit outside and enjoy the sun in summer. We are on the 12th floor now, so there's a very nice view from the balcony.\nM: The neighborhood is nice, too. There is a park nearby.\nW: Yes, and there are many houses nearby. I like it that the neighborhood isn't full of apartment blocks.\n{a}",
-          "text_ru": "W: I like this apartment. Do you think we can afford it?\nM: Yes, I think so. It's not a very expensive apartment. It's in the right area, and it has everything that we are looking for. The rooms are quite large, too.\nW: I love the balcony. We can sit outside and enjoy the sun in summer. We are on the 12th floor now, so there's a very nice view from the balcony.\nM: The neighborhood is nice, too. There is a park nearby.\nW: Yes, and there are many houses nearby. I like it that the neighborhood isn't full of apartment blocks.\n{a}",
-          "text_kz": "W: I like this apartment. Do you think we can afford it?\nM: Yes, I think so. It's not a very expensive apartment. It's in the right area, and it has everything that we are looking for. The rooms are quite large, too.\nW: I love the balcony. We can sit outside and enjoy the sun in summer. We are on the 12th floor now, so there's a very nice view from the balcony.\nM: The neighborhood is nice, too. There is a park nearby.\nW: Yes, and there are many houses nearby. I like it that the neighborhood isn't full of apartment blocks.\n{a}",
+          "text": "W: I like this apartment. Do you think we can afford it?\nM: Yes, I think so. It's not a very expensive apartment. It's in the right area, and it has everything that we are looking for. The rooms are quite large, too.\nW: I love the balcony. We can sit outside and enjoy the sun in summer. We are on the 12th floor now, so there's a very nice view from the balcony.\nM: The neighborhood is nice, too. There is a park nearby.\nW: Yes, and there are many houses nearby. I like it that the neighborhood isn't full of apartment blocks.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -184,9 +172,7 @@
           ]
         },
         {
-          "text_en": "M: Good morning. Anything wrong?\nW: I've been suffering from a fever since yesterday.\nM: Do you have any other problems? Like a headache or cough?\nW: No, I don't. I think it's only a fever.\nM: Let me check... It's 39 degrees. I'll give you some medicine.\nW: Thank you, doctor.\nM: You'd better take two or three days' rest.\nW: Thanks.\nM: This medicine is for one day only. Take two pills as soon as you get home, and another two before going to bed.\nW: I see. Thank you.\n{a}",
-          "text_ru": "M: Good morning. Anything wrong?\nW: I've been suffering from a fever since yesterday.\nM: Do you have any other problems? Like a headache or cough?\nW: No, I don't. I think it's only a fever.\nM: Let me check... It's 39 degrees. I'll give you some medicine.\nW: Thank you, doctor.\nM: You'd better take two or three days' rest.\nW: Thanks.\nM: This medicine is for one day only. Take two pills as soon as you get home, and another two before going to bed.\nW: I see. Thank you.\n{a}",
-          "text_kz": "M: Good morning. Anything wrong?\nW: I've been suffering from a fever since yesterday.\nM: Do you have any other problems? Like a headache or cough?\nW: No, I don't. I think it's only a fever.\nM: Let me check... It's 39 degrees. I'll give you some medicine.\nW: Thank you, doctor.\nM: You'd better take two or three days' rest.\nW: Thanks.\nM: This medicine is for one day only. Take two pills as soon as you get home, and another two before going to bed.\nW: I see. Thank you.\n{a}",
+          "text": "M: Good morning. Anything wrong?\nW: I've been suffering from a fever since yesterday.\nM: Do you have any other problems? Like a headache or cough?\nW: No, I don't. I think it's only a fever.\nM: Let me check... It's 39 degrees. I'll give you some medicine.\nW: Thank you, doctor.\nM: You'd better take two or three days' rest.\nW: Thanks.\nM: This medicine is for one day only. Take two pills as soon as you get home, and another two before going to bed.\nW: I see. Thank you.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -213,9 +199,7 @@
           ]
         },
         {
-          "text_en": "M: Do you remember the days in our small cabin last summer?\nW: Yes, of course. I especially like the walk in the mountain.\nM: If you'd like to, we can go there again this summer.\nW: I'd love to enjoy the moment of peace out there.\n{a}",
-          "text_ru": "M: Do you remember the days in our small cabin last summer?\nW: Yes, of course. I especially like the walk in the mountain.\nM: If you'd like to, we can go there again this summer.\nW: I'd love to enjoy the moment of peace out there.\n{a}",
-          "text_kz": "M: Do you remember the days in our small cabin last summer?\nW: Yes, of course. I especially like the walk in the mountain.\nM: If you'd like to, we can go there again this summer.\nW: I'd love to enjoy the moment of peace out there.\n{a}",
+          "text": "M: Do you remember the days in our small cabin last summer?\nW: Yes, of course. I especially like the walk in the mountain.\nM: If you'd like to, we can go there again this summer.\nW: I'd love to enjoy the moment of peace out there.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -242,9 +226,7 @@
           ]
         },
         {
-          "text_en": "W: Hi, Robert, what happened to your face? It looks swollen.\nM: I have to go and get my teeth filled.\nW: Did it hurt?\nM: I don't even want to talk about it. It killed me!\nW: Well, I guess you've learned a good lesson, huh! You have to take good care of your teeth.\nM: No kidding. I can't stand the pain, but the bill is too large!\nW: Don't you have a dental insurance?\nM: I do. but it doesn't cover everything.\n{a}",
-          "text_ru": "W: Hi, Robert, what happened to your face? It looks swollen.\nM: I have to go and get my teeth filled.\nW: Did it hurt?\nM: I don't even want to talk about it. It killed me!\nW: Well, I guess you've learned a good lesson, huh! You have to take good care of your teeth.\nM: No kidding. I can't stand the pain, but the bill is too large!\nW: Don't you have a dental insurance?\nM: I do. but it doesn't cover everything.\n{a}",
-          "text_kz": "W: Hi, Robert, what happened to your face? It looks swollen.\nM: I have to go and get my teeth filled.\nW: Did it hurt?\nM: I don't even want to talk about it. It killed me!\nW: Well, I guess you've learned a good lesson, huh! You have to take good care of your teeth.\nM: No kidding. I can't stand the pain, but the bill is too large!\nW: Don't you have a dental insurance?\nM: I do. but it doesn't cover everything.\n{a}",
+          "text": "W: Hi, Robert, what happened to your face? It looks swollen.\nM: I have to go and get my teeth filled.\nW: Did it hurt?\nM: I don't even want to talk about it. It killed me!\nW: Well, I guess you've learned a good lesson, huh! You have to take good care of your teeth.\nM: No kidding. I can't stand the pain, but the bill is too large!\nW: Don't you have a dental insurance?\nM: I do. but it doesn't cover everything.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -271,9 +253,7 @@
           ]
         },
         {
-          "text_en": "M: Still feeling ill?\nW: Yes. And that medicine hasn't helped. Not a good start to our vacation, I'm afraid.\nM: Do you have any idea what caused it?\nW: Well, I thought it might be last night's dinner.\nM: But I am fine. Could it be the heat? It's enough to make anyone ill.\nW: I know. But we've been here a week now. Anyway, I've been careful in the sun and I've been drinking bottled water.\nM: Then we'd better stay in the hotel today.\n{a}",
-          "text_ru": "M: Still feeling ill?\nW: Yes. And that medicine hasn't helped. Not a good start to our vacation, I'm afraid.\nM: Do you have any idea what caused it?\nW: Well, I thought it might be last night's dinner.\nM: But I am fine. Could it be the heat? It's enough to make anyone ill.\nW: I know. But we've been here a week now. Anyway, I've been careful in the sun and I've been drinking bottled water.\nM: Then we'd better stay in the hotel today.\n{a}",
-          "text_kz": "M: Still feeling ill?\nW: Yes. And that medicine hasn't helped. Not a good start to our vacation, I'm afraid.\nM: Do you have any idea what caused it?\nW: Well, I thought it might be last night's dinner.\nM: But I am fine. Could it be the heat? It's enough to make anyone ill.\nW: I know. But we've been here a week now. Anyway, I've been careful in the sun and I've been drinking bottled water.\nM: Then we'd better stay in the hotel today.\n{a}",
+          "text": "M: Still feeling ill?\nW: Yes. And that medicine hasn't helped. Not a good start to our vacation, I'm afraid.\nM: Do you have any idea what caused it?\nW: Well, I thought it might be last night's dinner.\nM: But I am fine. Could it be the heat? It's enough to make anyone ill.\nW: I know. But we've been here a week now. Anyway, I've been careful in the sun and I've been drinking bottled water.\nM: Then we'd better stay in the hotel today.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -306,9 +286,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: I just saw Professor Black. He finished the budget for our concert tour. It's going to cost $1,500 per person.\nW: Where are we going to get that kind of money?\nM: It sounds like a lot, but by the time you add up the air fare, meals and hotels, it's pretty reasonable.\nW: But I doubt we'll all be able to go. Remember there were 32 people in the band last year.\nM: We can make it. For our last trip, we got some money from some companies.\nW: Who was in charge of money raising?\nM: Mary. She took care of it last time.\n{a}",
-          "text_ru": "M: I just saw Professor Black. He finished the budget for our concert tour. It's going to cost $1,500 per person.\nW: Where are we going to get that kind of money?\nM: It sounds like a lot, but by the time you add up the air fare, meals and hotels, it's pretty reasonable.\nW: But I doubt we'll all be able to go. Remember there were 32 people in the band last year.\nM: We can make it. For our last trip, we got some money from some companies.\nW: Who was in charge of money raising?\nM: Mary. She took care of it last time.\n{a}",
-          "text_kz": "M: I just saw Professor Black. He finished the budget for our concert tour. It's going to cost $1,500 per person.\nW: Where are we going to get that kind of money?\nM: It sounds like a lot, but by the time you add up the air fare, meals and hotels, it's pretty reasonable.\nW: But I doubt we'll all be able to go. Remember there were 32 people in the band last year.\nM: We can make it. For our last trip, we got some money from some companies.\nW: Who was in charge of money raising?\nM: Mary. She took care of it last time.\n{a}",
+          "text": "M: I just saw Professor Black. He finished the budget for our concert tour. It's going to cost $1,500 per person.\nW: Where are we going to get that kind of money?\nM: It sounds like a lot, but by the time you add up the air fare, meals and hotels, it's pretty reasonable.\nW: But I doubt we'll all be able to go. Remember there were 32 people in the band last year.\nM: We can make it. For our last trip, we got some money from some companies.\nW: Who was in charge of money raising?\nM: Mary. She took care of it last time.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -335,9 +313,7 @@
           ]
         },
         {
-          "text_en": "M: Hello, Nancy. This is Bob. How are you?\nW: Fine, thank you. A hit too busy though. You know, I'm trying to put everything in order in my new flat.\nM: Oh, I see. Well, I am wondering if you'd like to go to a concert tomorrow night. I think it will be good. And if I remember correctly, you did say you liked country music.\nW: Yes. That's fight. It's nice of you to ask, Bob. But I don't think I can. Mother has already asked me to see a friend and then we'll go to the theatre together. In fact she's getting the tickets this evening.\nM: Oh, well, never mind. What about next weekend? This concert is still on then, I think, if you are free next Saturday.\nW: Oh, I'd like to very much. But what time exactly?\nM: It starts at 7:30, I think.\nW: Oh, good. That'll be fine. The tennis match will be over by 5 o'clock, I'm sure.\nM: Good, I'll call you again when I get the tickets.\nW: Sure. Bye.\n{a}",
-          "text_ru": "M: Hello, Nancy. This is Bob. How are you?\nW: Fine, thank you. A hit too busy though. You know, I'm trying to put everything in order in my new flat.\nM: Oh, I see. Well, I am wondering if you'd like to go to a concert tomorrow night. I think it will be good. And if I remember correctly, you did say you liked country music.\nW: Yes. That's fight. It's nice of you to ask, Bob. But I don't think I can. Mother has already asked me to see a friend and then we'll go to the theatre together. In fact she's getting the tickets this evening.\nM: Oh, well, never mind. What about next weekend? This concert is still on then, I think, if you are free next Saturday.\nW: Oh, I'd like to very much. But what time exactly?\nM: It starts at 7:30, I think.\nW: Oh, good. That'll be fine. The tennis match will be over by 5 o'clock, I'm sure.\nM: Good, I'll call you again when I get the tickets.\nW: Sure. Bye.\n{a}",
-          "text_kz": "M: Hello, Nancy. This is Bob. How are you?\nW: Fine, thank you. A hit too busy though. You know, I'm trying to put everything in order in my new flat.\nM: Oh, I see. Well, I am wondering if you'd like to go to a concert tomorrow night. I think it will be good. And if I remember correctly, you did say you liked country music.\nW: Yes. That's fight. It's nice of you to ask, Bob. But I don't think I can. Mother has already asked me to see a friend and then we'll go to the theatre together. In fact she's getting the tickets this evening.\nM: Oh, well, never mind. What about next weekend? This concert is still on then, I think, if you are free next Saturday.\nW: Oh, I'd like to very much. But what time exactly?\nM: It starts at 7:30, I think.\nW: Oh, good. That'll be fine. The tennis match will be over by 5 o'clock, I'm sure.\nM: Good, I'll call you again when I get the tickets.\nW: Sure. Bye.\n{a}",
+          "text": "M: Hello, Nancy. This is Bob. How are you?\nW: Fine, thank you. A hit too busy though. You know, I'm trying to put everything in order in my new flat.\nM: Oh, I see. Well, I am wondering if you'd like to go to a concert tomorrow night. I think it will be good. And if I remember correctly, you did say you liked country music.\nW: Yes. That's fight. It's nice of you to ask, Bob. But I don't think I can. Mother has already asked me to see a friend and then we'll go to the theatre together. In fact she's getting the tickets this evening.\nM: Oh, well, never mind. What about next weekend? This concert is still on then, I think, if you are free next Saturday.\nW: Oh, I'd like to very much. But what time exactly?\nM: It starts at 7:30, I think.\nW: Oh, good. That'll be fine. The tennis match will be over by 5 o'clock, I'm sure.\nM: Good, I'll call you again when I get the tickets.\nW: Sure. Bye.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -364,9 +340,7 @@
           ]
         },
         {
-          "text_en": "M: Did you hear what Fred did last night?\nW: No,not yet. What happened to him?\nM: I guess he was a little drunk and he had a fight with his brother. Well, he got so mad that he drove his car straight into the front of a drugstore.\nW: What do you mean?\nM: I mean he drove inside. The front of the store was completely destroyed. I actually saw it just now as I walked by. The car is still inside the store.\nW: I'm afraid Fred is in trouble. Where is he now?\nM: I hear he's in the police station. It's lucky no one was hurt.\n{a}",
-          "text_ru": "M: Did you hear what Fred did last night?\nW: No,not yet. What happened to him?\nM: I guess he was a little drunk and he had a fight with his brother. Well, he got so mad that he drove his car straight into the front of a drugstore.\nW: What do you mean?\nM: I mean he drove inside. The front of the store was completely destroyed. I actually saw it just now as I walked by. The car is still inside the store.\nW: I'm afraid Fred is in trouble. Where is he now?\nM: I hear he's in the police station. It's lucky no one was hurt.\n{a}",
-          "text_kz": "M: Did you hear what Fred did last night?\nW: No,not yet. What happened to him?\nM: I guess he was a little drunk and he had a fight with his brother. Well, he got so mad that he drove his car straight into the front of a drugstore.\nW: What do you mean?\nM: I mean he drove inside. The front of the store was completely destroyed. I actually saw it just now as I walked by. The car is still inside the store.\nW: I'm afraid Fred is in trouble. Where is he now?\nM: I hear he's in the police station. It's lucky no one was hurt.\n{a}",
+          "text": "M: Did you hear what Fred did last night?\nW: No,not yet. What happened to him?\nM: I guess he was a little drunk and he had a fight with his brother. Well, he got so mad that he drove his car straight into the front of a drugstore.\nW: What do you mean?\nM: I mean he drove inside. The front of the store was completely destroyed. I actually saw it just now as I walked by. The car is still inside the store.\nW: I'm afraid Fred is in trouble. Where is he now?\nM: I hear he's in the police station. It's lucky no one was hurt.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -393,9 +367,7 @@
           ]
         },
         {
-          "text_en": "W: Good morning, sir. May I help you?\nM: Oh, yes. I'm looking for a pair of sports shoes in size 8.\nW: Are you looking for a pair for yourself?\nM: No. It's for my 17-year-old son.\nW: OK. Follow me, please...What do you think of this pair?\nM: They look nice. How much are they?\nW: They are 40 dollars, but I can give you a 10 percent discount.\nM: Good.\n{a}",
-          "text_ru": "W: Good morning, sir. May I help you?\nM: Oh, yes. I'm looking for a pair of sports shoes in size 8.\nW: Are you looking for a pair for yourself?\nM: No. It's for my 17-year-old son.\nW: OK. Follow me, please...What do you think of this pair?\nM: They look nice. How much are they?\nW: They are 40 dollars, but I can give you a 10 percent discount.\nM: Good.\n{a}",
-          "text_kz": "W: Good morning, sir. May I help you?\nM: Oh, yes. I'm looking for a pair of sports shoes in size 8.\nW: Are you looking for a pair for yourself?\nM: No. It's for my 17-year-old son.\nW: OK. Follow me, please...What do you think of this pair?\nM: They look nice. How much are they?\nW: They are 40 dollars, but I can give you a 10 percent discount.\nM: Good.\n{a}",
+          "text": "W: Good morning, sir. May I help you?\nM: Oh, yes. I'm looking for a pair of sports shoes in size 8.\nW: Are you looking for a pair for yourself?\nM: No. It's for my 17-year-old son.\nW: OK. Follow me, please...What do you think of this pair?\nM: They look nice. How much are they?\nW: They are 40 dollars, but I can give you a 10 percent discount.\nM: Good.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -422,9 +394,7 @@
           ]
         },
         {
-          "text_en": "M: Hello, Susan.\nW: Macman Dossor, my favorite customer. How are you?\nM: I'm fine. I heard you weren't well.\nW: Well, I was away for a couple of weeks. But I an, fine now. Er, you were going to the States, weren't you?\nM: Well, I didn't make it. What I've been doing is reorganizing the whole department nonstop since I saw you, and I just haven't had a moment to myself. This is the first time I've been in here since Christmas.\nW: Well, it's good to see you again. Are you ready to order?\n{a}",
-          "text_ru": "M: Hello, Susan.\nW: Macman Dossor, my favorite customer. How are you?\nM: I'm fine. I heard you weren't well.\nW: Well, I was away for a couple of weeks. But I an, fine now. Er, you were going to the States, weren't you?\nM: Well, I didn't make it. What I've been doing is reorganizing the whole department nonstop since I saw you, and I just haven't had a moment to myself. This is the first time I've been in here since Christmas.\nW: Well, it's good to see you again. Are you ready to order?\n{a}",
-          "text_kz": "M: Hello, Susan.\nW: Macman Dossor, my favorite customer. How are you?\nM: I'm fine. I heard you weren't well.\nW: Well, I was away for a couple of weeks. But I an, fine now. Er, you were going to the States, weren't you?\nM: Well, I didn't make it. What I've been doing is reorganizing the whole department nonstop since I saw you, and I just haven't had a moment to myself. This is the first time I've been in here since Christmas.\nW: Well, it's good to see you again. Are you ready to order?\n{a}",
+          "text": "M: Hello, Susan.\nW: Macman Dossor, my favorite customer. How are you?\nM: I'm fine. I heard you weren't well.\nW: Well, I was away for a couple of weeks. But I an, fine now. Er, you were going to the States, weren't you?\nM: Well, I didn't make it. What I've been doing is reorganizing the whole department nonstop since I saw you, and I just haven't had a moment to myself. This is the first time I've been in here since Christmas.\nW: Well, it's good to see you again. Are you ready to order?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -451,9 +421,7 @@
           ]
         },
         {
-          "text_en": "W: Why don't you sit down? Now, there are several questions I must ask, if you don't mind.\nM: Not at all. Go ahead.\nW: What is the purpose of your visit to the States?\nM: I'm going to attend a conference on air pollution.\nW: When and where is this conference being held?\nM: It's being held in the first three weeks of February at the University of Stanford in California.\nW: Who will pay your expenses?\nM: The University of California. Here is the official letter of invitation.\nW: I see. Fine. When do you want to go?\nM: I'd like to leave in mid-January if my passport is ready by then.\nW: That shouldn't be difficult. Why don't you phone me about January 10th? I should be able to give you an answer then.\nM: Thank you.\n{a}",
-          "text_ru": "W: Why don't you sit down? Now, there are several questions I must ask, if you don't mind.\nM: Not at all. Go ahead.\nW: What is the purpose of your visit to the States?\nM: I'm going to attend a conference on air pollution.\nW: When and where is this conference being held?\nM: It's being held in the first three weeks of February at the University of Stanford in California.\nW: Who will pay your expenses?\nM: The University of California. Here is the official letter of invitation.\nW: I see. Fine. When do you want to go?\nM: I'd like to leave in mid-January if my passport is ready by then.\nW: That shouldn't be difficult. Why don't you phone me about January 10th? I should be able to give you an answer then.\nM: Thank you.\n{a}",
-          "text_kz": "W: Why don't you sit down? Now, there are several questions I must ask, if you don't mind.\nM: Not at all. Go ahead.\nW: What is the purpose of your visit to the States?\nM: I'm going to attend a conference on air pollution.\nW: When and where is this conference being held?\nM: It's being held in the first three weeks of February at the University of Stanford in California.\nW: Who will pay your expenses?\nM: The University of California. Here is the official letter of invitation.\nW: I see. Fine. When do you want to go?\nM: I'd like to leave in mid-January if my passport is ready by then.\nW: That shouldn't be difficult. Why don't you phone me about January 10th? I should be able to give you an answer then.\nM: Thank you.\n{a}",
+          "text": "W: Why don't you sit down? Now, there are several questions I must ask, if you don't mind.\nM: Not at all. Go ahead.\nW: What is the purpose of your visit to the States?\nM: I'm going to attend a conference on air pollution.\nW: When and where is this conference being held?\nM: It's being held in the first three weeks of February at the University of Stanford in California.\nW: Who will pay your expenses?\nM: The University of California. Here is the official letter of invitation.\nW: I see. Fine. When do you want to go?\nM: I'd like to leave in mid-January if my passport is ready by then.\nW: That shouldn't be difficult. Why don't you phone me about January 10th? I should be able to give you an answer then.\nM: Thank you.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -480,9 +448,7 @@
           ]
         },
         {
-          "text_en": "M: Any interesting jobs listed on the Internet today?\nW: Well, there are a lot of retail jobs-selling clothes and stuff. But you have to work Saturdays and Sundays.\nM: Hmm. I hate working on weekends.\nW: Hmm... so do I.\nM: Oh, here's a job in sales. It's a job selling children's books to bookstores.\nM: That sounds interesting.\nW: Yes.\nM: Let's see.\nW: You need to have a driver's license. And you have to work some evenings.\nM: I don't mind working evenings during the week. And I enjoy driving. So, what's the phone number?\nW: It's 798-3455.\n{a}",
-          "text_ru": "M: Any interesting jobs listed on the Internet today?\nW: Well, there are a lot of retail jobs-selling clothes and stuff. But you have to work Saturdays and Sundays.\nM: Hmm. I hate working on weekends.\nW: Hmm... so do I.\nM: Oh, here's a job in sales. It's a job selling children's books to bookstores.\nM: That sounds interesting.\nW: Yes.\nM: Let's see.\nW: You need to have a driver's license. And you have to work some evenings.\nM: I don't mind working evenings during the week. And I enjoy driving. So, what's the phone number?\nW: It's 798-3455.\n{a}",
-          "text_kz": "M: Any interesting jobs listed on the Internet today?\nW: Well, there are a lot of retail jobs-selling clothes and stuff. But you have to work Saturdays and Sundays.\nM: Hmm. I hate working on weekends.\nW: Hmm... so do I.\nM: Oh, here's a job in sales. It's a job selling children's books to bookstores.\nM: That sounds interesting.\nW: Yes.\nM: Let's see.\nW: You need to have a driver's license. And you have to work some evenings.\nM: I don't mind working evenings during the week. And I enjoy driving. So, what's the phone number?\nW: It's 798-3455.\n{a}",
+          "text": "M: Any interesting jobs listed on the Internet today?\nW: Well, there are a lot of retail jobs-selling clothes and stuff. But you have to work Saturdays and Sundays.\nM: Hmm. I hate working on weekends.\nW: Hmm... so do I.\nM: Oh, here's a job in sales. It's a job selling children's books to bookstores.\nM: That sounds interesting.\nW: Yes.\nM: Let's see.\nW: You need to have a driver's license. And you have to work some evenings.\nM: I don't mind working evenings during the week. And I enjoy driving. So, what's the phone number?\nW: It's 798-3455.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -509,9 +475,7 @@
           ]
         },
         {
-          "text_en": "M: Can I help you?\nW: Yes, well, I bought this tie last week for my husband's birthday, and er...well he doesn't like it. Could I change it for something else, such as a shirt or a hat?\nM: Certainly, madam, provided that it hasn't been worn, and if you have the receipt.\nW: Yes, here it is.\nM: OK, er... this tie looks as if it were worn. I'm afraid I can't put that back on the shelf.\nW: Oh, that's a pity.\n{a}",
-          "text_ru": "M: Can I help you?\nW: Yes, well, I bought this tie last week for my husband's birthday, and er...well he doesn't like it. Could I change it for something else, such as a shirt or a hat?\nM: Certainly, madam, provided that it hasn't been worn, and if you have the receipt.\nW: Yes, here it is.\nM: OK, er... this tie looks as if it were worn. I'm afraid I can't put that back on the shelf.\nW: Oh, that's a pity.\n{a}",
-          "text_kz": "M: Can I help you?\nW: Yes, well, I bought this tie last week for my husband's birthday, and er...well he doesn't like it. Could I change it for something else, such as a shirt or a hat?\nM: Certainly, madam, provided that it hasn't been worn, and if you have the receipt.\nW: Yes, here it is.\nM: OK, er... this tie looks as if it were worn. I'm afraid I can't put that back on the shelf.\nW: Oh, that's a pity.\n{a}",
+          "text": "M: Can I help you?\nW: Yes, well, I bought this tie last week for my husband's birthday, and er...well he doesn't like it. Could I change it for something else, such as a shirt or a hat?\nM: Certainly, madam, provided that it hasn't been worn, and if you have the receipt.\nW: Yes, here it is.\nM: OK, er... this tie looks as if it were worn. I'm afraid I can't put that back on the shelf.\nW: Oh, that's a pity.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -538,9 +502,7 @@
           ]
         },
         {
-          "text_en": "M: I don't like our new teacher. Do you?\nW: Oh, he's not too bad. I've had worse teachers.\nM: Doesn't he give us too much homework?\nW: Yes. He does give us a lot.\n{a}",
-          "text_ru": "M: I don't like our new teacher. Do you?\nW: Oh, he's not too bad. I've had worse teachers.\nM: Doesn't he give us too much homework?\nW: Yes. He does give us a lot.\n{a}",
-          "text_kz": "M: I don't like our new teacher. Do you?\nW: Oh, he's not too bad. I've had worse teachers.\nM: Doesn't he give us too much homework?\nW: Yes. He does give us a lot.\n{a}",
+          "text": "M: I don't like our new teacher. Do you?\nW: Oh, he's not too bad. I've had worse teachers.\nM: Doesn't he give us too much homework?\nW: Yes. He does give us a lot.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -567,9 +529,7 @@
           ]
         },
         {
-          "text_en": "W: Did you hear Jakie's going to work in another department? We need to have a really good party so that we can send her off really well. So, what shall we do?\nM: Why don't we have a surprise party, Maggie?\nW: That's a good idea. We could go to the Holiday Inn Hotel.\nM: That's too expensive. Maybe we can ask Carrie to make a cake.\nW: Yeah, let's do that. Perhaps we could just give the party in the office and put up some balloons.\nM: That's great. I think we should also buy a really big card, a huge card, and we should get everybody to sign it.\nW: Shall we have some music?\nM: I was thinking exactly that myself. But ...\n{a}",
-          "text_ru": "W: Did you hear Jakie's going to work in another department? We need to have a really good party so that we can send her off really well. So, what shall we do?\nM: Why don't we have a surprise party, Maggie?\nW: That's a good idea. We could go to the Holiday Inn Hotel.\nM: That's too expensive. Maybe we can ask Carrie to make a cake.\nW: Yeah, let's do that. Perhaps we could just give the party in the office and put up some balloons.\nM: That's great. I think we should also buy a really big card, a huge card, and we should get everybody to sign it.\nW: Shall we have some music?\nM: I was thinking exactly that myself. But ...\n{a}",
-          "text_kz": "W: Did you hear Jakie's going to work in another department? We need to have a really good party so that we can send her off really well. So, what shall we do?\nM: Why don't we have a surprise party, Maggie?\nW: That's a good idea. We could go to the Holiday Inn Hotel.\nM: That's too expensive. Maybe we can ask Carrie to make a cake.\nW: Yeah, let's do that. Perhaps we could just give the party in the office and put up some balloons.\nM: That's great. I think we should also buy a really big card, a huge card, and we should get everybody to sign it.\nW: Shall we have some music?\nM: I was thinking exactly that myself. But ...\n{a}",
+          "text": "W: Did you hear Jakie's going to work in another department? We need to have a really good party so that we can send her off really well. So, what shall we do?\nM: Why don't we have a surprise party, Maggie?\nW: That's a good idea. We could go to the Holiday Inn Hotel.\nM: That's too expensive. Maybe we can ask Carrie to make a cake.\nW: Yeah, let's do that. Perhaps we could just give the party in the office and put up some balloons.\nM: That's great. I think we should also buy a really big card, a huge card, and we should get everybody to sign it.\nW: Shall we have some music?\nM: I was thinking exactly that myself. But ...\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -602,9 +562,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: Hi Alice, what are you doing? You look worried.\nW: Oh. There's something wrong with my electronic calculator.\nM: Do you want me to have a look at it?\nW: It's very kind of you, but I would like to have a try first. Er... You know... I can do without it in class this afternoon.\nM: Oh, well, if you need any help, just let me know. I'm free after school.\nW: I will. Thank you very much.\nM: You're welcome.\n{a}",
-          "text_ru": "M: Hi Alice, what are you doing? You look worried.\nW: Oh. There's something wrong with my electronic calculator.\nM: Do you want me to have a look at it?\nW: It's very kind of you, but I would like to have a try first. Er... You know... I can do without it in class this afternoon.\nM: Oh, well, if you need any help, just let me know. I'm free after school.\nW: I will. Thank you very much.\nM: You're welcome.\n{a}",
-          "text_kz": "M: Hi Alice, what are you doing? You look worried.\nW: Oh. There's something wrong with my electronic calculator.\nM: Do you want me to have a look at it?\nW: It's very kind of you, but I would like to have a try first. Er... You know... I can do without it in class this afternoon.\nM: Oh, well, if you need any help, just let me know. I'm free after school.\nW: I will. Thank you very much.\nM: You're welcome.\n{a}",
+          "text": "M: Hi Alice, what are you doing? You look worried.\nW: Oh. There's something wrong with my electronic calculator.\nM: Do you want me to have a look at it?\nW: It's very kind of you, but I would like to have a try first. Er... You know... I can do without it in class this afternoon.\nM: Oh, well, if you need any help, just let me know. I'm free after school.\nW: I will. Thank you very much.\nM: You're welcome.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -631,9 +589,7 @@
           ]
         },
         {
-          "text_en": "W: What do you want to do tonight?\nM: How about going to the cinema? I haven't seen a movie for a long time and I really miss it.\nW: What do you want to see?\nM: There's a good film at the Green House Cinema,The Speed and Passion 8. I've watched all the former movies in that series and I really like them. The movie starts at 6:15 pm.\nW: I don't think I can make it. I won't be able to leave the office until 6:00 pm.\nM: Then let's watch the one that starts at 8:20 pm. We can eat first and then go to the cinema.\nW: That sounds better.\n{a}",
-          "text_ru": "W: What do you want to do tonight?\nM: How about going to the cinema? I haven't seen a movie for a long time and I really miss it.\nW: What do you want to see?\nM: There's a good film at the Green House Cinema,The Speed and Passion 8. I've watched all the former movies in that series and I really like them. The movie starts at 6:15 pm.\nW: I don't think I can make it. I won't be able to leave the office until 6:00 pm.\nM: Then let's watch the one that starts at 8:20 pm. We can eat first and then go to the cinema.\nW: That sounds better.\n{a}",
-          "text_kz": "W: What do you want to do tonight?\nM: How about going to the cinema? I haven't seen a movie for a long time and I really miss it.\nW: What do you want to see?\nM: There's a good film at the Green House Cinema,The Speed and Passion 8. I've watched all the former movies in that series and I really like them. The movie starts at 6:15 pm.\nW: I don't think I can make it. I won't be able to leave the office until 6:00 pm.\nM: Then let's watch the one that starts at 8:20 pm. We can eat first and then go to the cinema.\nW: That sounds better.\n{a}",
+          "text": "W: What do you want to do tonight?\nM: How about going to the cinema? I haven't seen a movie for a long time and I really miss it.\nW: What do you want to see?\nM: There's a good film at the Green House Cinema,The Speed and Passion 8. I've watched all the former movies in that series and I really like them. The movie starts at 6:15 pm.\nW: I don't think I can make it. I won't be able to leave the office until 6:00 pm.\nM: Then let's watch the one that starts at 8:20 pm. We can eat first and then go to the cinema.\nW: That sounds better.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -660,9 +616,7 @@
           ]
         },
         {
-          "text_en": "W: May I help you, sir?\nM: Yes, please. I want to buy a personal gift for my brother. He's taking a trip to South America.\nW: Is he going by ship or plane?\nM: He,s flying. My gift will have to be something light in weight. What can you suggest?\nW: What about this tie? It's made of pure silk.\nM: My sister already gave him one. I'd like something unusual. Let me look around...oh, that clock looks nice, but...\nW: Hey,here is a gift for the man who has everything.\nM: Oh,a folding toothbrush! That's a wonderful idea! I'll take it.\n{a}",
-          "text_ru": "W: May I help you, sir?\nM: Yes, please. I want to buy a personal gift for my brother. He's taking a trip to South America.\nW: Is he going by ship or plane?\nM: He,s flying. My gift will have to be something light in weight. What can you suggest?\nW: What about this tie? It's made of pure silk.\nM: My sister already gave him one. I'd like something unusual. Let me look around...oh, that clock looks nice, but...\nW: Hey,here is a gift for the man who has everything.\nM: Oh,a folding toothbrush! That's a wonderful idea! I'll take it.\n{a}",
-          "text_kz": "W: May I help you, sir?\nM: Yes, please. I want to buy a personal gift for my brother. He's taking a trip to South America.\nW: Is he going by ship or plane?\nM: He,s flying. My gift will have to be something light in weight. What can you suggest?\nW: What about this tie? It's made of pure silk.\nM: My sister already gave him one. I'd like something unusual. Let me look around...oh, that clock looks nice, but...\nW: Hey,here is a gift for the man who has everything.\nM: Oh,a folding toothbrush! That's a wonderful idea! I'll take it.\n{a}",
+          "text": "W: May I help you, sir?\nM: Yes, please. I want to buy a personal gift for my brother. He's taking a trip to South America.\nW: Is he going by ship or plane?\nM: He,s flying. My gift will have to be something light in weight. What can you suggest?\nW: What about this tie? It's made of pure silk.\nM: My sister already gave him one. I'd like something unusual. Let me look around...oh, that clock looks nice, but...\nW: Hey,here is a gift for the man who has everything.\nM: Oh,a folding toothbrush! That's a wonderful idea! I'll take it.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -689,9 +643,7 @@
           ]
         },
         {
-          "text_en": "W: What can I do for you?\nM: I'd like to exchange this sweater.\nW: What seems to be the matter?\nM: Well, you see I got this as a birthday present, but it's the wrong size, and what's more, I really don't like the colour.\nW: Do you have the receipt?\nM: Yes.\nW: Can I have a look at it, please?\nM: Certainly\n{a}",
-          "text_ru": "W: What can I do for you?\nM: I'd like to exchange this sweater.\nW: What seems to be the matter?\nM: Well, you see I got this as a birthday present, but it's the wrong size, and what's more, I really don't like the colour.\nW: Do you have the receipt?\nM: Yes.\nW: Can I have a look at it, please?\nM: Certainly\n{a}",
-          "text_kz": "W: What can I do for you?\nM: I'd like to exchange this sweater.\nW: What seems to be the matter?\nM: Well, you see I got this as a birthday present, but it's the wrong size, and what's more, I really don't like the colour.\nW: Do you have the receipt?\nM: Yes.\nW: Can I have a look at it, please?\nM: Certainly\n{a}",
+          "text": "W: What can I do for you?\nM: I'd like to exchange this sweater.\nW: What seems to be the matter?\nM: Well, you see I got this as a birthday present, but it's the wrong size, and what's more, I really don't like the colour.\nW: Do you have the receipt?\nM: Yes.\nW: Can I have a look at it, please?\nM: Certainly\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -718,9 +670,7 @@
           ]
         },
         {
-          "text_en": "M: We're having a picnic tomorrow. Why don't you come with us?\nW: I'd like to, but I think it's going to rain. The weatherman says so.\nM: I don't think he is right. It hasn't rained for a week and it isn't cloudy, either.\nW: But he is usually correct in his weather news.\nM: The temperature is 32t this afternoon. I'm sure we'll have fine weather for our picnic.\nW: Well, I'll go, but I'll take my umbrella with me.\n{a}",
-          "text_ru": "M: We're having a picnic tomorrow. Why don't you come with us?\nW: I'd like to, but I think it's going to rain. The weatherman says so.\nM: I don't think he is right. It hasn't rained for a week and it isn't cloudy, either.\nW: But he is usually correct in his weather news.\nM: The temperature is 32t this afternoon. I'm sure we'll have fine weather for our picnic.\nW: Well, I'll go, but I'll take my umbrella with me.\n{a}",
-          "text_kz": "M: We're having a picnic tomorrow. Why don't you come with us?\nW: I'd like to, but I think it's going to rain. The weatherman says so.\nM: I don't think he is right. It hasn't rained for a week and it isn't cloudy, either.\nW: But he is usually correct in his weather news.\nM: The temperature is 32t this afternoon. I'm sure we'll have fine weather for our picnic.\nW: Well, I'll go, but I'll take my umbrella with me.\n{a}",
+          "text": "M: We're having a picnic tomorrow. Why don't you come with us?\nW: I'd like to, but I think it's going to rain. The weatherman says so.\nM: I don't think he is right. It hasn't rained for a week and it isn't cloudy, either.\nW: But he is usually correct in his weather news.\nM: The temperature is 32t this afternoon. I'm sure we'll have fine weather for our picnic.\nW: Well, I'll go, but I'll take my umbrella with me.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -747,9 +697,7 @@
           ]
         },
         {
-          "text_en": "M: Sally, do you like seafood?\nW: Yes, of course.\nM: Is there anything you especially like?\nW: Well, I really don't know. I can never remember the names.\nM: Okay. Is there any food you don't eat?\nW: Well, I don't eat chicken. And I don't like eggs, either. But I like all kinds of fish and vegetables.\nM: Then let's look at the menu and see what they've got for us.\n{a}",
-          "text_ru": "M: Sally, do you like seafood?\nW: Yes, of course.\nM: Is there anything you especially like?\nW: Well, I really don't know. I can never remember the names.\nM: Okay. Is there any food you don't eat?\nW: Well, I don't eat chicken. And I don't like eggs, either. But I like all kinds of fish and vegetables.\nM: Then let's look at the menu and see what they've got for us.\n{a}",
-          "text_kz": "M: Sally, do you like seafood?\nW: Yes, of course.\nM: Is there anything you especially like?\nW: Well, I really don't know. I can never remember the names.\nM: Okay. Is there any food you don't eat?\nW: Well, I don't eat chicken. And I don't like eggs, either. But I like all kinds of fish and vegetables.\nM: Then let's look at the menu and see what they've got for us.\n{a}",
+          "text": "M: Sally, do you like seafood?\nW: Yes, of course.\nM: Is there anything you especially like?\nW: Well, I really don't know. I can never remember the names.\nM: Okay. Is there any food you don't eat?\nW: Well, I don't eat chicken. And I don't like eggs, either. But I like all kinds of fish and vegetables.\nM: Then let's look at the menu and see what they've got for us.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -776,9 +724,7 @@
           ]
         },
         {
-          "text_en": "Woman: How did you like the dishes, Sir?\nMan: Delicious. Everything was excellent here. Thank you!\nWoman: Do you want some coffee, tea, sir?\nMan: No. thanks, I'm fine. Ah, just have the bill, please. How much is your service charge?\nWoman: Fifteen percent and it's included in your bill. Thank you very much, sir. We look forward to seeing you again.\nMan: Sure, good night.\n{a}",
-          "text_ru": "Woman: How did you like the dishes, Sir?\nMan: Delicious. Everything was excellent here. Thank you!\nWoman: Do you want some coffee, tea, sir?\nMan: No. thanks, I'm fine. Ah, just have the bill, please. How much is your service charge?\nWoman: Fifteen percent and it's included in your bill. Thank you very much, sir. We look forward to seeing you again.\nMan: Sure, good night.\n{a}",
-          "text_kz": "Woman: How did you like the dishes, Sir?\nMan: Delicious. Everything was excellent here. Thank you!\nWoman: Do you want some coffee, tea, sir?\nMan: No. thanks, I'm fine. Ah, just have the bill, please. How much is your service charge?\nWoman: Fifteen percent and it's included in your bill. Thank you very much, sir. We look forward to seeing you again.\nMan: Sure, good night.\n{a}",
+          "text": "Woman: How did you like the dishes, Sir?\nMan: Delicious. Everything was excellent here. Thank you!\nWoman: Do you want some coffee, tea, sir?\nMan: No. thanks, I'm fine. Ah, just have the bill, please. How much is your service charge?\nWoman: Fifteen percent and it's included in your bill. Thank you very much, sir. We look forward to seeing you again.\nMan: Sure, good night.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -805,9 +751,7 @@
           ]
         },
         {
-          "text_en": "M: So tell me a little more about yourself, Sharon.\nW: Well, when I graduated from drama school, I tried to get a job as an actress in Hollywood.\nM: Really?\nW: Yeah, but I didn't get any parts. Two years later, I finally got a job with Universal Studios.\nM: So you finally got to be an actress?\nW: No, I'm a tour guide at the studio!But while I'm on the job, I get to see a lot of stars!\n{a}",
-          "text_ru": "M: So tell me a little more about yourself, Sharon.\nW: Well, when I graduated from drama school, I tried to get a job as an actress in Hollywood.\nM: Really?\nW: Yeah, but I didn't get any parts. Two years later, I finally got a job with Universal Studios.\nM: So you finally got to be an actress?\nW: No, I'm a tour guide at the studio!But while I'm on the job, I get to see a lot of stars!\n{a}",
-          "text_kz": "M: So tell me a little more about yourself, Sharon.\nW: Well, when I graduated from drama school, I tried to get a job as an actress in Hollywood.\nM: Really?\nW: Yeah, but I didn't get any parts. Two years later, I finally got a job with Universal Studios.\nM: So you finally got to be an actress?\nW: No, I'm a tour guide at the studio!But while I'm on the job, I get to see a lot of stars!\n{a}",
+          "text": "M: So tell me a little more about yourself, Sharon.\nW: Well, when I graduated from drama school, I tried to get a job as an actress in Hollywood.\nM: Really?\nW: Yeah, but I didn't get any parts. Two years later, I finally got a job with Universal Studios.\nM: So you finally got to be an actress?\nW: No, I'm a tour guide at the studio!But while I'm on the job, I get to see a lot of stars!\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -834,9 +778,7 @@
           ]
         },
         {
-          "text_en": "M: Can I help you, Miss?\nW: No, thanks, I'm just looking. How much is that necklace?\nM: 2,999 dollars.\nW: Too expensive! My sister's birthday is tomorrow. I'm thinking what I should buy for her.\nM: You'll find that the prices of our goods are quite reasonable.\nW: Well, that's certainly nice to know. I'll take it.\nM: It's a good choice. I'm sure she'll love it. Cash or card, Miss?\nW: I hope so. Card, please.\nM: That comes to 3,199 dollars with tax. Please sign here.\n{a}",
-          "text_ru": "M: Can I help you, Miss?\nW: No, thanks, I'm just looking. How much is that necklace?\nM: 2,999 dollars.\nW: Too expensive! My sister's birthday is tomorrow. I'm thinking what I should buy for her.\nM: You'll find that the prices of our goods are quite reasonable.\nW: Well, that's certainly nice to know. I'll take it.\nM: It's a good choice. I'm sure she'll love it. Cash or card, Miss?\nW: I hope so. Card, please.\nM: That comes to 3,199 dollars with tax. Please sign here.\n{a}",
-          "text_kz": "M: Can I help you, Miss?\nW: No, thanks, I'm just looking. How much is that necklace?\nM: 2,999 dollars.\nW: Too expensive! My sister's birthday is tomorrow. I'm thinking what I should buy for her.\nM: You'll find that the prices of our goods are quite reasonable.\nW: Well, that's certainly nice to know. I'll take it.\nM: It's a good choice. I'm sure she'll love it. Cash or card, Miss?\nW: I hope so. Card, please.\nM: That comes to 3,199 dollars with tax. Please sign here.\n{a}",
+          "text": "M: Can I help you, Miss?\nW: No, thanks, I'm just looking. How much is that necklace?\nM: 2,999 dollars.\nW: Too expensive! My sister's birthday is tomorrow. I'm thinking what I should buy for her.\nM: You'll find that the prices of our goods are quite reasonable.\nW: Well, that's certainly nice to know. I'll take it.\nM: It's a good choice. I'm sure she'll love it. Cash or card, Miss?\nW: I hope so. Card, please.\nM: That comes to 3,199 dollars with tax. Please sign here.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -863,9 +805,7 @@
           ]
         },
         {
-          "text_en": "W: It's ten o'clock. I'm going to have to be leaving.\nM: Leaving? Already?\nW: Yes. I've got to get up early tomorrow.\nM: Ok. Stop over again sometime.\n{a}",
-          "text_ru": "W: It's ten o'clock. I'm going to have to be leaving.\nM: Leaving? Already?\nW: Yes. I've got to get up early tomorrow.\nM: Ok. Stop over again sometime.\n{a}",
-          "text_kz": "W: It's ten o'clock. I'm going to have to be leaving.\nM: Leaving? Already?\nW: Yes. I've got to get up early tomorrow.\nM: Ok. Stop over again sometime.\n{a}",
+          "text": "W: It's ten o'clock. I'm going to have to be leaving.\nM: Leaving? Already?\nW: Yes. I've got to get up early tomorrow.\nM: Ok. Stop over again sometime.\n{a}",
           "instances": [
             {
               "answerOptions": [

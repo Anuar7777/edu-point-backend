@@ -128,6 +128,8 @@ import course_en127 from './en/course_en127/course.json'
 import course_en128 from './en/course_en128/course.json'
 import course_en129 from './en/course_en129/course.json'
 
+import mmlp_courses from './mmlp/mmlp.json'
+
 import * as math from './math'
 import * as math_1 from './math_1'
 import * as math_2 from './math_2'
@@ -136,6 +138,7 @@ export const coursesData = {
 	math: math.course,
 	math_1: math_1.course,
 	math_2: math_2.course,
+	...mmlp_courses,
 	course_en1,
 	course_en2,
 	course_en3,

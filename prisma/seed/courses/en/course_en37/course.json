@@ -1,5 +1,5 @@
 {
-  "courseId": "1a2d0ada-b2d2-4cea-9231-63ec14e7dbc3",
+  "courseId": "469cb5cc-2d90-4f61-9ed8-e70f726e229d",
   "title": "Everyday English Course 37",
   "description": "Improve your English comprehension skills through short everyday conversations and situational dialogues.",
   "imageUrl": "/public/images/courses/end46c00-6746-4c45-a867-a8f08666a5c6.png",
@@ -10,9 +10,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "W: Flight 331 is being announced. I'd better be on my way. Goodbye. Thanks for all your kind hospitality.\nM: You are welcome. Happy landing.\n{a}",
-          "text_ru": "W: Flight 331 is being announced. I'd better be on my way. Goodbye. Thanks for all your kind hospitality.\nM: You are welcome. Happy landing.\n{a}",
-          "text_kz": "W: Flight 331 is being announced. I'd better be on my way. Goodbye. Thanks for all your kind hospitality.\nM: You are welcome. Happy landing.\n{a}",
+          "text": "W: Flight 331 is being announced. I'd better be on my way. Goodbye. Thanks for all your kind hospitality.\nM: You are welcome. Happy landing.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -28,9 +26,7 @@
           ]
         },
         {
-          "text_en": "F: You shouldn't watch TV for a whole day! The exam is coming!\nM: Don't worry, mum. I've got ready for it.\n{a}",
-          "text_ru": "F: You shouldn't watch TV for a whole day! The exam is coming!\nM: Don't worry, mum. I've got ready for it.\n{a}",
-          "text_kz": "F: You shouldn't watch TV for a whole day! The exam is coming!\nM: Don't worry, mum. I've got ready for it.\n{a}",
+          "text": "F: You shouldn't watch TV for a whole day! The exam is coming!\nM: Don't worry, mum. I've got ready for it.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -46,9 +42,7 @@
           ]
         },
         {
-          "text_en": "M: Did you invite John to your birthday party?\nW: I did. But he said he had something important to do tonight.\n{a}",
-          "text_ru": "M: Did you invite John to your birthday party?\nW: I did. But he said he had something important to do tonight.\n{a}",
-          "text_kz": "M: Did you invite John to your birthday party?\nW: I did. But he said he had something important to do tonight.\n{a}",
+          "text": "M: Did you invite John to your birthday party?\nW: I did. But he said he had something important to do tonight.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -64,9 +58,7 @@
           ]
         },
         {
-          "text_en": "M: My roommate and I are going to see a film tonight. And we are leaving at 7:40. Do you want to join us?\nW: Sure. But my class ends at 7:30. And the professor never finishes on time.\n{a}",
-          "text_ru": "M: My roommate and I are going to see a film tonight. And we are leaving at 7:40. Do you want to join us?\nW: Sure. But my class ends at 7:30. And the professor never finishes on time.\n{a}",
-          "text_kz": "M: My roommate and I are going to see a film tonight. And we are leaving at 7:40. Do you want to join us?\nW: Sure. But my class ends at 7:30. And the professor never finishes on time.\n{a}",
+          "text": "M: My roommate and I are going to see a film tonight. And we are leaving at 7:40. Do you want to join us?\nW: Sure. But my class ends at 7:30. And the professor never finishes on time.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -82,9 +74,7 @@
           ]
         },
         {
-          "text_en": "M: Did you have a lot of friends when you were young?\nW: I didn't really make any close friends then because I like going off in the morning. And I mean, this was on the school holidays: riding a bike away with a few books in the basket and finding a nice place to read.\n{a}",
-          "text_ru": "M: Did you have a lot of friends when you were young?\nW: I didn't really make any close friends then because I like going off in the morning. And I mean, this was on the school holidays: riding a bike away with a few books in the basket and finding a nice place to read.\n{a}",
-          "text_kz": "M: Did you have a lot of friends when you were young?\nW: I didn't really make any close friends then because I like going off in the morning. And I mean, this was on the school holidays: riding a bike away with a few books in the basket and finding a nice place to read.\n{a}",
+          "text": "M: Did you have a lot of friends when you were young?\nW: I didn't really make any close friends then because I like going off in the morning. And I mean, this was on the school holidays: riding a bike away with a few books in the basket and finding a nice place to read.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -100,9 +90,7 @@
           ]
         },
         {
-          "text_en": "W: The news report said that a car hit the high building there. Is it serious?\nM: According to the police report, the driver is still alive.\n{a}",
-          "text_ru": "W: The news report said that a car hit the high building there. Is it serious?\nM: According to the police report, the driver is still alive.\n{a}",
-          "text_kz": "W: The news report said that a car hit the high building there. Is it serious?\nM: According to the police report, the driver is still alive.\n{a}",
+          "text": "W: The news report said that a car hit the high building there. Is it serious?\nM: According to the police report, the driver is still alive.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -118,9 +106,7 @@
           ]
         },
         {
-          "text_en": "W: What's wrong with you?\nM: I fell from the tree and hurt my leg.\n{a}",
-          "text_ru": "W: What's wrong with you?\nM: I fell from the tree and hurt my leg.\n{a}",
-          "text_kz": "W: What's wrong with you?\nM: I fell from the tree and hurt my leg.\n{a}",
+          "text": "W: What's wrong with you?\nM: I fell from the tree and hurt my leg.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -136,9 +122,7 @@
           ]
         },
         {
-          "text_en": "M: I don't suppose you're free to go skating on Saturday evening, are you?\nW: Actually I am. I was planning to go to a lecture with my sister but it was called off.\n{a}",
-          "text_ru": "M: I don't suppose you're free to go skating on Saturday evening, are you?\nW: Actually I am. I was planning to go to a lecture with my sister but it was called off.\n{a}",
-          "text_kz": "M: I don't suppose you're free to go skating on Saturday evening, are you?\nW: Actually I am. I was planning to go to a lecture with my sister but it was called off.\n{a}",
+          "text": "M: I don't suppose you're free to go skating on Saturday evening, are you?\nW: Actually I am. I was planning to go to a lecture with my sister but it was called off.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -154,9 +138,7 @@
           ]
         },
         {
-          "text_en": "W: I want to buy a sweater in that shop.\nM: I have been there before, and I don't think the styles suit you.\n{a}",
-          "text_ru": "W: I want to buy a sweater in that shop.\nM: I have been there before, and I don't think the styles suit you.\n{a}",
-          "text_kz": "W: I want to buy a sweater in that shop.\nM: I have been there before, and I don't think the styles suit you.\n{a}",
+          "text": "W: I want to buy a sweater in that shop.\nM: I have been there before, and I don't think the styles suit you.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -172,9 +154,7 @@
           ]
         },
         {
-          "text_en": "W: Where are we going to have the physical education class?\nM: In the gymnasium.\nW: May I stay in the classroom? I've got a really bad stomach ache.\nM: No. You should observe the class in the gym.\n{a}",
-          "text_ru": "W: Where are we going to have the physical education class?\nM: In the gymnasium.\nW: May I stay in the classroom? I've got a really bad stomach ache.\nM: No. You should observe the class in the gym.\n{a}",
-          "text_kz": "W: Where are we going to have the physical education class?\nM: In the gymnasium.\nW: May I stay in the classroom? I've got a really bad stomach ache.\nM: No. You should observe the class in the gym.\n{a}",
+          "text": "W: Where are we going to have the physical education class?\nM: In the gymnasium.\nW: May I stay in the classroom? I've got a really bad stomach ache.\nM: No. You should observe the class in the gym.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -196,9 +176,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "W: Good morning, sir. Could I ask you to register, please?\nM: Certainly. What do I do?\nW: Just fill in this form, if you would, please.\n{a}",
-          "text_ru": "W: Good morning, sir. Could I ask you to register, please?\nM: Certainly. What do I do?\nW: Just fill in this form, if you would, please.\n{a}",
-          "text_kz": "W: Good morning, sir. Could I ask you to register, please?\nM: Certainly. What do I do?\nW: Just fill in this form, if you would, please.\n{a}",
+          "text": "W: Good morning, sir. Could I ask you to register, please?\nM: Certainly. What do I do?\nW: Just fill in this form, if you would, please.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -214,9 +192,7 @@
           ]
         },
         {
-          "text_en": "W: I hear the mayor is planning a tax reduction. Have you any details?\nM: Yes, it was one of his campaign promises and he's seriously trying to make it a reality.\n{a}",
-          "text_ru": "W: I hear the mayor is planning a tax reduction. Have you any details?\nM: Yes, it was one of his campaign promises and he's seriously trying to make it a reality.\n{a}",
-          "text_kz": "W: I hear the mayor is planning a tax reduction. Have you any details?\nM: Yes, it was one of his campaign promises and he's seriously trying to make it a reality.\n{a}",
+          "text": "W: I hear the mayor is planning a tax reduction. Have you any details?\nM: Yes, it was one of his campaign promises and he's seriously trying to make it a reality.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -232,9 +208,7 @@
           ]
         },
         {
-          "text_en": "W: There you are! I've been looking for you everywhere.\nM: Everywhere? Why? We've been right here all along. At least, I have.\n{a}",
-          "text_ru": "W: There you are! I've been looking for you everywhere.\nM: Everywhere? Why? We've been right here all along. At least, I have.\n{a}",
-          "text_kz": "W: There you are! I've been looking for you everywhere.\nM: Everywhere? Why? We've been right here all along. At least, I have.\n{a}",
+          "text": "W: There you are! I've been looking for you everywhere.\nM: Everywhere? Why? We've been right here all along. At least, I have.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -250,9 +224,7 @@
           ]
         },
         {
-          "text_en": "M: Do you want to turn on the air conditioner or open the window?\nW: I love fresh air if you don't mind.\n{a}",
-          "text_ru": "M: Do you want to turn on the air conditioner or open the window?\nW: I love fresh air if you don't mind.\n{a}",
-          "text_kz": "M: Do you want to turn on the air conditioner or open the window?\nW: I love fresh air if you don't mind.\n{a}",
+          "text": "M: Do you want to turn on the air conditioner or open the window?\nW: I love fresh air if you don't mind.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -268,9 +240,7 @@
           ]
         },
         {
-          "text_en": "M: Do you rent rooms by the week? You see, I'm not sure whether we will stay for a whole month.\nW: Well, it's 30 dollars a week, plus 10 dollars for electricity, but only 130 dollars a month inclusive.\n{a}",
-          "text_ru": "M: Do you rent rooms by the week? You see, I'm not sure whether we will stay for a whole month.\nW: Well, it's 30 dollars a week, plus 10 dollars for electricity, but only 130 dollars a month inclusive.\n{a}",
-          "text_kz": "M: Do you rent rooms by the week? You see, I'm not sure whether we will stay for a whole month.\nW: Well, it's 30 dollars a week, plus 10 dollars for electricity, but only 130 dollars a month inclusive.\n{a}",
+          "text": "M: Do you rent rooms by the week? You see, I'm not sure whether we will stay for a whole month.\nW: Well, it's 30 dollars a week, plus 10 dollars for electricity, but only 130 dollars a month inclusive.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -286,9 +256,7 @@
           ]
         },
         {
-          "text_en": "W: So you've finally listened to your wife's advice and given up smoking?\nM: It was my doctor's advice. I'm suffering from high blood pressure.\n{a}",
-          "text_ru": "W: So you've finally listened to your wife's advice and given up smoking?\nM: It was my doctor's advice. I'm suffering from high blood pressure.\n{a}",
-          "text_kz": "W: So you've finally listened to your wife's advice and given up smoking?\nM: It was my doctor's advice. I'm suffering from high blood pressure.\n{a}",
+          "text": "W: So you've finally listened to your wife's advice and given up smoking?\nM: It was my doctor's advice. I'm suffering from high blood pressure.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -304,9 +272,7 @@
           ]
         },
         {
-          "text_en": "M: Shall we play basketball tonight?\nW: Oh, sorry. I'm afraid I can't. I'm seeing my uncle off at the airport at 7: 30.\n{a}",
-          "text_ru": "M: Shall we play basketball tonight?\nW: Oh, sorry. I'm afraid I can't. I'm seeing my uncle off at the airport at 7: 30.\n{a}",
-          "text_kz": "M: Shall we play basketball tonight?\nW: Oh, sorry. I'm afraid I can't. I'm seeing my uncle off at the airport at 7: 30.\n{a}",
+          "text": "M: Shall we play basketball tonight?\nW: Oh, sorry. I'm afraid I can't. I'm seeing my uncle off at the airport at 7: 30.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -322,9 +288,7 @@
           ]
         },
         {
-          "text_en": "M: Were you born in Canada, Lucy?\nW: No, I was born in America. What about you,Tom?\n{a}",
-          "text_ru": "M: Were you born in Canada, Lucy?\nW: No, I was born in America. What about you,Tom?\n{a}",
-          "text_kz": "M: Were you born in Canada, Lucy?\nW: No, I was born in America. What about you,Tom?\n{a}",
+          "text": "M: Were you born in Canada, Lucy?\nW: No, I was born in America. What about you,Tom?\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -340,9 +304,7 @@
           ]
         },
         {
-          "text_en": "W: Would you like another piece of chicken?\nM: Yes, please. It's delicious. Did you cook it in Qianmen. How about some sandwiches?\nW: Oh, no. It's Kentucky Fried Chicken. I bought it in Qianmen. How about some sandwiches?\nM: Well, just one, please. Hmm, it's nice! You bought them in Kentucky Restau-rant al- so, didn't you?\nW: Yes, I did. Let me give you some more chicken. There's plenty more.\nM: No, thanks. I'm full I'd like a cup of tea, please.\nW: Ok. Here you are.\nM: Thank you. What a delicious supper!\n{a}",
-          "text_ru": "W: Would you like another piece of chicken?\nM: Yes, please. It's delicious. Did you cook it in Qianmen. How about some sandwiches?\nW: Oh, no. It's Kentucky Fried Chicken. I bought it in Qianmen. How about some sandwiches?\nM: Well, just one, please. Hmm, it's nice! You bought them in Kentucky Restau-rant al- so, didn't you?\nW: Yes, I did. Let me give you some more chicken. There's plenty more.\nM: No, thanks. I'm full I'd like a cup of tea, please.\nW: Ok. Here you are.\nM: Thank you. What a delicious supper!\n{a}",
-          "text_kz": "W: Would you like another piece of chicken?\nM: Yes, please. It's delicious. Did you cook it in Qianmen. How about some sandwiches?\nW: Oh, no. It's Kentucky Fried Chicken. I bought it in Qianmen. How about some sandwiches?\nM: Well, just one, please. Hmm, it's nice! You bought them in Kentucky Restau-rant al- so, didn't you?\nW: Yes, I did. Let me give you some more chicken. There's plenty more.\nM: No, thanks. I'm full I'd like a cup of tea, please.\nW: Ok. Here you are.\nM: Thank you. What a delicious supper!\n{a}",
+          "text": "W: Would you like another piece of chicken?\nM: Yes, please. It's delicious. Did you cook it in Qianmen. How about some sandwiches?\nW: Oh, no. It's Kentucky Fried Chicken. I bought it in Qianmen. How about some sandwiches?\nM: Well, just one, please. Hmm, it's nice! You bought them in Kentucky Restau-rant al- so, didn't you?\nW: Yes, I did. Let me give you some more chicken. There's plenty more.\nM: No, thanks. I'm full I'd like a cup of tea, please.\nW: Ok. Here you are.\nM: Thank you. What a delicious supper!\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -358,9 +320,7 @@
           ]
         },
         {
-          "text_en": "M: I believe that choosing this man will be a complete mistake.\nW: I wouldn't look at like that.\n{a}",
-          "text_ru": "M: I believe that choosing this man will be a complete mistake.\nW: I wouldn't look at like that.\n{a}",
-          "text_kz": "M: I believe that choosing this man will be a complete mistake.\nW: I wouldn't look at like that.\n{a}",
+          "text": "M: I believe that choosing this man will be a complete mistake.\nW: I wouldn't look at like that.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -382,9 +342,7 @@
       "description": "Learn to understand and respond to basic English dialogues used in daily situations.",
       "questionTemplates": [
         {
-          "text_en": "M: What's your job?\nF: I'm an accountant.\n{a}",
-          "text_ru": "M: What's your job?\nF: I'm an accountant.\n{a}",
-          "text_kz": "M: What's your job?\nF: I'm an accountant.\n{a}",
+          "text": "M: What's your job?\nF: I'm an accountant.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -400,9 +358,7 @@
           ]
         },
         {
-          "text_en": "W: Are you coming with me to the history museum, Godge?\nM: I already have my hands full with this book report.\n{a}",
-          "text_ru": "W: Are you coming with me to the history museum, Godge?\nM: I already have my hands full with this book report.\n{a}",
-          "text_kz": "W: Are you coming with me to the history museum, Godge?\nM: I already have my hands full with this book report.\n{a}",
+          "text": "W: Are you coming with me to the history museum, Godge?\nM: I already have my hands full with this book report.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -418,9 +374,7 @@
           ]
         },
         {
-          "text_en": "M: How are the restaurant prices here?\nW: Oh. It's not cheap but not very expensive. You can have a nice lunch for about $6.30.\n{a}",
-          "text_ru": "M: How are the restaurant prices here?\nW: Oh. It's not cheap but not very expensive. You can have a nice lunch for about $6.30.\n{a}",
-          "text_kz": "M: How are the restaurant prices here?\nW: Oh. It's not cheap but not very expensive. You can have a nice lunch for about $6.30.\n{a}",
+          "text": "M: How are the restaurant prices here?\nW: Oh. It's not cheap but not very expensive. You can have a nice lunch for about $6.30.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -436,9 +390,7 @@
           ]
         },
         {
-          "text_en": "M: We'll be here in London staying in a newspaper office or teaching in a classroom full of chalk dust.\nW: Well, Tom, you'd be able to go out in the sunshine sometimes. You are a journalist. I am the one who has to stay in the classroom. Remember.\n{a}",
-          "text_ru": "M: We'll be here in London staying in a newspaper office or teaching in a classroom full of chalk dust.\nW: Well, Tom, you'd be able to go out in the sunshine sometimes. You are a journalist. I am the one who has to stay in the classroom. Remember.\n{a}",
-          "text_kz": "M: We'll be here in London staying in a newspaper office or teaching in a classroom full of chalk dust.\nW: Well, Tom, you'd be able to go out in the sunshine sometimes. You are a journalist. I am the one who has to stay in the classroom. Remember.\n{a}",
+          "text": "M: We'll be here in London staying in a newspaper office or teaching in a classroom full of chalk dust.\nW: Well, Tom, you'd be able to go out in the sunshine sometimes. You are a journalist. I am the one who has to stay in the classroom. Remember.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -454,9 +406,7 @@
           ]
         },
         {
-          "text_en": "M: I just got my first job offer.\nF: I did, too.\n{a}",
-          "text_ru": "M: I just got my first job offer.\nF: I did, too.\n{a}",
-          "text_kz": "M: I just got my first job offer.\nF: I did, too.\n{a}",
+          "text": "M: I just got my first job offer.\nF: I did, too.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -472,9 +422,7 @@
           ]
         },
         {
-          "text_en": "F: Excuse me. I didn't hear what you said.\nM: I asked if you could lend me your bike.\n{a}",
-          "text_ru": "F: Excuse me. I didn't hear what you said.\nM: I asked if you could lend me your bike.\n{a}",
-          "text_kz": "F: Excuse me. I didn't hear what you said.\nM: I asked if you could lend me your bike.\n{a}",
+          "text": "F: Excuse me. I didn't hear what you said.\nM: I asked if you could lend me your bike.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -490,9 +438,7 @@
           ]
         },
         {
-          "text_en": "M: Are you free later this evening?\nW: I'm afraid not. I have to prepare for tomorrow's history test.\n{a}",
-          "text_ru": "M: Are you free later this evening?\nW: I'm afraid not. I have to prepare for tomorrow's history test.\n{a}",
-          "text_kz": "M: Are you free later this evening?\nW: I'm afraid not. I have to prepare for tomorrow's history test.\n{a}",
+          "text": "M: Are you free later this evening?\nW: I'm afraid not. I have to prepare for tomorrow's history test.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -508,9 +454,7 @@
           ]
         },
         {
-          "text_en": "W: Tomorrow we're going to celebrate birthday for Jenny.\nM: So we have to buy a birthday cake and fifteen candles.\n{a}",
-          "text_ru": "W: Tomorrow we're going to celebrate birthday for Jenny.\nM: So we have to buy a birthday cake and fifteen candles.\n{a}",
-          "text_kz": "W: Tomorrow we're going to celebrate birthday for Jenny.\nM: So we have to buy a birthday cake and fifteen candles.\n{a}",
+          "text": "W: Tomorrow we're going to celebrate birthday for Jenny.\nM: So we have to buy a birthday cake and fifteen candles.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -526,9 +470,7 @@
           ]
         },
         {
-          "text_en": "W: What kind of shoes are those?\nM: They're bowling shoes.\nW: I've never seen such crazy colored footwear before!\nM: They are for sliding on the floor before you throw the ball down the lane.\n{a}",
-          "text_ru": "W: What kind of shoes are those?\nM: They're bowling shoes.\nW: I've never seen such crazy colored footwear before!\nM: They are for sliding on the floor before you throw the ball down the lane.\n{a}",
-          "text_kz": "W: What kind of shoes are those?\nM: They're bowling shoes.\nW: I've never seen such crazy colored footwear before!\nM: They are for sliding on the floor before you throw the ball down the lane.\n{a}",
+          "text": "W: What kind of shoes are those?\nM: They're bowling shoes.\nW: I've never seen such crazy colored footwear before!\nM: They are for sliding on the floor before you throw the ball down the lane.\n{a}",
           "instances": [
             {
               "answerOptions": [
@@ -544,9 +486,7 @@
           ]
         },
         {
-          "text_en": "M: Is it true that all of them survived the fire last night?\nW: Yes, a miracle, isn't it? There was a couple on the second floor and two women and three kids on the ground floor. But no one was badly hurt.\n{a}",
-          "text_ru": "M: Is it true that all of them survived the fire last night?\nW: Yes, a miracle, isn't it? There was a couple on the second floor and two women and three kids on the ground floor. But no one was badly hurt.\n{a}",
-          "text_kz": "M: Is it true that all of them survived the fire last night?\nW: Yes, a miracle, isn't it? There was a couple on the second floor and two women and three kids on the ground floor. But no one was badly hurt.\n{a}",
+          "text": "M: Is it true that all of them survived the fire last night?\nW: Yes, a miracle, isn't it? There was a couple on the second floor and two women and three kids on the ground floor. But no one was badly hurt.\n{a}",
           "instances": [
             {
               "answerOptions": [
