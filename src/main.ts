@@ -2,8 +2,8 @@ import { Logger, ValidationPipe } from '@nestjs/common'
 import { ConfigService } from '@nestjs/config'
 import { NestFactory } from '@nestjs/core'
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger'
-import * as cookieParser from 'cookie-parser'
-import * as basicAuth from 'express-basic-auth'
+import cookieParser from 'cookie-parser'
+import basicAuth from 'express-basic-auth'
 import { AppModule } from './app.module'
 
 const logger = new Logger('Bootstrap')
