@@ -1,4 +1,4 @@
-import { Body, Controller, Put } from '@nestjs/common'
+import { Body, Controller, Get, Put } from '@nestjs/common'
 import {
 	ApiBearerAuth,
 	ApiOperation,
@@ -10,14 +10,27 @@ import { CurrentUser } from '../auth/decorators/user.decorator'
 import { UserTokenDto } from '../auth/dto/user-token.dto'
 import { LocationDto } from './dto/location.dto'
 import { LocationService } from './location.service'
+import { IsParent } from 'src/auth/decorators/roles.decorator'
 
 @ApiTags('Location')
 @ApiBearerAuth()
+@Auth()
 @Controller('location')
 export class LocationController {
 	constructor(private readonly locationService: LocationService) {}
 
-	@Auth()
+	@Get()
+	@IsParent()
+	@ApiOperation({ summary: 'Get the last known location of the family' })
+	@ApiResponse({
+		status: 200,
+		description: 'Last location retrieved successfully',
+	})
+	@ApiResponse({ status: 401, description: 'Unauthorized' })
+	async get(@CurrentUser('id') userId: string) {
+		return this.locationService.getFamilyLocationsByUser(userId)
+	}
+
 	@Put()
 	@ApiOperation({ summary: 'Update last location of the current user' })
 	@ApiResponse({ status: 200, description: 'Location updated successfully' })

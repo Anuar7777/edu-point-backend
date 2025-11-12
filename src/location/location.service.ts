@@ -14,20 +14,16 @@ export class LocationService {
 	async updateLastLocation(userId: string, lat: number, lon: number) {
 		const lastLocation = await this.prisma.location.findFirst({
 			where: { userId },
-			orderBy: { updatedAt: 'desc' },
 		})
 
 		if (!lastLocation) {
-			await this.createLocation(userId, lat, lon)
-			return this.getFamilyLocationsByUser(userId)
+			return await this.createLocation(userId, lat, lon)
 		}
 
-		await this.prisma.location.update({
+		return await this.prisma.location.update({
 			where: { locationId: lastLocation.locationId },
 			data: { latitude: lat, longitude: lon, updatedAt: new Date() },
 		})
-
-		return this.getFamilyLocationsByUser(userId)
 	}
 
 	async getFamilyLocationsByUser(userId: string) {
