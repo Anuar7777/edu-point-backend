@@ -8,20 +8,21 @@ datasource db {
 }
 
 model User {
-  userId     String         @id @default(uuid()) @map("user_id")
-  username   String
-  email      String         @unique
-  password   String
-  role       Role
-  points     Int            @default(0)
-  isVerified Boolean        @default(false)
-  imageUrl   String?        @map("image_url")
-  codes      Code[]
-  families   FamilyMember[]
-  UserCourse UserCourse[]
-  Settings   Settings[]
-  Location   Location[]
-  Test       Test[]
+  userId          String            @id @default(uuid()) @map("user_id")
+  username        String
+  email           String            @unique
+  password        String
+  role            Role
+  points          Int               @default(0)
+  isVerified      Boolean           @default(false)
+  imageUrl        String?           @map("image_url")
+  codes           Code[]
+  families        FamilyMember[]
+  UserCourse      UserCourse[]
+  Settings        Settings[]
+  Location        Location[]
+  Test            Test[]
+  UserApplication UserApplication[]
 
   @@map("user")
 }
@@ -131,7 +132,7 @@ enum TestStatus {
 model QuestionTemplate {
   templateId  String             @id @default(uuid()) @map("template_id")
   sectionId   String             @map("section_id")
-  text      String             
+  text        String
   explanation String?
   instances   QuestionInstance[]
   section     Section            @relation(fields: [sectionId], references: [sectionId], onDelete: Cascade)
@@ -204,4 +205,24 @@ model Location {
   user User @relation(fields: [userId], references: [userId], onDelete: Cascade)
 
   @@map("location")
+}
+
+model Application {
+  packageName     String            @id @map("package_name")
+  appName         String            @map("app_name")
+  iconPath        String?           @map("icon_path")
+  UserApplication UserApplication[]
+}
+
+model UserApplication {
+  isBlocked Boolean @default(false) @map("is_blocked")
+
+  userId String @map("user_id")
+  user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
+
+  packageName String
+  application Application @relation(fields: [packageName], references: [packageName], onDelete: Cascade)
+
+  @@id([userId, packageName])
+  @@map("user_application")
 }

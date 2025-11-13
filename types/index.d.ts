@@ -12,6 +12,7 @@ export type FamilyWithMembers = Prisma.FamilyGetPayload<{
 						email: true
 						role: true
 						imageUrl: true
+						points: true
 					}
 				}
 			}

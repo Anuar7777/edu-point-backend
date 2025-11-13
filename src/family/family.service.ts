@@ -32,6 +32,7 @@ export class FamilyService {
 							username: true,
 							email: true,
 							role: true,
+							points: true,
 							imageUrl: true,
 						},
 					},
@@ -50,6 +51,7 @@ export class FamilyService {
 				email: m.user.email,
 				role: m.user.role,
 				imageUrl: m.user.imageUrl,
+				points: m.user.points,
 			})),
 		}
 	}
@@ -63,6 +65,40 @@ export class FamilyService {
 		if (!family) throw new NotFoundException('Family not found')
 
 		return this.formatFamily(family)
+	}
+
+	async getFamilyChilds(familyId: string) {
+		const family = await this.prisma.family.findUnique({
+			where: { familyId },
+		})
+
+		if (!family) throw new NotFoundException('Family not found')
+
+		const children = await this.prisma.familyMember.findMany({
+			where: { familyId, user: { role: { not: Role.PARENT } } },
+			include: {
+				user: {
+					select: {
+						userId: true,
+						username: true,
+						imageUrl: true,
+						points: true,
+					},
+				},
+			},
+			orderBy: { user: { points: 'desc' } },
+		})
+
+		if (children.length === 0) {
+			throw new NotFoundException('No children found in this family')
+		}
+
+		return children.map(member => ({
+			userId: member.user.userId,
+			username: member.user.username,
+			imageUrl: member.user.imageUrl,
+			points: member.user.points ?? 0,
+		}))
 	}
 
 	async getFamilyByUserId(userId: string) {
@@ -211,7 +247,7 @@ export class FamilyService {
 		if (!isChildInFamily) {
 			throw new NotFoundException('Child not found')
 		}
-		
+
 		return this.userService.getProfile(childId)
 	}
 

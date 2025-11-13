@@ -1,5 +1,5 @@
 import { Injectable, NotFoundException } from '@nestjs/common'
-import { User } from '@prisma/client'
+import { Role, User } from '@prisma/client'
 import { hash } from 'argon2'
 import { RegisterDto } from '../auth/dto/auth.dto'
 import { PrismaService } from '../prisma.service'
@@ -19,6 +19,33 @@ export class UserService {
 	async getByEmail(email: string): Promise<User | null> {
 		return this.prisma.user.findUnique({
 			where: { email },
+		})
+	}
+
+	async getAll() {
+		return this.prisma.user.findMany({
+			select: {
+				userId: true,
+				username: true,
+				imageUrl: true,
+				points: true,
+			},
+		})
+	}
+
+	async getTopUsers(limit = 25) {
+		return this.prisma.user.findMany({
+			where: {
+				role: { not: Role.PARENT },
+			},
+			select: {
+				userId: true,
+				username: true,
+				imageUrl: true,
+				points: true,
+			},
+			orderBy: { points: 'desc' },
+			take: limit,
 		})
 	}
 
