@@ -12,6 +12,8 @@ import { FamilyService } from './family.service'
 import { FamilyCourseService } from './family-course/family-course.service'
 import { UserApplicationService } from 'src/user/user-application/user-appllication.service'
 import { ApplicationService } from 'src/application/application.service'
+import { FamilyApplicationController } from './family-application/family-application.controller'
+import { FamilyApplicationService } from './family-application/family-application.service'
 
 @Module({
 	imports: [ConfigModule],
@@ -19,6 +21,7 @@ import { ApplicationService } from 'src/application/application.service'
 		FamilyController,
 		FamilyCourseController,
 		FamilySettingsController,
+		FamilyApplicationController,
 	],
 	providers: [
 		FamilyService,
@@ -30,6 +33,7 @@ import { ApplicationService } from 'src/application/application.service'
 		UserService,
 		UserApplicationService,
 		ApplicationService,
+		FamilyApplicationService,
 	],
 	exports: [FamilyService],
 })
