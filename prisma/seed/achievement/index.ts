@@ -1,6 +1,6 @@
 import { Logger } from '@nestjs/common'
 import { PrismaClient, Prisma } from '@prisma/client'
-import { achievementData } from 'src/achievement/achievement.data'
+import { achievementData } from '../../../src/achievement/achievement.data'
 
 const prisma = new PrismaClient()
 const logger = new Logger('seed')
