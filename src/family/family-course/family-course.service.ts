@@ -4,8 +4,8 @@ import {
 	NotFoundException,
 } from '@nestjs/common'
 import { Role } from '@prisma/client'
-import { PrismaService } from '../prisma.service'
-import { FamilyService } from './family.service'
+import { PrismaService } from '../../prisma.service'
+import { FamilyService } from '../family.service'
 
 @Injectable()
 export class FamilyCourseService {

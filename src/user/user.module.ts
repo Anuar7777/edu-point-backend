@@ -15,6 +15,6 @@ import { UserApplicationService } from './user-appllication.service'
 		PrismaService,
 		ApplicationService,
 	],
-	exports: [UserService, UserCourseService],
+	exports: [UserService, UserCourseService, UserApplicationService],
 })
 export class UserModule {}
