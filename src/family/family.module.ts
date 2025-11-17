@@ -10,7 +10,8 @@ import { FamilySettingsController } from './family-settings.controller'
 import { FamilyController } from './family.controller'
 import { FamilyService } from './family.service'
 import { FamilyCourseService } from './family-course/family-course.service'
-import { UserApplicationService } from 'src/user/user-appllication.service'
+import { UserApplicationService } from 'src/user/user-application/user-appllication.service'
+import { ApplicationService } from 'src/application/application.service'
 
 @Module({
 	imports: [ConfigModule],
@@ -28,6 +29,7 @@ import { UserApplicationService } from 'src/user/user-appllication.service'
 		SettingsService,
 		UserService,
 		UserApplicationService,
+		ApplicationService,
 	],
 	exports: [FamilyService],
 })
