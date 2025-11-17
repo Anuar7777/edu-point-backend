@@ -2,7 +2,7 @@ import { Module } from '@nestjs/common'
 import { SectionService } from './section.service'
 import { SectionController } from './section.controller'
 import { TestModule } from '../test/test.module'
-import { PrismaService } from 'src/prisma.service'
+import { PrismaService } from '../prisma.service'
 
 @Module({
 	imports: [TestModule],

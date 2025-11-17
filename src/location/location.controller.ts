@@ -10,7 +10,7 @@ import { CurrentUser } from '../auth/decorators/user.decorator'
 import { UserTokenDto } from '../auth/dto/user-token.dto'
 import { LocationDto } from './dto/location.dto'
 import { LocationService } from './location.service'
-import { IsParent } from 'src/auth/decorators/roles.decorator'
+import { IsParent } from '../auth/decorators/roles.decorator'
 
 @ApiTags('Location')
 @ApiBearerAuth()

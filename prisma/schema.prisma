@@ -8,21 +8,22 @@ datasource db {
 }
 
 model User {
-  userId          String            @id @default(uuid()) @map("user_id")
-  username        String
-  email           String            @unique
-  password        String
-  role            Role
-  points          Int               @default(0)
-  isVerified      Boolean           @default(false)
-  imageUrl        String?           @map("image_url")
-  codes           Code[]
-  families        FamilyMember[]
-  UserCourse      UserCourse[]
-  Settings        Settings[]
-  Location        Location[]
-  Test            Test[]
-  UserApplication UserApplication[]
+  userId           String            @id @default(uuid()) @map("user_id")
+  username         String
+  email            String            @unique
+  password         String
+  role             Role
+  points           Int               @default(0)
+  isVerified       Boolean           @default(false)
+  imageUrl         String?           @map("image_url")
+  codes            Code[]
+  families         FamilyMember[]
+  UserCourse       UserCourse[]
+  Settings         Settings[]
+  Location         Location[]
+  Test             Test[]
+  UserApplication  UserApplication[]
+  userAchievements UserAchievement[]
 
   @@map("user")
 }
@@ -225,4 +226,27 @@ model UserApplication {
 
   @@id([userId, packageName])
   @@map("user_application")
+}
+
+model Achievement {
+  achievementId      String  @id @default(uuid()) @map("achievement_id")
+  achievementIconUrl String? @map("achievement_icon_url")
+  achievementBody    Json    @map("achievement_body")
+
+  UserAchievements UserAchievement[]
+
+  @@map("achievement")
+}
+
+model UserAchievement {
+  userId String @map("user_id")
+  user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
+
+  achievementId String
+  achievements  Achievement @relation(fields: [achievementId], references: [achievementId], onDelete: Cascade)
+
+  isAchieved Boolean @default(false) @map("is_achieved")
+
+  @@id([userId, achievementId])
+  @@map("user_achievement")
 }

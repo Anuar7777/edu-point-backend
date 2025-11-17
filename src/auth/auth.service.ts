@@ -7,15 +7,15 @@ import {
 } from '@nestjs/common'
 import { JwtService } from '@nestjs/jwt'
 import { CodeType, Language, Role, User } from '@prisma/client'
-import { verify } from 'argon2'
+import { hash, verify } from 'argon2'
 import { Response } from 'express'
-import { FamilyService } from 'src/family/family.service'
+import { FamilyService } from '../family/family.service'
 import { CodeService } from '../code/code.service'
 import { MailService } from '../mail/mail.service'
 import { UserService } from '../user/user.service'
 import { AuthDto, RegisterDto } from './dto/auth.dto'
 import { UserTokenDto } from './dto/user-token.dto'
-import { SettingsService } from 'src/settings/settings.service'
+import { SettingsService } from '../settings/settings.service'
 
 @Injectable()
 export class AuthService {
@@ -188,6 +188,40 @@ export class AuthService {
 			// domain: 'localhost',
 			sameSite: 'none',
 		})
+	}
+
+	async requestPasswordReset(email: string) {
+		const user = await this.userService.getByEmail(email)
+		if (!user) {
+			throw new BadRequestException('User not found')
+		}
+
+		const code = await this.codeService.generate(
+			user.userId,
+			CodeType.PASSWORD_RESET,
+		)
+		await this.mailService.send(
+			email,
+			code.code,
+			'Password Reset Request',
+			'Use this code to reset your password',
+		)
+
+		return { message: 'Password reset code sent to your email' }
+	}
+
+	async resetPassword(email: string, codeValue: string, newPassword: string) {
+		const code = await this.codeService.findValid(codeValue)
+
+		if (code.user.email !== email) {
+			throw new BadRequestException('Code does not match email')
+		}
+
+		const hashedPassword = await hash(newPassword)
+		await this.userService.updatePassword(code.userId, hashedPassword)
+		await this.codeService.use(code.codeId)
+
+		return { message: 'Password successfully updated' }
 	}
 
 	private async sendVerificationCode(user: User) {

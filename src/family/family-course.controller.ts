@@ -8,7 +8,7 @@ import {
 } from '@nestjs/swagger'
 import { Auth } from '../auth/decorators/auth.decorator'
 import { CurrentUser } from '../auth/decorators/user.decorator'
-import { IsParent } from 'src/auth/decorators/roles.decorator'
+import { IsParent } from '../auth/decorators/roles.decorator'
 import { FamilyCourseService } from './family-course.service'
 
 @ApiTags('Family - Courses')

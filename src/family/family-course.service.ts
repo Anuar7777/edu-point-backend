@@ -4,7 +4,7 @@ import {
 	NotFoundException,
 } from '@nestjs/common'
 import { Role } from '@prisma/client'
-import { PrismaService } from 'src/prisma.service'
+import { PrismaService } from '../prisma.service'
 import { FamilyService } from './family.service'
 
 @Injectable()

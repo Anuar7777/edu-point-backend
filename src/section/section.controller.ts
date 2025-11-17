@@ -2,7 +2,7 @@ import { Controller, Get, Param } from '@nestjs/common'
 import { Auth } from '../auth/decorators/auth.decorator'
 import { CurrentUser } from '../auth/decorators/user.decorator'
 import { SectionService } from './section.service'
-import { IsChild } from 'src/auth/decorators/roles.decorator'
+import { IsChild } from '../auth/decorators/roles.decorator'
 import {
 	ApiTags,
 	ApiBearerAuth,

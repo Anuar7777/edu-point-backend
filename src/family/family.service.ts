@@ -5,7 +5,7 @@ import {
 	NotFoundException,
 } from '@nestjs/common'
 import { CodeType, Role } from '@prisma/client'
-import { UserService } from 'src/user/user.service'
+import { UserService } from '../user/user.service'
 import { UserTokenDto } from '../auth/dto/user-token.dto'
 import { CodeService } from '../code/code.service'
 import { MailService } from '../mail/mail.service'

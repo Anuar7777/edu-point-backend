@@ -3,7 +3,7 @@ import {
 	Injectable,
 	NotFoundException,
 } from '@nestjs/common'
-import { PrismaService } from 'src/prisma.service'
+import { PrismaService } from '../prisma.service'
 import { Prisma, TestStatus } from '@prisma/client'
 import {
 	QuestionTemplatesWithPayload,
@@ -11,7 +11,7 @@ import {
 	TestAnswer,
 	TestQuestion,
 } from '../section/section.types'
-import { UserCourseService } from 'src/user/user-course.service'
+import { UserCourseService } from '../user/user-course.service'
 
 @Injectable()
 export class TestService {

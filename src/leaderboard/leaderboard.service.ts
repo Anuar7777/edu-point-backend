@@ -1,6 +1,6 @@
 import { Injectable, NotFoundException } from '@nestjs/common'
-import { FamilyService } from 'src/family/family.service'
-import { UserService } from 'src/user/user.service'
+import { FamilyService } from '../family/family.service'
+import { UserService } from '../user/user.service'
 
 @Injectable()
 export class LeaderboardService {

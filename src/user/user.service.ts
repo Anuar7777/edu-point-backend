@@ -49,6 +49,16 @@ export class UserService {
 		})
 	}
 
+	async updatePassword(userId: string, newPassword: string) {
+		const user = await this.prisma.user.update({
+			where: { userId },
+			data: { password: newPassword },
+		})
+
+		if (!user) throw new NotFoundException('User not found')
+		return user
+	}
+
 	async getProfile(userId: string) {
 		const user = await this.prisma.user.findUnique({
 			where: { userId },

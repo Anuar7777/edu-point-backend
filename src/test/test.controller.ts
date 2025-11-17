@@ -1,8 +1,8 @@
 import { Body, Controller, Get, HttpCode, Param, Put } from '@nestjs/common'
 import { TestService } from './test.service'
-import { Auth } from 'src/auth/decorators/auth.decorator'
-import { IsChild } from 'src/auth/decorators/roles.decorator'
-import { CurrentUser } from 'src/auth/decorators/user.decorator'
+import { Auth } from '../auth/decorators/auth.decorator'
+import { IsChild } from '../auth/decorators/roles.decorator'
+import { CurrentUser } from '../auth/decorators/user.decorator'
 import { TestResultsDto } from './test.dto'
 import {
 	ApiTags,

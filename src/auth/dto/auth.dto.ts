@@ -1,6 +1,13 @@
 import { ApiProperty } from '@nestjs/swagger'
 import { Language, Role } from '@prisma/client'
-import { IsEmail, IsEnum, IsString, Length, MinLength } from 'class-validator'
+import {
+	IsEmail,
+	IsEnum,
+	IsNotEmpty,
+	IsString,
+	Length,
+	MinLength,
+} from 'class-validator'
 
 export class AuthDto {
 	@ApiProperty({
@@ -60,4 +67,26 @@ export class VerifyCodeDto {
 	})
 	@IsEnum(Language, { message: 'Language must be EN, RU or KZ' })
 	language: Language
+}
+
+export class PasswordResetRequestDto {
+	@ApiProperty({ description: 'Email пользователя' })
+	@IsEmail()
+	email: string
+}
+
+export class PasswordResetConfirmDto {
+	@ApiProperty({ description: 'Email пользователя' })
+	@IsEmail()
+	email: string
+
+	@ApiProperty({ description: 'Код для подтверждения' })
+	@IsString()
+	@IsNotEmpty()
+	code: string
+
+	@ApiProperty({ description: 'Новый пароль', minLength: 6 })
+	@IsString()
+	@MinLength(6)
+	newPassword: string
 }

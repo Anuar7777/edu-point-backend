@@ -10,7 +10,13 @@ import {
 import { ApiBody, ApiOperation, ApiResponse, ApiTags } from '@nestjs/swagger'
 import { Request, Response } from 'express'
 import { AuthService } from './auth.service'
-import { AuthDto, RegisterDto, VerifyCodeDto } from './dto/auth.dto'
+import {
+	AuthDto,
+	PasswordResetConfirmDto,
+	PasswordResetRequestDto,
+	RegisterDto,
+	VerifyCodeDto,
+} from './dto/auth.dto'
 
 @ApiTags('Auth')
 @Controller('auth')
@@ -141,5 +147,23 @@ export class AuthController {
 	@ApiOperation({ summary: 'Logout and clear refresh token' })
 	async logout(@Res({ passthrough: true }) res: Response) {
 		return this.authService.removeRefreshTokenFromResponse(res)
+	}
+
+	@HttpCode(200)
+	@Post('password-reset/request')
+	@ApiOperation({ summary: 'Request password reset code via email' })
+	@ApiResponse({ status: 200, description: 'Password reset code sent' })
+	@ApiBody({ type: PasswordResetRequestDto })
+	async request(@Body() dto: PasswordResetRequestDto) {
+		return this.authService.requestPasswordReset(dto.email)
+	}
+
+	@HttpCode(200)
+	@Post('password-reset/confirm')
+	@ApiOperation({ summary: 'Reset password using code' })
+	@ApiResponse({ status: 200, description: 'Password successfully updated' })
+	@ApiBody({ type: PasswordResetConfirmDto })
+	async confirm(@Body() dto: PasswordResetConfirmDto) {
+		return this.authService.resetPassword(dto.email, dto.code, dto.newPassword)
 	}
 }

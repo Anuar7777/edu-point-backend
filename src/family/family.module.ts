@@ -1,6 +1,6 @@
 import { Module } from '@nestjs/common'
 import { ConfigModule } from '@nestjs/config'
-import { UserService } from 'src/user/user.service'
+import { UserService } from '../user/user.service'
 import { CodeService } from '../code/code.service'
 import { MailService } from '../mail/mail.service'
 import { PrismaService } from '../prisma.service'

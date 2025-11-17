@@ -10,9 +10,15 @@ export class SettingsService {
 	constructor(private prisma: PrismaService) {}
 
 	async get(userId: string) {
-		return this.prisma.settings.findUnique({
+		const settings = await this.prisma.settings.findUnique({
 			where: { userId },
 		})
+
+		if (!settings) {
+			throw new NotFoundException('Settings not found')
+		}
+
+		return settings
 	}
 
 	async create(userId: string, dto: UpdateBasicSettingsDto) {

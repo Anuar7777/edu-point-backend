@@ -12,6 +12,7 @@ import { join } from 'path'
 import { TestModule } from './test/test.module'
 import { SectionModule } from './section/section.module'
 import { LeaderboardModule } from './leaderboard/leaderboard.module';
+import { AchievementModule } from './achievement/achievement.module';
 
 @Module({
 	imports: [
@@ -34,6 +35,7 @@ import { LeaderboardModule } from './leaderboard/leaderboard.module';
 		TestModule,
 		SectionModule,
 		LeaderboardModule,
+		AchievementModule,
 	],
 })
 export class AppModule {}
