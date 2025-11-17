@@ -4,6 +4,7 @@ import { seedCourses } from './seed/courses'
 import { seedFamily } from './seed/families'
 import { seedLocations } from './seed/location'
 import { seedUsers } from './seed/users'
+import { seedAchievements } from './seed/achievement'
 
 const prisma = new PrismaClient()
 const logger = new Logger('seed')
@@ -13,6 +14,7 @@ async function main() {
 	await seedCourses()
 	await seedFamily()
 	await seedLocations()
+	await seedAchievements()
 
 	logger.log('All seeders have been executed successfully')
 }
