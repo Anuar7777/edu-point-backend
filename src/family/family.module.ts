@@ -17,6 +17,9 @@ import { FamilyApplicationService } from './family-application/family-applicatio
 import { FamilyAchievementController } from './famiily-achievement/family-achievement.controller'
 import { FamilyAchievementService } from './famiily-achievement/family-achievement.service'
 import { AchievementModule } from '../achievement/achievement.module'
+import { StatisticsService } from '../statistics/statistics.service'
+import { FamilyStatisticsController } from './family-statistics/family-statistics.controller'
+import { FamilyStatisticsService } from './family-statistics/family-statistics.service'
 
 @Module({
 	imports: [ConfigModule, AchievementModule],
@@ -26,6 +29,7 @@ import { AchievementModule } from '../achievement/achievement.module'
 		FamilySettingsController,
 		FamilyApplicationController,
 		FamilyAchievementController,
+		FamilyStatisticsController,
 	],
 	providers: [
 		FamilyService,
@@ -39,6 +43,8 @@ import { AchievementModule } from '../achievement/achievement.module'
 		ApplicationService,
 		FamilyApplicationService,
 		FamilyAchievementService,
+		StatisticsService,
+		FamilyStatisticsService,
 	],
 	exports: [FamilyService],
 })
