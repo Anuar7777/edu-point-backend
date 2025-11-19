@@ -10,18 +10,22 @@ import { FamilySettingsController } from './family-settings.controller'
 import { FamilyController } from './family.controller'
 import { FamilyService } from './family.service'
 import { FamilyCourseService } from './family-course/family-course.service'
-import { UserApplicationService } from 'src/user/user-application/user-appllication.service'
-import { ApplicationService } from 'src/application/application.service'
+import { UserApplicationService } from '../user/user-application/user-appllication.service'
+import { ApplicationService } from '../application/application.service'
 import { FamilyApplicationController } from './family-application/family-application.controller'
 import { FamilyApplicationService } from './family-application/family-application.service'
+import { FamilyAchievementController } from './famiily-achievement/family-achievement.controller'
+import { FamilyAchievementService } from './famiily-achievement/family-achievement.service'
+import { AchievementModule } from '../achievement/achievement.module'
 
 @Module({
-	imports: [ConfigModule],
+	imports: [ConfigModule, AchievementModule],
 	controllers: [
 		FamilyController,
 		FamilyCourseController,
 		FamilySettingsController,
 		FamilyApplicationController,
+		FamilyAchievementController,
 	],
 	providers: [
 		FamilyService,
@@ -34,6 +38,7 @@ import { FamilyApplicationService } from './family-application/family-applicatio
 		UserApplicationService,
 		ApplicationService,
 		FamilyApplicationService,
+		FamilyAchievementService,
 	],
 	exports: [FamilyService],
 })

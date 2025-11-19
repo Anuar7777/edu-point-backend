@@ -10,9 +10,21 @@ export class AchievementService {
 	}
 
 	async getUserAchievements(userId: string) {
-		return this.prisma.userAchievement.findMany({
-			where: { userId },
-			include: { achievements: true },
+		const achievements = await this.prisma.achievement.findMany({
+			include: {
+				UserAchievements: {
+					where: { userId },
+					select: { isAchieved: true },
+				},
+			},
+		})
+
+		return achievements.map(({ UserAchievements, ...achievement }) => {
+			const isAchieved = UserAchievements?.[0]?.isAchieved ?? false
+			return {
+				...achievement,
+				isAchieved,
+			}
 		})
 	}
 

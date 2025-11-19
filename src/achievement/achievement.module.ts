@@ -9,6 +9,6 @@ import { TestModule } from 'src/test/test.module'
 	imports: [TestModule],
 	controllers: [AchievementController],
 	providers: [AchievementService, AchievementCheckService, PrismaService],
-	exports: [AchievementCheckService],
+	exports: [AchievementCheckService, AchievementService],
 })
 export class AchievementModule {}
