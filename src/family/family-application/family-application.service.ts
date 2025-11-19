@@ -1,7 +1,7 @@
 import { Injectable, NotFoundException } from '@nestjs/common'
 import { FamilyService } from '../family.service'
-import { UserApplicationService } from 'src/user/user-application/user-appllication.service'
-import { Application } from '@prisma/client'
+import { UserApplicationService } from '../../user/user-application/user-appllication.service'
+import { UpdateApplicationStatusDto } from '../../application/application.dto'
 
 @Injectable()
 export class FamilyApplicationService {
@@ -26,7 +26,7 @@ export class FamilyApplicationService {
 	async updateChildApplications(
 		parentFamilyId: string,
 		childId: string,
-		data: Application[],
+		data: UpdateApplicationStatusDto[],
 	) {
 		const isChildInFamily = await this.familyService.isUserInFamily(
 			parentFamilyId,
@@ -37,6 +37,6 @@ export class FamilyApplicationService {
 			throw new NotFoundException('Child not found')
 		}
 
-		return this.userApplicationService.updateByUserId(childId, data)
+		return this.userApplicationService.updateBlockedStatus(childId, data)
 	}
 }

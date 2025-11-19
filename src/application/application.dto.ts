@@ -20,3 +20,17 @@ export class ApplicationDto {
 	})
 	iconPath?: string
 }
+
+export class UpdateApplicationStatusDto {
+	@ApiProperty({
+		example: 'com.instagram.android',
+		description: 'Unique package identifier of the application',
+	})
+	packageName: string
+
+	@ApiProperty({
+		example: true,
+		description: 'Application status',
+	})
+	isBlocked: true
+}

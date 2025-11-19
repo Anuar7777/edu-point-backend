@@ -11,8 +11,7 @@ import { Auth } from '../../auth/decorators/auth.decorator'
 import { CurrentUser } from '../../auth/decorators/user.decorator'
 import { IsParent } from '../../auth/decorators/roles.decorator'
 import { FamilyApplicationService } from './family-application.service'
-import { ApplicationDto } from '../../application/application.dto'
-import { Application } from '@prisma/client'
+import { UpdateApplicationStatusDto } from '../../application/application.dto'
 
 @ApiTags('Family - Applications')
 @ApiBearerAuth()
@@ -66,7 +65,7 @@ export class FamilyApplicationController {
 		description: 'The ID of the child whose applications are being updated',
 	})
 	@ApiBody({
-		type: [ApplicationDto],
+		type: [UpdateApplicationStatusDto],
 		description: 'List of applications to assign to the child',
 		examples: {
 			example1: {
@@ -74,13 +73,11 @@ export class FamilyApplicationController {
 				value: [
 					{
 						packageName: 'com.instagram.android',
-						appName: 'Instagram',
-						iconPath: '/icons/instagram.png',
+						isBlocked: false,
 					},
 					{
 						packageName: 'com.whatsapp',
-						appName: 'WhatsApp Messenger',
-						iconPath: '/icons/whatsapp.png',
+						isBlocked: true,
 					},
 				],
 			},
@@ -89,12 +86,12 @@ export class FamilyApplicationController {
 	async updateChildApplications(
 		@CurrentUser('family_id') familyId: string,
 		@Param('childId') childId: string,
-		@Body() applications: ApplicationDto[],
+		@Body() applications: UpdateApplicationStatusDto[],
 	) {
 		return this.familyApplicationService.updateChildApplications(
 			familyId,
 			childId,
-			applications as Application[],
+			applications,
 		)
 	}
 }
