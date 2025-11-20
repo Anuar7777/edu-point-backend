@@ -46,6 +46,8 @@ export class UserApplicationService {
 				})
 			}
 		})
+
+		return this.getByUserId(userId)
 	}
 
 	async updateBlockedStatus(

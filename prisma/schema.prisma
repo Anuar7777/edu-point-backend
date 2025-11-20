@@ -216,7 +216,7 @@ model Application {
 }
 
 model UserApplication {
-  isBlocked Boolean @default(false) @map("is_blocked")
+  isBlocked Boolean @default(true) @map("is_blocked")
 
   userId String @map("user_id")
   user   User   @relation(fields: [userId], references: [userId], onDelete: Cascade)
